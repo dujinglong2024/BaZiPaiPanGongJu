@@ -2,7 +2,13 @@
 
 杜净隆_作品。 从前的库我帐号无法登录了https://github.com/TVB-JINPAIJIANZHI/bazifuzugongju 
 新的库https://github.com/dujinglong2024/BaZiPaiPanGongJu
-使用Lunar库实现了万年历级别的天干地支查询https://github.com/6tail/lunar-csharp
+使用Lunar库实现了万年历
+级别的天干地支查询https://github.com/6tail/lunar-csharp
+
+
+
+![屏幕截图 2024-01-15 215853](https://github.com/dujinglong2024/BaZiPaiPanGongJu/assets/156676561/90aaa614-cc91-4285-ac6b-58d39ac2f8e0)
+
 
 学习八字预测不用死记硬背。不用担心没时间。只要懂五行生克就可以学会。
 
