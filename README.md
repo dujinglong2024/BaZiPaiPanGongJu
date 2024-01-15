@@ -1,3 +1,4 @@
+
 天干地支 排盘 八字 十神 神煞 五行 命理 算命 本软件为一个完整的C# .NET 8工程。当前版本v99
 
 杜净隆_作品。 从前的库我帐号无法登录了https://github.com/TVB-JINPAIJIANZHI/bazifuzugongju 
@@ -9,6 +10,10 @@
 
 
 ![屏幕截图 2024-01-15 215853](https://github.com/dujinglong2024/BaZiPaiPanGongJu/assets/156676561/90aaa614-cc91-4285-ac6b-58d39ac2f8e0)
+![屏幕截图 2024-01-15 221456](https://github.com/dujinglong2024/BaZiPaiPanGongJu/assets/156676561/ec817735-86ab-48c1-aeee-cb40958f5cf1)
+![屏幕截图 2024-01-15 221326](https://github.com/dujinglong2024/BaZiPaiPanGongJu/assets/156676561/0bb984ba-9243-42e6-b698-2cd63fcf0833)
+
+
 
 
 学习八字预测不用死记硬背。不用担心没时间。只要懂五行生克就可以学会。
