@@ -16,3 +16,16 @@ D:\BaZiFuZuGongJu\obj\Debug\net8.0-windows10.0.22621.0\refint\BaZiFuZuGongJu.dll
 D:\BaZiFuZuGongJu\obj\Debug\net8.0-windows10.0.22621.0\BaZiFuZuGongJu.pdb
 D:\BaZiFuZuGongJu\obj\Debug\net8.0-windows10.0.22621.0\BaZiFuZuGongJu.genruntimeconfig.cache
 D:\BaZiFuZuGongJu\obj\Debug\net8.0-windows10.0.22621.0\ref\BaZiFuZuGongJu.dll
+H:\File\BaZiFuZuGongJu\obj\Debug\net8.0-windows10.0.22621.0\BaZiFuZuGongJu.csproj.AssemblyReference.cache
+H:\File\BaZiFuZuGongJu\obj\Debug\net8.0-windows10.0.22621.0\BaZiFuZuGongJu.Form1.resources
+H:\File\BaZiFuZuGongJu\obj\Debug\net8.0-windows10.0.22621.0\BaZiFuZuGongJu.csproj.GenerateResource.cache
+H:\File\BaZiFuZuGongJu\obj\Debug\net8.0-windows10.0.22621.0\BaZiFuZuGongJu.GeneratedMSBuildEditorConfig.editorconfig
+H:\File\BaZiFuZuGongJu\obj\Debug\net8.0-windows10.0.22621.0\BaZiFuZuGongJu.AssemblyInfoInputs.cache
+H:\File\BaZiFuZuGongJu\obj\Debug\net8.0-windows10.0.22621.0\BaZiFuZuGongJu.AssemblyInfo.cs
+H:\File\BaZiFuZuGongJu\obj\Debug\net8.0-windows10.0.22621.0\BaZiFuZuGongJu.csproj.CoreCompileInputs.cache
+H:\File\BaZiFuZuGongJu\obj\Debug\net8.0-windows10.0.22621.0\BaZiFuZuGongJu.csproj.CopyComplete
+H:\File\BaZiFuZuGongJu\obj\Debug\net8.0-windows10.0.22621.0\BaZiFuZuGongJu.dll
+H:\File\BaZiFuZuGongJu\obj\Debug\net8.0-windows10.0.22621.0\refint\BaZiFuZuGongJu.dll
+H:\File\BaZiFuZuGongJu\obj\Debug\net8.0-windows10.0.22621.0\BaZiFuZuGongJu.pdb
+H:\File\BaZiFuZuGongJu\obj\Debug\net8.0-windows10.0.22621.0\BaZiFuZuGongJu.genruntimeconfig.cache
+H:\File\BaZiFuZuGongJu\obj\Debug\net8.0-windows10.0.22621.0\ref\BaZiFuZuGongJu.dll
