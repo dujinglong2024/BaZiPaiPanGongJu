@@ -1,9 +1,10 @@
 天干地支 排盘 八字 十神 神煞 五行 命理 算命 本软件为一个完整的C# .NET 8工程。当前版本v99
 
 杜净隆_作品。 从前的库我帐号无法登录了https://github.com/TVB-JINPAIJIANZHI/bazifuzugongju 
+
 新的库https://github.com/dujinglong2024/BaZiPaiPanGongJu
-使用Lunar库实现了万年历
-级别的天干地支查询https://github.com/6tail/lunar-csharp
+
+使用Lunar库实现了万年历级别的天干地支查询  https://github.com/6tail/lunar-csharp
 
 
 
