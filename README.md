@@ -7,6 +7,8 @@
 
 使用Lunar库实现了万年历级别的天干地支查询  https://github.com/6tail/lunar-csharp
 
+已知问题：只能在1920X1080分辨率下正常显示。
+
 
 
 ![屏幕截图 2024-01-15 215853](https://github.com/dujinglong2024/BaZiPaiPanGongJu/assets/156676561/90aaa614-cc91-4285-ac6b-58d39ac2f8e0)
