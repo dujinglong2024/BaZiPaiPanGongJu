@@ -196,6 +196,12 @@ namespace BaZiFuZuGongJu
         int rdztongzi = 0; int sdztongzi = 0;
         //命局评分
         string mingjiupingfen = "";
+        //大运十二长生
+        string 起大运 = "什么是大运?\r\n\r\n大运是八字预测的术语，大运是以十年为一个周期来推断一个人运势的吉凶祸福，有一句老话是这样说的：“十年河东，十年河西”,此话就是从八字算命得来的。用此话来形容人生的起伏不定，一个人何时能走好运，何时会走败运，测出之后以达到应对趋吉避凶的目的。当预知一个人财运官运亨通之时，可以放手一搏，顺风顺水，虽有曲折，但终会功成名就。当预知一个人会遭遇坎坷灾祸时，可韬光养晦，趋利避害，耐心等待时机的来临。\r\n\r\n排大运的方法：主要是看八字的年柱和月柱来排大运，看年柱的天干来确定出生这一年的阴阳，然后以月柱的天干地支起头排出来。\r\n\r\n大运排法：\r\n\r\n1、首先看年柱天干的五行是阴还是阳，看八字的年干为阳的男命、年干为阴的女命大运顺排；年干为阴的男命、年干为阳的女命逆排，在确定了顺排还是逆排的方式后，我们再看月柱，大运是以四柱中的月柱为起点来排定的。\r\n\r\n举个例子：庚戌年、己卯月、甲子日、辛亥时生，如果是男命，年干庚金在五行中是阳，为阳年生男，大运顺排，那么再以月柱己卯为起点开始顺排，月柱天干是己，在五行排列中“己”的下一个是庚，那么大运的第一个天干就是庚，月柱的地支是卯，地支“卯”的下一个五行是辰，那么大运第一个地支是辰，组合在一起就是庚辰，然后安着这个顺序继续往下排—庚辰后面是：辛已，壬午，癸未，甲申，乙酉，丙戌，丁亥，通常排八步大运，也可以继续排下去，如果寿命足够长的话。\r\n\r\n如果庚戌年、已卯月、甲子日、辛亥时，这个八字是女性的，看年柱庚为阳年生女，阳年生女逆排，也是以月柱为起点，月干“”以五行的顺序逆排(已土的上一个五行)是戊，地支卯在五行中逆排(就是倒过来排)是寅，一直这样逆排下去，其大运为：戊寅，丁丑丙子，乙亥甲戌，癸酉，壬申，辛未，也是排八步大运。\r\n\r\n说明：排大运是看八字的年干、月柱来推算，不需要看日柱、时柱。\r\n\r\n2、大运起好了，那么从什么时候开始行运呢?这里有一个公式，大运数的起法，1、以出生日那天开始计算，(阳年男阴年女)顺数到下一个节气的日子的天数，(阴年男阳年女)从出生那天逆数到上一个节气日子的天数，把天数记下来。2、起运数：用刚才计算得出的天数，以三天折合一岁计算，就是除以三，等于几就是几岁，余下的天数以一天折合四个月来计算，。例如：起运总数为18天，被3除，等于6,即为6岁起大运。如为19天，则为6岁4个月起大运。\r\n\r\n需要注意的是：起运天数的计算，是以出生之日顺数或逆数碰到临近的如下节气：立春、惊蛰、清明、立夏、芒种、小暑、立秋、白露、寒露、立冬、大雪、小寒为准。\r\n\r\n命局、大运、流年三者之间的作用关系：\r\n\r\n1、八字命局为目标。\r\n\r\n2、大运决定十年运气好坏。\r\n\r\n3、流年可以直接影响八字命局，决定一年的好坏。\r\n\r\n4、大运干支间不看相互作用关系，流年干支间不看相互作用关系。\r\n\r\n5、命局、大运、流年的作用，是天干作用天干，地支作用地支，天干地支间不相互作用。\r\n\r\n6、大运天干作用命局天干，大运地支作用命局地支，决定了这十年大运的总体好坏情况。7、流年与大运首先发生作用，流年天干作用大运天干，流年地支作用大运地支，其作用结果再作用于八字命局。同时也要看流年直接作用命局的情况，要综合判断。\r\n\r\n8、大运流年不发生合、冲、刑、害关系时，大运流年分别作用与八字命局。\r\n\r\n从上面的查看方法可以看出，八字命局是内在因素，流年、大运是外面的因素，查看外围因素对八字的影响是好还是不好，就像一个人是能获得别人的帮助扶持，还是会遭到暗算打击，这就是外因，是运气了。\r\n\r\n需要注意的是，查看大运流年对命局的影响，不能像分析八字命局那样，看天干地支间发生的关系，只能天干与天干发生关系，地支与地支发生关系，大运、流年的地支再有力量，也不能作用命局的天干，大运、流年的天千再有力量，也不能去作用命局的地支。\r\n\r\n古人说，“命局没有好运，不能自达”说明运气的  重要，还说，“好命不如好运，好运不如好年。”说明  流年对八字的影响最重要也最明显，所以看运势，测流年最重要。\r\n\r\n八字命局决定了一个人先天素质的高低，起决定性作用，命贵，还是命贱；流年大运是外因，来影响命局，就是运气好坏，命贵的人也会有灾难，比如高官落马，命贱的人也会遇到好运，比如发财娶美妻。\r\n\r\n在命局、大运、流年的关系当中，要认清这样一个层次，八字命局是本人，大运是管理命局的，流年则是最高长官。所以，通常也把流年称为太岁，岁君，就是皇帝，所以太岁不可冒犯，自古有“冲犯太岁起祸端”的说法。\r\n\r\n在民间预测实际运用当中，很少使用排大运，尤其是盲派，虽然排大运并不复杂，民间更注重流年运势的影响。\r\n\r\n十二长生大运诀\r\n\r\n1、长生：这步大运走长生，好比太阳又东升，乌云散去多晴朗，花红柳绿草生情，蛟龙出海常快乐，猛虎得食在山峰，凤凰落在梧桐树，官印逐喜得长生。\r\n2、沐浴：运交沐浴不一般，如同过河又蹬山，过河走的泥洼地，蹬山道路弯又弯，七上八下受癫痫，安安稳稳没几年，心似乱麻如蒿草，总想游春在外边。\r\n3、冠带：运交冠带主吉祥，一年到比一年强，久埋珍珠出了土，多年百宝放了光，平地一声春雷响，五湖四海把名扬。\r\n4、帝旺：运交帝旺运最红，就象大海一条龙，今朝得势时运转，一步蹬高上天庭，这步运气真是好，就是泥鳅也成龙。\r\n5、衰：运交衰字不顺通，就象老虎掉进坑，天月二德能解救，天乙贵人也化凶，十年之内不可小，马虎大意可不行。\r\n6、病：要走病地时不来，生病伤财又有灾，若有吉星能解救，逢凶化吉结了灾，到时好好交交运，转危为安能解开。\r\n7、死绝：运交死绝不吉祥，卦中注意有伤亡，高堂二老不下世，本身一定也不强，车前马后要注意，克妻害子范刑伤。\r\n8、墓：运交墓字不太强，就象半阴和半阳，一半好来一半坏，一半热来一半冷，运去黄金变了色，运了废铁也增光。\r\n9、胎养、运交胎养最吉祥，一年到比一年强，家里有了摇钱树，聚宝盆里放了光，梧桐树下栓金马，上边飞来金凤凰\r\n";
+        string dy10 = ""; string dy20 = ""; string dy30 = ""; string dy40 = ""; string dy50 = ""; string dy60 = "";
+        string dy70 = ""; string dy80 = ""; string dy90 = ""; string dy100 = ""; string dy110 = ""; string dy120 = "";
+        string changsheng = "长生"; string muyu = "沐浴"; string guandai = "冠带"; string linguan = "临官"; string diwang = "帝旺"; string shuai = "衰";
+        string bingg = "病"; string ssii = "死"; string mmuu = "墓"; string jue = "绝"; string tai = "胎"; string yang = "养";
 
 
 
@@ -1169,6 +1175,7626 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
+                }
+                //大运十二长生
+                if (jia == jia)
+                {
+                    if (radioButtonll.Checked)
+                    {
+                        if (ntg == jia || ntg == wuu || ntg == ren || ntg == bing || ntg == geng)
+                        {
+                            if (ydz == yin)
+                            {
+                                dy10 = mao;
+                                dy20 = chen;
+                                dy30 = sii;
+                                dy40 = wuma;
+                                dy50 = wei;
+                                dy60 = shen;
+                                dy70 = you;
+                                dy80 = xuu;
+                                dy90 = hai;
+                                dy100 = zii;
+                                dy110 = chou;
+                                dy120 = yin;
+
+                            }
+                            if (ydz == mao)
+                            {
+                                dy10 = chen;
+                                dy20 = sii;
+                                dy30 = wuma;
+                                dy40 = wei;
+                                dy50 = shen;
+                                dy60 = you;
+                                dy70 = xuu;
+                                dy80 = hai;
+                                dy90 = zii;
+                                dy100 = chou;
+                                dy110 = yin;
+                                dy120 = mao;
+
+                            }
+                            if (ydz == chen)
+                            {
+                                dy10 = sii;
+                                dy20 = wuma;
+                                dy30 = wei;
+                                dy40 = shen;
+                                dy50 = you;
+                                dy60 = xuu;
+                                dy70 = hai;
+                                dy80 = zii;
+                                dy90 = chou;
+                                dy100 = yin;
+                                dy110 = mao;
+                                dy120 = chen;
+
+                            }
+                            if (ydz == sii)
+                            {
+                                dy10 = wuma;
+                                dy20 = wei;
+                                dy30 = shen;
+                                dy40 = you;
+                                dy50 = xuu;
+                                dy60 = hai;
+                                dy70 = zii;
+                                dy80 = chou;
+                                dy90 = yin;
+                                dy100 = mao;
+                                dy110 = chen;
+                                dy120 = sii;
+
+                            }
+                            if (ydz == wuma)
+                            {
+                                dy10 = wei;
+                                dy20 = shen;
+                                dy30 = you;
+                                dy40 = xuu;
+                                dy50 = hai;
+                                dy60 = zii;
+                                dy70 = chou;
+                                dy80 = yin;
+                                dy90 = mao;
+                                dy100 = chen;
+                                dy110 = sii;
+                                dy120 = wuma;
+
+                            }
+                            if (ydz == wei)
+                            {
+                                dy10 = shen;
+                                dy20 = you;
+                                dy30 = xuu;
+                                dy40 = hai;
+                                dy50 = zii;
+                                dy60 = chou;
+                                dy70 = yin;
+                                dy80 = mao;
+                                dy90 = chen;
+                                dy100 = sii;
+                                dy110 = wuma;
+                                dy120 = wei;
+
+                            }
+                            if (ydz == shen)
+                            {
+                                dy10 = you;
+                                dy20 = xuu;
+                                dy30 = hai;
+                                dy40 = zii;
+                                dy50 = chou;
+                                dy60 = yin;
+                                dy70 = mao;
+                                dy80 = chen;
+                                dy90 = sii;
+                                dy100 = wuma;
+                                dy110 = wei;
+                                dy120 = shen;
+
+                            }
+                            if (ydz == you)
+                            {
+                                dy10 = xuu;
+                                dy20 = hai;
+                                dy30 = zii;
+                                dy40 = chou;
+                                dy50 = yin;
+                                dy60 = mao;
+                                dy70 = chen;
+                                dy80 = sii;
+                                dy90 = wuma;
+                                dy100 = wei;
+                                dy110 = shen;
+                                dy120 = you;
+
+                            }
+                            if (ydz == xuu)
+                            {
+                                dy10 = hai;
+                                dy20 = zii;
+                                dy30 = chou;
+                                dy40 = yin;
+                                dy50 = mao;
+                                dy60 = chen;
+                                dy70 = sii;
+                                dy80 = wuma;
+                                dy90 = wei;
+                                dy100 = shen;
+                                dy110 = you;
+                                dy120 = xuu;
+
+                            }
+                            if (ydz == hai)
+                            {
+                                dy10 = zii;
+                                dy20 = chou;
+                                dy30 = yin;
+                                dy40 = mao;
+                                dy50 = chen;
+                                dy60 = sii;
+                                dy70 = wuma;
+                                dy80 = wei;
+                                dy90 = shen;
+                                dy100 = you;
+                                dy110 = xuu;
+                                dy120 = hai;
+
+                            }
+                            if (ydz == zii)
+                            {
+                                dy10 = chou;
+                                dy20 = yin;
+                                dy30 = mao;
+                                dy40 = chen;
+                                dy50 = sii;
+                                dy60 = wuma;
+                                dy70 = wei;
+                                dy80 = shen;
+                                dy90 = you;
+                                dy100 = xuu;
+                                dy110 = hai;
+                                dy120 = zii;
+
+                            }
+                            if (ydz == chou)
+                            {
+                                dy10 = yin;
+                                dy20 = mao;
+                                dy30 = chen;
+                                dy40 = sii;
+                                dy50 = wuma;
+                                dy60 = wei;
+                                dy70 = shen;
+                                dy80 = you;
+                                dy90 = xuu;
+                                dy100 = hai;
+                                dy110 = zii;
+                                dy120 = chou;
+
+                            }
+
+                        }
+                        if (ntg == yii || ntg == jii || ntg == gui || ntg == ding || ntg == xin)
+                        {
+                            if (ydz == yin)
+                            {
+                                dy10 = chou;
+                                dy20 = zii;
+                                dy30 = hai;
+                                dy40 = xuu;
+                                dy50 = you;
+                                dy60 = shen;
+                                dy70 = wei;
+                                dy80 = wuma;
+                                dy90 = sii;
+                                dy100 = chen;
+                                dy110 = mao;
+                                dy120 = yin;
+
+                            }
+                            if (ydz == mao)
+                            {
+                                dy10 = yin;
+                                dy20 = chou;
+                                dy30 = zii;
+                                dy40 = hai;
+                                dy50 = xuu;
+                                dy60 = you;
+                                dy70 = shen;
+                                dy80 = wei;
+                                dy90 = wuma;
+                                dy100 = sii;
+                                dy110 = chen;
+                                dy120 = mao;
+
+                            }
+                            if (ydz == chen)
+                            {
+                                dy10 = mao;
+                                dy20 = yin;
+                                dy30 = chou;
+                                dy40 = zii;
+                                dy50 = hai;
+                                dy60 = xuu;
+                                dy70 = you;
+                                dy80 = shen;
+                                dy90 = wei;
+                                dy100 = wuma;
+                                dy110 = sii;
+                                dy120 = chen;
+
+                            }
+                            if (ydz == sii)
+                            {
+                                dy10 = chen;
+                                dy20 = mao;
+                                dy30 = yin;
+                                dy40 = chou;
+                                dy50 = zii;
+                                dy60 = hai;
+                                dy70 = xuu;
+                                dy80 = you;
+                                dy90 = shen;
+                                dy100 = wei;
+                                dy110 = wuma;
+                                dy120 = sii;
+
+                            }
+                            if (ydz == wuma)
+                            {
+                                dy10 = sii;
+                                dy20 = chen;
+                                dy30 = mao;
+                                dy40 = yin;
+                                dy50 = chou;
+                                dy60 = zii;
+                                dy70 = hai;
+                                dy80 = xuu;
+                                dy90 = you;
+                                dy100 = shen;
+                                dy110 = wei;
+                                dy120 = wuma;
+
+                            }
+                            if (ydz == wei)
+                            {
+                                dy10 = wuma;
+                                dy20 = sii;
+                                dy30 = chen;
+                                dy40 = mao;
+                                dy50 = yin;
+                                dy60 = chou;
+                                dy70 = zii;
+                                dy80 = hai;
+                                dy90 = xuu;
+                                dy100 = you;
+                                dy110 = shen;
+                                dy120 = wei;
+
+                            }
+                            if (ydz == shen)
+                            {
+                                dy10 = wei;
+                                dy20 = wuma;
+                                dy30 = sii;
+                                dy40 = chen;
+                                dy50 = mao;
+                                dy60 = yin;
+                                dy70 = chou;
+                                dy80 = zii;
+                                dy90 = hai;
+                                dy100 = xuu;
+                                dy110 = you;
+                                dy120 = shen;
+
+                            }
+                            if (ydz == you)
+                            {
+                                dy10 = shen;
+                                dy20 = wei;
+                                dy30 = wuma;
+                                dy40 = sii;
+                                dy50 = chen;
+                                dy60 = mao;
+                                dy70 = yin;
+                                dy80 = chou;
+                                dy90 = zii;
+                                dy100 = hai;
+                                dy110 = xuu;
+                                dy120 = you;
+
+                            }
+                            if (ydz == xuu)
+                            {
+                                dy10 = you;
+                                dy20 = shen;
+                                dy30 = wei;
+                                dy40 = wuma;
+                                dy50 = sii;
+                                dy60 = chen;
+                                dy70 = mao;
+                                dy80 = yin;
+                                dy90 = chou;
+                                dy100 = zii;
+                                dy110 = hai;
+                                dy120 = xuu;
+
+                            }
+                            if (ydz == hai)
+                            {
+                                dy10 = xuu;
+                                dy20 = you;
+                                dy30 = shen;
+                                dy40 = wei;
+                                dy50 = wuma;
+                                dy60 = sii;
+                                dy70 = chen;
+                                dy80 = mao;
+                                dy90 = yin;
+                                dy100 = chou;
+                                dy110 = zii;
+                                dy120 = hai;
+
+                            }
+                            if (ydz == zii)
+                            {
+                                dy10 = hai;
+                                dy20 = xuu;
+                                dy30 = you;
+                                dy40 = shen;
+                                dy50 = wei;
+                                dy60 = wuma;
+                                dy70 = sii;
+                                dy80 = chen;
+                                dy90 = mao;
+                                dy100 = yin;
+                                dy110 = chou;
+                                dy120 = zii;
+
+                            }
+                            if (ydz == chou)
+                            {
+                                dy10 = zii;
+                                dy20 = hai;
+                                dy30 = xuu;
+                                dy40 = you;
+                                dy50 = shen;
+                                dy60 = wei;
+                                dy70 = wuma;
+                                dy80 = sii;
+                                dy90 = chen;
+                                dy100 = mao;
+                                dy110 = yin;
+                                dy120 = chou;
+
+                            }
+
+                        }
+                    }
+                    if (radioButtonvv.Checked)
+                    {
+                        if (ntg == yii || ntg == jii || ntg == gui || ntg == ding || ntg == xin)
+                        {
+                            if (ydz == yin)
+                            {
+                                dy10 = mao;
+                                dy20 = chen;
+                                dy30 = sii;
+                                dy40 = wuma;
+                                dy50 = wei;
+                                dy60 = shen;
+                                dy70 = you;
+                                dy80 = xuu;
+                                dy90 = hai;
+                                dy100 = zii;
+                                dy110 = chou;
+                                dy120 = yin;
+
+                            }
+                            if (ydz == mao)
+                            {
+                                dy10 = chen;
+                                dy20 = sii;
+                                dy30 = wuma;
+                                dy40 = wei;
+                                dy50 = shen;
+                                dy60 = you;
+                                dy70 = xuu;
+                                dy80 = hai;
+                                dy90 = zii;
+                                dy100 = chou;
+                                dy110 = yin;
+                                dy120 = mao;
+
+                            }
+                            if (ydz == chen)
+                            {
+                                dy10 = sii;
+                                dy20 = wuma;
+                                dy30 = wei;
+                                dy40 = shen;
+                                dy50 = you;
+                                dy60 = xuu;
+                                dy70 = hai;
+                                dy80 = zii;
+                                dy90 = chou;
+                                dy100 = yin;
+                                dy110 = mao;
+                                dy120 = chen;
+
+                            }
+                            if (ydz == sii)
+                            {
+                                dy10 = wuma;
+                                dy20 = wei;
+                                dy30 = shen;
+                                dy40 = you;
+                                dy50 = xuu;
+                                dy60 = hai;
+                                dy70 = zii;
+                                dy80 = chou;
+                                dy90 = yin;
+                                dy100 = mao;
+                                dy110 = chen;
+                                dy120 = sii;
+
+                            }
+                            if (ydz == wuma)
+                            {
+                                dy10 = wei;
+                                dy20 = shen;
+                                dy30 = you;
+                                dy40 = xuu;
+                                dy50 = hai;
+                                dy60 = zii;
+                                dy70 = chou;
+                                dy80 = yin;
+                                dy90 = mao;
+                                dy100 = chen;
+                                dy110 = sii;
+                                dy120 = wuma;
+
+                            }
+                            if (ydz == wei)
+                            {
+                                dy10 = shen;
+                                dy20 = you;
+                                dy30 = xuu;
+                                dy40 = hai;
+                                dy50 = zii;
+                                dy60 = chou;
+                                dy70 = yin;
+                                dy80 = mao;
+                                dy90 = chen;
+                                dy100 = sii;
+                                dy110 = wuma;
+                                dy120 = wei;
+
+                            }
+                            if (ydz == shen)
+                            {
+                                dy10 = you;
+                                dy20 = xuu;
+                                dy30 = hai;
+                                dy40 = zii;
+                                dy50 = chou;
+                                dy60 = yin;
+                                dy70 = mao;
+                                dy80 = chen;
+                                dy90 = sii;
+                                dy100 = wuma;
+                                dy110 = wei;
+                                dy120 = shen;
+
+                            }
+                            if (ydz == you)
+                            {
+                                dy10 = xuu;
+                                dy20 = hai;
+                                dy30 = zii;
+                                dy40 = chou;
+                                dy50 = yin;
+                                dy60 = mao;
+                                dy70 = chen;
+                                dy80 = sii;
+                                dy90 = wuma;
+                                dy100 = wei;
+                                dy110 = shen;
+                                dy120 = you;
+
+                            }
+                            if (ydz == xuu)
+                            {
+                                dy10 = hai;
+                                dy20 = zii;
+                                dy30 = chou;
+                                dy40 = yin;
+                                dy50 = mao;
+                                dy60 = chen;
+                                dy70 = sii;
+                                dy80 = wuma;
+                                dy90 = wei;
+                                dy100 = shen;
+                                dy110 = you;
+                                dy120 = xuu;
+
+                            }
+                            if (ydz == hai)
+                            {
+                                dy10 = zii;
+                                dy20 = chou;
+                                dy30 = yin;
+                                dy40 = mao;
+                                dy50 = chen;
+                                dy60 = sii;
+                                dy70 = wuma;
+                                dy80 = wei;
+                                dy90 = shen;
+                                dy100 = you;
+                                dy110 = xuu;
+                                dy120 = hai;
+
+                            }
+                            if (ydz == zii)
+                            {
+                                dy10 = chou;
+                                dy20 = yin;
+                                dy30 = mao;
+                                dy40 = chen;
+                                dy50 = sii;
+                                dy60 = wuma;
+                                dy70 = wei;
+                                dy80 = shen;
+                                dy90 = you;
+                                dy100 = xuu;
+                                dy110 = hai;
+                                dy120 = zii;
+
+                            }
+                            if (ydz == chou)
+                            {
+                                dy10 = yin;
+                                dy20 = mao;
+                                dy30 = chen;
+                                dy40 = sii;
+                                dy50 = wuma;
+                                dy60 = wei;
+                                dy70 = shen;
+                                dy80 = you;
+                                dy90 = xuu;
+                                dy100 = hai;
+                                dy110 = zii;
+                                dy120 = chou;
+
+                            }
+
+                        }
+                        if (ntg == jia || ntg == wuu || ntg == ren || ntg == bing || ntg == geng)
+                        {
+                            if (ydz == yin)
+                            {
+                                dy10 = chou;
+                                dy20 = zii;
+                                dy30 = hai;
+                                dy40 = xuu;
+                                dy50 = you;
+                                dy60 = shen;
+                                dy70 = wei;
+                                dy80 = wuma;
+                                dy90 = sii;
+                                dy100 = chen;
+                                dy110 = mao;
+                                dy120 = yin;
+
+                            }
+                            if (ydz == mao)
+                            {
+                                dy10 = yin;
+                                dy20 = chou;
+                                dy30 = zii;
+                                dy40 = hai;
+                                dy50 = xuu;
+                                dy60 = you;
+                                dy70 = shen;
+                                dy80 = wei;
+                                dy90 = wuma;
+                                dy100 = sii;
+                                dy110 = chen;
+                                dy120 = mao;
+
+                            }
+                            if (ydz == chen)
+                            {
+                                dy10 = mao;
+                                dy20 = yin;
+                                dy30 = chou;
+                                dy40 = zii;
+                                dy50 = hai;
+                                dy60 = xuu;
+                                dy70 = you;
+                                dy80 = shen;
+                                dy90 = wei;
+                                dy100 = wuma;
+                                dy110 = sii;
+                                dy120 = chen;
+
+                            }
+                            if (ydz == sii)
+                            {
+                                dy10 = chen;
+                                dy20 = mao;
+                                dy30 = yin;
+                                dy40 = chou;
+                                dy50 = zii;
+                                dy60 = hai;
+                                dy70 = xuu;
+                                dy80 = you;
+                                dy90 = shen;
+                                dy100 = wei;
+                                dy110 = wuma;
+                                dy120 = sii;
+
+                            }
+                            if (ydz == wuma)
+                            {
+                                dy10 = sii;
+                                dy20 = chen;
+                                dy30 = mao;
+                                dy40 = yin;
+                                dy50 = chou;
+                                dy60 = zii;
+                                dy70 = hai;
+                                dy80 = xuu;
+                                dy90 = you;
+                                dy100 = shen;
+                                dy110 = wei;
+                                dy120 = wuma;
+
+                            }
+                            if (ydz == wei)
+                            {
+                                dy10 = wuma;
+                                dy20 = sii;
+                                dy30 = chen;
+                                dy40 = mao;
+                                dy50 = yin;
+                                dy60 = chou;
+                                dy70 = zii;
+                                dy80 = hai;
+                                dy90 = xuu;
+                                dy100 = you;
+                                dy110 = shen;
+                                dy120 = wei;
+
+                            }
+                            if (ydz == shen)
+                            {
+                                dy10 = wei;
+                                dy20 = wuma;
+                                dy30 = sii;
+                                dy40 = chen;
+                                dy50 = mao;
+                                dy60 = yin;
+                                dy70 = chou;
+                                dy80 = zii;
+                                dy90 = hai;
+                                dy100 = xuu;
+                                dy110 = you;
+                                dy120 = shen;
+
+                            }
+                            if (ydz == you)
+                            {
+                                dy10 = shen;
+                                dy20 = wei;
+                                dy30 = wuma;
+                                dy40 = sii;
+                                dy50 = chen;
+                                dy60 = mao;
+                                dy70 = yin;
+                                dy80 = chou;
+                                dy90 = zii;
+                                dy100 = hai;
+                                dy110 = xuu;
+                                dy120 = you;
+
+                            }
+                            if (ydz == xuu)
+                            {
+                                dy10 = you;
+                                dy20 = shen;
+                                dy30 = wei;
+                                dy40 = wuma;
+                                dy50 = sii;
+                                dy60 = chen;
+                                dy70 = mao;
+                                dy80 = yin;
+                                dy90 = chou;
+                                dy100 = zii;
+                                dy110 = hai;
+                                dy120 = xuu;
+
+                            }
+                            if (ydz == hai)
+                            {
+                                dy10 = xuu;
+                                dy20 = you;
+                                dy30 = shen;
+                                dy40 = wei;
+                                dy50 = wuma;
+                                dy60 = sii;
+                                dy70 = chen;
+                                dy80 = mao;
+                                dy90 = yin;
+                                dy100 = chou;
+                                dy110 = zii;
+                                dy120 = hai;
+
+                            }
+                            if (ydz == zii)
+                            {
+                                dy10 = hai;
+                                dy20 = xuu;
+                                dy30 = you;
+                                dy40 = shen;
+                                dy50 = wei;
+                                dy60 = wuma;
+                                dy70 = sii;
+                                dy80 = chen;
+                                dy90 = mao;
+                                dy100 = yin;
+                                dy110 = chou;
+                                dy120 = zii;
+
+                            }
+                            if (ydz == chou)
+                            {
+                                dy10 = zii;
+                                dy20 = hai;
+                                dy30 = xuu;
+                                dy40 = you;
+                                dy50 = shen;
+                                dy60 = wei;
+                                dy70 = wuma;
+                                dy80 = sii;
+                                dy90 = chen;
+                                dy100 = mao;
+                                dy110 = yin;
+                                dy120 = chou;
+
+                            }
+
+                        }
+                    }
+                    if (jia == jia)
+                    {
+
+                        if (rtg == bing)
+                        {
+                            if (dy10 == yin)
+                            {
+                                buttoncs1.Text = changsheng;
+                            }
+                            if (dy10 == mao)
+                            {
+                                buttoncs1.Text = muyu;
+                            }
+                            if (dy10 == chen)
+                            {
+                                buttoncs1.Text = guandai;
+                            }
+                            if (dy10 == sii)
+                            {
+                                buttoncs1.Text = linguan;
+                            }
+                            if (dy10 == wuma)
+                            {
+                                buttoncs1.Text = diwang;
+                            }
+                            if (dy10 == wei)
+                            {
+                                buttoncs1.Text = shuai;
+                            }
+                            if (dy10 == shen)
+                            {
+                                buttoncs1.Text = bingg;
+                            }
+                            if (dy10 == you)
+                            {
+                                buttoncs1.Text = ssii;
+                            }
+                            if (dy10 == xuu)
+                            {
+                                buttoncs1.Text = mmuu;
+                            }
+                            if (dy10 == hai)
+                            {
+                                buttoncs1.Text = jue;
+                            }
+                            if (dy10 == zii)
+                            {
+                                buttoncs1.Text = tai;
+                            }
+                            if (dy10 == chou)
+                            {
+                                buttoncs1.Text = yang;
+                            }
+
+                        }
+                        if (rtg == wuu)
+                        {
+                            if (dy10 == yin)
+                            {
+                                buttoncs1.Text = changsheng;
+                            }
+                            if (dy10 == mao)
+                            {
+                                buttoncs1.Text = muyu;
+                            }
+                            if (dy10 == chen)
+                            {
+                                buttoncs1.Text = guandai;
+                            }
+                            if (dy10 == sii)
+                            {
+                                buttoncs1.Text = linguan;
+                            }
+                            if (dy10 == wuma)
+                            {
+                                buttoncs1.Text = diwang;
+                            }
+                            if (dy10 == wei)
+                            {
+                                buttoncs1.Text = shuai;
+                            }
+                            if (dy10 == shen)
+                            {
+                                buttoncs1.Text = bingg;
+                            }
+                            if (dy10 == you)
+                            {
+                                buttoncs1.Text = ssii;
+                            }
+                            if (dy10 == xuu)
+                            {
+                                buttoncs1.Text = mmuu;
+                            }
+                            if (dy10 == hai)
+                            {
+                                buttoncs1.Text = jue;
+                            }
+                            if (dy10 == zii)
+                            {
+                                buttoncs1.Text = tai;
+                            }
+                            if (dy10 == chou)
+                            {
+                                buttoncs1.Text = yang;
+                            }
+
+                        }
+                        if (rtg == ding)
+                        {
+                            if (dy10 == you)
+                            {
+                                buttoncs1.Text = changsheng;
+                            }
+                            if (dy10 == shen)
+                            {
+                                buttoncs1.Text = muyu;
+                            }
+                            if (dy10 == wei)
+                            {
+                                buttoncs1.Text = guandai;
+                            }
+                            if (dy10 == wuma)
+                            {
+                                buttoncs1.Text = linguan;
+                            }
+                            if (dy10 == sii)
+                            {
+                                buttoncs1.Text = diwang;
+                            }
+                            if (dy10 == chen)
+                            {
+                                buttoncs1.Text = shuai;
+                            }
+                            if (dy10 == mao)
+                            {
+                                buttoncs1.Text = bingg;
+                            }
+                            if (dy10 == yin)
+                            {
+                                buttoncs1.Text = ssii;
+                            }
+                            if (dy10 == chou)
+                            {
+                                buttoncs1.Text = mmuu;
+                            }
+                            if (dy10 == zii)
+                            {
+                                buttoncs1.Text = jue;
+                            }
+                            if (dy10 == hai)
+                            {
+                                buttoncs1.Text = tai;
+                            }
+                            if (dy10 == xuu)
+                            {
+                                buttoncs1.Text = yang;
+                            }
+
+                        }
+                        if (rtg == jii)
+                        {
+                            if (dy10 == you)
+                            {
+                                buttoncs1.Text = changsheng;
+                            }
+                            if (dy10 == shen)
+                            {
+                                buttoncs1.Text = muyu;
+                            }
+                            if (dy10 == wei)
+                            {
+                                buttoncs1.Text = guandai;
+                            }
+                            if (dy10 == wuma)
+                            {
+                                buttoncs1.Text = linguan;
+                            }
+                            if (dy10 == sii)
+                            {
+                                buttoncs1.Text = diwang;
+                            }
+                            if (dy10 == chen)
+                            {
+                                buttoncs1.Text = shuai;
+                            }
+                            if (dy10 == mao)
+                            {
+                                buttoncs1.Text = bingg;
+                            }
+                            if (dy10 == yin)
+                            {
+                                buttoncs1.Text = ssii;
+                            }
+                            if (dy10 == chou)
+                            {
+                                buttoncs1.Text = mmuu;
+                            }
+                            if (dy10 == zii)
+                            {
+                                buttoncs1.Text = jue;
+                            }
+                            if (dy10 == hai)
+                            {
+                                buttoncs1.Text = tai;
+                            }
+                            if (dy10 == xuu)
+                            {
+                                buttoncs1.Text = yang;
+                            }
+
+                        }
+                        if (rtg == yii)
+                        {
+                            if (dy10 == wuma)
+                            {
+                                buttoncs1.Text = changsheng;
+                            }
+                            if (dy10 == sii)
+                            {
+                                buttoncs1.Text = muyu;
+                            }
+                            if (dy10 == chen)
+                            {
+                                buttoncs1.Text = guandai;
+                            }
+                            if (dy10 == mao)
+                            {
+                                buttoncs1.Text = linguan;
+                            }
+                            if (dy10 == yin)
+                            {
+                                buttoncs1.Text = diwang;
+                            }
+                            if (dy10 == chou)
+                            {
+                                buttoncs1.Text = shuai;
+                            }
+                            if (dy10 == zii)
+                            {
+                                buttoncs1.Text = bingg;
+                            }
+                            if (dy10 == hai)
+                            {
+                                buttoncs1.Text = ssii;
+                            }
+                            if (dy10 == xuu)
+                            {
+                                buttoncs1.Text = mmuu;
+                            }
+                            if (dy10 == you)
+                            {
+                                buttoncs1.Text = jue;
+                            }
+                            if (dy10 == shen)
+                            {
+                                buttoncs1.Text = tai;
+                            }
+                            if (dy10 == wei)
+                            {
+                                buttoncs1.Text = yang;
+                            }
+
+                        }
+                        if (rtg == xin)
+                        {
+                            if (dy10 == zii)
+                            {
+                                buttoncs1.Text = changsheng;
+                            }
+                            if (dy10 == hai)
+                            {
+                                buttoncs1.Text = muyu;
+                            }
+                            if (dy10 == xuu)
+                            {
+                                buttoncs1.Text = guandai;
+                            }
+                            if (dy10 == you)
+                            {
+                                buttoncs1.Text = linguan;
+                            }
+                            if (dy10 == shen)
+                            {
+                                buttoncs1.Text = diwang;
+                            }
+                            if (dy10 == wei)
+                            {
+                                buttoncs1.Text = shuai;
+                            }
+                            if (dy10 == wuma)
+                            {
+                                buttoncs1.Text = bingg;
+                            }
+                            if (dy10 == sii)
+                            {
+                                buttoncs1.Text = ssii;
+                            }
+                            if (dy10 == chen)
+                            {
+                                buttoncs1.Text = mmuu;
+                            }
+                            if (dy10 == mao)
+                            {
+                                buttoncs1.Text = jue;
+                            }
+                            if (dy10 == yin)
+                            {
+                                buttoncs1.Text = tai;
+                            }
+                            if (dy10 == chou)
+                            {
+                                buttoncs1.Text = yang;
+                            }
+
+                        }
+                        if (rtg == gui)
+                        {
+                            if (dy10 == mao)
+                            {
+                                buttoncs1.Text = changsheng;
+                            }
+                            if (dy10 == yin)
+                            {
+                                buttoncs1.Text = muyu;
+                            }
+                            if (dy10 == chou)
+                            {
+                                buttoncs1.Text = guandai;
+                            }
+                            if (dy10 == zii)
+                            {
+                                buttoncs1.Text = linguan;
+                            }
+                            if (dy10 == hai)
+                            {
+                                buttoncs1.Text = diwang;
+                            }
+                            if (dy10 == xuu)
+                            {
+                                buttoncs1.Text = shuai;
+                            }
+                            if (dy10 == you)
+                            {
+                                buttoncs1.Text = bingg;
+                            }
+                            if (dy10 == shen)
+                            {
+                                buttoncs1.Text = ssii;
+                            }
+                            if (dy10 == wei)
+                            {
+                                buttoncs1.Text = mmuu;
+                            }
+                            if (dy10 == wuma)
+                            {
+                                buttoncs1.Text = jue;
+                            }
+                            if (dy10 == sii)
+                            {
+                                buttoncs1.Text = tai;
+                            }
+                            if (dy10 == chen)
+                            {
+                                buttoncs1.Text = yang;
+                            }
+
+                        }
+                        if (rtg == jia)
+                        {
+                            if (dy10 == hai)
+                            {
+                                buttoncs1.Text = changsheng;
+                            }
+                            if (dy10 == zii)
+                            {
+                                buttoncs1.Text = muyu;
+                            }
+                            if (dy10 == chou)
+                            {
+                                buttoncs1.Text = guandai;
+                            }
+                            if (dy10 == yin)
+                            {
+                                buttoncs1.Text = linguan;
+                            }
+                            if (dy10 == mao)
+                            {
+                                buttoncs1.Text = diwang;
+                            }
+                            if (dy10 == chen)
+                            {
+                                buttoncs1.Text = shuai;
+                            }
+                            if (dy10 == sii)
+                            {
+                                buttoncs1.Text = bingg;
+                            }
+                            if (dy10 == wuma)
+                            {
+                                buttoncs1.Text = ssii;
+                            }
+                            if (dy10 == wei)
+                            {
+                                buttoncs1.Text = mmuu;
+                            }
+                            if (dy10 == shen)
+                            {
+                                buttoncs1.Text = jue;
+                            }
+                            if (dy10 == you)
+                            {
+                                buttoncs1.Text = tai;
+                            }
+                            if (dy10 == xuu)
+                            {
+                                buttoncs1.Text = yang;
+                            }
+
+                        }
+                        if (rtg == geng)
+                        {
+                            if (dy10 == sii)
+                            {
+                                buttoncs1.Text = changsheng;
+                            }
+                            if (dy10 == wuma)
+                            {
+                                buttoncs1.Text = muyu;
+                            }
+                            if (dy10 == wei)
+                            {
+                                buttoncs1.Text = guandai;
+                            }
+                            if (dy10 == shen)
+                            {
+                                buttoncs1.Text = linguan;
+                            }
+                            if (dy10 == you)
+                            {
+                                buttoncs1.Text = diwang;
+                            }
+                            if (dy10 == xuu)
+                            {
+                                buttoncs1.Text = shuai;
+                            }
+                            if (dy10 == hai)
+                            {
+                                buttoncs1.Text = bingg;
+                            }
+                            if (dy10 == zii)
+                            {
+                                buttoncs1.Text = ssii;
+                            }
+                            if (dy10 == chou)
+                            {
+                                buttoncs1.Text = mmuu;
+                            }
+                            if (dy10 == yin)
+                            {
+                                buttoncs1.Text = jue;
+                            }
+                            if (dy10 == mao)
+                            {
+                                buttoncs1.Text = tai;
+                            }
+                            if (dy10 == chen)
+                            {
+                                buttoncs1.Text = yang;
+                            }
+
+                        }
+                        if (rtg == ren)
+                        {
+                            if (dy10 == shen)
+                            {
+                                buttoncs1.Text = changsheng;
+                            }
+                            if (dy10 == you)
+                            {
+                                buttoncs1.Text = muyu;
+                            }
+                            if (dy10 == xuu)
+                            {
+                                buttoncs1.Text = guandai;
+                            }
+                            if (dy10 == hai)
+                            {
+                                buttoncs1.Text = linguan;
+                            }
+                            if (dy10 == zii)
+                            {
+                                buttoncs1.Text = diwang;
+                            }
+                            if (dy10 == chou)
+                            {
+                                buttoncs1.Text = shuai;
+                            }
+                            if (dy10 == yin)
+                            {
+                                buttoncs1.Text = bingg;
+                            }
+                            if (dy10 == mao)
+                            {
+                                buttoncs1.Text = ssii;
+                            }
+                            if (dy10 == chen)
+                            {
+                                buttoncs1.Text = mmuu;
+                            }
+                            if (dy10 == sii)
+                            {
+                                buttoncs1.Text = jue;
+                            }
+                            if (dy10 == wuma)
+                            {
+                                buttoncs1.Text = tai;
+                            }
+                            if (dy10 == wei)
+                            {
+                                buttoncs1.Text = yang;
+                            }
+
+                        }
+                        if (rtg == bing)
+                        {
+                            if (dy20 == yin)
+                            {
+                                buttoncs2.Text = changsheng;
+                            }
+                            if (dy20 == mao)
+                            {
+                                buttoncs2.Text = muyu;
+                            }
+                            if (dy20 == chen)
+                            {
+                                buttoncs2.Text = guandai;
+                            }
+                            if (dy20 == sii)
+                            {
+                                buttoncs2.Text = linguan;
+                            }
+                            if (dy20 == wuma)
+                            {
+                                buttoncs2.Text = diwang;
+                            }
+                            if (dy20 == wei)
+                            {
+                                buttoncs2.Text = shuai;
+                            }
+                            if (dy20 == shen)
+                            {
+                                buttoncs2.Text = bingg;
+                            }
+                            if (dy20 == you)
+                            {
+                                buttoncs2.Text = ssii;
+                            }
+                            if (dy20 == xuu)
+                            {
+                                buttoncs2.Text = mmuu;
+                            }
+                            if (dy20 == hai)
+                            {
+                                buttoncs2.Text = jue;
+                            }
+                            if (dy20 == zii)
+                            {
+                                buttoncs2.Text = tai;
+                            }
+                            if (dy20 == chou)
+                            {
+                                buttoncs2.Text = yang;
+                            }
+
+                        }
+                        if (rtg == wuu)
+                        {
+                            if (dy20 == yin)
+                            {
+                                buttoncs2.Text = changsheng;
+                            }
+                            if (dy20 == mao)
+                            {
+                                buttoncs2.Text = muyu;
+                            }
+                            if (dy20 == chen)
+                            {
+                                buttoncs2.Text = guandai;
+                            }
+                            if (dy20 == sii)
+                            {
+                                buttoncs2.Text = linguan;
+                            }
+                            if (dy20 == wuma)
+                            {
+                                buttoncs2.Text = diwang;
+                            }
+                            if (dy20 == wei)
+                            {
+                                buttoncs2.Text = shuai;
+                            }
+                            if (dy20 == shen)
+                            {
+                                buttoncs2.Text = bingg;
+                            }
+                            if (dy20 == you)
+                            {
+                                buttoncs2.Text = ssii;
+                            }
+                            if (dy20 == xuu)
+                            {
+                                buttoncs2.Text = mmuu;
+                            }
+                            if (dy20 == hai)
+                            {
+                                buttoncs2.Text = jue;
+                            }
+                            if (dy20 == zii)
+                            {
+                                buttoncs2.Text = tai;
+                            }
+                            if (dy20 == chou)
+                            {
+                                buttoncs2.Text = yang;
+                            }
+
+                        }
+                        if (rtg == ding)
+                        {
+                            if (dy20 == you)
+                            {
+                                buttoncs2.Text = changsheng;
+                            }
+                            if (dy20 == shen)
+                            {
+                                buttoncs2.Text = muyu;
+                            }
+                            if (dy20 == wei)
+                            {
+                                buttoncs2.Text = guandai;
+                            }
+                            if (dy20 == wuma)
+                            {
+                                buttoncs2.Text = linguan;
+                            }
+                            if (dy20 == sii)
+                            {
+                                buttoncs2.Text = diwang;
+                            }
+                            if (dy20 == chen)
+                            {
+                                buttoncs2.Text = shuai;
+                            }
+                            if (dy20 == mao)
+                            {
+                                buttoncs2.Text = bingg;
+                            }
+                            if (dy20 == yin)
+                            {
+                                buttoncs2.Text = ssii;
+                            }
+                            if (dy20 == chou)
+                            {
+                                buttoncs2.Text = mmuu;
+                            }
+                            if (dy20 == zii)
+                            {
+                                buttoncs2.Text = jue;
+                            }
+                            if (dy20 == hai)
+                            {
+                                buttoncs2.Text = tai;
+                            }
+                            if (dy20 == xuu)
+                            {
+                                buttoncs2.Text = yang;
+                            }
+
+                        }
+                        if (rtg == jii)
+                        {
+                            if (dy20 == you)
+                            {
+                                buttoncs2.Text = changsheng;
+                            }
+                            if (dy20 == shen)
+                            {
+                                buttoncs2.Text = muyu;
+                            }
+                            if (dy20 == wei)
+                            {
+                                buttoncs2.Text = guandai;
+                            }
+                            if (dy20 == wuma)
+                            {
+                                buttoncs2.Text = linguan;
+                            }
+                            if (dy20 == sii)
+                            {
+                                buttoncs2.Text = diwang;
+                            }
+                            if (dy20 == chen)
+                            {
+                                buttoncs2.Text = shuai;
+                            }
+                            if (dy20 == mao)
+                            {
+                                buttoncs2.Text = bingg;
+                            }
+                            if (dy20 == yin)
+                            {
+                                buttoncs2.Text = ssii;
+                            }
+                            if (dy20 == chou)
+                            {
+                                buttoncs2.Text = mmuu;
+                            }
+                            if (dy20 == zii)
+                            {
+                                buttoncs2.Text = jue;
+                            }
+                            if (dy20 == hai)
+                            {
+                                buttoncs2.Text = tai;
+                            }
+                            if (dy20 == xuu)
+                            {
+                                buttoncs2.Text = yang;
+                            }
+
+                        }
+                        if (rtg == yii)
+                        {
+                            if (dy20 == wuma)
+                            {
+                                buttoncs2.Text = changsheng;
+                            }
+                            if (dy20 == sii)
+                            {
+                                buttoncs2.Text = muyu;
+                            }
+                            if (dy20 == chen)
+                            {
+                                buttoncs2.Text = guandai;
+                            }
+                            if (dy20 == mao)
+                            {
+                                buttoncs2.Text = linguan;
+                            }
+                            if (dy20 == yin)
+                            {
+                                buttoncs2.Text = diwang;
+                            }
+                            if (dy20 == chou)
+                            {
+                                buttoncs2.Text = shuai;
+                            }
+                            if (dy20 == zii)
+                            {
+                                buttoncs2.Text = bingg;
+                            }
+                            if (dy20 == hai)
+                            {
+                                buttoncs2.Text = ssii;
+                            }
+                            if (dy20 == xuu)
+                            {
+                                buttoncs2.Text = mmuu;
+                            }
+                            if (dy20 == you)
+                            {
+                                buttoncs2.Text = jue;
+                            }
+                            if (dy20 == shen)
+                            {
+                                buttoncs2.Text = tai;
+                            }
+                            if (dy20 == wei)
+                            {
+                                buttoncs2.Text = yang;
+                            }
+
+                        }
+                        if (rtg == xin)
+                        {
+                            if (dy20 == zii)
+                            {
+                                buttoncs2.Text = changsheng;
+                            }
+                            if (dy20 == hai)
+                            {
+                                buttoncs2.Text = muyu;
+                            }
+                            if (dy20 == xuu)
+                            {
+                                buttoncs2.Text = guandai;
+                            }
+                            if (dy20 == you)
+                            {
+                                buttoncs2.Text = linguan;
+                            }
+                            if (dy20 == shen)
+                            {
+                                buttoncs2.Text = diwang;
+                            }
+                            if (dy20 == wei)
+                            {
+                                buttoncs2.Text = shuai;
+                            }
+                            if (dy20 == wuma)
+                            {
+                                buttoncs2.Text = bingg;
+                            }
+                            if (dy20 == sii)
+                            {
+                                buttoncs2.Text = ssii;
+                            }
+                            if (dy20 == chen)
+                            {
+                                buttoncs2.Text = mmuu;
+                            }
+                            if (dy20 == mao)
+                            {
+                                buttoncs2.Text = jue;
+                            }
+                            if (dy20 == yin)
+                            {
+                                buttoncs2.Text = tai;
+                            }
+                            if (dy20 == chou)
+                            {
+                                buttoncs2.Text = yang;
+                            }
+
+                        }
+                        if (rtg == gui)
+                        {
+                            if (dy20 == mao)
+                            {
+                                buttoncs2.Text = changsheng;
+                            }
+                            if (dy20 == yin)
+                            {
+                                buttoncs2.Text = muyu;
+                            }
+                            if (dy20 == chou)
+                            {
+                                buttoncs2.Text = guandai;
+                            }
+                            if (dy20 == zii)
+                            {
+                                buttoncs2.Text = linguan;
+                            }
+                            if (dy20 == hai)
+                            {
+                                buttoncs2.Text = diwang;
+                            }
+                            if (dy20 == xuu)
+                            {
+                                buttoncs2.Text = shuai;
+                            }
+                            if (dy20 == you)
+                            {
+                                buttoncs2.Text = bingg;
+                            }
+                            if (dy20 == shen)
+                            {
+                                buttoncs2.Text = ssii;
+                            }
+                            if (dy20 == wei)
+                            {
+                                buttoncs2.Text = mmuu;
+                            }
+                            if (dy20 == wuma)
+                            {
+                                buttoncs2.Text = jue;
+                            }
+                            if (dy20 == sii)
+                            {
+                                buttoncs2.Text = tai;
+                            }
+                            if (dy20 == chen)
+                            {
+                                buttoncs2.Text = yang;
+                            }
+
+                        }
+                        if (rtg == jia)
+                        {
+                            if (dy20 == hai)
+                            {
+                                buttoncs2.Text = changsheng;
+                            }
+                            if (dy20 == zii)
+                            {
+                                buttoncs2.Text = muyu;
+                            }
+                            if (dy20 == chou)
+                            {
+                                buttoncs2.Text = guandai;
+                            }
+                            if (dy20 == yin)
+                            {
+                                buttoncs2.Text = linguan;
+                            }
+                            if (dy20 == mao)
+                            {
+                                buttoncs2.Text = diwang;
+                            }
+                            if (dy20 == chen)
+                            {
+                                buttoncs2.Text = shuai;
+                            }
+                            if (dy20 == sii)
+                            {
+                                buttoncs2.Text = bingg;
+                            }
+                            if (dy20 == wuma)
+                            {
+                                buttoncs2.Text = ssii;
+                            }
+                            if (dy20 == wei)
+                            {
+                                buttoncs2.Text = mmuu;
+                            }
+                            if (dy20 == shen)
+                            {
+                                buttoncs2.Text = jue;
+                            }
+                            if (dy20 == you)
+                            {
+                                buttoncs2.Text = tai;
+                            }
+                            if (dy20 == xuu)
+                            {
+                                buttoncs2.Text = yang;
+                            }
+
+                        }
+                        if (rtg == geng)
+                        {
+                            if (dy20 == sii)
+                            {
+                                buttoncs2.Text = changsheng;
+                            }
+                            if (dy20 == wuma)
+                            {
+                                buttoncs2.Text = muyu;
+                            }
+                            if (dy20 == wei)
+                            {
+                                buttoncs2.Text = guandai;
+                            }
+                            if (dy20 == shen)
+                            {
+                                buttoncs2.Text = linguan;
+                            }
+                            if (dy20 == you)
+                            {
+                                buttoncs2.Text = diwang;
+                            }
+                            if (dy20 == xuu)
+                            {
+                                buttoncs2.Text = shuai;
+                            }
+                            if (dy20 == hai)
+                            {
+                                buttoncs2.Text = bingg;
+                            }
+                            if (dy20 == zii)
+                            {
+                                buttoncs2.Text = ssii;
+                            }
+                            if (dy20 == chou)
+                            {
+                                buttoncs2.Text = mmuu;
+                            }
+                            if (dy20 == yin)
+                            {
+                                buttoncs2.Text = jue;
+                            }
+                            if (dy20 == mao)
+                            {
+                                buttoncs2.Text = tai;
+                            }
+                            if (dy20 == chen)
+                            {
+                                buttoncs2.Text = yang;
+                            }
+
+                        }
+                        if (rtg == ren)
+                        {
+                            if (dy20 == shen)
+                            {
+                                buttoncs2.Text = changsheng;
+                            }
+                            if (dy20 == you)
+                            {
+                                buttoncs2.Text = muyu;
+                            }
+                            if (dy20 == xuu)
+                            {
+                                buttoncs2.Text = guandai;
+                            }
+                            if (dy20 == hai)
+                            {
+                                buttoncs2.Text = linguan;
+                            }
+                            if (dy20 == zii)
+                            {
+                                buttoncs2.Text = diwang;
+                            }
+                            if (dy20 == chou)
+                            {
+                                buttoncs2.Text = shuai;
+                            }
+                            if (dy20 == yin)
+                            {
+                                buttoncs2.Text = bingg;
+                            }
+                            if (dy20 == mao)
+                            {
+                                buttoncs2.Text = ssii;
+                            }
+                            if (dy20 == chen)
+                            {
+                                buttoncs2.Text = mmuu;
+                            }
+                            if (dy20 == sii)
+                            {
+                                buttoncs2.Text = jue;
+                            }
+                            if (dy20 == wuma)
+                            {
+                                buttoncs2.Text = tai;
+                            }
+                            if (dy20 == wei)
+                            {
+                                buttoncs2.Text = yang;
+                            }
+
+                        }
+                        if (rtg == bing)
+                        {
+                            if (dy30 == yin)
+                            {
+                                buttoncs3.Text = changsheng;
+                            }
+                            if (dy30 == mao)
+                            {
+                                buttoncs3.Text = muyu;
+                            }
+                            if (dy30 == chen)
+                            {
+                                buttoncs3.Text = guandai;
+                            }
+                            if (dy30 == sii)
+                            {
+                                buttoncs3.Text = linguan;
+                            }
+                            if (dy30 == wuma)
+                            {
+                                buttoncs3.Text = diwang;
+                            }
+                            if (dy30 == wei)
+                            {
+                                buttoncs3.Text = shuai;
+                            }
+                            if (dy30 == shen)
+                            {
+                                buttoncs3.Text = bingg;
+                            }
+                            if (dy30 == you)
+                            {
+                                buttoncs3.Text = ssii;
+                            }
+                            if (dy30 == xuu)
+                            {
+                                buttoncs3.Text = mmuu;
+                            }
+                            if (dy30 == hai)
+                            {
+                                buttoncs3.Text = jue;
+                            }
+                            if (dy30 == zii)
+                            {
+                                buttoncs3.Text = tai;
+                            }
+                            if (dy30 == chou)
+                            {
+                                buttoncs3.Text = yang;
+                            }
+
+                        }
+                        if (rtg == wuu)
+                        {
+                            if (dy30 == yin)
+                            {
+                                buttoncs3.Text = changsheng;
+                            }
+                            if (dy30 == mao)
+                            {
+                                buttoncs3.Text = muyu;
+                            }
+                            if (dy30 == chen)
+                            {
+                                buttoncs3.Text = guandai;
+                            }
+                            if (dy30 == sii)
+                            {
+                                buttoncs3.Text = linguan;
+                            }
+                            if (dy30 == wuma)
+                            {
+                                buttoncs3.Text = diwang;
+                            }
+                            if (dy30 == wei)
+                            {
+                                buttoncs3.Text = shuai;
+                            }
+                            if (dy30 == shen)
+                            {
+                                buttoncs3.Text = bingg;
+                            }
+                            if (dy30 == you)
+                            {
+                                buttoncs3.Text = ssii;
+                            }
+                            if (dy30 == xuu)
+                            {
+                                buttoncs3.Text = mmuu;
+                            }
+                            if (dy30 == hai)
+                            {
+                                buttoncs3.Text = jue;
+                            }
+                            if (dy30 == zii)
+                            {
+                                buttoncs3.Text = tai;
+                            }
+                            if (dy30 == chou)
+                            {
+                                buttoncs3.Text = yang;
+                            }
+
+                        }
+                        if (rtg == ding)
+                        {
+                            if (dy30 == you)
+                            {
+                                buttoncs3.Text = changsheng;
+                            }
+                            if (dy30 == shen)
+                            {
+                                buttoncs3.Text = muyu;
+                            }
+                            if (dy30 == wei)
+                            {
+                                buttoncs3.Text = guandai;
+                            }
+                            if (dy30 == wuma)
+                            {
+                                buttoncs3.Text = linguan;
+                            }
+                            if (dy30 == sii)
+                            {
+                                buttoncs3.Text = diwang;
+                            }
+                            if (dy30 == chen)
+                            {
+                                buttoncs3.Text = shuai;
+                            }
+                            if (dy30 == mao)
+                            {
+                                buttoncs3.Text = bingg;
+                            }
+                            if (dy30 == yin)
+                            {
+                                buttoncs3.Text = ssii;
+                            }
+                            if (dy30 == chou)
+                            {
+                                buttoncs3.Text = mmuu;
+                            }
+                            if (dy30 == zii)
+                            {
+                                buttoncs3.Text = jue;
+                            }
+                            if (dy30 == hai)
+                            {
+                                buttoncs3.Text = tai;
+                            }
+                            if (dy30 == xuu)
+                            {
+                                buttoncs3.Text = yang;
+                            }
+
+                        }
+                        if (rtg == jii)
+                        {
+                            if (dy30 == you)
+                            {
+                                buttoncs3.Text = changsheng;
+                            }
+                            if (dy30 == shen)
+                            {
+                                buttoncs3.Text = muyu;
+                            }
+                            if (dy30 == wei)
+                            {
+                                buttoncs3.Text = guandai;
+                            }
+                            if (dy30 == wuma)
+                            {
+                                buttoncs3.Text = linguan;
+                            }
+                            if (dy30 == sii)
+                            {
+                                buttoncs3.Text = diwang;
+                            }
+                            if (dy30 == chen)
+                            {
+                                buttoncs3.Text = shuai;
+                            }
+                            if (dy30 == mao)
+                            {
+                                buttoncs3.Text = bingg;
+                            }
+                            if (dy30 == yin)
+                            {
+                                buttoncs3.Text = ssii;
+                            }
+                            if (dy30 == chou)
+                            {
+                                buttoncs3.Text = mmuu;
+                            }
+                            if (dy30 == zii)
+                            {
+                                buttoncs3.Text = jue;
+                            }
+                            if (dy30 == hai)
+                            {
+                                buttoncs3.Text = tai;
+                            }
+                            if (dy30 == xuu)
+                            {
+                                buttoncs3.Text = yang;
+                            }
+
+                        }
+                        if (rtg == yii)
+                        {
+                            if (dy30 == wuma)
+                            {
+                                buttoncs3.Text = changsheng;
+                            }
+                            if (dy30 == sii)
+                            {
+                                buttoncs3.Text = muyu;
+                            }
+                            if (dy30 == chen)
+                            {
+                                buttoncs3.Text = guandai;
+                            }
+                            if (dy30 == mao)
+                            {
+                                buttoncs3.Text = linguan;
+                            }
+                            if (dy30 == yin)
+                            {
+                                buttoncs3.Text = diwang;
+                            }
+                            if (dy30 == chou)
+                            {
+                                buttoncs3.Text = shuai;
+                            }
+                            if (dy30 == zii)
+                            {
+                                buttoncs3.Text = bingg;
+                            }
+                            if (dy30 == hai)
+                            {
+                                buttoncs3.Text = ssii;
+                            }
+                            if (dy30 == xuu)
+                            {
+                                buttoncs3.Text = mmuu;
+                            }
+                            if (dy30 == you)
+                            {
+                                buttoncs3.Text = jue;
+                            }
+                            if (dy30 == shen)
+                            {
+                                buttoncs3.Text = tai;
+                            }
+                            if (dy30 == wei)
+                            {
+                                buttoncs3.Text = yang;
+                            }
+
+                        }
+                        if (rtg == xin)
+                        {
+                            if (dy30 == zii)
+                            {
+                                buttoncs3.Text = changsheng;
+                            }
+                            if (dy30 == hai)
+                            {
+                                buttoncs3.Text = muyu;
+                            }
+                            if (dy30 == xuu)
+                            {
+                                buttoncs3.Text = guandai;
+                            }
+                            if (dy30 == you)
+                            {
+                                buttoncs3.Text = linguan;
+                            }
+                            if (dy30 == shen)
+                            {
+                                buttoncs3.Text = diwang;
+                            }
+                            if (dy30 == wei)
+                            {
+                                buttoncs3.Text = shuai;
+                            }
+                            if (dy30 == wuma)
+                            {
+                                buttoncs3.Text = bingg;
+                            }
+                            if (dy30 == sii)
+                            {
+                                buttoncs3.Text = ssii;
+                            }
+                            if (dy30 == chen)
+                            {
+                                buttoncs3.Text = mmuu;
+                            }
+                            if (dy30 == mao)
+                            {
+                                buttoncs3.Text = jue;
+                            }
+                            if (dy30 == yin)
+                            {
+                                buttoncs3.Text = tai;
+                            }
+                            if (dy30 == chou)
+                            {
+                                buttoncs3.Text = yang;
+                            }
+
+                        }
+                        if (rtg == gui)
+                        {
+                            if (dy30 == mao)
+                            {
+                                buttoncs3.Text = changsheng;
+                            }
+                            if (dy30 == yin)
+                            {
+                                buttoncs3.Text = muyu;
+                            }
+                            if (dy30 == chou)
+                            {
+                                buttoncs3.Text = guandai;
+                            }
+                            if (dy30 == zii)
+                            {
+                                buttoncs3.Text = linguan;
+                            }
+                            if (dy30 == hai)
+                            {
+                                buttoncs3.Text = diwang;
+                            }
+                            if (dy30 == xuu)
+                            {
+                                buttoncs3.Text = shuai;
+                            }
+                            if (dy30 == you)
+                            {
+                                buttoncs3.Text = bingg;
+                            }
+                            if (dy30 == shen)
+                            {
+                                buttoncs3.Text = ssii;
+                            }
+                            if (dy30 == wei)
+                            {
+                                buttoncs3.Text = mmuu;
+                            }
+                            if (dy30 == wuma)
+                            {
+                                buttoncs3.Text = jue;
+                            }
+                            if (dy30 == sii)
+                            {
+                                buttoncs3.Text = tai;
+                            }
+                            if (dy30 == chen)
+                            {
+                                buttoncs3.Text = yang;
+                            }
+
+                        }
+                        if (rtg == jia)
+                        {
+                            if (dy30 == hai)
+                            {
+                                buttoncs3.Text = changsheng;
+                            }
+                            if (dy30 == zii)
+                            {
+                                buttoncs3.Text = muyu;
+                            }
+                            if (dy30 == chou)
+                            {
+                                buttoncs3.Text = guandai;
+                            }
+                            if (dy30 == yin)
+                            {
+                                buttoncs3.Text = linguan;
+                            }
+                            if (dy30 == mao)
+                            {
+                                buttoncs3.Text = diwang;
+                            }
+                            if (dy30 == chen)
+                            {
+                                buttoncs3.Text = shuai;
+                            }
+                            if (dy30 == sii)
+                            {
+                                buttoncs3.Text = bingg;
+                            }
+                            if (dy30 == wuma)
+                            {
+                                buttoncs3.Text = ssii;
+                            }
+                            if (dy30 == wei)
+                            {
+                                buttoncs3.Text = mmuu;
+                            }
+                            if (dy30 == shen)
+                            {
+                                buttoncs3.Text = jue;
+                            }
+                            if (dy30 == you)
+                            {
+                                buttoncs3.Text = tai;
+                            }
+                            if (dy30 == xuu)
+                            {
+                                buttoncs3.Text = yang;
+                            }
+
+                        }
+                        if (rtg == geng)
+                        {
+                            if (dy30 == sii)
+                            {
+                                buttoncs3.Text = changsheng;
+                            }
+                            if (dy30 == wuma)
+                            {
+                                buttoncs3.Text = muyu;
+                            }
+                            if (dy30 == wei)
+                            {
+                                buttoncs3.Text = guandai;
+                            }
+                            if (dy30 == shen)
+                            {
+                                buttoncs3.Text = linguan;
+                            }
+                            if (dy30 == you)
+                            {
+                                buttoncs3.Text = diwang;
+                            }
+                            if (dy30 == xuu)
+                            {
+                                buttoncs3.Text = shuai;
+                            }
+                            if (dy30 == hai)
+                            {
+                                buttoncs3.Text = bingg;
+                            }
+                            if (dy30 == zii)
+                            {
+                                buttoncs3.Text = ssii;
+                            }
+                            if (dy30 == chou)
+                            {
+                                buttoncs3.Text = mmuu;
+                            }
+                            if (dy30 == yin)
+                            {
+                                buttoncs3.Text = jue;
+                            }
+                            if (dy30 == mao)
+                            {
+                                buttoncs3.Text = tai;
+                            }
+                            if (dy30 == chen)
+                            {
+                                buttoncs3.Text = yang;
+                            }
+
+                        }
+                        if (rtg == ren)
+                        {
+                            if (dy30 == shen)
+                            {
+                                buttoncs3.Text = changsheng;
+                            }
+                            if (dy30 == you)
+                            {
+                                buttoncs3.Text = muyu;
+                            }
+                            if (dy30 == xuu)
+                            {
+                                buttoncs3.Text = guandai;
+                            }
+                            if (dy30 == hai)
+                            {
+                                buttoncs3.Text = linguan;
+                            }
+                            if (dy30 == zii)
+                            {
+                                buttoncs3.Text = diwang;
+                            }
+                            if (dy30 == chou)
+                            {
+                                buttoncs3.Text = shuai;
+                            }
+                            if (dy30 == yin)
+                            {
+                                buttoncs3.Text = bingg;
+                            }
+                            if (dy30 == mao)
+                            {
+                                buttoncs3.Text = ssii;
+                            }
+                            if (dy30 == chen)
+                            {
+                                buttoncs3.Text = mmuu;
+                            }
+                            if (dy30 == sii)
+                            {
+                                buttoncs3.Text = jue;
+                            }
+                            if (dy30 == wuma)
+                            {
+                                buttoncs3.Text = tai;
+                            }
+                            if (dy30 == wei)
+                            {
+                                buttoncs3.Text = yang;
+                            }
+
+                        }
+                        if (rtg == bing)
+                        {
+                            if (dy40 == yin)
+                            {
+                                buttoncs4.Text = changsheng;
+                            }
+                            if (dy40 == mao)
+                            {
+                                buttoncs4.Text = muyu;
+                            }
+                            if (dy40 == chen)
+                            {
+                                buttoncs4.Text = guandai;
+                            }
+                            if (dy40 == sii)
+                            {
+                                buttoncs4.Text = linguan;
+                            }
+                            if (dy40 == wuma)
+                            {
+                                buttoncs4.Text = diwang;
+                            }
+                            if (dy40 == wei)
+                            {
+                                buttoncs4.Text = shuai;
+                            }
+                            if (dy40 == shen)
+                            {
+                                buttoncs4.Text = bingg;
+                            }
+                            if (dy40 == you)
+                            {
+                                buttoncs4.Text = ssii;
+                            }
+                            if (dy40 == xuu)
+                            {
+                                buttoncs4.Text = mmuu;
+                            }
+                            if (dy40 == hai)
+                            {
+                                buttoncs4.Text = jue;
+                            }
+                            if (dy40 == zii)
+                            {
+                                buttoncs4.Text = tai;
+                            }
+                            if (dy40 == chou)
+                            {
+                                buttoncs4.Text = yang;
+                            }
+
+                        }
+                        if (rtg == wuu)
+                        {
+                            if (dy40 == yin)
+                            {
+                                buttoncs4.Text = changsheng;
+                            }
+                            if (dy40 == mao)
+                            {
+                                buttoncs4.Text = muyu;
+                            }
+                            if (dy40 == chen)
+                            {
+                                buttoncs4.Text = guandai;
+                            }
+                            if (dy40 == sii)
+                            {
+                                buttoncs4.Text = linguan;
+                            }
+                            if (dy40 == wuma)
+                            {
+                                buttoncs4.Text = diwang;
+                            }
+                            if (dy40 == wei)
+                            {
+                                buttoncs4.Text = shuai;
+                            }
+                            if (dy40 == shen)
+                            {
+                                buttoncs4.Text = bingg;
+                            }
+                            if (dy40 == you)
+                            {
+                                buttoncs4.Text = ssii;
+                            }
+                            if (dy40 == xuu)
+                            {
+                                buttoncs4.Text = mmuu;
+                            }
+                            if (dy40 == hai)
+                            {
+                                buttoncs4.Text = jue;
+                            }
+                            if (dy40 == zii)
+                            {
+                                buttoncs4.Text = tai;
+                            }
+                            if (dy40 == chou)
+                            {
+                                buttoncs4.Text = yang;
+                            }
+
+                        }
+                        if (rtg == ding)
+                        {
+                            if (dy40 == you)
+                            {
+                                buttoncs4.Text = changsheng;
+                            }
+                            if (dy40 == shen)
+                            {
+                                buttoncs4.Text = muyu;
+                            }
+                            if (dy40 == wei)
+                            {
+                                buttoncs4.Text = guandai;
+                            }
+                            if (dy40 == wuma)
+                            {
+                                buttoncs4.Text = linguan;
+                            }
+                            if (dy40 == sii)
+                            {
+                                buttoncs4.Text = diwang;
+                            }
+                            if (dy40 == chen)
+                            {
+                                buttoncs4.Text = shuai;
+                            }
+                            if (dy40 == mao)
+                            {
+                                buttoncs4.Text = bingg;
+                            }
+                            if (dy40 == yin)
+                            {
+                                buttoncs4.Text = ssii;
+                            }
+                            if (dy40 == chou)
+                            {
+                                buttoncs4.Text = mmuu;
+                            }
+                            if (dy40 == zii)
+                            {
+                                buttoncs4.Text = jue;
+                            }
+                            if (dy40 == hai)
+                            {
+                                buttoncs4.Text = tai;
+                            }
+                            if (dy40 == xuu)
+                            {
+                                buttoncs4.Text = yang;
+                            }
+
+                        }
+                        if (rtg == jii)
+                        {
+                            if (dy40 == you)
+                            {
+                                buttoncs4.Text = changsheng;
+                            }
+                            if (dy40 == shen)
+                            {
+                                buttoncs4.Text = muyu;
+                            }
+                            if (dy40 == wei)
+                            {
+                                buttoncs4.Text = guandai;
+                            }
+                            if (dy40 == wuma)
+                            {
+                                buttoncs4.Text = linguan;
+                            }
+                            if (dy40 == sii)
+                            {
+                                buttoncs4.Text = diwang;
+                            }
+                            if (dy40 == chen)
+                            {
+                                buttoncs4.Text = shuai;
+                            }
+                            if (dy40 == mao)
+                            {
+                                buttoncs4.Text = bingg;
+                            }
+                            if (dy40 == yin)
+                            {
+                                buttoncs4.Text = ssii;
+                            }
+                            if (dy40 == chou)
+                            {
+                                buttoncs4.Text = mmuu;
+                            }
+                            if (dy40 == zii)
+                            {
+                                buttoncs4.Text = jue;
+                            }
+                            if (dy40 == hai)
+                            {
+                                buttoncs4.Text = tai;
+                            }
+                            if (dy40 == xuu)
+                            {
+                                buttoncs4.Text = yang;
+                            }
+
+                        }
+                        if (rtg == yii)
+                        {
+                            if (dy40 == wuma)
+                            {
+                                buttoncs4.Text = changsheng;
+                            }
+                            if (dy40 == sii)
+                            {
+                                buttoncs4.Text = muyu;
+                            }
+                            if (dy40 == chen)
+                            {
+                                buttoncs4.Text = guandai;
+                            }
+                            if (dy40 == mao)
+                            {
+                                buttoncs4.Text = linguan;
+                            }
+                            if (dy40 == yin)
+                            {
+                                buttoncs4.Text = diwang;
+                            }
+                            if (dy40 == chou)
+                            {
+                                buttoncs4.Text = shuai;
+                            }
+                            if (dy40 == zii)
+                            {
+                                buttoncs4.Text = bingg;
+                            }
+                            if (dy40 == hai)
+                            {
+                                buttoncs4.Text = ssii;
+                            }
+                            if (dy40 == xuu)
+                            {
+                                buttoncs4.Text = mmuu;
+                            }
+                            if (dy40 == you)
+                            {
+                                buttoncs4.Text = jue;
+                            }
+                            if (dy40 == shen)
+                            {
+                                buttoncs4.Text = tai;
+                            }
+                            if (dy40 == wei)
+                            {
+                                buttoncs4.Text = yang;
+                            }
+
+                        }
+                        if (rtg == xin)
+                        {
+                            if (dy40 == zii)
+                            {
+                                buttoncs4.Text = changsheng;
+                            }
+                            if (dy40 == hai)
+                            {
+                                buttoncs4.Text = muyu;
+                            }
+                            if (dy40 == xuu)
+                            {
+                                buttoncs4.Text = guandai;
+                            }
+                            if (dy40 == you)
+                            {
+                                buttoncs4.Text = linguan;
+                            }
+                            if (dy40 == shen)
+                            {
+                                buttoncs4.Text = diwang;
+                            }
+                            if (dy40 == wei)
+                            {
+                                buttoncs4.Text = shuai;
+                            }
+                            if (dy40 == wuma)
+                            {
+                                buttoncs4.Text = bingg;
+                            }
+                            if (dy40 == sii)
+                            {
+                                buttoncs4.Text = ssii;
+                            }
+                            if (dy40 == chen)
+                            {
+                                buttoncs4.Text = mmuu;
+                            }
+                            if (dy40 == mao)
+                            {
+                                buttoncs4.Text = jue;
+                            }
+                            if (dy40 == yin)
+                            {
+                                buttoncs4.Text = tai;
+                            }
+                            if (dy40 == chou)
+                            {
+                                buttoncs4.Text = yang;
+                            }
+
+                        }
+                        if (rtg == gui)
+                        {
+                            if (dy40 == mao)
+                            {
+                                buttoncs4.Text = changsheng;
+                            }
+                            if (dy40 == yin)
+                            {
+                                buttoncs4.Text = muyu;
+                            }
+                            if (dy40 == chou)
+                            {
+                                buttoncs4.Text = guandai;
+                            }
+                            if (dy40 == zii)
+                            {
+                                buttoncs4.Text = linguan;
+                            }
+                            if (dy40 == hai)
+                            {
+                                buttoncs4.Text = diwang;
+                            }
+                            if (dy40 == xuu)
+                            {
+                                buttoncs4.Text = shuai;
+                            }
+                            if (dy40 == you)
+                            {
+                                buttoncs4.Text = bingg;
+                            }
+                            if (dy40 == shen)
+                            {
+                                buttoncs4.Text = ssii;
+                            }
+                            if (dy40 == wei)
+                            {
+                                buttoncs4.Text = mmuu;
+                            }
+                            if (dy40 == wuma)
+                            {
+                                buttoncs4.Text = jue;
+                            }
+                            if (dy40 == sii)
+                            {
+                                buttoncs4.Text = tai;
+                            }
+                            if (dy40 == chen)
+                            {
+                                buttoncs4.Text = yang;
+                            }
+
+                        }
+                        if (rtg == jia)
+                        {
+                            if (dy40 == hai)
+                            {
+                                buttoncs4.Text = changsheng;
+                            }
+                            if (dy40 == zii)
+                            {
+                                buttoncs4.Text = muyu;
+                            }
+                            if (dy40 == chou)
+                            {
+                                buttoncs4.Text = guandai;
+                            }
+                            if (dy40 == yin)
+                            {
+                                buttoncs4.Text = linguan;
+                            }
+                            if (dy40 == mao)
+                            {
+                                buttoncs4.Text = diwang;
+                            }
+                            if (dy40 == chen)
+                            {
+                                buttoncs4.Text = shuai;
+                            }
+                            if (dy40 == sii)
+                            {
+                                buttoncs4.Text = bingg;
+                            }
+                            if (dy40 == wuma)
+                            {
+                                buttoncs4.Text = ssii;
+                            }
+                            if (dy40 == wei)
+                            {
+                                buttoncs4.Text = mmuu;
+                            }
+                            if (dy40 == shen)
+                            {
+                                buttoncs4.Text = jue;
+                            }
+                            if (dy40 == you)
+                            {
+                                buttoncs4.Text = tai;
+                            }
+                            if (dy40 == xuu)
+                            {
+                                buttoncs4.Text = yang;
+                            }
+
+                        }
+                        if (rtg == geng)
+                        {
+                            if (dy40 == sii)
+                            {
+                                buttoncs4.Text = changsheng;
+                            }
+                            if (dy40 == wuma)
+                            {
+                                buttoncs4.Text = muyu;
+                            }
+                            if (dy40 == wei)
+                            {
+                                buttoncs4.Text = guandai;
+                            }
+                            if (dy40 == shen)
+                            {
+                                buttoncs4.Text = linguan;
+                            }
+                            if (dy40 == you)
+                            {
+                                buttoncs4.Text = diwang;
+                            }
+                            if (dy40 == xuu)
+                            {
+                                buttoncs4.Text = shuai;
+                            }
+                            if (dy40 == hai)
+                            {
+                                buttoncs4.Text = bingg;
+                            }
+                            if (dy40 == zii)
+                            {
+                                buttoncs4.Text = ssii;
+                            }
+                            if (dy40 == chou)
+                            {
+                                buttoncs4.Text = mmuu;
+                            }
+                            if (dy40 == yin)
+                            {
+                                buttoncs4.Text = jue;
+                            }
+                            if (dy40 == mao)
+                            {
+                                buttoncs4.Text = tai;
+                            }
+                            if (dy40 == chen)
+                            {
+                                buttoncs4.Text = yang;
+                            }
+
+                        }
+                        if (rtg == ren)
+                        {
+                            if (dy40 == shen)
+                            {
+                                buttoncs4.Text = changsheng;
+                            }
+                            if (dy40 == you)
+                            {
+                                buttoncs4.Text = muyu;
+                            }
+                            if (dy40 == xuu)
+                            {
+                                buttoncs4.Text = guandai;
+                            }
+                            if (dy40 == hai)
+                            {
+                                buttoncs4.Text = linguan;
+                            }
+                            if (dy40 == zii)
+                            {
+                                buttoncs4.Text = diwang;
+                            }
+                            if (dy40 == chou)
+                            {
+                                buttoncs4.Text = shuai;
+                            }
+                            if (dy40 == yin)
+                            {
+                                buttoncs4.Text = bingg;
+                            }
+                            if (dy40 == mao)
+                            {
+                                buttoncs4.Text = ssii;
+                            }
+                            if (dy40 == chen)
+                            {
+                                buttoncs4.Text = mmuu;
+                            }
+                            if (dy40 == sii)
+                            {
+                                buttoncs4.Text = jue;
+                            }
+                            if (dy40 == wuma)
+                            {
+                                buttoncs4.Text = tai;
+                            }
+                            if (dy40 == wei)
+                            {
+                                buttoncs4.Text = yang;
+                            }
+
+                        }
+                        if (rtg == bing)
+                        {
+                            if (dy50 == yin)
+                            {
+                                buttoncs5.Text = changsheng;
+                            }
+                            if (dy50 == mao)
+                            {
+                                buttoncs5.Text = muyu;
+                            }
+                            if (dy50 == chen)
+                            {
+                                buttoncs5.Text = guandai;
+                            }
+                            if (dy50 == sii)
+                            {
+                                buttoncs5.Text = linguan;
+                            }
+                            if (dy50 == wuma)
+                            {
+                                buttoncs5.Text = diwang;
+                            }
+                            if (dy50 == wei)
+                            {
+                                buttoncs5.Text = shuai;
+                            }
+                            if (dy50 == shen)
+                            {
+                                buttoncs5.Text = bingg;
+                            }
+                            if (dy50 == you)
+                            {
+                                buttoncs5.Text = ssii;
+                            }
+                            if (dy50 == xuu)
+                            {
+                                buttoncs5.Text = mmuu;
+                            }
+                            if (dy50 == hai)
+                            {
+                                buttoncs5.Text = jue;
+                            }
+                            if (dy50 == zii)
+                            {
+                                buttoncs5.Text = tai;
+                            }
+                            if (dy50 == chou)
+                            {
+                                buttoncs5.Text = yang;
+                            }
+
+                        }
+                        if (rtg == wuu)
+                        {
+                            if (dy50 == yin)
+                            {
+                                buttoncs5.Text = changsheng;
+                            }
+                            if (dy50 == mao)
+                            {
+                                buttoncs5.Text = muyu;
+                            }
+                            if (dy50 == chen)
+                            {
+                                buttoncs5.Text = guandai;
+                            }
+                            if (dy50 == sii)
+                            {
+                                buttoncs5.Text = linguan;
+                            }
+                            if (dy50 == wuma)
+                            {
+                                buttoncs5.Text = diwang;
+                            }
+                            if (dy50 == wei)
+                            {
+                                buttoncs5.Text = shuai;
+                            }
+                            if (dy50 == shen)
+                            {
+                                buttoncs5.Text = bingg;
+                            }
+                            if (dy50 == you)
+                            {
+                                buttoncs5.Text = ssii;
+                            }
+                            if (dy50 == xuu)
+                            {
+                                buttoncs5.Text = mmuu;
+                            }
+                            if (dy50 == hai)
+                            {
+                                buttoncs5.Text = jue;
+                            }
+                            if (dy50 == zii)
+                            {
+                                buttoncs5.Text = tai;
+                            }
+                            if (dy50 == chou)
+                            {
+                                buttoncs5.Text = yang;
+                            }
+
+                        }
+                        if (rtg == ding)
+                        {
+                            if (dy50 == you)
+                            {
+                                buttoncs5.Text = changsheng;
+                            }
+                            if (dy50 == shen)
+                            {
+                                buttoncs5.Text = muyu;
+                            }
+                            if (dy50 == wei)
+                            {
+                                buttoncs5.Text = guandai;
+                            }
+                            if (dy50 == wuma)
+                            {
+                                buttoncs5.Text = linguan;
+                            }
+                            if (dy50 == sii)
+                            {
+                                buttoncs5.Text = diwang;
+                            }
+                            if (dy50 == chen)
+                            {
+                                buttoncs5.Text = shuai;
+                            }
+                            if (dy50 == mao)
+                            {
+                                buttoncs5.Text = bingg;
+                            }
+                            if (dy50 == yin)
+                            {
+                                buttoncs5.Text = ssii;
+                            }
+                            if (dy50 == chou)
+                            {
+                                buttoncs5.Text = mmuu;
+                            }
+                            if (dy50 == zii)
+                            {
+                                buttoncs5.Text = jue;
+                            }
+                            if (dy50 == hai)
+                            {
+                                buttoncs5.Text = tai;
+                            }
+                            if (dy50 == xuu)
+                            {
+                                buttoncs5.Text = yang;
+                            }
+
+                        }
+                        if (rtg == jii)
+                        {
+                            if (dy50 == you)
+                            {
+                                buttoncs5.Text = changsheng;
+                            }
+                            if (dy50 == shen)
+                            {
+                                buttoncs5.Text = muyu;
+                            }
+                            if (dy50 == wei)
+                            {
+                                buttoncs5.Text = guandai;
+                            }
+                            if (dy50 == wuma)
+                            {
+                                buttoncs5.Text = linguan;
+                            }
+                            if (dy50 == sii)
+                            {
+                                buttoncs5.Text = diwang;
+                            }
+                            if (dy50 == chen)
+                            {
+                                buttoncs5.Text = shuai;
+                            }
+                            if (dy50 == mao)
+                            {
+                                buttoncs5.Text = bingg;
+                            }
+                            if (dy50 == yin)
+                            {
+                                buttoncs5.Text = ssii;
+                            }
+                            if (dy50 == chou)
+                            {
+                                buttoncs5.Text = mmuu;
+                            }
+                            if (dy50 == zii)
+                            {
+                                buttoncs5.Text = jue;
+                            }
+                            if (dy50 == hai)
+                            {
+                                buttoncs5.Text = tai;
+                            }
+                            if (dy50 == xuu)
+                            {
+                                buttoncs5.Text = yang;
+                            }
+
+                        }
+                        if (rtg == yii)
+                        {
+                            if (dy50 == wuma)
+                            {
+                                buttoncs5.Text = changsheng;
+                            }
+                            if (dy50 == sii)
+                            {
+                                buttoncs5.Text = muyu;
+                            }
+                            if (dy50 == chen)
+                            {
+                                buttoncs5.Text = guandai;
+                            }
+                            if (dy50 == mao)
+                            {
+                                buttoncs5.Text = linguan;
+                            }
+                            if (dy50 == yin)
+                            {
+                                buttoncs5.Text = diwang;
+                            }
+                            if (dy50 == chou)
+                            {
+                                buttoncs5.Text = shuai;
+                            }
+                            if (dy50 == zii)
+                            {
+                                buttoncs5.Text = bingg;
+                            }
+                            if (dy50 == hai)
+                            {
+                                buttoncs5.Text = ssii;
+                            }
+                            if (dy50 == xuu)
+                            {
+                                buttoncs5.Text = mmuu;
+                            }
+                            if (dy50 == you)
+                            {
+                                buttoncs5.Text = jue;
+                            }
+                            if (dy50 == shen)
+                            {
+                                buttoncs5.Text = tai;
+                            }
+                            if (dy50 == wei)
+                            {
+                                buttoncs5.Text = yang;
+                            }
+
+                        }
+                        if (rtg == xin)
+                        {
+                            if (dy50 == zii)
+                            {
+                                buttoncs5.Text = changsheng;
+                            }
+                            if (dy50 == hai)
+                            {
+                                buttoncs5.Text = muyu;
+                            }
+                            if (dy50 == xuu)
+                            {
+                                buttoncs5.Text = guandai;
+                            }
+                            if (dy50 == you)
+                            {
+                                buttoncs5.Text = linguan;
+                            }
+                            if (dy50 == shen)
+                            {
+                                buttoncs5.Text = diwang;
+                            }
+                            if (dy50 == wei)
+                            {
+                                buttoncs5.Text = shuai;
+                            }
+                            if (dy50 == wuma)
+                            {
+                                buttoncs5.Text = bingg;
+                            }
+                            if (dy50 == sii)
+                            {
+                                buttoncs5.Text = ssii;
+                            }
+                            if (dy50 == chen)
+                            {
+                                buttoncs5.Text = mmuu;
+                            }
+                            if (dy50 == mao)
+                            {
+                                buttoncs5.Text = jue;
+                            }
+                            if (dy50 == yin)
+                            {
+                                buttoncs5.Text = tai;
+                            }
+                            if (dy50 == chou)
+                            {
+                                buttoncs5.Text = yang;
+                            }
+
+                        }
+                        if (rtg == gui)
+                        {
+                            if (dy50 == mao)
+                            {
+                                buttoncs5.Text = changsheng;
+                            }
+                            if (dy50 == yin)
+                            {
+                                buttoncs5.Text = muyu;
+                            }
+                            if (dy50 == chou)
+                            {
+                                buttoncs5.Text = guandai;
+                            }
+                            if (dy50 == zii)
+                            {
+                                buttoncs5.Text = linguan;
+                            }
+                            if (dy50 == hai)
+                            {
+                                buttoncs5.Text = diwang;
+                            }
+                            if (dy50 == xuu)
+                            {
+                                buttoncs5.Text = shuai;
+                            }
+                            if (dy50 == you)
+                            {
+                                buttoncs5.Text = bingg;
+                            }
+                            if (dy50 == shen)
+                            {
+                                buttoncs5.Text = ssii;
+                            }
+                            if (dy50 == wei)
+                            {
+                                buttoncs5.Text = mmuu;
+                            }
+                            if (dy50 == wuma)
+                            {
+                                buttoncs5.Text = jue;
+                            }
+                            if (dy50 == sii)
+                            {
+                                buttoncs5.Text = tai;
+                            }
+                            if (dy50 == chen)
+                            {
+                                buttoncs5.Text = yang;
+                            }
+
+                        }
+                        if (rtg == jia)
+                        {
+                            if (dy50 == hai)
+                            {
+                                buttoncs5.Text = changsheng;
+                            }
+                            if (dy50 == zii)
+                            {
+                                buttoncs5.Text = muyu;
+                            }
+                            if (dy50 == chou)
+                            {
+                                buttoncs5.Text = guandai;
+                            }
+                            if (dy50 == yin)
+                            {
+                                buttoncs5.Text = linguan;
+                            }
+                            if (dy50 == mao)
+                            {
+                                buttoncs5.Text = diwang;
+                            }
+                            if (dy50 == chen)
+                            {
+                                buttoncs5.Text = shuai;
+                            }
+                            if (dy50 == sii)
+                            {
+                                buttoncs5.Text = bingg;
+                            }
+                            if (dy50 == wuma)
+                            {
+                                buttoncs5.Text = ssii;
+                            }
+                            if (dy50 == wei)
+                            {
+                                buttoncs5.Text = mmuu;
+                            }
+                            if (dy50 == shen)
+                            {
+                                buttoncs5.Text = jue;
+                            }
+                            if (dy50 == you)
+                            {
+                                buttoncs5.Text = tai;
+                            }
+                            if (dy50 == xuu)
+                            {
+                                buttoncs5.Text = yang;
+                            }
+
+                        }
+                        if (rtg == geng)
+                        {
+                            if (dy50 == sii)
+                            {
+                                buttoncs5.Text = changsheng;
+                            }
+                            if (dy50 == wuma)
+                            {
+                                buttoncs5.Text = muyu;
+                            }
+                            if (dy50 == wei)
+                            {
+                                buttoncs5.Text = guandai;
+                            }
+                            if (dy50 == shen)
+                            {
+                                buttoncs5.Text = linguan;
+                            }
+                            if (dy50 == you)
+                            {
+                                buttoncs5.Text = diwang;
+                            }
+                            if (dy50 == xuu)
+                            {
+                                buttoncs5.Text = shuai;
+                            }
+                            if (dy50 == hai)
+                            {
+                                buttoncs5.Text = bingg;
+                            }
+                            if (dy50 == zii)
+                            {
+                                buttoncs5.Text = ssii;
+                            }
+                            if (dy50 == chou)
+                            {
+                                buttoncs5.Text = mmuu;
+                            }
+                            if (dy50 == yin)
+                            {
+                                buttoncs5.Text = jue;
+                            }
+                            if (dy50 == mao)
+                            {
+                                buttoncs5.Text = tai;
+                            }
+                            if (dy50 == chen)
+                            {
+                                buttoncs5.Text = yang;
+                            }
+
+                        }
+                        if (rtg == ren)
+                        {
+                            if (dy50 == shen)
+                            {
+                                buttoncs5.Text = changsheng;
+                            }
+                            if (dy50 == you)
+                            {
+                                buttoncs5.Text = muyu;
+                            }
+                            if (dy50 == xuu)
+                            {
+                                buttoncs5.Text = guandai;
+                            }
+                            if (dy50 == hai)
+                            {
+                                buttoncs5.Text = linguan;
+                            }
+                            if (dy50 == zii)
+                            {
+                                buttoncs5.Text = diwang;
+                            }
+                            if (dy50 == chou)
+                            {
+                                buttoncs5.Text = shuai;
+                            }
+                            if (dy50 == yin)
+                            {
+                                buttoncs5.Text = bingg;
+                            }
+                            if (dy50 == mao)
+                            {
+                                buttoncs5.Text = ssii;
+                            }
+                            if (dy50 == chen)
+                            {
+                                buttoncs5.Text = mmuu;
+                            }
+                            if (dy50 == sii)
+                            {
+                                buttoncs5.Text = jue;
+                            }
+                            if (dy50 == wuma)
+                            {
+                                buttoncs5.Text = tai;
+                            }
+                            if (dy50 == wei)
+                            {
+                                buttoncs5.Text = yang;
+                            }
+
+                        }
+                        if (rtg == bing)
+                        {
+                            if (dy60 == yin)
+                            {
+                                buttoncs6.Text = changsheng;
+                            }
+                            if (dy60 == mao)
+                            {
+                                buttoncs6.Text = muyu;
+                            }
+                            if (dy60 == chen)
+                            {
+                                buttoncs6.Text = guandai;
+                            }
+                            if (dy60 == sii)
+                            {
+                                buttoncs6.Text = linguan;
+                            }
+                            if (dy60 == wuma)
+                            {
+                                buttoncs6.Text = diwang;
+                            }
+                            if (dy60 == wei)
+                            {
+                                buttoncs6.Text = shuai;
+                            }
+                            if (dy60 == shen)
+                            {
+                                buttoncs6.Text = bingg;
+                            }
+                            if (dy60 == you)
+                            {
+                                buttoncs6.Text = ssii;
+                            }
+                            if (dy60 == xuu)
+                            {
+                                buttoncs6.Text = mmuu;
+                            }
+                            if (dy60 == hai)
+                            {
+                                buttoncs6.Text = jue;
+                            }
+                            if (dy60 == zii)
+                            {
+                                buttoncs6.Text = tai;
+                            }
+                            if (dy60 == chou)
+                            {
+                                buttoncs6.Text = yang;
+                            }
+
+                        }
+                        if (rtg == wuu)
+                        {
+                            if (dy60 == yin)
+                            {
+                                buttoncs6.Text = changsheng;
+                            }
+                            if (dy60 == mao)
+                            {
+                                buttoncs6.Text = muyu;
+                            }
+                            if (dy60 == chen)
+                            {
+                                buttoncs6.Text = guandai;
+                            }
+                            if (dy60 == sii)
+                            {
+                                buttoncs6.Text = linguan;
+                            }
+                            if (dy60 == wuma)
+                            {
+                                buttoncs6.Text = diwang;
+                            }
+                            if (dy60 == wei)
+                            {
+                                buttoncs6.Text = shuai;
+                            }
+                            if (dy60 == shen)
+                            {
+                                buttoncs6.Text = bingg;
+                            }
+                            if (dy60 == you)
+                            {
+                                buttoncs6.Text = ssii;
+                            }
+                            if (dy60 == xuu)
+                            {
+                                buttoncs6.Text = mmuu;
+                            }
+                            if (dy60 == hai)
+                            {
+                                buttoncs6.Text = jue;
+                            }
+                            if (dy60 == zii)
+                            {
+                                buttoncs6.Text = tai;
+                            }
+                            if (dy60 == chou)
+                            {
+                                buttoncs6.Text = yang;
+                            }
+
+                        }
+                        if (rtg == ding)
+                        {
+                            if (dy60 == you)
+                            {
+                                buttoncs6.Text = changsheng;
+                            }
+                            if (dy60 == shen)
+                            {
+                                buttoncs6.Text = muyu;
+                            }
+                            if (dy60 == wei)
+                            {
+                                buttoncs6.Text = guandai;
+                            }
+                            if (dy60 == wuma)
+                            {
+                                buttoncs6.Text = linguan;
+                            }
+                            if (dy60 == sii)
+                            {
+                                buttoncs6.Text = diwang;
+                            }
+                            if (dy60 == chen)
+                            {
+                                buttoncs6.Text = shuai;
+                            }
+                            if (dy60 == mao)
+                            {
+                                buttoncs6.Text = bingg;
+                            }
+                            if (dy60 == yin)
+                            {
+                                buttoncs6.Text = ssii;
+                            }
+                            if (dy60 == chou)
+                            {
+                                buttoncs6.Text = mmuu;
+                            }
+                            if (dy60 == zii)
+                            {
+                                buttoncs6.Text = jue;
+                            }
+                            if (dy60 == hai)
+                            {
+                                buttoncs6.Text = tai;
+                            }
+                            if (dy60 == xuu)
+                            {
+                                buttoncs6.Text = yang;
+                            }
+
+                        }
+                        if (rtg == jii)
+                        {
+                            if (dy60 == you)
+                            {
+                                buttoncs6.Text = changsheng;
+                            }
+                            if (dy60 == shen)
+                            {
+                                buttoncs6.Text = muyu;
+                            }
+                            if (dy60 == wei)
+                            {
+                                buttoncs6.Text = guandai;
+                            }
+                            if (dy60 == wuma)
+                            {
+                                buttoncs6.Text = linguan;
+                            }
+                            if (dy60 == sii)
+                            {
+                                buttoncs6.Text = diwang;
+                            }
+                            if (dy60 == chen)
+                            {
+                                buttoncs6.Text = shuai;
+                            }
+                            if (dy60 == mao)
+                            {
+                                buttoncs6.Text = bingg;
+                            }
+                            if (dy60 == yin)
+                            {
+                                buttoncs6.Text = ssii;
+                            }
+                            if (dy60 == chou)
+                            {
+                                buttoncs6.Text = mmuu;
+                            }
+                            if (dy60 == zii)
+                            {
+                                buttoncs6.Text = jue;
+                            }
+                            if (dy60 == hai)
+                            {
+                                buttoncs6.Text = tai;
+                            }
+                            if (dy60 == xuu)
+                            {
+                                buttoncs6.Text = yang;
+                            }
+
+                        }
+                        if (rtg == yii)
+                        {
+                            if (dy60 == wuma)
+                            {
+                                buttoncs6.Text = changsheng;
+                            }
+                            if (dy60 == sii)
+                            {
+                                buttoncs6.Text = muyu;
+                            }
+                            if (dy60 == chen)
+                            {
+                                buttoncs6.Text = guandai;
+                            }
+                            if (dy60 == mao)
+                            {
+                                buttoncs6.Text = linguan;
+                            }
+                            if (dy60 == yin)
+                            {
+                                buttoncs6.Text = diwang;
+                            }
+                            if (dy60 == chou)
+                            {
+                                buttoncs6.Text = shuai;
+                            }
+                            if (dy60 == zii)
+                            {
+                                buttoncs6.Text = bingg;
+                            }
+                            if (dy60 == hai)
+                            {
+                                buttoncs6.Text = ssii;
+                            }
+                            if (dy60 == xuu)
+                            {
+                                buttoncs6.Text = mmuu;
+                            }
+                            if (dy60 == you)
+                            {
+                                buttoncs6.Text = jue;
+                            }
+                            if (dy60 == shen)
+                            {
+                                buttoncs6.Text = tai;
+                            }
+                            if (dy60 == wei)
+                            {
+                                buttoncs6.Text = yang;
+                            }
+
+                        }
+                        if (rtg == xin)
+                        {
+                            if (dy60 == zii)
+                            {
+                                buttoncs6.Text = changsheng;
+                            }
+                            if (dy60 == hai)
+                            {
+                                buttoncs6.Text = muyu;
+                            }
+                            if (dy60 == xuu)
+                            {
+                                buttoncs6.Text = guandai;
+                            }
+                            if (dy60 == you)
+                            {
+                                buttoncs6.Text = linguan;
+                            }
+                            if (dy60 == shen)
+                            {
+                                buttoncs6.Text = diwang;
+                            }
+                            if (dy60 == wei)
+                            {
+                                buttoncs6.Text = shuai;
+                            }
+                            if (dy60 == wuma)
+                            {
+                                buttoncs6.Text = bingg;
+                            }
+                            if (dy60 == sii)
+                            {
+                                buttoncs6.Text = ssii;
+                            }
+                            if (dy60 == chen)
+                            {
+                                buttoncs6.Text = mmuu;
+                            }
+                            if (dy60 == mao)
+                            {
+                                buttoncs6.Text = jue;
+                            }
+                            if (dy60 == yin)
+                            {
+                                buttoncs6.Text = tai;
+                            }
+                            if (dy60 == chou)
+                            {
+                                buttoncs6.Text = yang;
+                            }
+
+                        }
+                        if (rtg == gui)
+                        {
+                            if (dy60 == mao)
+                            {
+                                buttoncs6.Text = changsheng;
+                            }
+                            if (dy60 == yin)
+                            {
+                                buttoncs6.Text = muyu;
+                            }
+                            if (dy60 == chou)
+                            {
+                                buttoncs6.Text = guandai;
+                            }
+                            if (dy60 == zii)
+                            {
+                                buttoncs6.Text = linguan;
+                            }
+                            if (dy60 == hai)
+                            {
+                                buttoncs6.Text = diwang;
+                            }
+                            if (dy60 == xuu)
+                            {
+                                buttoncs6.Text = shuai;
+                            }
+                            if (dy60 == you)
+                            {
+                                buttoncs6.Text = bingg;
+                            }
+                            if (dy60 == shen)
+                            {
+                                buttoncs6.Text = ssii;
+                            }
+                            if (dy60 == wei)
+                            {
+                                buttoncs6.Text = mmuu;
+                            }
+                            if (dy60 == wuma)
+                            {
+                                buttoncs6.Text = jue;
+                            }
+                            if (dy60 == sii)
+                            {
+                                buttoncs6.Text = tai;
+                            }
+                            if (dy60 == chen)
+                            {
+                                buttoncs6.Text = yang;
+                            }
+
+                        }
+                        if (rtg == jia)
+                        {
+                            if (dy60 == hai)
+                            {
+                                buttoncs6.Text = changsheng;
+                            }
+                            if (dy60 == zii)
+                            {
+                                buttoncs6.Text = muyu;
+                            }
+                            if (dy60 == chou)
+                            {
+                                buttoncs6.Text = guandai;
+                            }
+                            if (dy60 == yin)
+                            {
+                                buttoncs6.Text = linguan;
+                            }
+                            if (dy60 == mao)
+                            {
+                                buttoncs6.Text = diwang;
+                            }
+                            if (dy60 == chen)
+                            {
+                                buttoncs6.Text = shuai;
+                            }
+                            if (dy60 == sii)
+                            {
+                                buttoncs6.Text = bingg;
+                            }
+                            if (dy60 == wuma)
+                            {
+                                buttoncs6.Text = ssii;
+                            }
+                            if (dy60 == wei)
+                            {
+                                buttoncs6.Text = mmuu;
+                            }
+                            if (dy60 == shen)
+                            {
+                                buttoncs6.Text = jue;
+                            }
+                            if (dy60 == you)
+                            {
+                                buttoncs6.Text = tai;
+                            }
+                            if (dy60 == xuu)
+                            {
+                                buttoncs6.Text = yang;
+                            }
+
+                        }
+                        if (rtg == geng)
+                        {
+                            if (dy60 == sii)
+                            {
+                                buttoncs6.Text = changsheng;
+                            }
+                            if (dy60 == wuma)
+                            {
+                                buttoncs6.Text = muyu;
+                            }
+                            if (dy60 == wei)
+                            {
+                                buttoncs6.Text = guandai;
+                            }
+                            if (dy60 == shen)
+                            {
+                                buttoncs6.Text = linguan;
+                            }
+                            if (dy60 == you)
+                            {
+                                buttoncs6.Text = diwang;
+                            }
+                            if (dy60 == xuu)
+                            {
+                                buttoncs6.Text = shuai;
+                            }
+                            if (dy60 == hai)
+                            {
+                                buttoncs6.Text = bingg;
+                            }
+                            if (dy60 == zii)
+                            {
+                                buttoncs6.Text = ssii;
+                            }
+                            if (dy60 == chou)
+                            {
+                                buttoncs6.Text = mmuu;
+                            }
+                            if (dy60 == yin)
+                            {
+                                buttoncs6.Text = jue;
+                            }
+                            if (dy60 == mao)
+                            {
+                                buttoncs6.Text = tai;
+                            }
+                            if (dy60 == chen)
+                            {
+                                buttoncs6.Text = yang;
+                            }
+
+                        }
+                        if (rtg == ren)
+                        {
+                            if (dy60 == shen)
+                            {
+                                buttoncs6.Text = changsheng;
+                            }
+                            if (dy60 == you)
+                            {
+                                buttoncs6.Text = muyu;
+                            }
+                            if (dy60 == xuu)
+                            {
+                                buttoncs6.Text = guandai;
+                            }
+                            if (dy60 == hai)
+                            {
+                                buttoncs6.Text = linguan;
+                            }
+                            if (dy60 == zii)
+                            {
+                                buttoncs6.Text = diwang;
+                            }
+                            if (dy60 == chou)
+                            {
+                                buttoncs6.Text = shuai;
+                            }
+                            if (dy60 == yin)
+                            {
+                                buttoncs6.Text = bingg;
+                            }
+                            if (dy60 == mao)
+                            {
+                                buttoncs6.Text = ssii;
+                            }
+                            if (dy60 == chen)
+                            {
+                                buttoncs6.Text = mmuu;
+                            }
+                            if (dy60 == sii)
+                            {
+                                buttoncs6.Text = jue;
+                            }
+                            if (dy60 == wuma)
+                            {
+                                buttoncs6.Text = tai;
+                            }
+                            if (dy60 == wei)
+                            {
+                                buttoncs6.Text = yang;
+                            }
+
+                        }
+                        if (rtg == bing)
+                        {
+                            if (dy70 == yin)
+                            {
+                                buttoncs7.Text = changsheng;
+                            }
+                            if (dy70 == mao)
+                            {
+                                buttoncs7.Text = muyu;
+                            }
+                            if (dy70 == chen)
+                            {
+                                buttoncs7.Text = guandai;
+                            }
+                            if (dy70 == sii)
+                            {
+                                buttoncs7.Text = linguan;
+                            }
+                            if (dy70 == wuma)
+                            {
+                                buttoncs7.Text = diwang;
+                            }
+                            if (dy70 == wei)
+                            {
+                                buttoncs7.Text = shuai;
+                            }
+                            if (dy70 == shen)
+                            {
+                                buttoncs7.Text = bingg;
+                            }
+                            if (dy70 == you)
+                            {
+                                buttoncs7.Text = ssii;
+                            }
+                            if (dy70 == xuu)
+                            {
+                                buttoncs7.Text = mmuu;
+                            }
+                            if (dy70 == hai)
+                            {
+                                buttoncs7.Text = jue;
+                            }
+                            if (dy70 == zii)
+                            {
+                                buttoncs7.Text = tai;
+                            }
+                            if (dy70 == chou)
+                            {
+                                buttoncs7.Text = yang;
+                            }
+
+                        }
+                        if (rtg == wuu)
+                        {
+                            if (dy70 == yin)
+                            {
+                                buttoncs7.Text = changsheng;
+                            }
+                            if (dy70 == mao)
+                            {
+                                buttoncs7.Text = muyu;
+                            }
+                            if (dy70 == chen)
+                            {
+                                buttoncs7.Text = guandai;
+                            }
+                            if (dy70 == sii)
+                            {
+                                buttoncs7.Text = linguan;
+                            }
+                            if (dy70 == wuma)
+                            {
+                                buttoncs7.Text = diwang;
+                            }
+                            if (dy70 == wei)
+                            {
+                                buttoncs7.Text = shuai;
+                            }
+                            if (dy70 == shen)
+                            {
+                                buttoncs7.Text = bingg;
+                            }
+                            if (dy70 == you)
+                            {
+                                buttoncs7.Text = ssii;
+                            }
+                            if (dy70 == xuu)
+                            {
+                                buttoncs7.Text = mmuu;
+                            }
+                            if (dy70 == hai)
+                            {
+                                buttoncs7.Text = jue;
+                            }
+                            if (dy70 == zii)
+                            {
+                                buttoncs7.Text = tai;
+                            }
+                            if (dy70 == chou)
+                            {
+                                buttoncs7.Text = yang;
+                            }
+
+                        }
+                        if (rtg == ding)
+                        {
+                            if (dy70 == you)
+                            {
+                                buttoncs7.Text = changsheng;
+                            }
+                            if (dy70 == shen)
+                            {
+                                buttoncs7.Text = muyu;
+                            }
+                            if (dy70 == wei)
+                            {
+                                buttoncs7.Text = guandai;
+                            }
+                            if (dy70 == wuma)
+                            {
+                                buttoncs7.Text = linguan;
+                            }
+                            if (dy70 == sii)
+                            {
+                                buttoncs7.Text = diwang;
+                            }
+                            if (dy70 == chen)
+                            {
+                                buttoncs7.Text = shuai;
+                            }
+                            if (dy70 == mao)
+                            {
+                                buttoncs7.Text = bingg;
+                            }
+                            if (dy70 == yin)
+                            {
+                                buttoncs7.Text = ssii;
+                            }
+                            if (dy70 == chou)
+                            {
+                                buttoncs7.Text = mmuu;
+                            }
+                            if (dy70 == zii)
+                            {
+                                buttoncs7.Text = jue;
+                            }
+                            if (dy70 == hai)
+                            {
+                                buttoncs7.Text = tai;
+                            }
+                            if (dy70 == xuu)
+                            {
+                                buttoncs7.Text = yang;
+                            }
+
+                        }
+                        if (rtg == jii)
+                        {
+                            if (dy70 == you)
+                            {
+                                buttoncs7.Text = changsheng;
+                            }
+                            if (dy70 == shen)
+                            {
+                                buttoncs7.Text = muyu;
+                            }
+                            if (dy70 == wei)
+                            {
+                                buttoncs7.Text = guandai;
+                            }
+                            if (dy70 == wuma)
+                            {
+                                buttoncs7.Text = linguan;
+                            }
+                            if (dy70 == sii)
+                            {
+                                buttoncs7.Text = diwang;
+                            }
+                            if (dy70 == chen)
+                            {
+                                buttoncs7.Text = shuai;
+                            }
+                            if (dy70 == mao)
+                            {
+                                buttoncs7.Text = bingg;
+                            }
+                            if (dy70 == yin)
+                            {
+                                buttoncs7.Text = ssii;
+                            }
+                            if (dy70 == chou)
+                            {
+                                buttoncs7.Text = mmuu;
+                            }
+                            if (dy70 == zii)
+                            {
+                                buttoncs7.Text = jue;
+                            }
+                            if (dy70 == hai)
+                            {
+                                buttoncs7.Text = tai;
+                            }
+                            if (dy70 == xuu)
+                            {
+                                buttoncs7.Text = yang;
+                            }
+
+                        }
+                        if (rtg == yii)
+                        {
+                            if (dy70 == wuma)
+                            {
+                                buttoncs7.Text = changsheng;
+                            }
+                            if (dy70 == sii)
+                            {
+                                buttoncs7.Text = muyu;
+                            }
+                            if (dy70 == chen)
+                            {
+                                buttoncs7.Text = guandai;
+                            }
+                            if (dy70 == mao)
+                            {
+                                buttoncs7.Text = linguan;
+                            }
+                            if (dy70 == yin)
+                            {
+                                buttoncs7.Text = diwang;
+                            }
+                            if (dy70 == chou)
+                            {
+                                buttoncs7.Text = shuai;
+                            }
+                            if (dy70 == zii)
+                            {
+                                buttoncs7.Text = bingg;
+                            }
+                            if (dy70 == hai)
+                            {
+                                buttoncs7.Text = ssii;
+                            }
+                            if (dy70 == xuu)
+                            {
+                                buttoncs7.Text = mmuu;
+                            }
+                            if (dy70 == you)
+                            {
+                                buttoncs7.Text = jue;
+                            }
+                            if (dy70 == shen)
+                            {
+                                buttoncs7.Text = tai;
+                            }
+                            if (dy70 == wei)
+                            {
+                                buttoncs7.Text = yang;
+                            }
+
+                        }
+                        if (rtg == xin)
+                        {
+                            if (dy70 == zii)
+                            {
+                                buttoncs7.Text = changsheng;
+                            }
+                            if (dy70 == hai)
+                            {
+                                buttoncs7.Text = muyu;
+                            }
+                            if (dy70 == xuu)
+                            {
+                                buttoncs7.Text = guandai;
+                            }
+                            if (dy70 == you)
+                            {
+                                buttoncs7.Text = linguan;
+                            }
+                            if (dy70 == shen)
+                            {
+                                buttoncs7.Text = diwang;
+                            }
+                            if (dy70 == wei)
+                            {
+                                buttoncs7.Text = shuai;
+                            }
+                            if (dy70 == wuma)
+                            {
+                                buttoncs7.Text = bingg;
+                            }
+                            if (dy70 == sii)
+                            {
+                                buttoncs7.Text = ssii;
+                            }
+                            if (dy70 == chen)
+                            {
+                                buttoncs7.Text = mmuu;
+                            }
+                            if (dy70 == mao)
+                            {
+                                buttoncs7.Text = jue;
+                            }
+                            if (dy70 == yin)
+                            {
+                                buttoncs7.Text = tai;
+                            }
+                            if (dy70 == chou)
+                            {
+                                buttoncs7.Text = yang;
+                            }
+
+                        }
+                        if (rtg == gui)
+                        {
+                            if (dy70 == mao)
+                            {
+                                buttoncs7.Text = changsheng;
+                            }
+                            if (dy70 == yin)
+                            {
+                                buttoncs7.Text = muyu;
+                            }
+                            if (dy70 == chou)
+                            {
+                                buttoncs7.Text = guandai;
+                            }
+                            if (dy70 == zii)
+                            {
+                                buttoncs7.Text = linguan;
+                            }
+                            if (dy70 == hai)
+                            {
+                                buttoncs7.Text = diwang;
+                            }
+                            if (dy70 == xuu)
+                            {
+                                buttoncs7.Text = shuai;
+                            }
+                            if (dy70 == you)
+                            {
+                                buttoncs7.Text = bingg;
+                            }
+                            if (dy70 == shen)
+                            {
+                                buttoncs7.Text = ssii;
+                            }
+                            if (dy70 == wei)
+                            {
+                                buttoncs7.Text = mmuu;
+                            }
+                            if (dy70 == wuma)
+                            {
+                                buttoncs7.Text = jue;
+                            }
+                            if (dy70 == sii)
+                            {
+                                buttoncs7.Text = tai;
+                            }
+                            if (dy70 == chen)
+                            {
+                                buttoncs7.Text = yang;
+                            }
+
+                        }
+                        if (rtg == jia)
+                        {
+                            if (dy70 == hai)
+                            {
+                                buttoncs7.Text = changsheng;
+                            }
+                            if (dy70 == zii)
+                            {
+                                buttoncs7.Text = muyu;
+                            }
+                            if (dy70 == chou)
+                            {
+                                buttoncs7.Text = guandai;
+                            }
+                            if (dy70 == yin)
+                            {
+                                buttoncs7.Text = linguan;
+                            }
+                            if (dy70 == mao)
+                            {
+                                buttoncs7.Text = diwang;
+                            }
+                            if (dy70 == chen)
+                            {
+                                buttoncs7.Text = shuai;
+                            }
+                            if (dy70 == sii)
+                            {
+                                buttoncs7.Text = bingg;
+                            }
+                            if (dy70 == wuma)
+                            {
+                                buttoncs7.Text = ssii;
+                            }
+                            if (dy70 == wei)
+                            {
+                                buttoncs7.Text = mmuu;
+                            }
+                            if (dy70 == shen)
+                            {
+                                buttoncs7.Text = jue;
+                            }
+                            if (dy70 == you)
+                            {
+                                buttoncs7.Text = tai;
+                            }
+                            if (dy70 == xuu)
+                            {
+                                buttoncs7.Text = yang;
+                            }
+
+                        }
+                        if (rtg == geng)
+                        {
+                            if (dy70 == sii)
+                            {
+                                buttoncs7.Text = changsheng;
+                            }
+                            if (dy70 == wuma)
+                            {
+                                buttoncs7.Text = muyu;
+                            }
+                            if (dy70 == wei)
+                            {
+                                buttoncs7.Text = guandai;
+                            }
+                            if (dy70 == shen)
+                            {
+                                buttoncs7.Text = linguan;
+                            }
+                            if (dy70 == you)
+                            {
+                                buttoncs7.Text = diwang;
+                            }
+                            if (dy70 == xuu)
+                            {
+                                buttoncs7.Text = shuai;
+                            }
+                            if (dy70 == hai)
+                            {
+                                buttoncs7.Text = bingg;
+                            }
+                            if (dy70 == zii)
+                            {
+                                buttoncs7.Text = ssii;
+                            }
+                            if (dy70 == chou)
+                            {
+                                buttoncs7.Text = mmuu;
+                            }
+                            if (dy70 == yin)
+                            {
+                                buttoncs7.Text = jue;
+                            }
+                            if (dy70 == mao)
+                            {
+                                buttoncs7.Text = tai;
+                            }
+                            if (dy70 == chen)
+                            {
+                                buttoncs7.Text = yang;
+                            }
+
+                        }
+                        if (rtg == ren)
+                        {
+                            if (dy70 == shen)
+                            {
+                                buttoncs7.Text = changsheng;
+                            }
+                            if (dy70 == you)
+                            {
+                                buttoncs7.Text = muyu;
+                            }
+                            if (dy70 == xuu)
+                            {
+                                buttoncs7.Text = guandai;
+                            }
+                            if (dy70 == hai)
+                            {
+                                buttoncs7.Text = linguan;
+                            }
+                            if (dy70 == zii)
+                            {
+                                buttoncs7.Text = diwang;
+                            }
+                            if (dy70 == chou)
+                            {
+                                buttoncs7.Text = shuai;
+                            }
+                            if (dy70 == yin)
+                            {
+                                buttoncs7.Text = bingg;
+                            }
+                            if (dy70 == mao)
+                            {
+                                buttoncs7.Text = ssii;
+                            }
+                            if (dy70 == chen)
+                            {
+                                buttoncs7.Text = mmuu;
+                            }
+                            if (dy70 == sii)
+                            {
+                                buttoncs7.Text = jue;
+                            }
+                            if (dy70 == wuma)
+                            {
+                                buttoncs7.Text = tai;
+                            }
+                            if (dy70 == wei)
+                            {
+                                buttoncs7.Text = yang;
+                            }
+
+                        }
+                        if (rtg == bing)
+                        {
+                            if (dy80 == yin)
+                            {
+                                buttoncs8.Text = changsheng;
+                            }
+                            if (dy80 == mao)
+                            {
+                                buttoncs8.Text = muyu;
+                            }
+                            if (dy80 == chen)
+                            {
+                                buttoncs8.Text = guandai;
+                            }
+                            if (dy80 == sii)
+                            {
+                                buttoncs8.Text = linguan;
+                            }
+                            if (dy80 == wuma)
+                            {
+                                buttoncs8.Text = diwang;
+                            }
+                            if (dy80 == wei)
+                            {
+                                buttoncs8.Text = shuai;
+                            }
+                            if (dy80 == shen)
+                            {
+                                buttoncs8.Text = bingg;
+                            }
+                            if (dy80 == you)
+                            {
+                                buttoncs8.Text = ssii;
+                            }
+                            if (dy80 == xuu)
+                            {
+                                buttoncs8.Text = mmuu;
+                            }
+                            if (dy80 == hai)
+                            {
+                                buttoncs8.Text = jue;
+                            }
+                            if (dy80 == zii)
+                            {
+                                buttoncs8.Text = tai;
+                            }
+                            if (dy80 == chou)
+                            {
+                                buttoncs8.Text = yang;
+                            }
+
+                        }
+                        if (rtg == wuu)
+                        {
+                            if (dy80 == yin)
+                            {
+                                buttoncs8.Text = changsheng;
+                            }
+                            if (dy80 == mao)
+                            {
+                                buttoncs8.Text = muyu;
+                            }
+                            if (dy80 == chen)
+                            {
+                                buttoncs8.Text = guandai;
+                            }
+                            if (dy80 == sii)
+                            {
+                                buttoncs8.Text = linguan;
+                            }
+                            if (dy80 == wuma)
+                            {
+                                buttoncs8.Text = diwang;
+                            }
+                            if (dy80 == wei)
+                            {
+                                buttoncs8.Text = shuai;
+                            }
+                            if (dy80 == shen)
+                            {
+                                buttoncs8.Text = bingg;
+                            }
+                            if (dy80 == you)
+                            {
+                                buttoncs8.Text = ssii;
+                            }
+                            if (dy80 == xuu)
+                            {
+                                buttoncs8.Text = mmuu;
+                            }
+                            if (dy80 == hai)
+                            {
+                                buttoncs8.Text = jue;
+                            }
+                            if (dy80 == zii)
+                            {
+                                buttoncs8.Text = tai;
+                            }
+                            if (dy80 == chou)
+                            {
+                                buttoncs8.Text = yang;
+                            }
+
+                        }
+                        if (rtg == ding)
+                        {
+                            if (dy80 == you)
+                            {
+                                buttoncs8.Text = changsheng;
+                            }
+                            if (dy80 == shen)
+                            {
+                                buttoncs8.Text = muyu;
+                            }
+                            if (dy80 == wei)
+                            {
+                                buttoncs8.Text = guandai;
+                            }
+                            if (dy80 == wuma)
+                            {
+                                buttoncs8.Text = linguan;
+                            }
+                            if (dy80 == sii)
+                            {
+                                buttoncs8.Text = diwang;
+                            }
+                            if (dy80 == chen)
+                            {
+                                buttoncs8.Text = shuai;
+                            }
+                            if (dy80 == mao)
+                            {
+                                buttoncs8.Text = bingg;
+                            }
+                            if (dy80 == yin)
+                            {
+                                buttoncs8.Text = ssii;
+                            }
+                            if (dy80 == chou)
+                            {
+                                buttoncs8.Text = mmuu;
+                            }
+                            if (dy80 == zii)
+                            {
+                                buttoncs8.Text = jue;
+                            }
+                            if (dy80 == hai)
+                            {
+                                buttoncs8.Text = tai;
+                            }
+                            if (dy80 == xuu)
+                            {
+                                buttoncs8.Text = yang;
+                            }
+
+                        }
+                        if (rtg == jii)
+                        {
+                            if (dy80 == you)
+                            {
+                                buttoncs8.Text = changsheng;
+                            }
+                            if (dy80 == shen)
+                            {
+                                buttoncs8.Text = muyu;
+                            }
+                            if (dy80 == wei)
+                            {
+                                buttoncs8.Text = guandai;
+                            }
+                            if (dy80 == wuma)
+                            {
+                                buttoncs8.Text = linguan;
+                            }
+                            if (dy80 == sii)
+                            {
+                                buttoncs8.Text = diwang;
+                            }
+                            if (dy80 == chen)
+                            {
+                                buttoncs8.Text = shuai;
+                            }
+                            if (dy80 == mao)
+                            {
+                                buttoncs8.Text = bingg;
+                            }
+                            if (dy80 == yin)
+                            {
+                                buttoncs8.Text = ssii;
+                            }
+                            if (dy80 == chou)
+                            {
+                                buttoncs8.Text = mmuu;
+                            }
+                            if (dy80 == zii)
+                            {
+                                buttoncs8.Text = jue;
+                            }
+                            if (dy80 == hai)
+                            {
+                                buttoncs8.Text = tai;
+                            }
+                            if (dy80 == xuu)
+                            {
+                                buttoncs8.Text = yang;
+                            }
+
+                        }
+                        if (rtg == yii)
+                        {
+                            if (dy80 == wuma)
+                            {
+                                buttoncs8.Text = changsheng;
+                            }
+                            if (dy80 == sii)
+                            {
+                                buttoncs8.Text = muyu;
+                            }
+                            if (dy80 == chen)
+                            {
+                                buttoncs8.Text = guandai;
+                            }
+                            if (dy80 == mao)
+                            {
+                                buttoncs8.Text = linguan;
+                            }
+                            if (dy80 == yin)
+                            {
+                                buttoncs8.Text = diwang;
+                            }
+                            if (dy80 == chou)
+                            {
+                                buttoncs8.Text = shuai;
+                            }
+                            if (dy80 == zii)
+                            {
+                                buttoncs8.Text = bingg;
+                            }
+                            if (dy80 == hai)
+                            {
+                                buttoncs8.Text = ssii;
+                            }
+                            if (dy80 == xuu)
+                            {
+                                buttoncs8.Text = mmuu;
+                            }
+                            if (dy80 == you)
+                            {
+                                buttoncs8.Text = jue;
+                            }
+                            if (dy80 == shen)
+                            {
+                                buttoncs8.Text = tai;
+                            }
+                            if (dy80 == wei)
+                            {
+                                buttoncs8.Text = yang;
+                            }
+
+                        }
+                        if (rtg == xin)
+                        {
+                            if (dy80 == zii)
+                            {
+                                buttoncs8.Text = changsheng;
+                            }
+                            if (dy80 == hai)
+                            {
+                                buttoncs8.Text = muyu;
+                            }
+                            if (dy80 == xuu)
+                            {
+                                buttoncs8.Text = guandai;
+                            }
+                            if (dy80 == you)
+                            {
+                                buttoncs8.Text = linguan;
+                            }
+                            if (dy80 == shen)
+                            {
+                                buttoncs8.Text = diwang;
+                            }
+                            if (dy80 == wei)
+                            {
+                                buttoncs8.Text = shuai;
+                            }
+                            if (dy80 == wuma)
+                            {
+                                buttoncs8.Text = bingg;
+                            }
+                            if (dy80 == sii)
+                            {
+                                buttoncs8.Text = ssii;
+                            }
+                            if (dy80 == chen)
+                            {
+                                buttoncs8.Text = mmuu;
+                            }
+                            if (dy80 == mao)
+                            {
+                                buttoncs8.Text = jue;
+                            }
+                            if (dy80 == yin)
+                            {
+                                buttoncs8.Text = tai;
+                            }
+                            if (dy80 == chou)
+                            {
+                                buttoncs8.Text = yang;
+                            }
+
+                        }
+                        if (rtg == gui)
+                        {
+                            if (dy80 == mao)
+                            {
+                                buttoncs8.Text = changsheng;
+                            }
+                            if (dy80 == yin)
+                            {
+                                buttoncs8.Text = muyu;
+                            }
+                            if (dy80 == chou)
+                            {
+                                buttoncs8.Text = guandai;
+                            }
+                            if (dy80 == zii)
+                            {
+                                buttoncs8.Text = linguan;
+                            }
+                            if (dy80 == hai)
+                            {
+                                buttoncs8.Text = diwang;
+                            }
+                            if (dy80 == xuu)
+                            {
+                                buttoncs8.Text = shuai;
+                            }
+                            if (dy80 == you)
+                            {
+                                buttoncs8.Text = bingg;
+                            }
+                            if (dy80 == shen)
+                            {
+                                buttoncs8.Text = ssii;
+                            }
+                            if (dy80 == wei)
+                            {
+                                buttoncs8.Text = mmuu;
+                            }
+                            if (dy80 == wuma)
+                            {
+                                buttoncs8.Text = jue;
+                            }
+                            if (dy80 == sii)
+                            {
+                                buttoncs8.Text = tai;
+                            }
+                            if (dy80 == chen)
+                            {
+                                buttoncs8.Text = yang;
+                            }
+
+                        }
+                        if (rtg == jia)
+                        {
+                            if (dy80 == hai)
+                            {
+                                buttoncs8.Text = changsheng;
+                            }
+                            if (dy80 == zii)
+                            {
+                                buttoncs8.Text = muyu;
+                            }
+                            if (dy80 == chou)
+                            {
+                                buttoncs8.Text = guandai;
+                            }
+                            if (dy80 == yin)
+                            {
+                                buttoncs8.Text = linguan;
+                            }
+                            if (dy80 == mao)
+                            {
+                                buttoncs8.Text = diwang;
+                            }
+                            if (dy80 == chen)
+                            {
+                                buttoncs8.Text = shuai;
+                            }
+                            if (dy80 == sii)
+                            {
+                                buttoncs8.Text = bingg;
+                            }
+                            if (dy80 == wuma)
+                            {
+                                buttoncs8.Text = ssii;
+                            }
+                            if (dy80 == wei)
+                            {
+                                buttoncs8.Text = mmuu;
+                            }
+                            if (dy80 == shen)
+                            {
+                                buttoncs8.Text = jue;
+                            }
+                            if (dy80 == you)
+                            {
+                                buttoncs8.Text = tai;
+                            }
+                            if (dy80 == xuu)
+                            {
+                                buttoncs8.Text = yang;
+                            }
+
+                        }
+                        if (rtg == geng)
+                        {
+                            if (dy80 == sii)
+                            {
+                                buttoncs8.Text = changsheng;
+                            }
+                            if (dy80 == wuma)
+                            {
+                                buttoncs8.Text = muyu;
+                            }
+                            if (dy80 == wei)
+                            {
+                                buttoncs8.Text = guandai;
+                            }
+                            if (dy80 == shen)
+                            {
+                                buttoncs8.Text = linguan;
+                            }
+                            if (dy80 == you)
+                            {
+                                buttoncs8.Text = diwang;
+                            }
+                            if (dy80 == xuu)
+                            {
+                                buttoncs8.Text = shuai;
+                            }
+                            if (dy80 == hai)
+                            {
+                                buttoncs8.Text = bingg;
+                            }
+                            if (dy80 == zii)
+                            {
+                                buttoncs8.Text = ssii;
+                            }
+                            if (dy80 == chou)
+                            {
+                                buttoncs8.Text = mmuu;
+                            }
+                            if (dy80 == yin)
+                            {
+                                buttoncs8.Text = jue;
+                            }
+                            if (dy80 == mao)
+                            {
+                                buttoncs8.Text = tai;
+                            }
+                            if (dy80 == chen)
+                            {
+                                buttoncs8.Text = yang;
+                            }
+
+                        }
+                        if (rtg == ren)
+                        {
+                            if (dy80 == shen)
+                            {
+                                buttoncs8.Text = changsheng;
+                            }
+                            if (dy80 == you)
+                            {
+                                buttoncs8.Text = muyu;
+                            }
+                            if (dy80 == xuu)
+                            {
+                                buttoncs8.Text = guandai;
+                            }
+                            if (dy80 == hai)
+                            {
+                                buttoncs8.Text = linguan;
+                            }
+                            if (dy80 == zii)
+                            {
+                                buttoncs8.Text = diwang;
+                            }
+                            if (dy80 == chou)
+                            {
+                                buttoncs8.Text = shuai;
+                            }
+                            if (dy80 == yin)
+                            {
+                                buttoncs8.Text = bingg;
+                            }
+                            if (dy80 == mao)
+                            {
+                                buttoncs8.Text = ssii;
+                            }
+                            if (dy80 == chen)
+                            {
+                                buttoncs8.Text = mmuu;
+                            }
+                            if (dy80 == sii)
+                            {
+                                buttoncs8.Text = jue;
+                            }
+                            if (dy80 == wuma)
+                            {
+                                buttoncs8.Text = tai;
+                            }
+                            if (dy80 == wei)
+                            {
+                                buttoncs8.Text = yang;
+                            }
+
+                        }
+                        if (rtg == bing)
+                        {
+                            if (dy90 == yin)
+                            {
+                                buttoncs9.Text = changsheng;
+                            }
+                            if (dy90 == mao)
+                            {
+                                buttoncs9.Text = muyu;
+                            }
+                            if (dy90 == chen)
+                            {
+                                buttoncs9.Text = guandai;
+                            }
+                            if (dy90 == sii)
+                            {
+                                buttoncs9.Text = linguan;
+                            }
+                            if (dy90 == wuma)
+                            {
+                                buttoncs9.Text = diwang;
+                            }
+                            if (dy90 == wei)
+                            {
+                                buttoncs9.Text = shuai;
+                            }
+                            if (dy90 == shen)
+                            {
+                                buttoncs9.Text = bingg;
+                            }
+                            if (dy90 == you)
+                            {
+                                buttoncs9.Text = ssii;
+                            }
+                            if (dy90 == xuu)
+                            {
+                                buttoncs9.Text = mmuu;
+                            }
+                            if (dy90 == hai)
+                            {
+                                buttoncs9.Text = jue;
+                            }
+                            if (dy90 == zii)
+                            {
+                                buttoncs9.Text = tai;
+                            }
+                            if (dy90 == chou)
+                            {
+                                buttoncs9.Text = yang;
+                            }
+
+                        }
+                        if (rtg == wuu)
+                        {
+                            if (dy90 == yin)
+                            {
+                                buttoncs9.Text = changsheng;
+                            }
+                            if (dy90 == mao)
+                            {
+                                buttoncs9.Text = muyu;
+                            }
+                            if (dy90 == chen)
+                            {
+                                buttoncs9.Text = guandai;
+                            }
+                            if (dy90 == sii)
+                            {
+                                buttoncs9.Text = linguan;
+                            }
+                            if (dy90 == wuma)
+                            {
+                                buttoncs9.Text = diwang;
+                            }
+                            if (dy90 == wei)
+                            {
+                                buttoncs9.Text = shuai;
+                            }
+                            if (dy90 == shen)
+                            {
+                                buttoncs9.Text = bingg;
+                            }
+                            if (dy90 == you)
+                            {
+                                buttoncs9.Text = ssii;
+                            }
+                            if (dy90 == xuu)
+                            {
+                                buttoncs9.Text = mmuu;
+                            }
+                            if (dy90 == hai)
+                            {
+                                buttoncs9.Text = jue;
+                            }
+                            if (dy90 == zii)
+                            {
+                                buttoncs9.Text = tai;
+                            }
+                            if (dy90 == chou)
+                            {
+                                buttoncs9.Text = yang;
+                            }
+
+                        }
+                        if (rtg == ding)
+                        {
+                            if (dy90 == you)
+                            {
+                                buttoncs9.Text = changsheng;
+                            }
+                            if (dy90 == shen)
+                            {
+                                buttoncs9.Text = muyu;
+                            }
+                            if (dy90 == wei)
+                            {
+                                buttoncs9.Text = guandai;
+                            }
+                            if (dy90 == wuma)
+                            {
+                                buttoncs9.Text = linguan;
+                            }
+                            if (dy90 == sii)
+                            {
+                                buttoncs9.Text = diwang;
+                            }
+                            if (dy90 == chen)
+                            {
+                                buttoncs9.Text = shuai;
+                            }
+                            if (dy90 == mao)
+                            {
+                                buttoncs9.Text = bingg;
+                            }
+                            if (dy90 == yin)
+                            {
+                                buttoncs9.Text = ssii;
+                            }
+                            if (dy90 == chou)
+                            {
+                                buttoncs9.Text = mmuu;
+                            }
+                            if (dy90 == zii)
+                            {
+                                buttoncs9.Text = jue;
+                            }
+                            if (dy90 == hai)
+                            {
+                                buttoncs9.Text = tai;
+                            }
+                            if (dy90 == xuu)
+                            {
+                                buttoncs9.Text = yang;
+                            }
+
+                        }
+                        if (rtg == jii)
+                        {
+                            if (dy90 == you)
+                            {
+                                buttoncs9.Text = changsheng;
+                            }
+                            if (dy90 == shen)
+                            {
+                                buttoncs9.Text = muyu;
+                            }
+                            if (dy90 == wei)
+                            {
+                                buttoncs9.Text = guandai;
+                            }
+                            if (dy90 == wuma)
+                            {
+                                buttoncs9.Text = linguan;
+                            }
+                            if (dy90 == sii)
+                            {
+                                buttoncs9.Text = diwang;
+                            }
+                            if (dy90 == chen)
+                            {
+                                buttoncs9.Text = shuai;
+                            }
+                            if (dy90 == mao)
+                            {
+                                buttoncs9.Text = bingg;
+                            }
+                            if (dy90 == yin)
+                            {
+                                buttoncs9.Text = ssii;
+                            }
+                            if (dy90 == chou)
+                            {
+                                buttoncs9.Text = mmuu;
+                            }
+                            if (dy90 == zii)
+                            {
+                                buttoncs9.Text = jue;
+                            }
+                            if (dy90 == hai)
+                            {
+                                buttoncs9.Text = tai;
+                            }
+                            if (dy90 == xuu)
+                            {
+                                buttoncs9.Text = yang;
+                            }
+
+                        }
+                        if (rtg == yii)
+                        {
+                            if (dy90 == wuma)
+                            {
+                                buttoncs9.Text = changsheng;
+                            }
+                            if (dy90 == sii)
+                            {
+                                buttoncs9.Text = muyu;
+                            }
+                            if (dy90 == chen)
+                            {
+                                buttoncs9.Text = guandai;
+                            }
+                            if (dy90 == mao)
+                            {
+                                buttoncs9.Text = linguan;
+                            }
+                            if (dy90 == yin)
+                            {
+                                buttoncs9.Text = diwang;
+                            }
+                            if (dy90 == chou)
+                            {
+                                buttoncs9.Text = shuai;
+                            }
+                            if (dy90 == zii)
+                            {
+                                buttoncs9.Text = bingg;
+                            }
+                            if (dy90 == hai)
+                            {
+                                buttoncs9.Text = ssii;
+                            }
+                            if (dy90 == xuu)
+                            {
+                                buttoncs9.Text = mmuu;
+                            }
+                            if (dy90 == you)
+                            {
+                                buttoncs9.Text = jue;
+                            }
+                            if (dy90 == shen)
+                            {
+                                buttoncs9.Text = tai;
+                            }
+                            if (dy90 == wei)
+                            {
+                                buttoncs9.Text = yang;
+                            }
+
+                        }
+                        if (rtg == xin)
+                        {
+                            if (dy90 == zii)
+                            {
+                                buttoncs9.Text = changsheng;
+                            }
+                            if (dy90 == hai)
+                            {
+                                buttoncs9.Text = muyu;
+                            }
+                            if (dy90 == xuu)
+                            {
+                                buttoncs9.Text = guandai;
+                            }
+                            if (dy90 == you)
+                            {
+                                buttoncs9.Text = linguan;
+                            }
+                            if (dy90 == shen)
+                            {
+                                buttoncs9.Text = diwang;
+                            }
+                            if (dy90 == wei)
+                            {
+                                buttoncs9.Text = shuai;
+                            }
+                            if (dy90 == wuma)
+                            {
+                                buttoncs9.Text = bingg;
+                            }
+                            if (dy90 == sii)
+                            {
+                                buttoncs9.Text = ssii;
+                            }
+                            if (dy90 == chen)
+                            {
+                                buttoncs9.Text = mmuu;
+                            }
+                            if (dy90 == mao)
+                            {
+                                buttoncs9.Text = jue;
+                            }
+                            if (dy90 == yin)
+                            {
+                                buttoncs9.Text = tai;
+                            }
+                            if (dy90 == chou)
+                            {
+                                buttoncs9.Text = yang;
+                            }
+
+                        }
+                        if (rtg == gui)
+                        {
+                            if (dy90 == mao)
+                            {
+                                buttoncs9.Text = changsheng;
+                            }
+                            if (dy90 == yin)
+                            {
+                                buttoncs9.Text = muyu;
+                            }
+                            if (dy90 == chou)
+                            {
+                                buttoncs9.Text = guandai;
+                            }
+                            if (dy90 == zii)
+                            {
+                                buttoncs9.Text = linguan;
+                            }
+                            if (dy90 == hai)
+                            {
+                                buttoncs9.Text = diwang;
+                            }
+                            if (dy90 == xuu)
+                            {
+                                buttoncs9.Text = shuai;
+                            }
+                            if (dy90 == you)
+                            {
+                                buttoncs9.Text = bingg;
+                            }
+                            if (dy90 == shen)
+                            {
+                                buttoncs9.Text = ssii;
+                            }
+                            if (dy90 == wei)
+                            {
+                                buttoncs9.Text = mmuu;
+                            }
+                            if (dy90 == wuma)
+                            {
+                                buttoncs9.Text = jue;
+                            }
+                            if (dy90 == sii)
+                            {
+                                buttoncs9.Text = tai;
+                            }
+                            if (dy90 == chen)
+                            {
+                                buttoncs9.Text = yang;
+                            }
+
+                        }
+                        if (rtg == jia)
+                        {
+                            if (dy90 == hai)
+                            {
+                                buttoncs9.Text = changsheng;
+                            }
+                            if (dy90 == zii)
+                            {
+                                buttoncs9.Text = muyu;
+                            }
+                            if (dy90 == chou)
+                            {
+                                buttoncs9.Text = guandai;
+                            }
+                            if (dy90 == yin)
+                            {
+                                buttoncs9.Text = linguan;
+                            }
+                            if (dy90 == mao)
+                            {
+                                buttoncs9.Text = diwang;
+                            }
+                            if (dy90 == chen)
+                            {
+                                buttoncs9.Text = shuai;
+                            }
+                            if (dy90 == sii)
+                            {
+                                buttoncs9.Text = bingg;
+                            }
+                            if (dy90 == wuma)
+                            {
+                                buttoncs9.Text = ssii;
+                            }
+                            if (dy90 == wei)
+                            {
+                                buttoncs9.Text = mmuu;
+                            }
+                            if (dy90 == shen)
+                            {
+                                buttoncs9.Text = jue;
+                            }
+                            if (dy90 == you)
+                            {
+                                buttoncs9.Text = tai;
+                            }
+                            if (dy90 == xuu)
+                            {
+                                buttoncs9.Text = yang;
+                            }
+
+                        }
+                        if (rtg == geng)
+                        {
+                            if (dy90 == sii)
+                            {
+                                buttoncs9.Text = changsheng;
+                            }
+                            if (dy90 == wuma)
+                            {
+                                buttoncs9.Text = muyu;
+                            }
+                            if (dy90 == wei)
+                            {
+                                buttoncs9.Text = guandai;
+                            }
+                            if (dy90 == shen)
+                            {
+                                buttoncs9.Text = linguan;
+                            }
+                            if (dy90 == you)
+                            {
+                                buttoncs9.Text = diwang;
+                            }
+                            if (dy90 == xuu)
+                            {
+                                buttoncs9.Text = shuai;
+                            }
+                            if (dy90 == hai)
+                            {
+                                buttoncs9.Text = bingg;
+                            }
+                            if (dy90 == zii)
+                            {
+                                buttoncs9.Text = ssii;
+                            }
+                            if (dy90 == chou)
+                            {
+                                buttoncs9.Text = mmuu;
+                            }
+                            if (dy90 == yin)
+                            {
+                                buttoncs9.Text = jue;
+                            }
+                            if (dy90 == mao)
+                            {
+                                buttoncs9.Text = tai;
+                            }
+                            if (dy90 == chen)
+                            {
+                                buttoncs9.Text = yang;
+                            }
+
+                        }
+                        if (rtg == ren)
+                        {
+                            if (dy90 == shen)
+                            {
+                                buttoncs9.Text = changsheng;
+                            }
+                            if (dy90 == you)
+                            {
+                                buttoncs9.Text = muyu;
+                            }
+                            if (dy90 == xuu)
+                            {
+                                buttoncs9.Text = guandai;
+                            }
+                            if (dy90 == hai)
+                            {
+                                buttoncs9.Text = linguan;
+                            }
+                            if (dy90 == zii)
+                            {
+                                buttoncs9.Text = diwang;
+                            }
+                            if (dy90 == chou)
+                            {
+                                buttoncs9.Text = shuai;
+                            }
+                            if (dy90 == yin)
+                            {
+                                buttoncs9.Text = bingg;
+                            }
+                            if (dy90 == mao)
+                            {
+                                buttoncs9.Text = ssii;
+                            }
+                            if (dy90 == chen)
+                            {
+                                buttoncs9.Text = mmuu;
+                            }
+                            if (dy90 == sii)
+                            {
+                                buttoncs9.Text = jue;
+                            }
+                            if (dy90 == wuma)
+                            {
+                                buttoncs9.Text = tai;
+                            }
+                            if (dy90 == wei)
+                            {
+                                buttoncs9.Text = yang;
+                            }
+
+                        }
+                        if (rtg == bing)
+                        {
+                            if (dy100 == yin)
+                            {
+                                buttoncs10.Text = changsheng;
+                            }
+                            if (dy100 == mao)
+                            {
+                                buttoncs10.Text = muyu;
+                            }
+                            if (dy100 == chen)
+                            {
+                                buttoncs10.Text = guandai;
+                            }
+                            if (dy100 == sii)
+                            {
+                                buttoncs10.Text = linguan;
+                            }
+                            if (dy100 == wuma)
+                            {
+                                buttoncs10.Text = diwang;
+                            }
+                            if (dy100 == wei)
+                            {
+                                buttoncs10.Text = shuai;
+                            }
+                            if (dy100 == shen)
+                            {
+                                buttoncs10.Text = bingg;
+                            }
+                            if (dy100 == you)
+                            {
+                                buttoncs10.Text = ssii;
+                            }
+                            if (dy100 == xuu)
+                            {
+                                buttoncs10.Text = mmuu;
+                            }
+                            if (dy100 == hai)
+                            {
+                                buttoncs10.Text = jue;
+                            }
+                            if (dy100 == zii)
+                            {
+                                buttoncs10.Text = tai;
+                            }
+                            if (dy100 == chou)
+                            {
+                                buttoncs10.Text = yang;
+                            }
+
+                        }
+                        if (rtg == wuu)
+                        {
+                            if (dy100 == yin)
+                            {
+                                buttoncs10.Text = changsheng;
+                            }
+                            if (dy100 == mao)
+                            {
+                                buttoncs10.Text = muyu;
+                            }
+                            if (dy100 == chen)
+                            {
+                                buttoncs10.Text = guandai;
+                            }
+                            if (dy100 == sii)
+                            {
+                                buttoncs10.Text = linguan;
+                            }
+                            if (dy100 == wuma)
+                            {
+                                buttoncs10.Text = diwang;
+                            }
+                            if (dy100 == wei)
+                            {
+                                buttoncs10.Text = shuai;
+                            }
+                            if (dy100 == shen)
+                            {
+                                buttoncs10.Text = bingg;
+                            }
+                            if (dy100 == you)
+                            {
+                                buttoncs10.Text = ssii;
+                            }
+                            if (dy100 == xuu)
+                            {
+                                buttoncs10.Text = mmuu;
+                            }
+                            if (dy100 == hai)
+                            {
+                                buttoncs10.Text = jue;
+                            }
+                            if (dy100 == zii)
+                            {
+                                buttoncs10.Text = tai;
+                            }
+                            if (dy100 == chou)
+                            {
+                                buttoncs10.Text = yang;
+                            }
+
+                        }
+                        if (rtg == ding)
+                        {
+                            if (dy100 == you)
+                            {
+                                buttoncs10.Text = changsheng;
+                            }
+                            if (dy100 == shen)
+                            {
+                                buttoncs10.Text = muyu;
+                            }
+                            if (dy100 == wei)
+                            {
+                                buttoncs10.Text = guandai;
+                            }
+                            if (dy100 == wuma)
+                            {
+                                buttoncs10.Text = linguan;
+                            }
+                            if (dy100 == sii)
+                            {
+                                buttoncs10.Text = diwang;
+                            }
+                            if (dy100 == chen)
+                            {
+                                buttoncs10.Text = shuai;
+                            }
+                            if (dy100 == mao)
+                            {
+                                buttoncs10.Text = bingg;
+                            }
+                            if (dy100 == yin)
+                            {
+                                buttoncs10.Text = ssii;
+                            }
+                            if (dy100 == chou)
+                            {
+                                buttoncs10.Text = mmuu;
+                            }
+                            if (dy100 == zii)
+                            {
+                                buttoncs10.Text = jue;
+                            }
+                            if (dy100 == hai)
+                            {
+                                buttoncs10.Text = tai;
+                            }
+                            if (dy100 == xuu)
+                            {
+                                buttoncs10.Text = yang;
+                            }
+
+                        }
+                        if (rtg == jii)
+                        {
+                            if (dy100 == you)
+                            {
+                                buttoncs10.Text = changsheng;
+                            }
+                            if (dy100 == shen)
+                            {
+                                buttoncs10.Text = muyu;
+                            }
+                            if (dy100 == wei)
+                            {
+                                buttoncs10.Text = guandai;
+                            }
+                            if (dy100 == wuma)
+                            {
+                                buttoncs10.Text = linguan;
+                            }
+                            if (dy100 == sii)
+                            {
+                                buttoncs10.Text = diwang;
+                            }
+                            if (dy100 == chen)
+                            {
+                                buttoncs10.Text = shuai;
+                            }
+                            if (dy100 == mao)
+                            {
+                                buttoncs10.Text = bingg;
+                            }
+                            if (dy100 == yin)
+                            {
+                                buttoncs10.Text = ssii;
+                            }
+                            if (dy100 == chou)
+                            {
+                                buttoncs10.Text = mmuu;
+                            }
+                            if (dy100 == zii)
+                            {
+                                buttoncs10.Text = jue;
+                            }
+                            if (dy100 == hai)
+                            {
+                                buttoncs10.Text = tai;
+                            }
+                            if (dy100 == xuu)
+                            {
+                                buttoncs10.Text = yang;
+                            }
+
+                        }
+                        if (rtg == yii)
+                        {
+                            if (dy100 == wuma)
+                            {
+                                buttoncs10.Text = changsheng;
+                            }
+                            if (dy100 == sii)
+                            {
+                                buttoncs10.Text = muyu;
+                            }
+                            if (dy100 == chen)
+                            {
+                                buttoncs10.Text = guandai;
+                            }
+                            if (dy100 == mao)
+                            {
+                                buttoncs10.Text = linguan;
+                            }
+                            if (dy100 == yin)
+                            {
+                                buttoncs10.Text = diwang;
+                            }
+                            if (dy100 == chou)
+                            {
+                                buttoncs10.Text = shuai;
+                            }
+                            if (dy100 == zii)
+                            {
+                                buttoncs10.Text = bingg;
+                            }
+                            if (dy100 == hai)
+                            {
+                                buttoncs10.Text = ssii;
+                            }
+                            if (dy100 == xuu)
+                            {
+                                buttoncs10.Text = mmuu;
+                            }
+                            if (dy100 == you)
+                            {
+                                buttoncs10.Text = jue;
+                            }
+                            if (dy100 == shen)
+                            {
+                                buttoncs10.Text = tai;
+                            }
+                            if (dy100 == wei)
+                            {
+                                buttoncs10.Text = yang;
+                            }
+
+                        }
+                        if (rtg == xin)
+                        {
+                            if (dy100 == zii)
+                            {
+                                buttoncs10.Text = changsheng;
+                            }
+                            if (dy100 == hai)
+                            {
+                                buttoncs10.Text = muyu;
+                            }
+                            if (dy100 == xuu)
+                            {
+                                buttoncs10.Text = guandai;
+                            }
+                            if (dy100 == you)
+                            {
+                                buttoncs10.Text = linguan;
+                            }
+                            if (dy100 == shen)
+                            {
+                                buttoncs10.Text = diwang;
+                            }
+                            if (dy100 == wei)
+                            {
+                                buttoncs10.Text = shuai;
+                            }
+                            if (dy100 == wuma)
+                            {
+                                buttoncs10.Text = bingg;
+                            }
+                            if (dy100 == sii)
+                            {
+                                buttoncs10.Text = ssii;
+                            }
+                            if (dy100 == chen)
+                            {
+                                buttoncs10.Text = mmuu;
+                            }
+                            if (dy100 == mao)
+                            {
+                                buttoncs10.Text = jue;
+                            }
+                            if (dy100 == yin)
+                            {
+                                buttoncs10.Text = tai;
+                            }
+                            if (dy100 == chou)
+                            {
+                                buttoncs10.Text = yang;
+                            }
+
+                        }
+                        if (rtg == gui)
+                        {
+                            if (dy100 == mao)
+                            {
+                                buttoncs10.Text = changsheng;
+                            }
+                            if (dy100 == yin)
+                            {
+                                buttoncs10.Text = muyu;
+                            }
+                            if (dy100 == chou)
+                            {
+                                buttoncs10.Text = guandai;
+                            }
+                            if (dy100 == zii)
+                            {
+                                buttoncs10.Text = linguan;
+                            }
+                            if (dy100 == hai)
+                            {
+                                buttoncs10.Text = diwang;
+                            }
+                            if (dy100 == xuu)
+                            {
+                                buttoncs10.Text = shuai;
+                            }
+                            if (dy100 == you)
+                            {
+                                buttoncs10.Text = bingg;
+                            }
+                            if (dy100 == shen)
+                            {
+                                buttoncs10.Text = ssii;
+                            }
+                            if (dy100 == wei)
+                            {
+                                buttoncs10.Text = mmuu;
+                            }
+                            if (dy100 == wuma)
+                            {
+                                buttoncs10.Text = jue;
+                            }
+                            if (dy100 == sii)
+                            {
+                                buttoncs10.Text = tai;
+                            }
+                            if (dy100 == chen)
+                            {
+                                buttoncs10.Text = yang;
+                            }
+
+                        }
+                        if (rtg == jia)
+                        {
+                            if (dy100 == hai)
+                            {
+                                buttoncs10.Text = changsheng;
+                            }
+                            if (dy100 == zii)
+                            {
+                                buttoncs10.Text = muyu;
+                            }
+                            if (dy100 == chou)
+                            {
+                                buttoncs10.Text = guandai;
+                            }
+                            if (dy100 == yin)
+                            {
+                                buttoncs10.Text = linguan;
+                            }
+                            if (dy100 == mao)
+                            {
+                                buttoncs10.Text = diwang;
+                            }
+                            if (dy100 == chen)
+                            {
+                                buttoncs10.Text = shuai;
+                            }
+                            if (dy100 == sii)
+                            {
+                                buttoncs10.Text = bingg;
+                            }
+                            if (dy100 == wuma)
+                            {
+                                buttoncs10.Text = ssii;
+                            }
+                            if (dy100 == wei)
+                            {
+                                buttoncs10.Text = mmuu;
+                            }
+                            if (dy100 == shen)
+                            {
+                                buttoncs10.Text = jue;
+                            }
+                            if (dy100 == you)
+                            {
+                                buttoncs10.Text = tai;
+                            }
+                            if (dy100 == xuu)
+                            {
+                                buttoncs10.Text = yang;
+                            }
+
+                        }
+                        if (rtg == geng)
+                        {
+                            if (dy100 == sii)
+                            {
+                                buttoncs10.Text = changsheng;
+                            }
+                            if (dy100 == wuma)
+                            {
+                                buttoncs10.Text = muyu;
+                            }
+                            if (dy100 == wei)
+                            {
+                                buttoncs10.Text = guandai;
+                            }
+                            if (dy100 == shen)
+                            {
+                                buttoncs10.Text = linguan;
+                            }
+                            if (dy100 == you)
+                            {
+                                buttoncs10.Text = diwang;
+                            }
+                            if (dy100 == xuu)
+                            {
+                                buttoncs10.Text = shuai;
+                            }
+                            if (dy100 == hai)
+                            {
+                                buttoncs10.Text = bingg;
+                            }
+                            if (dy100 == zii)
+                            {
+                                buttoncs10.Text = ssii;
+                            }
+                            if (dy100 == chou)
+                            {
+                                buttoncs10.Text = mmuu;
+                            }
+                            if (dy100 == yin)
+                            {
+                                buttoncs10.Text = jue;
+                            }
+                            if (dy100 == mao)
+                            {
+                                buttoncs10.Text = tai;
+                            }
+                            if (dy100 == chen)
+                            {
+                                buttoncs10.Text = yang;
+                            }
+
+                        }
+                        if (rtg == ren)
+                        {
+                            if (dy100 == shen)
+                            {
+                                buttoncs10.Text = changsheng;
+                            }
+                            if (dy100 == you)
+                            {
+                                buttoncs10.Text = muyu;
+                            }
+                            if (dy100 == xuu)
+                            {
+                                buttoncs10.Text = guandai;
+                            }
+                            if (dy100 == hai)
+                            {
+                                buttoncs10.Text = linguan;
+                            }
+                            if (dy100 == zii)
+                            {
+                                buttoncs10.Text = diwang;
+                            }
+                            if (dy100 == chou)
+                            {
+                                buttoncs10.Text = shuai;
+                            }
+                            if (dy100 == yin)
+                            {
+                                buttoncs10.Text = bingg;
+                            }
+                            if (dy100 == mao)
+                            {
+                                buttoncs10.Text = ssii;
+                            }
+                            if (dy100 == chen)
+                            {
+                                buttoncs10.Text = mmuu;
+                            }
+                            if (dy100 == sii)
+                            {
+                                buttoncs10.Text = jue;
+                            }
+                            if (dy100 == wuma)
+                            {
+                                buttoncs10.Text = tai;
+                            }
+                            if (dy100 == wei)
+                            {
+                                buttoncs10.Text = yang;
+                            }
+
+                        }
+                        if (rtg == bing)
+                        {
+                            if (dy110 == yin)
+                            {
+                                buttoncs11.Text = changsheng;
+                            }
+                            if (dy110 == mao)
+                            {
+                                buttoncs11.Text = muyu;
+                            }
+                            if (dy110 == chen)
+                            {
+                                buttoncs11.Text = guandai;
+                            }
+                            if (dy110 == sii)
+                            {
+                                buttoncs11.Text = linguan;
+                            }
+                            if (dy110 == wuma)
+                            {
+                                buttoncs11.Text = diwang;
+                            }
+                            if (dy110 == wei)
+                            {
+                                buttoncs11.Text = shuai;
+                            }
+                            if (dy110 == shen)
+                            {
+                                buttoncs11.Text = bingg;
+                            }
+                            if (dy110 == you)
+                            {
+                                buttoncs11.Text = ssii;
+                            }
+                            if (dy110 == xuu)
+                            {
+                                buttoncs11.Text = mmuu;
+                            }
+                            if (dy110 == hai)
+                            {
+                                buttoncs11.Text = jue;
+                            }
+                            if (dy110 == zii)
+                            {
+                                buttoncs11.Text = tai;
+                            }
+                            if (dy110 == chou)
+                            {
+                                buttoncs11.Text = yang;
+                            }
+
+                        }
+                        if (rtg == wuu)
+                        {
+                            if (dy110 == yin)
+                            {
+                                buttoncs11.Text = changsheng;
+                            }
+                            if (dy110 == mao)
+                            {
+                                buttoncs11.Text = muyu;
+                            }
+                            if (dy110 == chen)
+                            {
+                                buttoncs11.Text = guandai;
+                            }
+                            if (dy110 == sii)
+                            {
+                                buttoncs11.Text = linguan;
+                            }
+                            if (dy110 == wuma)
+                            {
+                                buttoncs11.Text = diwang;
+                            }
+                            if (dy110 == wei)
+                            {
+                                buttoncs11.Text = shuai;
+                            }
+                            if (dy110 == shen)
+                            {
+                                buttoncs11.Text = bingg;
+                            }
+                            if (dy110 == you)
+                            {
+                                buttoncs11.Text = ssii;
+                            }
+                            if (dy110 == xuu)
+                            {
+                                buttoncs11.Text = mmuu;
+                            }
+                            if (dy110 == hai)
+                            {
+                                buttoncs11.Text = jue;
+                            }
+                            if (dy110 == zii)
+                            {
+                                buttoncs11.Text = tai;
+                            }
+                            if (dy110 == chou)
+                            {
+                                buttoncs11.Text = yang;
+                            }
+
+                        }
+                        if (rtg == ding)
+                        {
+                            if (dy110 == you)
+                            {
+                                buttoncs11.Text = changsheng;
+                            }
+                            if (dy110 == shen)
+                            {
+                                buttoncs11.Text = muyu;
+                            }
+                            if (dy110 == wei)
+                            {
+                                buttoncs11.Text = guandai;
+                            }
+                            if (dy110 == wuma)
+                            {
+                                buttoncs11.Text = linguan;
+                            }
+                            if (dy110 == sii)
+                            {
+                                buttoncs11.Text = diwang;
+                            }
+                            if (dy110 == chen)
+                            {
+                                buttoncs11.Text = shuai;
+                            }
+                            if (dy110 == mao)
+                            {
+                                buttoncs11.Text = bingg;
+                            }
+                            if (dy110 == yin)
+                            {
+                                buttoncs11.Text = ssii;
+                            }
+                            if (dy110 == chou)
+                            {
+                                buttoncs11.Text = mmuu;
+                            }
+                            if (dy110 == zii)
+                            {
+                                buttoncs11.Text = jue;
+                            }
+                            if (dy110 == hai)
+                            {
+                                buttoncs11.Text = tai;
+                            }
+                            if (dy110 == xuu)
+                            {
+                                buttoncs11.Text = yang;
+                            }
+
+                        }
+                        if (rtg == jii)
+                        {
+                            if (dy110 == you)
+                            {
+                                buttoncs11.Text = changsheng;
+                            }
+                            if (dy110 == shen)
+                            {
+                                buttoncs11.Text = muyu;
+                            }
+                            if (dy110 == wei)
+                            {
+                                buttoncs11.Text = guandai;
+                            }
+                            if (dy110 == wuma)
+                            {
+                                buttoncs11.Text = linguan;
+                            }
+                            if (dy110 == sii)
+                            {
+                                buttoncs11.Text = diwang;
+                            }
+                            if (dy110 == chen)
+                            {
+                                buttoncs11.Text = shuai;
+                            }
+                            if (dy110 == mao)
+                            {
+                                buttoncs11.Text = bingg;
+                            }
+                            if (dy110 == yin)
+                            {
+                                buttoncs11.Text = ssii;
+                            }
+                            if (dy110 == chou)
+                            {
+                                buttoncs11.Text = mmuu;
+                            }
+                            if (dy110 == zii)
+                            {
+                                buttoncs11.Text = jue;
+                            }
+                            if (dy110 == hai)
+                            {
+                                buttoncs11.Text = tai;
+                            }
+                            if (dy110 == xuu)
+                            {
+                                buttoncs11.Text = yang;
+                            }
+
+                        }
+                        if (rtg == yii)
+                        {
+                            if (dy110 == wuma)
+                            {
+                                buttoncs11.Text = changsheng;
+                            }
+                            if (dy110 == sii)
+                            {
+                                buttoncs11.Text = muyu;
+                            }
+                            if (dy110 == chen)
+                            {
+                                buttoncs11.Text = guandai;
+                            }
+                            if (dy110 == mao)
+                            {
+                                buttoncs11.Text = linguan;
+                            }
+                            if (dy110 == yin)
+                            {
+                                buttoncs11.Text = diwang;
+                            }
+                            if (dy110 == chou)
+                            {
+                                buttoncs11.Text = shuai;
+                            }
+                            if (dy110 == zii)
+                            {
+                                buttoncs11.Text = bingg;
+                            }
+                            if (dy110 == hai)
+                            {
+                                buttoncs11.Text = ssii;
+                            }
+                            if (dy110 == xuu)
+                            {
+                                buttoncs11.Text = mmuu;
+                            }
+                            if (dy110 == you)
+                            {
+                                buttoncs11.Text = jue;
+                            }
+                            if (dy110 == shen)
+                            {
+                                buttoncs11.Text = tai;
+                            }
+                            if (dy110 == wei)
+                            {
+                                buttoncs11.Text = yang;
+                            }
+
+                        }
+                        if (rtg == xin)
+                        {
+                            if (dy110 == zii)
+                            {
+                                buttoncs11.Text = changsheng;
+                            }
+                            if (dy110 == hai)
+                            {
+                                buttoncs11.Text = muyu;
+                            }
+                            if (dy110 == xuu)
+                            {
+                                buttoncs11.Text = guandai;
+                            }
+                            if (dy110 == you)
+                            {
+                                buttoncs11.Text = linguan;
+                            }
+                            if (dy110 == shen)
+                            {
+                                buttoncs11.Text = diwang;
+                            }
+                            if (dy110 == wei)
+                            {
+                                buttoncs11.Text = shuai;
+                            }
+                            if (dy110 == wuma)
+                            {
+                                buttoncs11.Text = bingg;
+                            }
+                            if (dy110 == sii)
+                            {
+                                buttoncs11.Text = ssii;
+                            }
+                            if (dy110 == chen)
+                            {
+                                buttoncs11.Text = mmuu;
+                            }
+                            if (dy110 == mao)
+                            {
+                                buttoncs11.Text = jue;
+                            }
+                            if (dy110 == yin)
+                            {
+                                buttoncs11.Text = tai;
+                            }
+                            if (dy110 == chou)
+                            {
+                                buttoncs11.Text = yang;
+                            }
+
+                        }
+                        if (rtg == gui)
+                        {
+                            if (dy110 == mao)
+                            {
+                                buttoncs11.Text = changsheng;
+                            }
+                            if (dy110 == yin)
+                            {
+                                buttoncs11.Text = muyu;
+                            }
+                            if (dy110 == chou)
+                            {
+                                buttoncs11.Text = guandai;
+                            }
+                            if (dy110 == zii)
+                            {
+                                buttoncs11.Text = linguan;
+                            }
+                            if (dy110 == hai)
+                            {
+                                buttoncs11.Text = diwang;
+                            }
+                            if (dy110 == xuu)
+                            {
+                                buttoncs11.Text = shuai;
+                            }
+                            if (dy110 == you)
+                            {
+                                buttoncs11.Text = bingg;
+                            }
+                            if (dy110 == shen)
+                            {
+                                buttoncs11.Text = ssii;
+                            }
+                            if (dy110 == wei)
+                            {
+                                buttoncs11.Text = mmuu;
+                            }
+                            if (dy110 == wuma)
+                            {
+                                buttoncs11.Text = jue;
+                            }
+                            if (dy110 == sii)
+                            {
+                                buttoncs11.Text = tai;
+                            }
+                            if (dy110 == chen)
+                            {
+                                buttoncs11.Text = yang;
+                            }
+
+                        }
+                        if (rtg == jia)
+                        {
+                            if (dy110 == hai)
+                            {
+                                buttoncs11.Text = changsheng;
+                            }
+                            if (dy110 == zii)
+                            {
+                                buttoncs11.Text = muyu;
+                            }
+                            if (dy110 == chou)
+                            {
+                                buttoncs11.Text = guandai;
+                            }
+                            if (dy110 == yin)
+                            {
+                                buttoncs11.Text = linguan;
+                            }
+                            if (dy110 == mao)
+                            {
+                                buttoncs11.Text = diwang;
+                            }
+                            if (dy110 == chen)
+                            {
+                                buttoncs11.Text = shuai;
+                            }
+                            if (dy110 == sii)
+                            {
+                                buttoncs11.Text = bingg;
+                            }
+                            if (dy110 == wuma)
+                            {
+                                buttoncs11.Text = ssii;
+                            }
+                            if (dy110 == wei)
+                            {
+                                buttoncs11.Text = mmuu;
+                            }
+                            if (dy110 == shen)
+                            {
+                                buttoncs11.Text = jue;
+                            }
+                            if (dy110 == you)
+                            {
+                                buttoncs11.Text = tai;
+                            }
+                            if (dy110 == xuu)
+                            {
+                                buttoncs11.Text = yang;
+                            }
+
+                        }
+                        if (rtg == geng)
+                        {
+                            if (dy110 == sii)
+                            {
+                                buttoncs11.Text = changsheng;
+                            }
+                            if (dy110 == wuma)
+                            {
+                                buttoncs11.Text = muyu;
+                            }
+                            if (dy110 == wei)
+                            {
+                                buttoncs11.Text = guandai;
+                            }
+                            if (dy110 == shen)
+                            {
+                                buttoncs11.Text = linguan;
+                            }
+                            if (dy110 == you)
+                            {
+                                buttoncs11.Text = diwang;
+                            }
+                            if (dy110 == xuu)
+                            {
+                                buttoncs11.Text = shuai;
+                            }
+                            if (dy110 == hai)
+                            {
+                                buttoncs11.Text = bingg;
+                            }
+                            if (dy110 == zii)
+                            {
+                                buttoncs11.Text = ssii;
+                            }
+                            if (dy110 == chou)
+                            {
+                                buttoncs11.Text = mmuu;
+                            }
+                            if (dy110 == yin)
+                            {
+                                buttoncs11.Text = jue;
+                            }
+                            if (dy110 == mao)
+                            {
+                                buttoncs11.Text = tai;
+                            }
+                            if (dy110 == chen)
+                            {
+                                buttoncs11.Text = yang;
+                            }
+
+                        }
+                        if (rtg == ren)
+                        {
+                            if (dy110 == shen)
+                            {
+                                buttoncs11.Text = changsheng;
+                            }
+                            if (dy110 == you)
+                            {
+                                buttoncs11.Text = muyu;
+                            }
+                            if (dy110 == xuu)
+                            {
+                                buttoncs11.Text = guandai;
+                            }
+                            if (dy110 == hai)
+                            {
+                                buttoncs11.Text = linguan;
+                            }
+                            if (dy110 == zii)
+                            {
+                                buttoncs11.Text = diwang;
+                            }
+                            if (dy110 == chou)
+                            {
+                                buttoncs11.Text = shuai;
+                            }
+                            if (dy110 == yin)
+                            {
+                                buttoncs11.Text = bingg;
+                            }
+                            if (dy110 == mao)
+                            {
+                                buttoncs11.Text = ssii;
+                            }
+                            if (dy110 == chen)
+                            {
+                                buttoncs11.Text = mmuu;
+                            }
+                            if (dy110 == sii)
+                            {
+                                buttoncs11.Text = jue;
+                            }
+                            if (dy110 == wuma)
+                            {
+                                buttoncs11.Text = tai;
+                            }
+                            if (dy110 == wei)
+                            {
+                                buttoncs11.Text = yang;
+                            }
+
+                        }
+                        if (rtg == bing)
+                        {
+                            if (dy120 == yin)
+                            {
+                                buttoncs12.Text = changsheng;
+                            }
+                            if (dy120 == mao)
+                            {
+                                buttoncs12.Text = muyu;
+                            }
+                            if (dy120 == chen)
+                            {
+                                buttoncs12.Text = guandai;
+                            }
+                            if (dy120 == sii)
+                            {
+                                buttoncs12.Text = linguan;
+                            }
+                            if (dy120 == wuma)
+                            {
+                                buttoncs12.Text = diwang;
+                            }
+                            if (dy120 == wei)
+                            {
+                                buttoncs12.Text = shuai;
+                            }
+                            if (dy120 == shen)
+                            {
+                                buttoncs12.Text = bingg;
+                            }
+                            if (dy120 == you)
+                            {
+                                buttoncs12.Text = ssii;
+                            }
+                            if (dy120 == xuu)
+                            {
+                                buttoncs12.Text = mmuu;
+                            }
+                            if (dy120 == hai)
+                            {
+                                buttoncs12.Text = jue;
+                            }
+                            if (dy120 == zii)
+                            {
+                                buttoncs12.Text = tai;
+                            }
+                            if (dy120 == chou)
+                            {
+                                buttoncs12.Text = yang;
+                            }
+
+                        }
+                        if (rtg == wuu)
+                        {
+                            if (dy120 == yin)
+                            {
+                                buttoncs12.Text = changsheng;
+                            }
+                            if (dy120 == mao)
+                            {
+                                buttoncs12.Text = muyu;
+                            }
+                            if (dy120 == chen)
+                            {
+                                buttoncs12.Text = guandai;
+                            }
+                            if (dy120 == sii)
+                            {
+                                buttoncs12.Text = linguan;
+                            }
+                            if (dy120 == wuma)
+                            {
+                                buttoncs12.Text = diwang;
+                            }
+                            if (dy120 == wei)
+                            {
+                                buttoncs12.Text = shuai;
+                            }
+                            if (dy120 == shen)
+                            {
+                                buttoncs12.Text = bingg;
+                            }
+                            if (dy120 == you)
+                            {
+                                buttoncs12.Text = ssii;
+                            }
+                            if (dy120 == xuu)
+                            {
+                                buttoncs12.Text = mmuu;
+                            }
+                            if (dy120 == hai)
+                            {
+                                buttoncs12.Text = jue;
+                            }
+                            if (dy120 == zii)
+                            {
+                                buttoncs12.Text = tai;
+                            }
+                            if (dy120 == chou)
+                            {
+                                buttoncs12.Text = yang;
+                            }
+
+                        }
+                        if (rtg == ding)
+                        {
+                            if (dy120 == you)
+                            {
+                                buttoncs12.Text = changsheng;
+                            }
+                            if (dy120 == shen)
+                            {
+                                buttoncs12.Text = muyu;
+                            }
+                            if (dy120 == wei)
+                            {
+                                buttoncs12.Text = guandai;
+                            }
+                            if (dy120 == wuma)
+                            {
+                                buttoncs12.Text = linguan;
+                            }
+                            if (dy120 == sii)
+                            {
+                                buttoncs12.Text = diwang;
+                            }
+                            if (dy120 == chen)
+                            {
+                                buttoncs12.Text = shuai;
+                            }
+                            if (dy120 == mao)
+                            {
+                                buttoncs12.Text = bingg;
+                            }
+                            if (dy120 == yin)
+                            {
+                                buttoncs12.Text = ssii;
+                            }
+                            if (dy120 == chou)
+                            {
+                                buttoncs12.Text = mmuu;
+                            }
+                            if (dy120 == zii)
+                            {
+                                buttoncs12.Text = jue;
+                            }
+                            if (dy120 == hai)
+                            {
+                                buttoncs12.Text = tai;
+                            }
+                            if (dy120 == xuu)
+                            {
+                                buttoncs12.Text = yang;
+                            }
+
+                        }
+                        if (rtg == jii)
+                        {
+                            if (dy120 == you)
+                            {
+                                buttoncs12.Text = changsheng;
+                            }
+                            if (dy120 == shen)
+                            {
+                                buttoncs12.Text = muyu;
+                            }
+                            if (dy120 == wei)
+                            {
+                                buttoncs12.Text = guandai;
+                            }
+                            if (dy120 == wuma)
+                            {
+                                buttoncs12.Text = linguan;
+                            }
+                            if (dy120 == sii)
+                            {
+                                buttoncs12.Text = diwang;
+                            }
+                            if (dy120 == chen)
+                            {
+                                buttoncs12.Text = shuai;
+                            }
+                            if (dy120 == mao)
+                            {
+                                buttoncs12.Text = bingg;
+                            }
+                            if (dy120 == yin)
+                            {
+                                buttoncs12.Text = ssii;
+                            }
+                            if (dy120 == chou)
+                            {
+                                buttoncs12.Text = mmuu;
+                            }
+                            if (dy120 == zii)
+                            {
+                                buttoncs12.Text = jue;
+                            }
+                            if (dy120 == hai)
+                            {
+                                buttoncs12.Text = tai;
+                            }
+                            if (dy120 == xuu)
+                            {
+                                buttoncs12.Text = yang;
+                            }
+
+                        }
+                        if (rtg == yii)
+                        {
+                            if (dy120 == wuma)
+                            {
+                                buttoncs12.Text = changsheng;
+                            }
+                            if (dy120 == sii)
+                            {
+                                buttoncs12.Text = muyu;
+                            }
+                            if (dy120 == chen)
+                            {
+                                buttoncs12.Text = guandai;
+                            }
+                            if (dy120 == mao)
+                            {
+                                buttoncs12.Text = linguan;
+                            }
+                            if (dy120 == yin)
+                            {
+                                buttoncs12.Text = diwang;
+                            }
+                            if (dy120 == chou)
+                            {
+                                buttoncs12.Text = shuai;
+                            }
+                            if (dy120 == zii)
+                            {
+                                buttoncs12.Text = bingg;
+                            }
+                            if (dy120 == hai)
+                            {
+                                buttoncs12.Text = ssii;
+                            }
+                            if (dy120 == xuu)
+                            {
+                                buttoncs12.Text = mmuu;
+                            }
+                            if (dy120 == you)
+                            {
+                                buttoncs12.Text = jue;
+                            }
+                            if (dy120 == shen)
+                            {
+                                buttoncs12.Text = tai;
+                            }
+                            if (dy120 == wei)
+                            {
+                                buttoncs12.Text = yang;
+                            }
+
+                        }
+                        if (rtg == xin)
+                        {
+                            if (dy120 == zii)
+                            {
+                                buttoncs12.Text = changsheng;
+                            }
+                            if (dy120 == hai)
+                            {
+                                buttoncs12.Text = muyu;
+                            }
+                            if (dy120 == xuu)
+                            {
+                                buttoncs12.Text = guandai;
+                            }
+                            if (dy120 == you)
+                            {
+                                buttoncs12.Text = linguan;
+                            }
+                            if (dy120 == shen)
+                            {
+                                buttoncs12.Text = diwang;
+                            }
+                            if (dy120 == wei)
+                            {
+                                buttoncs12.Text = shuai;
+                            }
+                            if (dy120 == wuma)
+                            {
+                                buttoncs12.Text = bingg;
+                            }
+                            if (dy120 == sii)
+                            {
+                                buttoncs12.Text = ssii;
+                            }
+                            if (dy120 == chen)
+                            {
+                                buttoncs12.Text = mmuu;
+                            }
+                            if (dy120 == mao)
+                            {
+                                buttoncs12.Text = jue;
+                            }
+                            if (dy120 == yin)
+                            {
+                                buttoncs12.Text = tai;
+                            }
+                            if (dy120 == chou)
+                            {
+                                buttoncs12.Text = yang;
+                            }
+
+                        }
+                        if (rtg == gui)
+                        {
+                            if (dy120 == mao)
+                            {
+                                buttoncs12.Text = changsheng;
+                            }
+                            if (dy120 == yin)
+                            {
+                                buttoncs12.Text = muyu;
+                            }
+                            if (dy120 == chou)
+                            {
+                                buttoncs12.Text = guandai;
+                            }
+                            if (dy120 == zii)
+                            {
+                                buttoncs12.Text = linguan;
+                            }
+                            if (dy120 == hai)
+                            {
+                                buttoncs12.Text = diwang;
+                            }
+                            if (dy120 == xuu)
+                            {
+                                buttoncs12.Text = shuai;
+                            }
+                            if (dy120 == you)
+                            {
+                                buttoncs12.Text = bingg;
+                            }
+                            if (dy120 == shen)
+                            {
+                                buttoncs12.Text = ssii;
+                            }
+                            if (dy120 == wei)
+                            {
+                                buttoncs12.Text = mmuu;
+                            }
+                            if (dy120 == wuma)
+                            {
+                                buttoncs12.Text = jue;
+                            }
+                            if (dy120 == sii)
+                            {
+                                buttoncs12.Text = tai;
+                            }
+                            if (dy120 == chen)
+                            {
+                                buttoncs12.Text = yang;
+                            }
+
+                        }
+                        if (rtg == jia)
+                        {
+                            if (dy120 == hai)
+                            {
+                                buttoncs12.Text = changsheng;
+                            }
+                            if (dy120 == zii)
+                            {
+                                buttoncs12.Text = muyu;
+                            }
+                            if (dy120 == chou)
+                            {
+                                buttoncs12.Text = guandai;
+                            }
+                            if (dy120 == yin)
+                            {
+                                buttoncs12.Text = linguan;
+                            }
+                            if (dy120 == mao)
+                            {
+                                buttoncs12.Text = diwang;
+                            }
+                            if (dy120 == chen)
+                            {
+                                buttoncs12.Text = shuai;
+                            }
+                            if (dy120 == sii)
+                            {
+                                buttoncs12.Text = bingg;
+                            }
+                            if (dy120 == wuma)
+                            {
+                                buttoncs12.Text = ssii;
+                            }
+                            if (dy120 == wei)
+                            {
+                                buttoncs12.Text = mmuu;
+                            }
+                            if (dy120 == shen)
+                            {
+                                buttoncs12.Text = jue;
+                            }
+                            if (dy120 == you)
+                            {
+                                buttoncs12.Text = tai;
+                            }
+                            if (dy120 == xuu)
+                            {
+                                buttoncs12.Text = yang;
+                            }
+
+                        }
+                        if (rtg == geng)
+                        {
+                            if (dy120 == sii)
+                            {
+                                buttoncs12.Text = changsheng;
+                            }
+                            if (dy120 == wuma)
+                            {
+                                buttoncs12.Text = muyu;
+                            }
+                            if (dy120 == wei)
+                            {
+                                buttoncs12.Text = guandai;
+                            }
+                            if (dy120 == shen)
+                            {
+                                buttoncs12.Text = linguan;
+                            }
+                            if (dy120 == you)
+                            {
+                                buttoncs12.Text = diwang;
+                            }
+                            if (dy120 == xuu)
+                            {
+                                buttoncs12.Text = shuai;
+                            }
+                            if (dy120 == hai)
+                            {
+                                buttoncs12.Text = bingg;
+                            }
+                            if (dy120 == zii)
+                            {
+                                buttoncs12.Text = ssii;
+                            }
+                            if (dy120 == chou)
+                            {
+                                buttoncs12.Text = mmuu;
+                            }
+                            if (dy120 == yin)
+                            {
+                                buttoncs12.Text = jue;
+                            }
+                            if (dy120 == mao)
+                            {
+                                buttoncs12.Text = tai;
+                            }
+                            if (dy120 == chen)
+                            {
+                                buttoncs12.Text = yang;
+                            }
+
+                        }
+                        if (rtg == ren)
+                        {
+                            if (dy120 == shen)
+                            {
+                                buttoncs12.Text = changsheng;
+                            }
+                            if (dy120 == you)
+                            {
+                                buttoncs12.Text = muyu;
+                            }
+                            if (dy120 == xuu)
+                            {
+                                buttoncs12.Text = guandai;
+                            }
+                            if (dy120 == hai)
+                            {
+                                buttoncs12.Text = linguan;
+                            }
+                            if (dy120 == zii)
+                            {
+                                buttoncs12.Text = diwang;
+                            }
+                            if (dy120 == chou)
+                            {
+                                buttoncs12.Text = shuai;
+                            }
+                            if (dy120 == yin)
+                            {
+                                buttoncs12.Text = bingg;
+                            }
+                            if (dy120 == mao)
+                            {
+                                buttoncs12.Text = ssii;
+                            }
+                            if (dy120 == chen)
+                            {
+                                buttoncs12.Text = mmuu;
+                            }
+                            if (dy120 == sii)
+                            {
+                                buttoncs12.Text = jue;
+                            }
+                            if (dy120 == wuma)
+                            {
+                                buttoncs12.Text = tai;
+                            }
+                            if (dy120 == wei)
+                            {
+                                buttoncs12.Text = yang;
+                            }
+
+                        }
+                    }
+                    if (jia == jia)
+                    {
+                        if(buttoncs1.Text == diwang)
+                        {
+                            buttoncs1.ForeColor = Color.Red;
+                        }
+                        if (buttoncs1.Text == linguan)
+                        {
+                            buttoncs1.ForeColor = Color.Red;
+                        }
+                        if (buttoncs1.Text == guandai)
+                        {
+                            buttoncs1.ForeColor = Color.Red;
+                        }
+                        if (buttoncs1.Text == changsheng)
+                        {
+                            buttoncs1.ForeColor = Color.Red;
+                        }
+                        if (buttoncs1.Text == tai)
+                        {
+                            buttoncs1.ForeColor = Color.Green;
+                        }
+                        if (buttoncs1.Text == yang)
+                        {
+                            buttoncs1.ForeColor = Color.Green;
+                        }
+                        if (buttoncs1.Text == muyu)
+                        {
+                            buttoncs1.ForeColor = Color.Green;
+                        }
+                        if (buttoncs1.Text == shuai)
+                        {
+                            buttoncs1.ForeColor = Color.Gray;
+                        }
+                        if (buttoncs1.Text == bingg)
+                        {
+                            buttoncs1.ForeColor = Color.Gray;
+                        }
+                        if (buttoncs1.Text == ssii)
+                        {
+                            buttoncs1.ForeColor = Color.Black;
+                        }
+                        if (buttoncs1.Text == mmuu)
+                        {
+                            buttoncs1.ForeColor = Color.Black;
+                        }
+                        if (buttoncs1.Text == jue)
+                        {
+                            buttoncs1.ForeColor = Color.Black;
+                        }
+                        if (buttoncs2.Text == diwang)
+                        {
+                            buttoncs2.ForeColor = Color.Red;
+                        }
+                        if (buttoncs2.Text == linguan)
+                        {
+                            buttoncs2.ForeColor = Color.Red;
+                        }
+                        if (buttoncs2.Text == guandai)
+                        {
+                            buttoncs2.ForeColor = Color.Red;
+                        }
+                        if (buttoncs2.Text == changsheng)
+                        {
+                            buttoncs2.ForeColor = Color.Red;
+                        }
+                        if (buttoncs2.Text == tai)
+                        {
+                            buttoncs2.ForeColor = Color.Green;
+                        }
+                        if (buttoncs2.Text == yang)
+                        {
+                            buttoncs2.ForeColor = Color.Green;
+                        }
+                        if (buttoncs2.Text == muyu)
+                        {
+                            buttoncs2.ForeColor = Color.Green;
+                        }
+                        if (buttoncs2.Text == shuai)
+                        {
+                            buttoncs2.ForeColor = Color.Gray;
+                        }
+                        if (buttoncs2.Text == bingg)
+                        {
+                            buttoncs2.ForeColor = Color.Gray;
+                        }
+                        if (buttoncs2.Text == ssii)
+                        {
+                            buttoncs2.ForeColor = Color.Black;
+                        }
+                        if (buttoncs2.Text == mmuu)
+                        {
+                            buttoncs2.ForeColor = Color.Black;
+                        }
+                        if (buttoncs2.Text == jue)
+                        {
+                            buttoncs2.ForeColor = Color.Black;
+                        }
+                        if (buttoncs3.Text == diwang)
+                        {
+                            buttoncs3.ForeColor = Color.Red;
+                        }
+                        if (buttoncs3.Text == linguan)
+                        {
+                            buttoncs3.ForeColor = Color.Red;
+                        }
+                        if (buttoncs3.Text == guandai)
+                        {
+                            buttoncs3.ForeColor = Color.Red;
+                        }
+                        if (buttoncs3.Text == changsheng)
+                        {
+                            buttoncs3.ForeColor = Color.Red;
+                        }
+                        if (buttoncs3.Text == tai)
+                        {
+                            buttoncs3.ForeColor = Color.Green;
+                        }
+                        if (buttoncs3.Text == yang)
+                        {
+                            buttoncs3.ForeColor = Color.Green;
+                        }
+                        if (buttoncs3.Text == muyu)
+                        {
+                            buttoncs3.ForeColor = Color.Green;
+                        }
+                        if (buttoncs3.Text == shuai)
+                        {
+                            buttoncs3.ForeColor = Color.Gray;
+                        }
+                        if (buttoncs3.Text == bingg)
+                        {
+                            buttoncs3.ForeColor = Color.Gray;
+                        }
+                        if (buttoncs3.Text == ssii)
+                        {
+                            buttoncs3.ForeColor = Color.Black;
+                        }
+                        if (buttoncs3.Text == mmuu)
+                        {
+                            buttoncs3.ForeColor = Color.Black;
+                        }
+                        if (buttoncs3.Text == jue)
+                        {
+                            buttoncs3.ForeColor = Color.Black;
+                        }
+                        if (buttoncs4.Text == diwang)
+                        {
+                            buttoncs4.ForeColor = Color.Red;
+                        }
+                        if (buttoncs4.Text == linguan)
+                        {
+                            buttoncs4.ForeColor = Color.Red;
+                        }
+                        if (buttoncs4.Text == guandai)
+                        {
+                            buttoncs4.ForeColor = Color.Red;
+                        }
+                        if (buttoncs4.Text == changsheng)
+                        {
+                            buttoncs4.ForeColor = Color.Red;
+                        }
+                        if (buttoncs4.Text == tai)
+                        {
+                            buttoncs4.ForeColor = Color.Green;
+                        }
+                        if (buttoncs4.Text == yang)
+                        {
+                            buttoncs4.ForeColor = Color.Green;
+                        }
+                        if (buttoncs4.Text == muyu)
+                        {
+                            buttoncs4.ForeColor = Color.Green;
+                        }
+                        if (buttoncs4.Text == shuai)
+                        {
+                            buttoncs4.ForeColor = Color.Gray;
+                        }
+                        if (buttoncs4.Text == bingg)
+                        {
+                            buttoncs4.ForeColor = Color.Gray;
+                        }
+                        if (buttoncs4.Text == ssii)
+                        {
+                            buttoncs4.ForeColor = Color.Black;
+                        }
+                        if (buttoncs4.Text == mmuu)
+                        {
+                            buttoncs4.ForeColor = Color.Black;
+                        }
+                        if (buttoncs4.Text == jue)
+                        {
+                            buttoncs4.ForeColor = Color.Black;
+                        }
+                        if (buttoncs5.Text == diwang)
+                        {
+                            buttoncs5.ForeColor = Color.Red;
+                        }
+                        if (buttoncs5.Text == linguan)
+                        {
+                            buttoncs5.ForeColor = Color.Red;
+                        }
+                        if (buttoncs5.Text == guandai)
+                        {
+                            buttoncs5.ForeColor = Color.Red;
+                        }
+                        if (buttoncs5.Text == changsheng)
+                        {
+                            buttoncs5.ForeColor = Color.Red;
+                        }
+                        if (buttoncs5.Text == tai)
+                        {
+                            buttoncs5.ForeColor = Color.Green;
+                        }
+                        if (buttoncs5.Text == yang)
+                        {
+                            buttoncs5.ForeColor = Color.Green;
+                        }
+                        if (buttoncs5.Text == muyu)
+                        {
+                            buttoncs5.ForeColor = Color.Green;
+                        }
+                        if (buttoncs5.Text == shuai)
+                        {
+                            buttoncs5.ForeColor = Color.Gray;
+                        }
+                        if (buttoncs5.Text == bingg)
+                        {
+                            buttoncs5.ForeColor = Color.Gray;
+                        }
+                        if (buttoncs5.Text == ssii)
+                        {
+                            buttoncs5.ForeColor = Color.Black;
+                        }
+                        if (buttoncs5.Text == mmuu)
+                        {
+                            buttoncs5.ForeColor = Color.Black;
+                        }
+                        if (buttoncs5.Text == jue)
+                        {
+                            buttoncs5.ForeColor = Color.Black;
+                        }
+                        if (buttoncs6.Text == diwang)
+                        {
+                            buttoncs6.ForeColor = Color.Red;
+                        }
+                        if (buttoncs6.Text == linguan)
+                        {
+                            buttoncs6.ForeColor = Color.Red;
+                        }
+                        if (buttoncs6.Text == guandai)
+                        {
+                            buttoncs6.ForeColor = Color.Red;
+                        }
+                        if (buttoncs6.Text == changsheng)
+                        {
+                            buttoncs6.ForeColor = Color.Red;
+                        }
+                        if (buttoncs6.Text == tai)
+                        {
+                            buttoncs6.ForeColor = Color.Green;
+                        }
+                        if (buttoncs6.Text == yang)
+                        {
+                            buttoncs6.ForeColor = Color.Green;
+                        }
+                        if (buttoncs6.Text == muyu)
+                        {
+                            buttoncs6.ForeColor = Color.Green;
+                        }
+                        if (buttoncs6.Text == shuai)
+                        {
+                            buttoncs6.ForeColor = Color.Gray;
+                        }
+                        if (buttoncs6.Text == bingg)
+                        {
+                            buttoncs6.ForeColor = Color.Gray;
+                        }
+                        if (buttoncs6.Text == ssii)
+                        {
+                            buttoncs6.ForeColor = Color.Black;
+                        }
+                        if (buttoncs6.Text == mmuu)
+                        {
+                            buttoncs6.ForeColor = Color.Black;
+                        }
+                        if (buttoncs6.Text == jue)
+                        {
+                            buttoncs6.ForeColor = Color.Black;
+                        }
+                        if (buttoncs7.Text == diwang)
+                        {
+                            buttoncs7.ForeColor = Color.Red;
+                        }
+                        if (buttoncs7.Text == linguan)
+                        {
+                            buttoncs7.ForeColor = Color.Red;
+                        }
+                        if (buttoncs7.Text == guandai)
+                        {
+                            buttoncs7.ForeColor = Color.Red;
+                        }
+                        if (buttoncs7.Text == changsheng)
+                        {
+                            buttoncs7.ForeColor = Color.Red;
+                        }
+                        if (buttoncs7.Text == tai)
+                        {
+                            buttoncs7.ForeColor = Color.Green;
+                        }
+                        if (buttoncs7.Text == yang)
+                        {
+                            buttoncs7.ForeColor = Color.Green;
+                        }
+                        if (buttoncs7.Text == muyu)
+                        {
+                            buttoncs7.ForeColor = Color.Green;
+                        }
+                        if (buttoncs7.Text == shuai)
+                        {
+                            buttoncs7.ForeColor = Color.Gray;
+                        }
+                        if (buttoncs7.Text == bingg)
+                        {
+                            buttoncs7.ForeColor = Color.Gray;
+                        }
+                        if (buttoncs7.Text == ssii)
+                        {
+                            buttoncs7.ForeColor = Color.Black;
+                        }
+                        if (buttoncs7.Text == mmuu)
+                        {
+                            buttoncs7.ForeColor = Color.Black;
+                        }
+                        if (buttoncs7.Text == jue)
+                        {
+                            buttoncs7.ForeColor = Color.Black;
+                        }
+                        if (buttoncs8.Text == diwang)
+                        {
+                            buttoncs8.ForeColor = Color.Red;
+                        }
+                        if (buttoncs8.Text == linguan)
+                        {
+                            buttoncs8.ForeColor = Color.Red;
+                        }
+                        if (buttoncs8.Text == guandai)
+                        {
+                            buttoncs8.ForeColor = Color.Red;
+                        }
+                        if (buttoncs8.Text == changsheng)
+                        {
+                            buttoncs8.ForeColor = Color.Red;
+                        }
+                        if (buttoncs8.Text == tai)
+                        {
+                            buttoncs8.ForeColor = Color.Green;
+                        }
+                        if (buttoncs8.Text == yang)
+                        {
+                            buttoncs8.ForeColor = Color.Green;
+                        }
+                        if (buttoncs8.Text == muyu)
+                        {
+                            buttoncs8.ForeColor = Color.Green;
+                        }
+                        if (buttoncs8.Text == shuai)
+                        {
+                            buttoncs8.ForeColor = Color.Gray;
+                        }
+                        if (buttoncs8.Text == bingg)
+                        {
+                            buttoncs8.ForeColor = Color.Gray;
+                        }
+                        if (buttoncs8.Text == ssii)
+                        {
+                            buttoncs8.ForeColor = Color.Black;
+                        }
+                        if (buttoncs8.Text == mmuu)
+                        {
+                            buttoncs8.ForeColor = Color.Black;
+                        }
+                        if (buttoncs8.Text == jue)
+                        {
+                            buttoncs8.ForeColor = Color.Black;
+                        }
+                        if (buttoncs9.Text == diwang)
+                        {
+                            buttoncs9.ForeColor = Color.Red;
+                        }
+                        if (buttoncs9.Text == linguan)
+                        {
+                            buttoncs9.ForeColor = Color.Red;
+                        }
+                        if (buttoncs9.Text == guandai)
+                        {
+                            buttoncs9.ForeColor = Color.Red;
+                        }
+                        if (buttoncs9.Text == changsheng)
+                        {
+                            buttoncs9.ForeColor = Color.Red;
+                        }
+                        if (buttoncs9.Text == tai)
+                        {
+                            buttoncs9.ForeColor = Color.Green;
+                        }
+                        if (buttoncs9.Text == yang)
+                        {
+                            buttoncs9.ForeColor = Color.Green;
+                        }
+                        if (buttoncs9.Text == muyu)
+                        {
+                            buttoncs9.ForeColor = Color.Green;
+                        }
+                        if (buttoncs9.Text == shuai)
+                        {
+                            buttoncs9.ForeColor = Color.Gray;
+                        }
+                        if (buttoncs9.Text == bingg)
+                        {
+                            buttoncs9.ForeColor = Color.Gray;
+                        }
+                        if (buttoncs9.Text == ssii)
+                        {
+                            buttoncs9.ForeColor = Color.Black;
+                        }
+                        if (buttoncs9.Text == mmuu)
+                        {
+                            buttoncs9.ForeColor = Color.Black;
+                        }
+                        if (buttoncs9.Text == jue)
+                        {
+                            buttoncs9.ForeColor = Color.Black;
+                        }
+                        if (buttoncs10.Text == diwang)
+                        {
+                            buttoncs10.ForeColor = Color.Red;
+                        }
+                        if (buttoncs10.Text == linguan)
+                        {
+                            buttoncs10.ForeColor = Color.Red;
+                        }
+                        if (buttoncs10.Text == guandai)
+                        {
+                            buttoncs10.ForeColor = Color.Red;
+                        }
+                        if (buttoncs10.Text == changsheng)
+                        {
+                            buttoncs10.ForeColor = Color.Red;
+                        }
+                        if (buttoncs10.Text == tai)
+                        {
+                            buttoncs10.ForeColor = Color.Green;
+                        }
+                        if (buttoncs10.Text == yang)
+                        {
+                            buttoncs10.ForeColor = Color.Green;
+                        }
+                        if (buttoncs10.Text == muyu)
+                        {
+                            buttoncs10.ForeColor = Color.Green;
+                        }
+                        if (buttoncs10.Text == shuai)
+                        {
+                            buttoncs10.ForeColor = Color.Gray;
+                        }
+                        if (buttoncs10.Text == bingg)
+                        {
+                            buttoncs10.ForeColor = Color.Gray;
+                        }
+                        if (buttoncs10.Text == ssii)
+                        {
+                            buttoncs10.ForeColor = Color.Black;
+                        }
+                        if (buttoncs10.Text == mmuu)
+                        {
+                            buttoncs10.ForeColor = Color.Black;
+                        }
+                        if (buttoncs10.Text == jue)
+                        {
+                            buttoncs10.ForeColor = Color.Black;
+                        }
+                        if (buttoncs11.Text == diwang)
+                        {
+                            buttoncs11.ForeColor = Color.Red;
+                        }
+                        if (buttoncs11.Text == linguan)
+                        {
+                            buttoncs11.ForeColor = Color.Red;
+                        }
+                        if (buttoncs11.Text == guandai)
+                        {
+                            buttoncs11.ForeColor = Color.Red;
+                        }
+                        if (buttoncs11.Text == changsheng)
+                        {
+                            buttoncs11.ForeColor = Color.Red;
+                        }
+                        if (buttoncs11.Text == tai)
+                        {
+                            buttoncs11.ForeColor = Color.Green;
+                        }
+                        if (buttoncs11.Text == yang)
+                        {
+                            buttoncs11.ForeColor = Color.Green;
+                        }
+                        if (buttoncs11.Text == muyu)
+                        {
+                            buttoncs11.ForeColor = Color.Green;
+                        }
+                        if (buttoncs11.Text == shuai)
+                        {
+                            buttoncs11.ForeColor = Color.Gray;
+                        }
+                        if (buttoncs11.Text == bingg)
+                        {
+                            buttoncs11.ForeColor = Color.Gray;
+                        }
+                        if (buttoncs11.Text == ssii)
+                        {
+                            buttoncs11.ForeColor = Color.Black;
+                        }
+                        if (buttoncs11.Text == mmuu)
+                        {
+                            buttoncs11.ForeColor = Color.Black;
+                        }
+                        if (buttoncs11.Text == jue)
+                        {
+                            buttoncs11.ForeColor = Color.Black;
+                        }
+                        if (buttoncs12.Text == diwang)
+                        {
+                            buttoncs12.ForeColor = Color.Red;
+                        }
+                        if (buttoncs12.Text == linguan)
+                        {
+                            buttoncs12.ForeColor = Color.Red;
+                        }
+                        if (buttoncs12.Text == guandai)
+                        {
+                            buttoncs12.ForeColor = Color.Red;
+                        }
+                        if (buttoncs12.Text == changsheng)
+                        {
+                            buttoncs12.ForeColor = Color.Red;
+                        }
+                        if (buttoncs12.Text == tai)
+                        {
+                            buttoncs12.ForeColor = Color.Green;
+                        }
+                        if (buttoncs12.Text == yang)
+                        {
+                            buttoncs12.ForeColor = Color.Green;
+                        }
+                        if (buttoncs12.Text == muyu)
+                        {
+                            buttoncs12.ForeColor = Color.Green;
+                        }
+                        if (buttoncs12.Text == shuai)
+                        {
+                            buttoncs12.ForeColor = Color.Gray;
+                        }
+                        if (buttoncs12.Text == bingg)
+                        {
+                            buttoncs12.ForeColor = Color.Gray;
+                        }
+                        if (buttoncs12.Text == ssii)
+                        {
+                            buttoncs12.ForeColor = Color.Black;
+                        }
+                        if (buttoncs12.Text == mmuu)
+                        {
+                            buttoncs12.ForeColor = Color.Black;
+                        }
+                        if (buttoncs12.Text == jue)
+                        {
+                            buttoncs12.ForeColor = Color.Black;
+                        }
+
+                    }
+
+
                 }
                 //十神判断
                 if (jia == jia)
@@ -12187,7 +19813,7 @@ namespace BaZiFuZuGongJu
                         linkLabel40.Text = "风；东南；巽"; linkLabel40.BackColor = Color.White; linkLabel40.LinkColor = Color.Sienna;
                     }
                 }
-                //十二长生
+                //四柱十二长生
                 if (jia == jia)
                 {
                     if (ntg == bing)
@@ -39482,17 +47108,309 @@ namespace BaZiFuZuGongJu
                         }
 
                     }
+                    //大运
+                    if (jia == jia)
+                    {
+                        if (buttoncs1.Text == diwang)
+                        {
+                            bazipingfen += 300; richTextBox1.Text += diwang + "日干冲丙加+300，\r\n";
+                        }
+                        if (buttoncs1.Text == linguan)
+                        {
+                            bazipingfen += 200; richTextBox1.Text += linguan + "日干冲丙加+200，\r\n";
+                        }
+                        if (buttoncs1.Text == guandai)
+                        {
+                            bazipingfen += 150; richTextBox1.Text += guandai + "日干冲丙加+150，\r\n";
+                        }
+                        if (buttoncs1.Text == changsheng)
+                        {
+                            bazipingfen += 100; richTextBox1.Text += changsheng + "日干冲丙加+100，\r\n";
+                        }
+                        if (buttoncs1.Text == tai)
+                        {
+                            bazipingfen += 90; richTextBox1.Text += tai + "日干冲丙加+90，\r\n";
+                        }
+                        if (buttoncs1.Text == yang)
+                        {
+                            bazipingfen += 90; richTextBox1.Text += yang + "日干冲丙加+90，\r\n";
+                        }
+                        if (buttoncs1.Text == muyu)
+                        {
+                            bazipingfen += 90; richTextBox1.Text += muyu + "日干冲丙加+90，\r\n";
+                        }
+                        if (buttoncs1.Text == shuai)
+                        {
+                            bazipingfen -= 80; richTextBox1.Text += shuai + "日干冲丙减-80，\r\n";
+                        }
+                        if (buttoncs1.Text == bingg)
+                        {
+                            bazipingfen -= 100; richTextBox1.Text += bingg + "日干冲丙减-100，\r\n";
+                        }
+                        if (buttoncs1.Text == ssii)
+                        {
+                            bazipingfen -= 150; richTextBox1.Text += ssii + "日干冲丙减-150，\r\n";
+                        }
+                        if (buttoncs1.Text == mmuu)
+                        {
+                            bazipingfen -= 200; richTextBox1.Text += mmuu + "日干冲丙减-200，\r\n";
+                        }
+                        if (buttoncs1.Text == jue)
+                        {
+                            bazipingfen -= 300; richTextBox1.Text += jue + "日干冲丙减-300，\r\n";
+                        }
+                        if (buttoncs2.Text == diwang)
+                        {
+                            bazipingfen += 300; richTextBox1.Text += diwang + "日干冲丙加+300，\r\n";
+                        }
+                        if (buttoncs2.Text == linguan)
+                        {
+                            bazipingfen += 200; richTextBox1.Text += linguan + "日干冲丙加+200，\r\n";
+                        }
+                        if (buttoncs2.Text == guandai)
+                        {
+                            bazipingfen += 150; richTextBox1.Text += guandai + "日干冲丙加+150，\r\n";
+                        }
+                        if (buttoncs2.Text == changsheng)
+                        {
+                            bazipingfen += 100; richTextBox1.Text += changsheng + "日干冲丙加+100，\r\n";
+                        }
+                        if (buttoncs2.Text == tai)
+                        {
+                            bazipingfen += 90; richTextBox1.Text += tai + "日干冲丙加+90，\r\n";
+                        }
+                        if (buttoncs2.Text == yang)
+                        {
+                            bazipingfen += 90; richTextBox1.Text += yang + "日干冲丙加+90，\r\n";
+                        }
+                        if (buttoncs2.Text == muyu)
+                        {
+                            bazipingfen += 90; richTextBox1.Text += muyu + "日干冲丙加+90，\r\n";
+                        }
+                        if (buttoncs2.Text == shuai)
+                        {
+                            bazipingfen -= 80; richTextBox1.Text += shuai + "日干冲丙减-80，\r\n";
+                        }
+                        if (buttoncs2.Text == bingg)
+                        {
+                            bazipingfen -= 100; richTextBox1.Text += bingg + "日干冲丙减-100，\r\n";
+                        }
+                        if (buttoncs2.Text == ssii)
+                        {
+                            bazipingfen -= 150; richTextBox1.Text += ssii + "日干冲丙减-150，\r\n";
+                        }
+                        if (buttoncs2.Text == mmuu)
+                        {
+                            bazipingfen -= 200; richTextBox1.Text += mmuu + "日干冲丙减-200，\r\n";
+                        }
+                        if (buttoncs2.Text == jue)
+                        {
+                            bazipingfen -= 300; richTextBox1.Text += jue + "日干冲丙减-300，\r\n";
+                        }
+                        if (buttoncs3.Text == diwang)
+                        {
+                            bazipingfen += 300; richTextBox1.Text += diwang + "日干冲丙加+300，\r\n";
+                        }
+                        if (buttoncs3.Text == linguan)
+                        {
+                            bazipingfen += 200; richTextBox1.Text += linguan + "日干冲丙加+200，\r\n";
+                        }
+                        if (buttoncs3.Text == guandai)
+                        {
+                            bazipingfen += 150; richTextBox1.Text += guandai + "日干冲丙加+150，\r\n";
+                        }
+                        if (buttoncs3.Text == changsheng)
+                        {
+                            bazipingfen += 100; richTextBox1.Text += changsheng + "日干冲丙加+100，\r\n";
+                        }
+                        if (buttoncs3.Text == tai)
+                        {
+                            bazipingfen += 90; richTextBox1.Text += tai + "日干冲丙加+90，\r\n";
+                        }
+                        if (buttoncs3.Text == yang)
+                        {
+                            bazipingfen += 90; richTextBox1.Text += yang + "日干冲丙加+90，\r\n";
+                        }
+                        if (buttoncs3.Text == muyu)
+                        {
+                            bazipingfen += 90; richTextBox1.Text += muyu + "日干冲丙加+90，\r\n";
+                        }
+                        if (buttoncs3.Text == shuai)
+                        {
+                            bazipingfen -= 80; richTextBox1.Text += shuai + "日干冲丙减-80，\r\n";
+                        }
+                        if (buttoncs3.Text == bingg)
+                        {
+                            bazipingfen -= 100; richTextBox1.Text += bingg + "日干冲丙减-100，\r\n";
+                        }
+                        if (buttoncs3.Text == ssii)
+                        {
+                            bazipingfen -= 150; richTextBox1.Text += ssii + "日干冲丙减-150，\r\n";
+                        }
+                        if (buttoncs3.Text == mmuu)
+                        {
+                            bazipingfen -= 200; richTextBox1.Text += mmuu + "日干冲丙减-200，\r\n";
+                        }
+                        if (buttoncs3.Text == jue)
+                        {
+                            bazipingfen -= 300; richTextBox1.Text += jue + "日干冲丙减-300，\r\n";
+                        }
+                        if (buttoncs4.Text == diwang)
+                        {
+                            bazipingfen += 300; richTextBox1.Text += diwang + "日干冲丙加+300，\r\n";
+                        }
+                        if (buttoncs4.Text == linguan)
+                        {
+                            bazipingfen += 200; richTextBox1.Text += linguan + "日干冲丙加+200，\r\n";
+                        }
+                        if (buttoncs4.Text == guandai)
+                        {
+                            bazipingfen += 150; richTextBox1.Text += guandai + "日干冲丙加+150，\r\n";
+                        }
+                        if (buttoncs4.Text == changsheng)
+                        {
+                            bazipingfen += 100; richTextBox1.Text += changsheng + "日干冲丙加+100，\r\n";
+                        }
+                        if (buttoncs4.Text == tai)
+                        {
+                            bazipingfen += 90; richTextBox1.Text += tai + "日干冲丙加+90，\r\n";
+                        }
+                        if (buttoncs4.Text == yang)
+                        {
+                            bazipingfen += 90; richTextBox1.Text += yang + "日干冲丙加+90，\r\n";
+                        }
+                        if (buttoncs4.Text == muyu)
+                        {
+                            bazipingfen += 90; richTextBox1.Text += muyu + "日干冲丙加+90，\r\n";
+                        }
+                        if (buttoncs4.Text == shuai)
+                        {
+                            bazipingfen -= 80; richTextBox1.Text += shuai + "日干冲丙减-80，\r\n";
+                        }
+                        if (buttoncs4.Text == bingg)
+                        {
+                            bazipingfen -= 100; richTextBox1.Text += bingg + "日干冲丙减-100，\r\n";
+                        }
+                        if (buttoncs4.Text == ssii)
+                        {
+                            bazipingfen -= 150; richTextBox1.Text += ssii + "日干冲丙减-150，\r\n";
+                        }
+                        if (buttoncs4.Text == mmuu)
+                        {
+                            bazipingfen -= 200; richTextBox1.Text += mmuu + "日干冲丙减-200，\r\n";
+                        }
+                        if (buttoncs4.Text == jue)
+                        {
+                            bazipingfen -= 300; richTextBox1.Text += jue + "日干冲丙减-300，\r\n";
+                        }
+                        if (buttoncs5.Text == diwang)
+                        {
+                            bazipingfen += 300; richTextBox1.Text += diwang + "日干冲丙加+300，\r\n";
+                        }
+                        if (buttoncs5.Text == linguan)
+                        {
+                            bazipingfen += 200; richTextBox1.Text += linguan + "日干冲丙加+200，\r\n";
+                        }
+                        if (buttoncs5.Text == guandai)
+                        {
+                            bazipingfen += 150; richTextBox1.Text += guandai + "日干冲丙加+150，\r\n";
+                        }
+                        if (buttoncs5.Text == changsheng)
+                        {
+                            bazipingfen += 100; richTextBox1.Text += changsheng + "日干冲丙加+100，\r\n";
+                        }
+                        if (buttoncs5.Text == tai)
+                        {
+                            bazipingfen += 90; richTextBox1.Text += tai + "日干冲丙加+90，\r\n";
+                        }
+                        if (buttoncs5.Text == yang)
+                        {
+                            bazipingfen += 90; richTextBox1.Text += yang + "日干冲丙加+90，\r\n";
+                        }
+                        if (buttoncs5.Text == muyu)
+                        {
+                            bazipingfen += 90; richTextBox1.Text += muyu + "日干冲丙加+90，\r\n";
+                        }
+                        if (buttoncs5.Text == shuai)
+                        {
+                            bazipingfen -= 80; richTextBox1.Text += shuai + "日干冲丙减-80，\r\n";
+                        }
+                        if (buttoncs5.Text == bingg)
+                        {
+                            bazipingfen -= 100; richTextBox1.Text += bingg + "日干冲丙减-100，\r\n";
+                        }
+                        if (buttoncs5.Text == ssii)
+                        {
+                            bazipingfen -= 150; richTextBox1.Text += ssii + "日干冲丙减-150，\r\n";
+                        }
+                        if (buttoncs5.Text == mmuu)
+                        {
+                            bazipingfen -= 200; richTextBox1.Text += mmuu + "日干冲丙减-200，\r\n";
+                        }
+                        if (buttoncs5.Text == jue)
+                        {
+                            bazipingfen -= 300; richTextBox1.Text += jue + "日干冲丙减-300，\r\n";
+                        }
+                        if (buttoncs6.Text == diwang)
+                        {
+                            bazipingfen += 300; richTextBox1.Text += diwang + "日干冲丙加+300，\r\n";
+                        }
+                        if (buttoncs6.Text == linguan)
+                        {
+                            bazipingfen += 200; richTextBox1.Text += linguan + "日干冲丙加+200，\r\n";
+                        }
+                        if (buttoncs6.Text == guandai)
+                        {
+                            bazipingfen += 150; richTextBox1.Text += guandai + "日干冲丙加+150，\r\n";
+                        }
+                        if (buttoncs6.Text == changsheng)
+                        {
+                            bazipingfen += 100; richTextBox1.Text += changsheng + "日干冲丙加+100，\r\n";
+                        }
+                        if (buttoncs6.Text == tai)
+                        {
+                            bazipingfen += 90; richTextBox1.Text += tai + "日干冲丙加+90，\r\n";
+                        }
+                        if (buttoncs6.Text == yang)
+                        {
+                            bazipingfen += 90; richTextBox1.Text += yang + "日干冲丙加+90，\r\n";
+                        }
+                        if (buttoncs6.Text == muyu)
+                        {
+                            bazipingfen += 90; richTextBox1.Text += muyu + "日干冲丙加+90，\r\n";
+                        }
+                        if (buttoncs6.Text == shuai)
+                        {
+                            bazipingfen -= 80; richTextBox1.Text += shuai + "日干冲丙减-80，\r\n";
+                        }
+                        if (buttoncs6.Text == bingg)
+                        {
+                            bazipingfen -= 100; richTextBox1.Text += bingg + "日干冲丙减-100，\r\n";
+                        }
+                        if (buttoncs6.Text == ssii)
+                        {
+                            bazipingfen -= 150; richTextBox1.Text += ssii + "日干冲丙减-150，\r\n";
+                        }
+                        if (buttoncs6.Text == mmuu)
+                        {
+                            bazipingfen -= 200; richTextBox1.Text += mmuu + "日干冲丙减-200，\r\n";
+                        }
+                        if (buttoncs6.Text == jue)
+                        {
+                            bazipingfen -= 300; richTextBox1.Text += jue + "日干冲丙减-300，\r\n";
+                        }
 
+                    }
                     //输出
                     string paixu = richTextBox1.Text;
                     richTextBox1.Text = "";
                     if (bazipingfen < 0)
                     {
-                        richTextBox1.Text = "当前八字评分为 负" + bazipingfen + "分。评分参数的值是作者以自己对相关文献的理解为准不一定对。\r\n评分依据参数：旺衰，阴阳，五行，季节，日干冲，是否喜土，神煞，墓库运。\r\n不以恶小而为之：不以善小而不为，积善之家必有余庆。上善若水 厚德载物。天行健，君子以自强不息。\r\n" + paixu;
+                        richTextBox1.Text = "当前八字评分为 负" + bazipingfen + "分。评分参数的值是作者以自己对相关文献的理解为准不一定对。\r\n不以恶小而为之：不以善小而不为，积善之家必有余庆。上善若水 厚德载物。天行健，君子以自强不息。\r\n" + paixu;
                     }
                     if (bazipingfen >= 0)
                     {
-                        richTextBox1.Text = "当前八字评分为" + bazipingfen + "分。评分参数的值是作者以自己对相关文献的理解为准不一定对。\r\n评分依据参数：旺衰，阴阳，五行，季节，日干冲，是否喜土，神煞，墓库运。\r\n上善若水 厚德载物。天行健，君子以自强不息。不以恶小而为之：不以善小而不为，积善之家必有余庆\r\n" + paixu;
+                        richTextBox1.Text = "当前八字评分为" + bazipingfen + "分。评分参数的值是作者以自己对相关文献的理解为准不一定对。\r\n上善若水 厚德载物。天行健，君子以自强不息。不以恶小而为之：不以善小而不为，积善之家必有余庆\r\n" + paixu;
                     }
                     mingjiupingfen = richTextBox1.Text;
                 }
@@ -52887,13 +60805,13 @@ namespace BaZiFuZuGongJu
         private void buttongj_Click(object sender, EventArgs e)
         {
             //自述文本
-            string 自述文本 = "杜净隆_作品。\r\n杜净隆_作品。 从前的库我帐号无法登录了https://github.com/TVB-JINPAIJIANZHI/bazifuzugongju 新的库https://github.com/dujinglong2024/BaZiPaiPanGongJu \r\n使用Lunar库实现了万年历级别的天干地支查询https://github.com/6tail/lunar-csharp\r\n\r\n\r\n学习八字预测不用死记硬背。不用担心没时间。只要懂五行生克就可以学会。\r\n\r\n新增加八字评分功能。\r\n以子时为次日的处理。天干冲的喜忌变化。同柱干支暗合.地支暗合。\r\n显示墓库运。自动识别方位和对应内脏。天干地支分阴阳五行五种颜色。\r\n自动判断,半三合.地支六冲,地支六害,地支六合,地支六破,地支三合,\r\n地支三会,地支相刑,拱合,天干冲,天干五合，拱合。流年和主命盘阴阳。\r\n半三合，地支六合,地支三合,地支三会,天干五合，拱合：五行色彩。\r\n十神：吉为红字：忌为黑字。自动判断日元强弱。十神等按钮中附注解。\r\n显示十神六亲。54个神煞显示。显示十二长生。排流年和主命盘显示强弱。\r\n天干冲的喜忌变化。十神六亲喜忌色彩与十神喜忌关联。\r\n集成了穷通宝鉴:可以显示四季五行命性。\r\n增加四柱的五行纳音。流年副盘。四柱干支流转。 \r\n\r\n\r\n 读诵《金刚般若波罗蜜经》可消业力。\r\n\r\n要改变命运就要改变自己，人受五行控制就只能认命。\r\n菩萨是没有五行的所以不受五行所限。\r\n要脱离五行就要发心做个菩萨：日常生活中遇事以菩萨的态度行事即可。\r\n需要注意的是发心为上行为次之，因为菩萨的心才是无上正等正觉的。\r\n唵嘛呢叭咪吽\r\n\r\n----------------\r\n\r\n前言，\r\n\r\n看到很多人给小宝宝起名被骗钱所以写此教程，本人懂起名原理借助软件实现专业起名。\r\n\r\n好的八字就像房子在的地段，八字五行平衡就像房子的格局好，名字就是装修了。\r\n\r\n现在有了AI就不需要请大师了，输入关键词就行，先说结论再讲理论。\r\n\r\n下面以给金命需要补充木和火的男性起名为例。\r\n\r\n（依据三才五格，给生于9999年99月99日99时姓张的男性起名，五格要全吉，\r\n\r\n寓意要好，第二个字的五行笔顺为木，第三个字的五行笔顺为火，\r\n\r\n名字中不要X字和A字，不要容易重名的组合）\r\n\r\n以上是作者在软件BING上用的词，其中日期是为了让AI运算用，\r\n\r\n实际上填什么时间都可以，BING的万年历不是农历的所以要自己定吉神。\r\n\r\n因为在用此方法前我们要先用软件看看此八字中需要补充的五行是什么。\r\n\r\n在此基础上用AI找出五格全吉之数的字。\r\n\r\n上面不要的X和A是用于屏蔽不想要之字用可以删除。\r\n\r\n如果你没看懂请不要实际操作以免弄巧成拙。\r\n\r\n如需助人起名需要收取费用，因为你给别人起名就等于在改写这个人的命运，\r\n\r\n无论好坏都要消耗你，除非是你的直系亲属。\r\n\r\n一命二相三风水，名字是人的第二张脸面，其作用与人的脸相当。\r\n\r\n不过名字是数术，也就可以拼合八字，对于人的发展也大于风水很多。\r\n\r\n起名是一个涉及到文化、历史和语言的重要过程。周易中的三才五格理论是中国传统名字学的核心思想之一，它认为人的命运与出生时五行的相对强度和三才之间的协调有关。在这部教材中，我们将介绍三才五格的基本概念、原理和应用方法，帮助读者更好地理解和运用这一理论。\r\n\r\n第一章 三才五格的基本概念\r\n\r\n三才：指天、地、人三个方面的素质。\r\n天格：指出生年的天干地支，代表着先天的气质和能力。\r\n人格：指出生日的天干地支，代表着性格和才华。\r\n地格：指姓名的笔画数目，代表着后天的环境和条件。\r\n总格：指天格、人格、地格三者之和，代表着个人的命运和发展。\r\n第二章 三才五格的原理\r\n\r\n五行相生相克：金生水，水生木，木生火，火生土，土生金；金克木，木克土，土克水，水克火，火克金。\r\n喜用神和忌神：根据个人的命局和需要，选择适合的五行作为喜用神，避免忌神的影响。\r\n三才协调：天、地、人三才之间相互协调，可以增强个人的命运和发展。\r\n笔画数和五行：每个汉字都有固定的笔画数和对应的五行属性，根据姓名的笔画数和五行配比，可以评估地格的优劣。\r\n第三章 三才五格的应用方法\r\n\r\n查看命盘：根据出生日期和时间，结合农历、时辰等因素，查看个人的命盘和五行属性。\r\n确定天格和地格：根据出生年份和姓名的笔画数，在专业的起名书籍或网站上确定天格和地格。\r\n计算人格和总格：根据出生日期确定人格，然后将天格、人格、地格相加得到总格。\r\n确定喜用神和忌神：根据命盘和总格的五行属性，确定适合的喜用神和需要避免的忌神。\r\n综合评估：综合考虑天格、人格、地格、总格、喜用神和忌神等因素，进行综合评估，并选取合适的名字。\r\n以上是三才五格起名的基本概念、原理和应用方法，希望读者能够通过学习更好地了解和运用这一传统文化。\r\n\r\n\r\n-----------------\r\n\r\n\r\n起名第一步就是要排出这个人的八字，这是专业的步骤。\r\n\r\n如果给你起名的人不排八字和你扯字意，说什么大人物用这个字怎么好，那他绝对是骗子。\r\n\r\n排出八字就是要知道这个人生来所带的五行属性，金木土水火。\r\n\r\n然后给人补缺填平，五行哪个太多都不好，缺少就更不好了。\r\n\r\n然后在根据生肖避开忌用的偏旁。\r\n\r\n\r\n--------------------------------------\r\n\r\n\r\n\r\n\r\n三才五格吉凶配置\r\n\r\n一、起源\r\n\r\n在公元1918年初，由日本人熊崎健翁根据中国易学数理学开创，因此五格剖象法也称作“熊崎氏姓名学”，其核心就是将人的姓名按五格剖象法来解释。\r\n\r\n1936年由台湾留学日本的白玉光（又叫白惠文）带回台湾翻译推广，后来流行于韩国，东南亚，中国台湾、香港等地 在中国大陆，五格剖象法通过和中国传统易学原理的结合，上世纪九十年代由中国命运分析学者方晨等规范总结和实践，以康熙字典笔画作为姓名学笔画基准，形成完善的符合中国姓名传统的姓名分析方法，结合中国传统姓名学，成为中华姓名学的一个重要组成部分\r\n\r\n二、五格计算方法\r\n\r\n1、天格：单姓的天格是“单姓笔画+1”，复姓的天格是“复姓笔画数相加” 2、人格：单姓的人格是“姓的笔画数+名（第一字）的笔画数”，；复姓的人格数理是“复姓的第二个字笔画+名的第一个字笔画”\r\n\r\n3、地格：双名的地格是“名字的笔画数相加”，单名的地格是“名的笔画数+1”。\r\n\r\n4、总格：总格是“姓名笔画数的总和”。\r\n\r\n5、外格：单姓双姓名“总格数理-人格数理+1”；复姓双将姓名总格减去人格之差”即为外格。复姓单名的外格为“总格数理-人格数理+1”。注：单姓单名的外格为2，\r\n\r\n三、五格的分数\r\n\r\n五格是：天格、人格、地格、总格、外格。\r\n\r\n其中天格代表父母的命运；地格代表自己38岁以前的命运（又称前运）；人格是自己的主运； 外格是副运；总格是后运，通常在人38岁以后才称后运。\r\n\r\n首先，作者将81个数定义了吉凶： 列为吉数的有1、3、5、6、7、8、11、13、15、16、17、18、21、23、24、25、29、31、32、33、35、37、39、41、45、47、48、52、55、57、61、63、65、67、68、81共计36个。\r\n\r\n列为凶数的有2、4、9、10、12、14、19、20、22、26、27、28、30、34、36、38、40、42、43、44、46、49、50、51、53、54、56、58、59、60、62、64、66、69、70、71、72、73、74、75、76、77、78、79、80 合计45个。\r\n\r\n四、三才的计算\r\n\r\n三才是：指天、人、地格的五行属性，取相生吉，相克凶。\r\n\r\n对“数”定义五行是套用十天干的五行顺序而定，即1、2甲乙木，3、4丙丁火，5、6戊己土，7、8庚辛金，9、10壬癸水。计算出了姓名的五格后，就是给五格配上阴、阳。数字超过十的只留个位数计算。如：15为还原成5，属阳土；52还原成2，属阴木，此类推。得出阴阳关系后，再分辩五行的相生相克关系：木生火、火生土、土生金、金生水、水生木；木克土、土克水、水克火、火克金、金克木。\r\n\r\n五、举例\r\n\r\n李世民\r\n\r\n李7 天格：08(金)7+1\r\n\r\n世5 人格：12(木)7+5\r\n\r\n民5 地格：10(水)5+5\r\n\r\n总格：17(金) 7+5+5\r\n\r\n外格：6 (土)17-12+1\r\n\r\n三才是：金木水\r\n\r\n\r\n----------------------------------------------\r\n\r\n用字的划数来区别五行的方法：\r\n\r\n1、2、11、12、21、22、31、32划属木\r\n\r\n3、4、13、14、23、24、33、34划属火\r\n\r\n5、6、15、16、25、26、35、36划属土\r\n\r\n7、8、17、18、27、28、37、38划属金\r\n\r\n9、10、19．20、29、30、39、40划属水\r\n\r\n其中奇数为阳，偶数为阴。\r\n\r\n这里需要注意的重点是笔画的数量以繁体字书写的笔画为准。\r\n\r\n----------------------------------------------\r\n\r\n凡取名字的部首，最好配合生肖宜忌选用\r\n\r\n1、鼠年出生的人\r\n\r\n取名应有：宀、米、豆、魚、艸、金、玉、亻、木、月、田、等部位为吉\r\n\r\n取名忌用：山、刀、力、弓、土、欠、石、皮、氵、马、酉、才、火、车等部首\r\n\r\n2、牛年出生的人\r\n\r\n取名应有：氵、艸、豆、米、金、玉、宀、亻、木等部首为吉\r\n\r\n取名忌用：月、火、田、车、马、石、山、血、糸、刀、力等部首\r\n\r\n3、虎年出生的人\r\n\r\n取名应有：山、玉、金、木、示、氵、月、犬、马等部首为吉\r\n\r\n取名忌用：日、火、田、口、糸、石、马、刀、力、血、弓、父、足等部首\r\n\r\n4、兔年出生的人\r\n\r\n取名应有：月、艸、山、田、亻、禾、木、宀、金、白、玉、豆、犬等部首为吉\r\n\r\n取名忌用：马、石、刀、皮、氵、川等部首\r\n\r\n5、龙年出生的人\r\n\r\n取名应有：氵、金、玉、白、赤、月、魚、酉、亻等部位为吉\r\n\r\n取名忌用：土、田、木、禾、示、忄、日、石、艸、力、刀、糸、犬、火等部首\r\n\r\n6、蛇年出生的人\r\n\r\n取名应有：艸、蟲、豆、魚、酉、木、禾、田、山、金、玉、月、土等部首为吉\r\n\r\n取名忌用：小、石、刀、血、弓、火、亻、犬、父等部首\r\n\r\n7、马年出生的人\r\n\r\n取名应有：艸、金、玉、木、禾、蟲、豆、米、亻、月、土、才等部首为吉\r\n\r\n取名忌用：田、日、火、氵、车、石、刀、力、酉、马等部首\r\n\r\n8、羊年出生的人\r\n\r\n取名应有：金、白、玉、艸、月、田、豆、米、马、禾、木、亻、魚等部首为吉\r\n\r\n取名忌用：小、犬、糸、车、氵、山、日、火等部首\r\n\r\n9、猴年出生的人\r\n\r\n取名应有：木、禾、金、玉、豆、米、田、山、月、氵、亻等部首为吉\r\n\r\n取名忌用：火、石、口、冖、糸、刀、力、皮、犬等部首\r\n\r\n10、鸡年出生的人\r\n\r\n取名应有：米、豆、蟲、木、禾、玉、田、月、冖、山、艸、金的部首为吉\r\n\r\n取名忌用：石、犬、刀、力、日、酉、血、弓、才、糸、车、马等部首\r\n\r\n11、狗年出生的人\r\n\r\n取名应有：魚、豆、米、冖、马、金、艸、田、木、月、禾、氵、亻等部首为吉\r\n\r\n取名忌用：火、石、糸、山、才、木、车、刀、父、言等部首\r\n\r\n12、猪年出生的人\r\n\r\n取名应有：豆、米、魚、氵、金、玉、月、木、禾、亻、山、土、艸等部首为吉\r\n\r\n取名忌用：糸、石、刀、力、血、弓、皮、父等部首\r\n\r\n---------------------------------------------\r\n\r\n\r\n取名的技巧\r\n\r\n1、考虑书写习惯，平时写字，大家都有简单化的倾向，故用字不宜太复杂或难写。注意轻重，平衡字形要有美感。\r\n\r\n2、不宜用生僻字，这样易造成被人难以认识、被人拒绝，妨碍人际沟通。\r\n\r\n3、学名不宜带稚气，当小孩长大后，易被人小看。\r\n\r\n4、避免使用相同或相近部首的字。避免声母，韵母相策。\r\n\r\n5、避免声调相同，无语音之美。分清阴阳，阳盛取阴名，阴盛取阳名。\r\n\r\n6、根据具体要求，调整特殊用字，诱导其广播方向。\r\n\r\n7、创意新颖，含义丰富。\r\n\r\n8、用易经的组合方法，校正全名的卦象，以辨吉凶。\r\n\r\n9、根据小孩的出生年月，即古谓“生辰八字”确定用码的五行。\r\n\r\n10、结合五格数理，选定名字的笔画数。\r\n\r\n\r\n----------------------------------------\r\n\r\n生辰八字\r\n根据宝宝出生的时辰，转换成对应的五行，看看是缺了哪一种，用名字去补。\r\n比如五行缺「金」，名字里面就用带金字旁的字来补。\r\n更具体的我也没有深入研究了，因为用生辰来起名的前提是知道宝宝的出生时间。如果想在宝宝出生前把名字取好，我们可以了解一下「五格剖象法」。\r\n\r\n五格剖象法\r\n五格剖象法，也叫三才五格，是比较流行的一种取名法，也是很多起名打分应用的依据。它将名字的笔画数拆分为天格、地格、人格、外格、总格。\r\n五格各自包含的意义如下：\r\n\r\n天格为根 - 天格乃祖先留下来的，为父母运势，其数理对个人影响不大。\r\n人格为苗 - 又称「主运」，是整个姓名的中心点，人一生的命运之好坏主要由此格推断。\r\n地格为花 - 又称为「前运」，主 38 岁以前，主管人中年以前的活动力。\r\n外格为叶 - 主管命运之灵力，一般指贵人或外来助力。为一个人外界和谐与否，可由此格看出。\r\n总格为果 - 主中年至晚年的命运，又称后运，主 38 岁以后。\r\n\r\n它们计算方法是这样的：\r\n\r\n天格：姓的笔画数?+ 1\r\n人格：姓的笔画数 + 名第一字的笔画数\r\n地格：名字的笔画数相加\r\n总格：姓名笔画数的总和\r\n外格：总格 - 人格 + 1?\r\n\r\n这里的笔画数是按康熙字典里的笔画，也就是要按繁体字计算。此外还有一些部首会影响笔画数计算：\r\n\r\n（1）“氵”三点水算四画。如：清、洁等；（2）“扌”手旁算四画。如挑、拨等；（3）“月”算肉旁六画。如服、肪、脉等；（4）“艹”算六画。如英、苹、蓉等；（5）“辶”算七画。如达、迈、迅、过等；（6）左“阝”算八画，阳、阴、陈、陆等；（7）右“卩”算七画，如即、邓、邝等；（8）“王”算五画，如琬、珀、玫、瑰等；（9）礻（示），以示字计为五画；（10）衤（衣），以衣字计为六画；（11）“犭”算四画。如狄、猛、独等；（12）忄（心），竖心旁，以心字计为四画；（13）名字中有“一、二、三、四、五、六、七、八、九、十”的字要分别按1、2、3、4、5、6、7、8、9、10画。\r\n\r\n最后算出来的五格笔画数，被划分为吉、半吉、凶三组：\r\n\r\n属于吉的数字：1、3、5、8、11、13、15、16、21、23、24、25、29、31、32、33、35、37、38、39、41、45、47、48、52、57、63、65、67、68、81\r\n属于半吉的数字：6、7、17、18、27、30、40、51、52、55、61、75\r\n属于凶的数字：2、4、9、10、12、14、19、20、22、26、28、34、36、42、43、44、46、49、50、53、54、56、58、59、60、62、64、66、69、70、71、72、73、74、76、77、78、79、80\r\n\r\n\r\n----------------------------------------------\r\n\r\n\r\n简而言之就是：\r\n\r\n1，用字的五行补缺少的五行，笔画数以康熙字典为准。\r\n\r\n2，五格要全为吉数，最好是其它格的五行为生人格或被人格克，禁克制人格（此与八字五行分开论。\r\n\r\n3，用字的寓意吉祥没有不好的暗示。\r\n\r\n\r\n\r\n--------------------------------------------\r\n\r\n\r\n最主要的还是积德行善。\r\n\r\n多行善事，才是好运的根本，否则一切都是徒劳的。";
+            string 自述文本 = "杜净隆_作品。\r\n\r\n学习八字预测不用死记硬背。不用担心没时间。只要懂五行生克就可以学会。\r\n\r\n新增加命局大运显示。\r\n\r\n以子时为次日的处理。天干冲的喜忌变化。同柱干支暗合.地支暗合。\r\n显示墓库运。自动识别方位和对应内脏。天干地支分阴阳五行五种颜色。\r\n自动判断,半三合.地支六冲,地支六害,地支六合,地支六破,地支三合,\r\n地支三会,地支相刑,拱合,天干冲,天干五合，拱合。流年和主命盘阴阳。\r\n半三合，地支六合,地支三合,地支三会,天干五合，拱合：五行色彩。\r\n十神：吉为红字：忌为黑字。自动判断日元强弱。十神等按钮中附注解。\r\n显示十神六亲。54个神煞显示。显示十二长生。排流年和主命盘显示强弱。\r\n天干冲的喜忌变化。十神六亲喜忌色彩与十神喜忌关联。\r\n集成了穷通宝鉴:可以显示四季五行命性。八字评分。\r\n增加四柱的五行纳音。流年副盘。四柱干支流转。 \r\n\r\n\r\n 读诵《金刚般若波罗蜜经》可消业力。\r\n\r\n要改变命运就要改变自己，人受五行控制就只能认命。\r\n菩萨是没有五行的所以不受五行所限。\r\n要脱离五行就要发心做个菩萨：日常生活中遇事以菩萨的态度行事即可。\r\n需要注意的是发心为上行为次之，因为菩萨的心才是无上正等正觉的。\r\n唵嘛呢叭咪吽\r\n\r\n----------------\r\n\r\n前言，\r\n\r\n看到很多人给小宝宝起名被骗钱所以写此教程，本人懂起名原理借助软件实现专业起名。\r\n\r\n好的八字就像房子在的地段，八字五行平衡就像房子的格局好，名字就是装修了。\r\n\r\n现在有了AI就不需要请大师了，输入关键词就行，先说结论再讲理论。\r\n\r\n下面以给金命需要补充木和火的男性起名为例。\r\n\r\n（依据三才五格，给生于9999年99月99日99时姓张的男性起名，五格要全吉，\r\n\r\n寓意要好，第二个字的五行笔顺为木，第三个字的五行笔顺为火，\r\n\r\n名字中不要X字和A字，不要容易重名的组合）\r\n\r\n以上是作者在软件BING上用的词，其中日期是为了让AI运算用，\r\n\r\n实际上填什么时间都可以，BING的万年历不是农历的所以要自己定吉神。\r\n\r\n因为在用此方法前我们要先用软件看看此八字中需要补充的五行是什么。\r\n\r\n在此基础上用AI找出五格全吉之数的字。\r\n\r\n上面不要的X和A是用于屏蔽不想要之字用可以删除。\r\n\r\n如果你没看懂请不要实际操作以免弄巧成拙。\r\n\r\n如需助人起名需要收取费用，因为你给别人起名就等于在改写这个人的命运，\r\n\r\n无论好坏都要消耗你，除非是你的直系亲属。\r\n\r\n一命二相三风水，名字是人的第二张脸面，其作用与人的脸相当。\r\n\r\n不过名字是数术，也就可以拼合八字，对于人的发展也大于风水很多。\r\n\r\n起名是一个涉及到文化、历史和语言的重要过程。周易中的三才五格理论是中国传统名字学的核心思想之一，它认为人的命运与出生时五行的相对强度和三才之间的协调有关。在这部教材中，我们将介绍三才五格的基本概念、原理和应用方法，帮助读者更好地理解和运用这一理论。\r\n\r\n第一章 三才五格的基本概念\r\n\r\n三才：指天、地、人三个方面的素质。\r\n天格：指出生年的天干地支，代表着先天的气质和能力。\r\n人格：指出生日的天干地支，代表着性格和才华。\r\n地格：指姓名的笔画数目，代表着后天的环境和条件。\r\n总格：指天格、人格、地格三者之和，代表着个人的命运和发展。\r\n第二章 三才五格的原理\r\n\r\n五行相生相克：金生水，水生木，木生火，火生土，土生金；金克木，木克土，土克水，水克火，火克金。\r\n喜用神和忌神：根据个人的命局和需要，选择适合的五行作为喜用神，避免忌神的影响。\r\n三才协调：天、地、人三才之间相互协调，可以增强个人的命运和发展。\r\n笔画数和五行：每个汉字都有固定的笔画数和对应的五行属性，根据姓名的笔画数和五行配比，可以评估地格的优劣。\r\n第三章 三才五格的应用方法\r\n\r\n查看命盘：根据出生日期和时间，结合农历、时辰等因素，查看个人的命盘和五行属性。\r\n确定天格和地格：根据出生年份和姓名的笔画数，在专业的起名书籍或网站上确定天格和地格。\r\n计算人格和总格：根据出生日期确定人格，然后将天格、人格、地格相加得到总格。\r\n确定喜用神和忌神：根据命盘和总格的五行属性，确定适合的喜用神和需要避免的忌神。\r\n综合评估：综合考虑天格、人格、地格、总格、喜用神和忌神等因素，进行综合评估，并选取合适的名字。\r\n以上是三才五格起名的基本概念、原理和应用方法，希望读者能够通过学习更好地了解和运用这一传统文化。\r\n\r\n\r\n-----------------\r\n\r\n\r\n起名第一步就是要排出这个人的八字，这是专业的步骤。\r\n\r\n如果给你起名的人不排八字和你扯字意，说什么大人物用这个字怎么好，那他绝对是骗子。\r\n\r\n排出八字就是要知道这个人生来所带的五行属性，金木土水火。\r\n\r\n然后给人补缺填平，五行哪个太多都不好，缺少就更不好了。\r\n\r\n然后在根据生肖避开忌用的偏旁。\r\n\r\n\r\n--------------------------------------\r\n\r\n\r\n\r\n\r\n三才五格吉凶配置\r\n\r\n一、起源\r\n\r\n在公元1918年初，由日本人熊崎健翁根据中国易学数理学开创，因此五格剖象法也称作“熊崎氏姓名学”，其核心就是将人的姓名按五格剖象法来解释。\r\n\r\n1936年由台湾留学日本的白玉光（又叫白惠文）带回台湾翻译推广，后来流行于韩国，东南亚，中国台湾、香港等地 在中国大陆，五格剖象法通过和中国传统易学原理的结合，上世纪九十年代由中国命运分析学者方晨等规范总结和实践，以康熙字典笔画作为姓名学笔画基准，形成完善的符合中国姓名传统的姓名分析方法，结合中国传统姓名学，成为中华姓名学的一个重要组成部分\r\n\r\n二、五格计算方法\r\n\r\n1、天格：单姓的天格是“单姓笔画+1”，复姓的天格是“复姓笔画数相加” 2、人格：单姓的人格是“姓的笔画数+名（第一字）的笔画数”，；复姓的人格数理是“复姓的第二个字笔画+名的第一个字笔画”\r\n\r\n3、地格：双名的地格是“名字的笔画数相加”，单名的地格是“名的笔画数+1”。\r\n\r\n4、总格：总格是“姓名笔画数的总和”。\r\n\r\n5、外格：单姓双姓名“总格数理-人格数理+1”；复姓双将姓名总格减去人格之差”即为外格。复姓单名的外格为“总格数理-人格数理+1”。注：单姓单名的外格为2，\r\n\r\n三、五格的分数\r\n\r\n五格是：天格、人格、地格、总格、外格。\r\n\r\n其中天格代表父母的命运；地格代表自己38岁以前的命运（又称前运）；人格是自己的主运； 外格是副运；总格是后运，通常在人38岁以后才称后运。\r\n\r\n首先，作者将81个数定义了吉凶： 列为吉数的有1、3、5、6、7、8、11、13、15、16、17、18、21、23、24、25、29、31、32、33、35、37、39、41、45、47、48、52、55、57、61、63、65、67、68、81共计36个。\r\n\r\n列为凶数的有2、4、9、10、12、14、19、20、22、26、27、28、30、34、36、38、40、42、43、44、46、49、50、51、53、54、56、58、59、60、62、64、66、69、70、71、72、73、74、75、76、77、78、79、80 合计45个。\r\n\r\n四、三才的计算\r\n\r\n三才是：指天、人、地格的五行属性，取相生吉，相克凶。\r\n\r\n对“数”定义五行是套用十天干的五行顺序而定，即1、2甲乙木，3、4丙丁火，5、6戊己土，7、8庚辛金，9、10壬癸水。计算出了姓名的五格后，就是给五格配上阴、阳。数字超过十的只留个位数计算。如：15为还原成5，属阳土；52还原成2，属阴木，此类推。得出阴阳关系后，再分辩五行的相生相克关系：木生火、火生土、土生金、金生水、水生木；木克土、土克水、水克火、火克金、金克木。\r\n\r\n五、举例\r\n\r\n李世民\r\n\r\n李7 天格：08(金)7+1\r\n\r\n世5 人格：12(木)7+5\r\n\r\n民5 地格：10(水)5+5\r\n\r\n总格：17(金) 7+5+5\r\n\r\n外格：6 (土)17-12+1\r\n\r\n三才是：金木水\r\n\r\n\r\n----------------------------------------------\r\n\r\n用字的划数来区别五行的方法：\r\n\r\n1、2、11、12、21、22、31、32划属木\r\n\r\n3、4、13、14、23、24、33、34划属火\r\n\r\n5、6、15、16、25、26、35、36划属土\r\n\r\n7、8、17、18、27、28、37、38划属金\r\n\r\n9、10、19．20、29、30、39、40划属水\r\n\r\n其中奇数为阳，偶数为阴。\r\n\r\n这里需要注意的重点是笔画的数量以繁体字书写的笔画为准。\r\n\r\n----------------------------------------------\r\n\r\n凡取名字的部首，最好配合生肖宜忌选用\r\n\r\n1、鼠年出生的人\r\n\r\n取名应有：宀、米、豆、魚、艸、金、玉、亻、木、月、田、等部位为吉\r\n\r\n取名忌用：山、刀、力、弓、土、欠、石、皮、氵、马、酉、才、火、车等部首\r\n\r\n2、牛年出生的人\r\n\r\n取名应有：氵、艸、豆、米、金、玉、宀、亻、木等部首为吉\r\n\r\n取名忌用：月、火、田、车、马、石、山、血、糸、刀、力等部首\r\n\r\n3、虎年出生的人\r\n\r\n取名应有：山、玉、金、木、示、氵、月、犬、马等部首为吉\r\n\r\n取名忌用：日、火、田、口、糸、石、马、刀、力、血、弓、父、足等部首\r\n\r\n4、兔年出生的人\r\n\r\n取名应有：月、艸、山、田、亻、禾、木、宀、金、白、玉、豆、犬等部首为吉\r\n\r\n取名忌用：马、石、刀、皮、氵、川等部首\r\n\r\n5、龙年出生的人\r\n\r\n取名应有：氵、金、玉、白、赤、月、魚、酉、亻等部位为吉\r\n\r\n取名忌用：土、田、木、禾、示、忄、日、石、艸、力、刀、糸、犬、火等部首\r\n\r\n6、蛇年出生的人\r\n\r\n取名应有：艸、蟲、豆、魚、酉、木、禾、田、山、金、玉、月、土等部首为吉\r\n\r\n取名忌用：小、石、刀、血、弓、火、亻、犬、父等部首\r\n\r\n7、马年出生的人\r\n\r\n取名应有：艸、金、玉、木、禾、蟲、豆、米、亻、月、土、才等部首为吉\r\n\r\n取名忌用：田、日、火、氵、车、石、刀、力、酉、马等部首\r\n\r\n8、羊年出生的人\r\n\r\n取名应有：金、白、玉、艸、月、田、豆、米、马、禾、木、亻、魚等部首为吉\r\n\r\n取名忌用：小、犬、糸、车、氵、山、日、火等部首\r\n\r\n9、猴年出生的人\r\n\r\n取名应有：木、禾、金、玉、豆、米、田、山、月、氵、亻等部首为吉\r\n\r\n取名忌用：火、石、口、冖、糸、刀、力、皮、犬等部首\r\n\r\n10、鸡年出生的人\r\n\r\n取名应有：米、豆、蟲、木、禾、玉、田、月、冖、山、艸、金的部首为吉\r\n\r\n取名忌用：石、犬、刀、力、日、酉、血、弓、才、糸、车、马等部首\r\n\r\n11、狗年出生的人\r\n\r\n取名应有：魚、豆、米、冖、马、金、艸、田、木、月、禾、氵、亻等部首为吉\r\n\r\n取名忌用：火、石、糸、山、才、木、车、刀、父、言等部首\r\n\r\n12、猪年出生的人\r\n\r\n取名应有：豆、米、魚、氵、金、玉、月、木、禾、亻、山、土、艸等部首为吉\r\n\r\n取名忌用：糸、石、刀、力、血、弓、皮、父等部首\r\n\r\n---------------------------------------------\r\n\r\n\r\n取名的技巧\r\n\r\n1、考虑书写习惯，平时写字，大家都有简单化的倾向，故用字不宜太复杂或难写。注意轻重，平衡字形要有美感。\r\n\r\n2、不宜用生僻字，这样易造成被人难以认识、被人拒绝，妨碍人际沟通。\r\n\r\n3、学名不宜带稚气，当小孩长大后，易被人小看。\r\n\r\n4、避免使用相同或相近部首的字。避免声母，韵母相策。\r\n\r\n5、避免声调相同，无语音之美。分清阴阳，阳盛取阴名，阴盛取阳名。\r\n\r\n6、根据具体要求，调整特殊用字，诱导其广播方向。\r\n\r\n7、创意新颖，含义丰富。\r\n\r\n8、用易经的组合方法，校正全名的卦象，以辨吉凶。\r\n\r\n9、根据小孩的出生年月，即古谓“生辰八字”确定用码的五行。\r\n\r\n10、结合五格数理，选定名字的笔画数。\r\n\r\n\r\n----------------------------------------\r\n\r\n生辰八字\r\n根据宝宝出生的时辰，转换成对应的五行，看看是缺了哪一种，用名字去补。\r\n比如五行缺「金」，名字里面就用带金字旁的字来补。\r\n更具体的我也没有深入研究了，因为用生辰来起名的前提是知道宝宝的出生时间。如果想在宝宝出生前把名字取好，我们可以了解一下「五格剖象法」。\r\n\r\n五格剖象法\r\n五格剖象法，也叫三才五格，是比较流行的一种取名法，也是很多起名打分应用的依据。它将名字的笔画数拆分为天格、地格、人格、外格、总格。\r\n五格各自包含的意义如下：\r\n\r\n天格为根 - 天格乃祖先留下来的，为父母运势，其数理对个人影响不大。\r\n人格为苗 - 又称「主运」，是整个姓名的中心点，人一生的命运之好坏主要由此格推断。\r\n地格为花 - 又称为「前运」，主 38 岁以前，主管人中年以前的活动力。\r\n外格为叶 - 主管命运之灵力，一般指贵人或外来助力。为一个人外界和谐与否，可由此格看出。\r\n总格为果 - 主中年至晚年的命运，又称后运，主 38 岁以后。\r\n\r\n它们计算方法是这样的：\r\n\r\n天格：姓的笔画数?+ 1\r\n人格：姓的笔画数 + 名第一字的笔画数\r\n地格：名字的笔画数相加\r\n总格：姓名笔画数的总和\r\n外格：总格 - 人格 + 1?\r\n\r\n这里的笔画数是按康熙字典里的笔画，也就是要按繁体字计算。此外还有一些部首会影响笔画数计算：\r\n\r\n（1）“氵”三点水算四画。如：清、洁等；（2）“扌”手旁算四画。如挑、拨等；（3）“月”算肉旁六画。如服、肪、脉等；（4）“艹”算六画。如英、苹、蓉等；（5）“辶”算七画。如达、迈、迅、过等；（6）左“阝”算八画，阳、阴、陈、陆等；（7）右“卩”算七画，如即、邓、邝等；（8）“王”算五画，如琬、珀、玫、瑰等；（9）礻（示），以示字计为五画；（10）衤（衣），以衣字计为六画；（11）“犭”算四画。如狄、猛、独等；（12）忄（心），竖心旁，以心字计为四画；（13）名字中有“一、二、三、四、五、六、七、八、九、十”的字要分别按1、2、3、4、5、6、7、8、9、10画。\r\n\r\n最后算出来的五格笔画数，被划分为吉、半吉、凶三组：\r\n\r\n属于吉的数字：1、3、5、8、11、13、15、16、21、23、24、25、29、31、32、33、35、37、38、39、41、45、47、48、52、57、63、65、67、68、81\r\n属于半吉的数字：6、7、17、18、27、30、40、51、52、55、61、75\r\n属于凶的数字：2、4、9、10、12、14、19、20、22、26、28、34、36、42、43、44、46、49、50、53、54、56、58、59、60、62、64、66、69、70、71、72、73、74、76、77、78、79、80\r\n\r\n\r\n----------------------------------------------\r\n\r\n\r\n简而言之就是：\r\n\r\n1，用字的五行补缺少的五行，笔画数以康熙字典为准。\r\n\r\n2，五格要全为吉数，最好是其它格的五行为生人格或被人格克，禁克制人格（此与八字五行分开论。\r\n\r\n3，用字的寓意吉祥没有不好的暗示。\r\n\r\n\r\n\r\n--------------------------------------------\r\n\r\n\r\n最主要的还是积德行善。\r\n\r\n多行善事，才是好运的根本，否则一切都是徒劳的。";
             if (wenben == 1)
             {
                 button56.Focus(); button56_Click(this, new EventArgs());
                 wenben = 0;
-                richTextBox1.Location = new Point(3, 39); richTextBox1.Text = "";
-                richTextBox1.Height = 191; richTextBox1.Width = 1545;
+                richTextBox1.Location = new Point(0, 36); richTextBox1.Text = "";
+                richTextBox1.Height = 151; richTextBox1.Width = 1545;
                 buttongj.Text = "关于软件";
 
             }
@@ -52902,8 +60820,8 @@ namespace BaZiFuZuGongJu
 
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 自述文本;
             }
 
@@ -52916,80 +60834,80 @@ namespace BaZiFuZuGongJu
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 比肩;
             }
             if (button4.Text == "劫财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 劫财;
             }
             if (button4.Text == "食神")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 食神;
             }
             if (button4.Text == "伤官")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 伤官;
             }
             if (button4.Text == "正财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正财;
             }
             if (button4.Text == "偏财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 偏财;
             }
             if (button4.Text == "正印")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正印;
             }
             if (button4.Text == "枭神")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 枭神;
             }
             if (button4.Text == "正官")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正官;
             }
             if (button4.Text == "七杀")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 七杀;
             }
 
@@ -53001,80 +60919,80 @@ namespace BaZiFuZuGongJu
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 比肩;
             }
             if (button16.Text == "劫财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 劫财;
             }
             if (button16.Text == "食神")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 食神;
             }
             if (button16.Text == "伤官")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 伤官;
             }
             if (button16.Text == "正财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正财;
             }
             if (button16.Text == "偏财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 偏财;
             }
             if (button16.Text == "正印")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正印;
             }
             if (button16.Text == "枭神")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 枭神;
             }
             if (button16.Text == "正官")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正官;
             }
             if (button16.Text == "七杀")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 七杀;
             }
 
@@ -53084,8 +61002,8 @@ namespace BaZiFuZuGongJu
         {
             button54.Focus(); button54_Click(this, new EventArgs());
             wenben = 1; buttongj.Text = "关闭文本";
-            richTextBox1.Location = new Point(3, 39);
-            richTextBox1.Height = 969; richTextBox1.Width = 1920;
+            richTextBox1.Location = new Point(0, 36);
+            richTextBox1.Height = 975; richTextBox1.Width = 1920;
             richTextBox1.Text = "日元旺衰算法\r\n\r\n以50分为强弱分水岭，干支为同日干和生日干者加分。\r\n\r\n年干=8分，年支=4分，月支=40分，其均为12分，日干不记分。\r\n\r\n相加后50或50以上为身旺。\r\n\r\n身旺的日干喜克我与我克和我生的五行，日干为我，以甲干为例。\r\n\r\n甲日干身旺喜火土金，忌木水。甲日干身弱则喜木水，忌火土金。";
 
         }
@@ -53096,80 +61014,80 @@ namespace BaZiFuZuGongJu
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 比肩;
             }
             if (button8.Text == "劫财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 劫财;
             }
             if (button8.Text == "食神")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 食神;
             }
             if (button8.Text == "伤官")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 伤官;
             }
             if (button8.Text == "正财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正财;
             }
             if (button8.Text == "偏财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 偏财;
             }
             if (button8.Text == "正印")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正印;
             }
             if (button8.Text == "枭神")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 枭神;
             }
             if (button8.Text == "正官")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正官;
             }
             if (button8.Text == "七杀")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 七杀;
             }
 
@@ -53181,80 +61099,80 @@ namespace BaZiFuZuGongJu
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 比肩;
             }
             if (button13.Text == "劫财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 劫财;
             }
             if (button13.Text == "食神")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 食神;
             }
             if (button13.Text == "伤官")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 伤官;
             }
             if (button13.Text == "正财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正财;
             }
             if (button13.Text == "偏财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 偏财;
             }
             if (button13.Text == "正印")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正印;
             }
             if (button13.Text == "枭神")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 枭神;
             }
             if (button13.Text == "正官")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正官;
             }
             if (button13.Text == "七杀")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 七杀;
             }
 
@@ -53266,80 +61184,80 @@ namespace BaZiFuZuGongJu
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 比肩;
             }
             if (button14.Text == "劫财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 劫财;
             }
             if (button14.Text == "食神")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 食神;
             }
             if (button14.Text == "伤官")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 伤官;
             }
             if (button14.Text == "正财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正财;
             }
             if (button14.Text == "偏财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 偏财;
             }
             if (button14.Text == "正印")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正印;
             }
             if (button14.Text == "枭神")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 枭神;
             }
             if (button14.Text == "正官")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正官;
             }
             if (button14.Text == "七杀")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 七杀;
             }
 
@@ -53351,80 +61269,80 @@ namespace BaZiFuZuGongJu
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 比肩;
             }
             if (button15.Text == "劫财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 劫财;
             }
             if (button15.Text == "食神")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 食神;
             }
             if (button15.Text == "伤官")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 伤官;
             }
             if (button15.Text == "正财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正财;
             }
             if (button15.Text == "偏财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 偏财;
             }
             if (button15.Text == "正印")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正印;
             }
             if (button15.Text == "枭神")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 枭神;
             }
             if (button15.Text == "正官")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正官;
             }
             if (button15.Text == "七杀")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 七杀;
             }
 
@@ -53436,80 +61354,80 @@ namespace BaZiFuZuGongJu
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 比肩;
             }
             if (button17.Text == "劫财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 劫财;
             }
             if (button17.Text == "食神")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 食神;
             }
             if (button17.Text == "伤官")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 伤官;
             }
             if (button17.Text == "正财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正财;
             }
             if (button17.Text == "偏财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 偏财;
             }
             if (button17.Text == "正印")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正印;
             }
             if (button17.Text == "枭神")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 枭神;
             }
             if (button17.Text == "正官")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正官;
             }
             if (button17.Text == "七杀")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 七杀;
             }
 
@@ -53521,80 +61439,80 @@ namespace BaZiFuZuGongJu
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 比肩;
             }
             if (button18.Text == "劫财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 劫财;
             }
             if (button18.Text == "食神")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 食神;
             }
             if (button18.Text == "伤官")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 伤官;
             }
             if (button18.Text == "正财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正财;
             }
             if (button18.Text == "偏财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 偏财;
             }
             if (button18.Text == "正印")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正印;
             }
             if (button18.Text == "枭神")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 枭神;
             }
             if (button18.Text == "正官")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正官;
             }
             if (button18.Text == "七杀")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 七杀;
             }
 
@@ -53606,80 +61524,80 @@ namespace BaZiFuZuGongJu
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 比肩;
             }
             if (button6.Text == "劫财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 劫财;
             }
             if (button6.Text == "食神")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 食神;
             }
             if (button6.Text == "伤官")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 伤官;
             }
             if (button6.Text == "正财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正财;
             }
             if (button6.Text == "偏财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 偏财;
             }
             if (button6.Text == "正印")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正印;
             }
             if (button6.Text == "枭神")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 枭神;
             }
             if (button6.Text == "正官")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正官;
             }
             if (button6.Text == "七杀")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 七杀;
             }
 
@@ -53691,80 +61609,80 @@ namespace BaZiFuZuGongJu
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 比肩;
             }
             if (button19.Text == "劫财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 劫财;
             }
             if (button19.Text == "食神")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 食神;
             }
             if (button19.Text == "伤官")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 伤官;
             }
             if (button19.Text == "正财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正财;
             }
             if (button19.Text == "偏财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 偏财;
             }
             if (button19.Text == "正印")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正印;
             }
             if (button19.Text == "枭神")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 枭神;
             }
             if (button19.Text == "正官")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正官;
             }
             if (button19.Text == "七杀")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 七杀;
             }
 
@@ -53776,80 +61694,80 @@ namespace BaZiFuZuGongJu
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 比肩;
             }
             if (button21.Text == "劫财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 劫财;
             }
             if (button21.Text == "食神")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 食神;
             }
             if (button21.Text == "伤官")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 伤官;
             }
             if (button21.Text == "正财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正财;
             }
             if (button21.Text == "偏财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 偏财;
             }
             if (button21.Text == "正印")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正印;
             }
             if (button21.Text == "枭神")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 枭神;
             }
             if (button21.Text == "正官")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正官;
             }
             if (button21.Text == "七杀")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 七杀;
             }
 
@@ -53861,80 +61779,80 @@ namespace BaZiFuZuGongJu
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 比肩;
             }
             if (button20.Text == "劫财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 劫财;
             }
             if (button20.Text == "食神")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 食神;
             }
             if (button20.Text == "伤官")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 伤官;
             }
             if (button20.Text == "正财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正财;
             }
             if (button20.Text == "偏财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 偏财;
             }
             if (button20.Text == "正印")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正印;
             }
             if (button20.Text == "枭神")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 枭神;
             }
             if (button20.Text == "正官")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正官;
             }
             if (button20.Text == "七杀")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 七杀;
             }
 
@@ -53946,80 +61864,80 @@ namespace BaZiFuZuGongJu
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 比肩;
             }
             if (button22.Text == "劫财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 劫财;
             }
             if (button22.Text == "食神")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 食神;
             }
             if (button22.Text == "伤官")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 伤官;
             }
             if (button22.Text == "正财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正财;
             }
             if (button22.Text == "偏财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 偏财;
             }
             if (button22.Text == "正印")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正印;
             }
             if (button22.Text == "枭神")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 枭神;
             }
             if (button22.Text == "正官")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正官;
             }
             if (button22.Text == "七杀")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 七杀;
             }
 
@@ -54031,80 +61949,80 @@ namespace BaZiFuZuGongJu
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 比肩;
             }
             if (button23.Text == "劫财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 劫财;
             }
             if (button23.Text == "食神")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 食神;
             }
             if (button23.Text == "伤官")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 伤官;
             }
             if (button23.Text == "正财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正财;
             }
             if (button23.Text == "偏财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 偏财;
             }
             if (button23.Text == "正印")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正印;
             }
             if (button23.Text == "枭神")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 枭神;
             }
             if (button23.Text == "正官")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正官;
             }
             if (button23.Text == "七杀")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 七杀;
             }
 
@@ -54116,80 +62034,80 @@ namespace BaZiFuZuGongJu
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 比肩;
             }
             if (button24.Text == "劫财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 劫财;
             }
             if (button24.Text == "食神")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 食神;
             }
             if (button24.Text == "伤官")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 伤官;
             }
             if (button24.Text == "正财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正财;
             }
             if (button24.Text == "偏财")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 偏财;
             }
             if (button24.Text == "正印")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正印;
             }
             if (button24.Text == "枭神")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 枭神;
             }
             if (button24.Text == "正官")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 正官;
             }
             if (button24.Text == "七杀")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 七杀;
             }
 
@@ -54204,80 +62122,80 @@ namespace BaZiFuZuGongJu
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 甲木;
             }
             if (buttonng.Text == "乙")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 乙木;
             }
             if (buttonng.Text == "丙")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 丙火;
             }
             if (buttonng.Text == "丁")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 丁火;
             }
             if (buttonng.Text == "戊")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 戊土;
             }
             if (buttonng.Text == "己")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 己土;
             }
             if (buttonng.Text == "庚")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 庚金;
             }
             if (buttonng.Text == "辛")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 辛金;
             }
             if (buttonng.Text == "壬")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 壬水;
             }
             if (buttonng.Text == "癸")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 癸水;
             }
 
@@ -54289,80 +62207,80 @@ namespace BaZiFuZuGongJu
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 甲木;
             }
             if (buttonyg.Text == "乙")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 乙木;
             }
             if (buttonyg.Text == "丙")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 丙火;
             }
             if (buttonyg.Text == "丁")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 丁火;
             }
             if (buttonyg.Text == "戊")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 戊土;
             }
             if (buttonyg.Text == "己")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 己土;
             }
             if (buttonyg.Text == "庚")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 庚金;
             }
             if (buttonyg.Text == "辛")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 辛金;
             }
             if (buttonyg.Text == "壬")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 壬水;
             }
             if (buttonyg.Text == "癸")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 癸水;
             }
         }
@@ -54373,80 +62291,80 @@ namespace BaZiFuZuGongJu
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 甲木;
             }
             if (buttonrg.Text == "乙")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 乙木;
             }
             if (buttonrg.Text == "丙")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 丙火;
             }
             if (buttonrg.Text == "丁")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 丁火;
             }
             if (buttonrg.Text == "戊")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 戊土;
             }
             if (buttonrg.Text == "己")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 己土;
             }
             if (buttonrg.Text == "庚")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 庚金;
             }
             if (buttonrg.Text == "辛")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 辛金;
             }
             if (buttonrg.Text == "壬")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 壬水;
             }
             if (buttonrg.Text == "癸")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 癸水;
             }
         }
@@ -54457,80 +62375,80 @@ namespace BaZiFuZuGongJu
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 甲木;
             }
             if (buttonsg.Text == "乙")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 乙木;
             }
             if (buttonsg.Text == "丙")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 丙火;
             }
             if (buttonsg.Text == "丁")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 丁火;
             }
             if (buttonsg.Text == "戊")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 戊土;
             }
             if (buttonsg.Text == "己")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 己土;
             }
             if (buttonsg.Text == "庚")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 庚金;
             }
             if (buttonsg.Text == "辛")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 辛金;
             }
             if (buttonsg.Text == "壬")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 壬水;
             }
             if (buttonsg.Text == "癸")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 癸水;
             }
         }
@@ -54541,96 +62459,96 @@ namespace BaZiFuZuGongJu
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 子水;
             }
             if (buttonnz.Text == "丑")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 丑土;
             }
             if (buttonnz.Text == "寅")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 寅木;
             }
             if (buttonnz.Text == "卯")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 卯木;
             }
             if (buttonnz.Text == "辰")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 辰土;
             }
             if (buttonnz.Text == "巳")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 巳火;
             }
             if (buttonnz.Text == "午")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 午火;
             }
             if (buttonnz.Text == "未")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 未土;
             }
             if (buttonnz.Text == "申")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 申金;
             }
             if (buttonnz.Text == "酉")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 酉金;
             }
             if (buttonnz.Text == "戌")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 戌土;
             }
             if (buttonnz.Text == "亥")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 亥水;
             }
 
@@ -54642,96 +62560,96 @@ namespace BaZiFuZuGongJu
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 子水;
             }
             if (buttonyz.Text == "丑")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 丑土;
             }
             if (buttonyz.Text == "寅")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 寅木;
             }
             if (buttonyz.Text == "卯")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 卯木;
             }
             if (buttonyz.Text == "辰")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 辰土;
             }
             if (buttonyz.Text == "巳")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 巳火;
             }
             if (buttonyz.Text == "午")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 午火;
             }
             if (buttonyz.Text == "未")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 未土;
             }
             if (buttonyz.Text == "申")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 申金;
             }
             if (buttonyz.Text == "酉")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 酉金;
             }
             if (buttonyz.Text == "戌")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 戌土;
             }
             if (buttonyz.Text == "亥")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 亥水;
             }
 
@@ -54743,96 +62661,96 @@ namespace BaZiFuZuGongJu
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 子水;
             }
             if (buttonrz.Text == "丑")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 丑土;
             }
             if (buttonrz.Text == "寅")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 寅木;
             }
             if (buttonrz.Text == "卯")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 卯木;
             }
             if (buttonrz.Text == "辰")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 辰土;
             }
             if (buttonrz.Text == "巳")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 巳火;
             }
             if (buttonrz.Text == "午")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 午火;
             }
             if (buttonrz.Text == "未")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 未土;
             }
             if (buttonrz.Text == "申")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 申金;
             }
             if (buttonrz.Text == "酉")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 酉金;
             }
             if (buttonrz.Text == "戌")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 戌土;
             }
             if (buttonrz.Text == "亥")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 亥水;
             }
 
@@ -54844,96 +62762,96 @@ namespace BaZiFuZuGongJu
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 子水;
             }
             if (buttonsz.Text == "丑")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 丑土;
             }
             if (buttonsz.Text == "寅")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 寅木;
             }
             if (buttonsz.Text == "卯")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 卯木;
             }
             if (buttonsz.Text == "辰")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 辰土;
             }
             if (buttonsz.Text == "巳")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 巳火;
             }
             if (buttonsz.Text == "午")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 午火;
             }
             if (buttonsz.Text == "未")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 未土;
             }
             if (buttonsz.Text == "申")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 申金;
             }
             if (buttonsz.Text == "酉")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 酉金;
             }
             if (buttonsz.Text == "戌")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 戌土;
             }
             if (buttonsz.Text == "亥")
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 亥水;
             }
 
@@ -54944,8 +62862,8 @@ namespace BaZiFuZuGongJu
 
             button54.Focus(); button54_Click(this, new EventArgs());
             wenben = 1; buttongj.Text = "关闭文本";
-            richTextBox1.Location = new Point(3, 39);
-            richTextBox1.Height = 969; richTextBox1.Width = 1920;
+            richTextBox1.Location = new Point(0, 36);
+            richTextBox1.Height = 975; richTextBox1.Width = 1920;
             richTextBox1.Text = "金，中晚年时期，缺少，多败少成，难成事，过多则固执。\r\n\r\n7、8、17、18、27、28、37、38数/划属金";
 
         }
@@ -54954,8 +62872,8 @@ namespace BaZiFuZuGongJu
         {
             button54.Focus(); button54_Click(this, new EventArgs());
             wenben = 1; buttongj.Text = "关闭文本";
-            richTextBox1.Location = new Point(3, 39);
-            richTextBox1.Height = 969; richTextBox1.Width = 1920;
+            richTextBox1.Location = new Point(0, 36);
+            richTextBox1.Height = 975; richTextBox1.Width = 1920;
             richTextBox1.Text = "水，晚年时光，缺少，没有智慧，晚年孤苦，颠沛流离不安定，过多则一生波折多，晚年好。\r\n\r\n9、10、19．20、29、30、39、40数/划属水";
 
         }
@@ -54964,8 +62882,8 @@ namespace BaZiFuZuGongJu
         {
             button54.Focus(); button54_Click(this, new EventArgs());
             wenben = 1; buttongj.Text = "关闭文本";
-            richTextBox1.Location = new Point(3, 39);
-            richTextBox1.Height = 969; richTextBox1.Width = 1920;
+            richTextBox1.Location = new Point(0, 36);
+            richTextBox1.Height = 975; richTextBox1.Width = 1920;
             richTextBox1.Text = "木，少年时光，缺少，严重的有伤残。过多有病患。\r\n\r\n1、2、11、12、21、22、31、32数/划属木";
 
         }
@@ -54974,8 +62892,8 @@ namespace BaZiFuZuGongJu
         {
             button54.Focus(); button54_Click(this, new EventArgs());
             wenben = 1; buttongj.Text = "关闭文本";
-            richTextBox1.Location = new Point(3, 39);
-            richTextBox1.Height = 969; richTextBox1.Width = 1920;
+            richTextBox1.Location = new Point(0, 36);
+            richTextBox1.Height = 975; richTextBox1.Width = 1920;
             richTextBox1.Text = "火，青壮年时期，缺少，为人冷淡，学业事业难有作为，过多则性格暴躁。\r\n\r\n3、4、13、14、23、24、33、34数/划属火";
 
         }
@@ -54984,8 +62902,8 @@ namespace BaZiFuZuGongJu
         {
             button54.Focus(); button54_Click(this, new EventArgs());
             wenben = 1; buttongj.Text = "关闭文本";
-            richTextBox1.Location = new Point(3, 39);
-            richTextBox1.Height = 969; richTextBox1.Width = 1920;
+            richTextBox1.Location = new Point(0, 36);
+            richTextBox1.Height = 975; richTextBox1.Width = 1920;
             richTextBox1.Text = "土，中壮年时期，缺少，多颠沛流离不安定，过多难有出头天或冥顽不灵。\r\n\r\n5、6、15、16、25、26、35、36数/划属土";
 
         }
@@ -54998,8 +62916,8 @@ namespace BaZiFuZuGongJu
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
 
                 richTextBox1.Text = mingjiupingfen + 命局神煞 + qongtongbaojian;
             }
@@ -55016,8 +62934,8 @@ namespace BaZiFuZuGongJu
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 纳音;
             }
         }
@@ -55028,8 +62946,8 @@ namespace BaZiFuZuGongJu
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 纳音;
             }
         }
@@ -55040,8 +62958,8 @@ namespace BaZiFuZuGongJu
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 纳音;
             }
         }
@@ -55052,8 +62970,8 @@ namespace BaZiFuZuGongJu
             {
                 button54.Focus(); button54_Click(this, new EventArgs());
                 wenben = 1; buttongj.Text = "关闭文本";
-                richTextBox1.Location = new Point(3, 39);
-                richTextBox1.Height = 969; richTextBox1.Width = 1920;
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
                 richTextBox1.Text = 纳音;
             }
         }
@@ -55960,6 +63878,10 @@ namespace BaZiFuZuGongJu
             linkLabel3.Visible = false; linkLabel18.Visible = false; linkLabel39.Visible = false; linkLabel61.Visible = false;
             linkLabel7.Visible = false; linkLabel16.Visible = false; linkLabel34.Visible = false; linkLabel57.Visible = false;
             linkLabel11.Visible = false; linkLabel14.Visible = false; linkLabel19.Visible = false; linkLabel47.Visible = false;
+
+            buttoncs1.Visible = false; buttoncs2.Visible = false; buttoncs3.Visible = false; buttoncs4.Visible = false;
+            buttoncs5.Visible = false; buttoncs6.Visible = false; buttoncs7.Visible = false; buttoncs8.Visible = false;
+            buttoncs9.Visible = false; buttoncs10.Visible = false; buttoncs11.Visible = false; buttoncs12.Visible = false;
         }
 
         private void button56_Click(object sender, EventArgs e)
@@ -55978,6 +63900,10 @@ namespace BaZiFuZuGongJu
             linkLabel3.Visible = true; linkLabel18.Visible = true; linkLabel39.Visible = true; linkLabel61.Visible = true;
             linkLabel7.Visible = true; linkLabel16.Visible = true; linkLabel34.Visible = true; linkLabel57.Visible = true;
             linkLabel11.Visible = true; linkLabel14.Visible = true; linkLabel19.Visible = true; linkLabel47.Visible = true;
+
+            buttoncs1.Visible = true; buttoncs2.Visible = true; buttoncs3.Visible = true; buttoncs4.Visible = true;
+            buttoncs5.Visible = true; buttoncs6.Visible = true; buttoncs7.Visible = true; buttoncs8.Visible = true;
+            buttoncs9.Visible = true; buttoncs10.Visible = true; buttoncs11.Visible = true; buttoncs12.Visible = true;
         }
 
         private void linkLabelxy_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
@@ -56891,6 +64817,150 @@ namespace BaZiFuZuGongJu
         private void button58_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void buttoncs1_Click(object sender, EventArgs e)
+        {
+            if (wenben == 0)
+            {
+                button54.Focus(); button54_Click(this, new EventArgs());
+                wenben = 1; buttongj.Text = "关闭文本";
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
+                richTextBox1.Text = 起大运;
+            }
+        }
+
+        private void buttoncs2_Click(object sender, EventArgs e)
+        {
+            if (wenben == 0)
+            {
+                button54.Focus(); button54_Click(this, new EventArgs());
+                wenben = 1; buttongj.Text = "关闭文本";
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
+                richTextBox1.Text = 起大运;
+            }
+        }
+
+        private void buttoncs3_Click(object sender, EventArgs e)
+        {
+            if (wenben == 0)
+            {
+                button54.Focus(); button54_Click(this, new EventArgs());
+                wenben = 1; buttongj.Text = "关闭文本";
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
+                richTextBox1.Text = 起大运;
+            }
+        }
+
+        private void buttoncs4_Click(object sender, EventArgs e)
+        {
+            if (wenben == 0)
+            {
+                button54.Focus(); button54_Click(this, new EventArgs());
+                wenben = 1; buttongj.Text = "关闭文本";
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
+                richTextBox1.Text = 起大运;
+            }
+        }
+
+        private void buttoncs5_Click(object sender, EventArgs e)
+        {
+            if (wenben == 0)
+            {
+                button54.Focus(); button54_Click(this, new EventArgs());
+                wenben = 1; buttongj.Text = "关闭文本";
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
+                richTextBox1.Text = 起大运;
+            }
+        }
+
+        private void buttoncs6_Click(object sender, EventArgs e)
+        {
+            if (wenben == 0)
+            {
+                button54.Focus(); button54_Click(this, new EventArgs());
+                wenben = 1; buttongj.Text = "关闭文本";
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
+                richTextBox1.Text = 起大运;
+            }
+        }
+
+        private void buttoncs7_Click(object sender, EventArgs e)
+        {
+            if (wenben == 0)
+            {
+                button54.Focus(); button54_Click(this, new EventArgs());
+                wenben = 1; buttongj.Text = "关闭文本";
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
+                richTextBox1.Text = 起大运;
+            }
+        }
+
+        private void buttoncs8_Click(object sender, EventArgs e)
+        {
+            if (wenben == 0)
+            {
+                button54.Focus(); button54_Click(this, new EventArgs());
+                wenben = 1; buttongj.Text = "关闭文本";
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
+                richTextBox1.Text = 起大运;
+            }
+        }
+
+        private void buttoncs9_Click(object sender, EventArgs e)
+        {
+            if (wenben == 0)
+            {
+                button54.Focus(); button54_Click(this, new EventArgs());
+                wenben = 1; buttongj.Text = "关闭文本";
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
+                richTextBox1.Text = 起大运;
+            }
+        }
+
+        private void buttoncs10_Click(object sender, EventArgs e)
+        {
+            if (wenben == 0)
+            {
+                button54.Focus(); button54_Click(this, new EventArgs());
+                wenben = 1; buttongj.Text = "关闭文本";
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
+                richTextBox1.Text = 起大运;
+            }
+        }
+
+        private void buttoncs11_Click(object sender, EventArgs e)
+        {
+            if (wenben == 0)
+            {
+                button54.Focus(); button54_Click(this, new EventArgs());
+                wenben = 1; buttongj.Text = "关闭文本";
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
+                richTextBox1.Text = 起大运;
+            }
+        }
+
+        private void buttoncs12_Click(object sender, EventArgs e)
+        {
+            if (wenben == 0)
+            {
+                button54.Focus(); button54_Click(this, new EventArgs());
+                wenben = 1; buttongj.Text = "关闭文本";
+                richTextBox1.Location = new Point(0, 36);
+                richTextBox1.Height = 975; richTextBox1.Width = 1920;
+                richTextBox1.Text = 起大运;
+            }
         }
     }
 }

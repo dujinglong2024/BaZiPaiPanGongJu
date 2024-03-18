@@ -205,6 +205,18 @@
             linkLabel73 = new LinkLabel();
             linkLabel74 = new LinkLabel();
             linkLabel75 = new LinkLabel();
+            buttoncs2 = new Button();
+            buttoncs4 = new Button();
+            buttoncs3 = new Button();
+            buttoncs1 = new Button();
+            buttoncs6 = new Button();
+            buttoncs8 = new Button();
+            buttoncs7 = new Button();
+            buttoncs5 = new Button();
+            buttoncs10 = new Button();
+            buttoncs12 = new Button();
+            buttoncs11 = new Button();
+            buttoncs9 = new Button();
             ((System.ComponentModel.ISupportInitialize)numericUpDownyear).BeginInit();
             ((System.ComponentModel.ISupportInitialize)numericUpDownmonth).BeginInit();
             ((System.ComponentModel.ISupportInitialize)numericUpDownday).BeginInit();
@@ -773,10 +785,10 @@
             // linkLabencs
             // 
             linkLabencs.AutoSize = true;
-            linkLabencs.BackColor = Color.Black;
+            linkLabencs.BackColor = Color.White;
             linkLabencs.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             linkLabencs.ForeColor = Color.Black;
-            linkLabencs.LinkColor = Color.White;
+            linkLabencs.LinkColor = Color.Black;
             linkLabencs.Location = new Point(-2, 276);
             linkLabencs.Name = "linkLabencs";
             linkLabencs.Size = new Size(62, 31);
@@ -866,10 +878,10 @@
             // linkLabelycs
             // 
             linkLabelycs.AutoSize = true;
-            linkLabelycs.BackColor = Color.Black;
+            linkLabelycs.BackColor = Color.White;
             linkLabelycs.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             linkLabelycs.ForeColor = Color.Black;
-            linkLabelycs.LinkColor = Color.White;
+            linkLabelycs.LinkColor = Color.Black;
             linkLabelycs.Location = new Point(480, 276);
             linkLabelycs.Name = "linkLabelycs";
             linkLabelycs.Size = new Size(62, 31);
@@ -933,10 +945,10 @@
             // linkLabelrcs
             // 
             linkLabelrcs.AutoSize = true;
-            linkLabelrcs.BackColor = Color.Black;
+            linkLabelrcs.BackColor = Color.White;
             linkLabelrcs.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             linkLabelrcs.ForeColor = Color.Black;
-            linkLabelrcs.LinkColor = Color.White;
+            linkLabelrcs.LinkColor = Color.Black;
             linkLabelrcs.Location = new Point(961, 276);
             linkLabelrcs.Name = "linkLabelrcs";
             linkLabelrcs.Size = new Size(62, 31);
@@ -1032,10 +1044,10 @@
             // linkLabelscs
             // 
             linkLabelscs.AutoSize = true;
-            linkLabelscs.BackColor = Color.Black;
+            linkLabelscs.BackColor = Color.White;
             linkLabelscs.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
             linkLabelscs.ForeColor = Color.Black;
-            linkLabelscs.LinkColor = Color.White;
+            linkLabelscs.LinkColor = Color.Black;
             linkLabelscs.Location = new Point(1444, 276);
             linkLabelscs.Name = "linkLabelscs";
             linkLabelscs.Size = new Size(62, 31);
@@ -1467,7 +1479,7 @@
             richTextBox1.ForeColor = Color.GreenYellow;
             richTextBox1.Location = new Point(3, 39);
             richTextBox1.Name = "richTextBox1";
-            richTextBox1.Size = new Size(1545, 191);
+            richTextBox1.Size = new Size(1545, 151);
             richTextBox1.TabIndex = 122;
             richTextBox1.Text = "";
             // 
@@ -2369,11 +2381,155 @@
             linkLabel75.Text = "合";
             linkLabel75.Visible = false;
             // 
+            // buttoncs2
+            // 
+            buttoncs2.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncs2.Location = new Point(365, 196);
+            buttoncs2.Name = "buttoncs2";
+            buttoncs2.Size = new Size(75, 36);
+            buttoncs2.TabIndex = 243;
+            buttoncs2.Text = "长生";
+            buttoncs2.UseVisualStyleBackColor = true;
+            buttoncs2.Click += buttoncs2_Click;
+            // 
+            // buttoncs4
+            // 
+            buttoncs4.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncs4.Location = new Point(527, 196);
+            buttoncs4.Name = "buttoncs4";
+            buttoncs4.Size = new Size(75, 36);
+            buttoncs4.TabIndex = 242;
+            buttoncs4.Text = "长生";
+            buttoncs4.UseVisualStyleBackColor = true;
+            buttoncs4.Click += buttoncs4_Click;
+            // 
+            // buttoncs3
+            // 
+            buttoncs3.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncs3.Location = new Point(446, 196);
+            buttoncs3.Name = "buttoncs3";
+            buttoncs3.Size = new Size(75, 36);
+            buttoncs3.TabIndex = 241;
+            buttoncs3.Text = "长生";
+            buttoncs3.UseVisualStyleBackColor = true;
+            buttoncs3.Click += buttoncs3_Click;
+            // 
+            // buttoncs1
+            // 
+            buttoncs1.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncs1.Location = new Point(284, 196);
+            buttoncs1.Name = "buttoncs1";
+            buttoncs1.Size = new Size(75, 36);
+            buttoncs1.TabIndex = 240;
+            buttoncs1.Text = "长生";
+            buttoncs1.UseVisualStyleBackColor = true;
+            buttoncs1.Click += buttoncs1_Click;
+            // 
+            // buttoncs6
+            // 
+            buttoncs6.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncs6.Location = new Point(689, 196);
+            buttoncs6.Name = "buttoncs6";
+            buttoncs6.Size = new Size(75, 36);
+            buttoncs6.TabIndex = 247;
+            buttoncs6.Text = "长生";
+            buttoncs6.UseVisualStyleBackColor = true;
+            buttoncs6.Click += buttoncs6_Click;
+            // 
+            // buttoncs8
+            // 
+            buttoncs8.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncs8.Location = new Point(851, 196);
+            buttoncs8.Name = "buttoncs8";
+            buttoncs8.Size = new Size(75, 36);
+            buttoncs8.TabIndex = 246;
+            buttoncs8.Text = "长生";
+            buttoncs8.UseVisualStyleBackColor = true;
+            buttoncs8.Click += buttoncs8_Click;
+            // 
+            // buttoncs7
+            // 
+            buttoncs7.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncs7.Location = new Point(770, 196);
+            buttoncs7.Name = "buttoncs7";
+            buttoncs7.Size = new Size(75, 36);
+            buttoncs7.TabIndex = 245;
+            buttoncs7.Text = "长生";
+            buttoncs7.UseVisualStyleBackColor = true;
+            buttoncs7.Click += buttoncs7_Click;
+            // 
+            // buttoncs5
+            // 
+            buttoncs5.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncs5.Location = new Point(608, 196);
+            buttoncs5.Name = "buttoncs5";
+            buttoncs5.Size = new Size(75, 36);
+            buttoncs5.TabIndex = 244;
+            buttoncs5.Text = "长生";
+            buttoncs5.UseVisualStyleBackColor = true;
+            buttoncs5.Click += buttoncs5_Click;
+            // 
+            // buttoncs10
+            // 
+            buttoncs10.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncs10.Location = new Point(1013, 196);
+            buttoncs10.Name = "buttoncs10";
+            buttoncs10.Size = new Size(75, 36);
+            buttoncs10.TabIndex = 251;
+            buttoncs10.Text = "长生";
+            buttoncs10.UseVisualStyleBackColor = true;
+            buttoncs10.Click += buttoncs10_Click;
+            // 
+            // buttoncs12
+            // 
+            buttoncs12.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncs12.Location = new Point(1175, 196);
+            buttoncs12.Name = "buttoncs12";
+            buttoncs12.Size = new Size(75, 36);
+            buttoncs12.TabIndex = 250;
+            buttoncs12.Text = "长生";
+            buttoncs12.UseVisualStyleBackColor = true;
+            buttoncs12.Click += buttoncs12_Click;
+            // 
+            // buttoncs11
+            // 
+            buttoncs11.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncs11.Location = new Point(1094, 196);
+            buttoncs11.Name = "buttoncs11";
+            buttoncs11.Size = new Size(75, 36);
+            buttoncs11.TabIndex = 249;
+            buttoncs11.Text = "长生";
+            buttoncs11.UseVisualStyleBackColor = true;
+            buttoncs11.Click += buttoncs11_Click;
+            // 
+            // buttoncs9
+            // 
+            buttoncs9.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncs9.Location = new Point(932, 196);
+            buttoncs9.Name = "buttoncs9";
+            buttoncs9.Size = new Size(75, 36);
+            buttoncs9.TabIndex = 248;
+            buttoncs9.Text = "长生";
+            buttoncs9.UseVisualStyleBackColor = true;
+            buttoncs9.Click += buttoncs9_Click;
+            // 
             // Form1
             // 
             AutoScaleMode = AutoScaleMode.None;
             BackColor = Color.DimGray;
             ClientSize = new Size(1904, 1011);
+            Controls.Add(buttoncs10);
+            Controls.Add(buttoncs12);
+            Controls.Add(buttoncs11);
+            Controls.Add(buttoncs9);
+            Controls.Add(buttoncs6);
+            Controls.Add(buttoncs8);
+            Controls.Add(buttoncs7);
+            Controls.Add(buttoncs5);
+            Controls.Add(buttoncs2);
+            Controls.Add(buttoncs4);
+            Controls.Add(buttoncs3);
+            Controls.Add(buttoncs1);
             Controls.Add(linkLabel72);
             Controls.Add(linkLabel73);
             Controls.Add(linkLabel74);
@@ -2552,7 +2708,7 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "八字排盘工具v99-杜净隆 作品";
+            Text = "八字排盘工具v2024-03-18-杜净隆 作品";
             WindowState = FormWindowState.Maximized;
             Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)numericUpDownyear).EndInit();
@@ -2740,5 +2896,17 @@
         private LinkLabel linkLabel73;
         private LinkLabel linkLabel74;
         private LinkLabel linkLabel75;
+        private Button buttoncs2;
+        private Button buttoncs4;
+        private Button buttoncs3;
+        private Button buttoncs1;
+        private Button buttoncs6;
+        private Button buttoncs8;
+        private Button buttoncs7;
+        private Button buttoncs5;
+        private Button buttoncs10;
+        private Button buttoncs12;
+        private Button buttoncs11;
+        private Button buttoncs9;
     }
 }
