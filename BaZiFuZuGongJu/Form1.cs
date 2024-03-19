@@ -1,5 +1,4 @@
 ﻿using Lunar;
-using System;
 using System.Globalization;
 
 namespace BaZiFuZuGongJu
@@ -83,6 +82,14 @@ namespace BaZiFuZuGongJu
 
         //五行归类
         int wuxingguilei = 0;//1等于金2等于水3木4等于火5等于土
+                             //大运十二长生
+        string 起大运 = "什么是大运?\r\n\r\n大运是八字预测的术语，大运是以十年为一个周期来推断一个人运势的吉凶祸福，有一句老话是这样说的：“十年河东，十年河西”,此话就是从八字算命得来的。用此话来形容人生的起伏不定，一个人何时能走好运，何时会走败运，测出之后以达到应对趋吉避凶的目的。当预知一个人财运官运亨通之时，可以放手一搏，顺风顺水，虽有曲折，但终会功成名就。当预知一个人会遭遇坎坷灾祸时，可韬光养晦，趋利避害，耐心等待时机的来临。\r\n\r\n排大运的方法：主要是看八字的年柱和月柱来排大运，看年柱的天干来确定出生这一年的阴阳，然后以月柱的天干地支起头排出来。\r\n\r\n大运排法：\r\n\r\n1、首先看年柱天干的五行是阴还是阳，看八字的年干为阳的男命、年干为阴的女命大运顺排；年干为阴的男命、年干为阳的女命逆排，在确定了顺排还是逆排的方式后，我们再看月柱，大运是以四柱中的月柱为起点来排定的。\r\n\r\n举个例子：庚戌年、己卯月、甲子日、辛亥时生，如果是男命，年干庚金在五行中是阳，为阳年生男，大运顺排，那么再以月柱己卯为起点开始顺排，月柱天干是己，在五行排列中“己”的下一个是庚，那么大运的第一个天干就是庚，月柱的地支是卯，地支“卯”的下一个五行是辰，那么大运第一个地支是辰，组合在一起就是庚辰，然后安着这个顺序继续往下排—庚辰后面是：辛已，壬午，癸未，甲申，乙酉，丙戌，丁亥，通常排八步大运，也可以继续排下去，如果寿命足够长的话。\r\n\r\n如果庚戌年、已卯月、甲子日、辛亥时，这个八字是女性的，看年柱庚为阳年生女，阳年生女逆排，也是以月柱为起点，月干“”以五行的顺序逆排(已土的上一个五行)是戊，地支卯在五行中逆排(就是倒过来排)是寅，一直这样逆排下去，其大运为：戊寅，丁丑丙子，乙亥甲戌，癸酉，壬申，辛未，也是排八步大运。\r\n\r\n说明：排大运是看八字的年干、月柱来推算，不需要看日柱、时柱。\r\n\r\n2、大运起好了，那么从什么时候开始行运呢?这里有一个公式，大运数的起法，1、以出生日那天开始计算，(阳年男阴年女)顺数到下一个节气的日子的天数，(阴年男阳年女)从出生那天逆数到上一个节气日子的天数，把天数记下来。2、起运数：用刚才计算得出的天数，以三天折合一岁计算，就是除以三，等于几就是几岁，余下的天数以一天折合四个月来计算，。例如：起运总数为18天，被3除，等于6,即为6岁起大运。如为19天，则为6岁4个月起大运。\r\n\r\n需要注意的是：起运天数的计算，是以出生之日顺数或逆数碰到临近的如下节气：立春、惊蛰、清明、立夏、芒种、小暑、立秋、白露、寒露、立冬、大雪、小寒为准。\r\n\r\n命局、大运、流年三者之间的作用关系：\r\n\r\n1、八字命局为目标。\r\n\r\n2、大运决定十年运气好坏。\r\n\r\n3、流年可以直接影响八字命局，决定一年的好坏。\r\n\r\n4、大运干支间不看相互作用关系，流年干支间不看相互作用关系。\r\n\r\n5、命局、大运、流年的作用，是天干作用天干，地支作用地支，天干地支间不相互作用。\r\n\r\n6、大运天干作用命局天干，大运地支作用命局地支，决定了这十年大运的总体好坏情况。7、流年与大运首先发生作用，流年天干作用大运天干，流年地支作用大运地支，其作用结果再作用于八字命局。同时也要看流年直接作用命局的情况，要综合判断。\r\n\r\n8、大运流年不发生合、冲、刑、害关系时，大运流年分别作用与八字命局。\r\n\r\n从上面的查看方法可以看出，八字命局是内在因素，流年、大运是外面的因素，查看外围因素对八字的影响是好还是不好，就像一个人是能获得别人的帮助扶持，还是会遭到暗算打击，这就是外因，是运气了。\r\n\r\n需要注意的是，查看大运流年对命局的影响，不能像分析八字命局那样，看天干地支间发生的关系，只能天干与天干发生关系，地支与地支发生关系，大运、流年的地支再有力量，也不能作用命局的天干，大运、流年的天千再有力量，也不能去作用命局的地支。\r\n\r\n古人说，“命局没有好运，不能自达”说明运气的  重要，还说，“好命不如好运，好运不如好年。”说明  流年对八字的影响最重要也最明显，所以看运势，测流年最重要。\r\n\r\n八字命局决定了一个人先天素质的高低，起决定性作用，命贵，还是命贱；流年大运是外因，来影响命局，就是运气好坏，命贵的人也会有灾难，比如高官落马，命贱的人也会遇到好运，比如发财娶美妻。\r\n\r\n在命局、大运、流年的关系当中，要认清这样一个层次，八字命局是本人，大运是管理命局的，流年则是最高长官。所以，通常也把流年称为太岁，岁君，就是皇帝，所以太岁不可冒犯，自古有“冲犯太岁起祸端”的说法。\r\n\r\n在民间预测实际运用当中，很少使用排大运，尤其是盲派，虽然排大运并不复杂，民间更注重流年运势的影响。\r\n\r\n十二长生大运诀\r\n\r\n1、长生：这步大运走长生，好比太阳又东升，乌云散去多晴朗，花红柳绿草生情，蛟龙出海常快乐，猛虎得食在山峰，凤凰落在梧桐树，官印逐喜得长生。\r\n2、沐浴：运交沐浴不一般，如同过河又蹬山，过河走的泥洼地，蹬山道路弯又弯，七上八下受癫痫，安安稳稳没几年，心似乱麻如蒿草，总想游春在外边。\r\n3、冠带：运交冠带主吉祥，一年到比一年强，久埋珍珠出了土，多年百宝放了光，平地一声春雷响，五湖四海把名扬。\r\n4、帝旺：运交帝旺运最红，就象大海一条龙，今朝得势时运转，一步蹬高上天庭，这步运气真是好，就是泥鳅也成龙。\r\n5、衰：运交衰字不顺通，就象老虎掉进坑，天月二德能解救，天乙贵人也化凶，十年之内不可小，马虎大意可不行。\r\n6、病：要走病地时不来，生病伤财又有灾，若有吉星能解救，逢凶化吉结了灾，到时好好交交运，转危为安能解开。\r\n7、死绝：运交死绝不吉祥，卦中注意有伤亡，高堂二老不下世，本身一定也不强，车前马后要注意，克妻害子范刑伤。\r\n8、墓：运交墓字不太强，就象半阴和半阳，一半好来一半坏，一半热来一半冷，运去黄金变了色，运了废铁也增光。\r\n9、胎养、运交胎养最吉祥，一年到比一年强，家里有了摇钱树，聚宝盆里放了光，梧桐树下栓金马，上边飞来金凤凰\r\n";
+        string dyss10 = ""; string dyss20 = ""; string dyss30 = ""; string dyss40 = ""; string dyss50 = ""; string dyss60 = "";
+        string dyss70 = ""; string dyss80 = ""; string dyss90 = ""; string dyss100 = ""; string dyss110 = ""; string dyss120 = "";
+        string dy10 = ""; string dy20 = ""; string dy30 = ""; string dy40 = ""; string dy50 = ""; string dy60 = "";
+        string dy70 = ""; string dy80 = ""; string dy90 = ""; string dy100 = ""; string dy110 = ""; string dy120 = "";
+        string changsheng = "长生"; string muyu = "沐浴"; string guandai = "冠带"; string linguan = "临官"; string diwang = "帝旺"; string shuai = "衰";
+        string bingg = "病"; string ssii = "死"; string mmuu = "墓"; string jue = "绝"; string tai = "胎"; string yang = "养";
 
         //文本控件开关
         int wenben = 0;
@@ -196,12 +203,6 @@ namespace BaZiFuZuGongJu
         int rdztongzi = 0; int sdztongzi = 0;
         //命局评分
         string mingjiupingfen = "";
-        //大运十二长生
-        string 起大运 = "什么是大运?\r\n\r\n大运是八字预测的术语，大运是以十年为一个周期来推断一个人运势的吉凶祸福，有一句老话是这样说的：“十年河东，十年河西”,此话就是从八字算命得来的。用此话来形容人生的起伏不定，一个人何时能走好运，何时会走败运，测出之后以达到应对趋吉避凶的目的。当预知一个人财运官运亨通之时，可以放手一搏，顺风顺水，虽有曲折，但终会功成名就。当预知一个人会遭遇坎坷灾祸时，可韬光养晦，趋利避害，耐心等待时机的来临。\r\n\r\n排大运的方法：主要是看八字的年柱和月柱来排大运，看年柱的天干来确定出生这一年的阴阳，然后以月柱的天干地支起头排出来。\r\n\r\n大运排法：\r\n\r\n1、首先看年柱天干的五行是阴还是阳，看八字的年干为阳的男命、年干为阴的女命大运顺排；年干为阴的男命、年干为阳的女命逆排，在确定了顺排还是逆排的方式后，我们再看月柱，大运是以四柱中的月柱为起点来排定的。\r\n\r\n举个例子：庚戌年、己卯月、甲子日、辛亥时生，如果是男命，年干庚金在五行中是阳，为阳年生男，大运顺排，那么再以月柱己卯为起点开始顺排，月柱天干是己，在五行排列中“己”的下一个是庚，那么大运的第一个天干就是庚，月柱的地支是卯，地支“卯”的下一个五行是辰，那么大运第一个地支是辰，组合在一起就是庚辰，然后安着这个顺序继续往下排—庚辰后面是：辛已，壬午，癸未，甲申，乙酉，丙戌，丁亥，通常排八步大运，也可以继续排下去，如果寿命足够长的话。\r\n\r\n如果庚戌年、已卯月、甲子日、辛亥时，这个八字是女性的，看年柱庚为阳年生女，阳年生女逆排，也是以月柱为起点，月干“”以五行的顺序逆排(已土的上一个五行)是戊，地支卯在五行中逆排(就是倒过来排)是寅，一直这样逆排下去，其大运为：戊寅，丁丑丙子，乙亥甲戌，癸酉，壬申，辛未，也是排八步大运。\r\n\r\n说明：排大运是看八字的年干、月柱来推算，不需要看日柱、时柱。\r\n\r\n2、大运起好了，那么从什么时候开始行运呢?这里有一个公式，大运数的起法，1、以出生日那天开始计算，(阳年男阴年女)顺数到下一个节气的日子的天数，(阴年男阳年女)从出生那天逆数到上一个节气日子的天数，把天数记下来。2、起运数：用刚才计算得出的天数，以三天折合一岁计算，就是除以三，等于几就是几岁，余下的天数以一天折合四个月来计算，。例如：起运总数为18天，被3除，等于6,即为6岁起大运。如为19天，则为6岁4个月起大运。\r\n\r\n需要注意的是：起运天数的计算，是以出生之日顺数或逆数碰到临近的如下节气：立春、惊蛰、清明、立夏、芒种、小暑、立秋、白露、寒露、立冬、大雪、小寒为准。\r\n\r\n命局、大运、流年三者之间的作用关系：\r\n\r\n1、八字命局为目标。\r\n\r\n2、大运决定十年运气好坏。\r\n\r\n3、流年可以直接影响八字命局，决定一年的好坏。\r\n\r\n4、大运干支间不看相互作用关系，流年干支间不看相互作用关系。\r\n\r\n5、命局、大运、流年的作用，是天干作用天干，地支作用地支，天干地支间不相互作用。\r\n\r\n6、大运天干作用命局天干，大运地支作用命局地支，决定了这十年大运的总体好坏情况。7、流年与大运首先发生作用，流年天干作用大运天干，流年地支作用大运地支，其作用结果再作用于八字命局。同时也要看流年直接作用命局的情况，要综合判断。\r\n\r\n8、大运流年不发生合、冲、刑、害关系时，大运流年分别作用与八字命局。\r\n\r\n从上面的查看方法可以看出，八字命局是内在因素，流年、大运是外面的因素，查看外围因素对八字的影响是好还是不好，就像一个人是能获得别人的帮助扶持，还是会遭到暗算打击，这就是外因，是运气了。\r\n\r\n需要注意的是，查看大运流年对命局的影响，不能像分析八字命局那样，看天干地支间发生的关系，只能天干与天干发生关系，地支与地支发生关系，大运、流年的地支再有力量，也不能作用命局的天干，大运、流年的天千再有力量，也不能去作用命局的地支。\r\n\r\n古人说，“命局没有好运，不能自达”说明运气的  重要，还说，“好命不如好运，好运不如好年。”说明  流年对八字的影响最重要也最明显，所以看运势，测流年最重要。\r\n\r\n八字命局决定了一个人先天素质的高低，起决定性作用，命贵，还是命贱；流年大运是外因，来影响命局，就是运气好坏，命贵的人也会有灾难，比如高官落马，命贱的人也会遇到好运，比如发财娶美妻。\r\n\r\n在命局、大运、流年的关系当中，要认清这样一个层次，八字命局是本人，大运是管理命局的，流年则是最高长官。所以，通常也把流年称为太岁，岁君，就是皇帝，所以太岁不可冒犯，自古有“冲犯太岁起祸端”的说法。\r\n\r\n在民间预测实际运用当中，很少使用排大运，尤其是盲派，虽然排大运并不复杂，民间更注重流年运势的影响。\r\n\r\n十二长生大运诀\r\n\r\n1、长生：这步大运走长生，好比太阳又东升，乌云散去多晴朗，花红柳绿草生情，蛟龙出海常快乐，猛虎得食在山峰，凤凰落在梧桐树，官印逐喜得长生。\r\n2、沐浴：运交沐浴不一般，如同过河又蹬山，过河走的泥洼地，蹬山道路弯又弯，七上八下受癫痫，安安稳稳没几年，心似乱麻如蒿草，总想游春在外边。\r\n3、冠带：运交冠带主吉祥，一年到比一年强，久埋珍珠出了土，多年百宝放了光，平地一声春雷响，五湖四海把名扬。\r\n4、帝旺：运交帝旺运最红，就象大海一条龙，今朝得势时运转，一步蹬高上天庭，这步运气真是好，就是泥鳅也成龙。\r\n5、衰：运交衰字不顺通，就象老虎掉进坑，天月二德能解救，天乙贵人也化凶，十年之内不可小，马虎大意可不行。\r\n6、病：要走病地时不来，生病伤财又有灾，若有吉星能解救，逢凶化吉结了灾，到时好好交交运，转危为安能解开。\r\n7、死绝：运交死绝不吉祥，卦中注意有伤亡，高堂二老不下世，本身一定也不强，车前马后要注意，克妻害子范刑伤。\r\n8、墓：运交墓字不太强，就象半阴和半阳，一半好来一半坏，一半热来一半冷，运去黄金变了色，运了废铁也增光。\r\n9、胎养、运交胎养最吉祥，一年到比一年强，家里有了摇钱树，聚宝盆里放了光，梧桐树下栓金马，上边飞来金凤凰\r\n";
-        string dy10 = ""; string dy20 = ""; string dy30 = ""; string dy40 = ""; string dy50 = ""; string dy60 = "";
-        string dy70 = ""; string dy80 = ""; string dy90 = ""; string dy100 = ""; string dy110 = ""; string dy120 = "";
-        string changsheng = "长生"; string muyu = "沐浴"; string guandai = "冠带"; string linguan = "临官"; string diwang = "帝旺"; string shuai = "衰";
-        string bingg = "病"; string ssii = "死"; string mmuu = "墓"; string jue = "绝"; string tai = "胎"; string yang = "养";
 
 
 
@@ -1183,6 +1184,158 @@ namespace BaZiFuZuGongJu
                     {
                         if (ntg == jia || ntg == wuu || ntg == ren || ntg == bing || ntg == geng)
                         {
+                            if (ytg == jia)
+                            {
+                                dyss10 = yii;
+                                dyss20 = bing;
+                                dyss30 = ding;
+                                dyss40 = wuu;
+                                dyss50 = jii;
+                                dyss60 = geng;
+                                dyss70 = xin;
+                                dyss80 = ren;
+                                dyss90 = gui;
+                                dyss100 = jia;
+                                dyss110 = yii;
+                                dyss120 = bing;
+                            }
+                            if (ytg == yii)
+                            {
+                                dyss10 = bing;
+                                dyss20 = ding;
+                                dyss30 = wuu;
+                                dyss40 = jii;
+                                dyss50 = geng;
+                                dyss60 = xin;
+                                dyss70 = ren;
+                                dyss80 = gui;
+                                dyss90 = jia;
+                                dyss100 = yii;
+                                dyss110 = bing;
+                                dyss120 = ding;
+                            }
+                            if (ytg == bing)
+                            {
+                                dyss10 = ding;
+                                dyss20 = wuu;
+                                dyss30 = jii;
+                                dyss40 = geng;
+                                dyss50 = xin;
+                                dyss60 = ren;
+                                dyss70 = gui;
+                                dyss80 = jia;
+                                dyss90 = yii;
+                                dyss100 = bing;
+                                dyss110 = ding;
+                                dyss120 = wuu;
+                            }
+                            if (ytg == ding)
+                            {
+                                dyss10 = wuu;
+                                dyss20 = jii;
+                                dyss30 = geng;
+                                dyss40 = xin;
+                                dyss50 = ren;
+                                dyss60 = gui;
+                                dyss70 = jia;
+                                dyss80 = yii;
+                                dyss90 = bing;
+                                dyss100 = ding;
+                                dyss110 = wuu;
+                                dyss120 = jii;
+                            }
+                            if (ytg == wuu)
+                            {
+                                dyss10 = jii;
+                                dyss20 = geng;
+                                dyss30 = xin;
+                                dyss40 = ren;
+                                dyss50 = gui;
+                                dyss60 = jia;
+                                dyss70 = yii;
+                                dyss80 = bing;
+                                dyss90 = ding;
+                                dyss100 = wuu;
+                                dyss110 = jii;
+                                dyss120 = geng;
+                            }
+                            if (ytg == jii)
+                            {
+                                dyss10 = geng;
+                                dyss20 = xin;
+                                dyss30 = ren;
+                                dyss40 = gui;
+                                dyss50 = jia;
+                                dyss60 = yii;
+                                dyss70 = bing;
+                                dyss80 = ding;
+                                dyss90 = wuu;
+                                dyss100 = jii;
+                                dyss110 = geng;
+                                dyss120 = xin;
+                            }
+                            if (ytg == geng)
+                            {
+                                dyss10 = xin;
+                                dyss20 = ren;
+                                dyss30 = gui;
+                                dyss40 = jia;
+                                dyss50 = yii;
+                                dyss60 = bing;
+                                dyss70 = ding;
+                                dyss80 = wuu;
+                                dyss90 = jii;
+                                dyss100 = geng;
+                                dyss110 = xin;
+                                dyss120 = ren;
+                            }
+                            if (ytg == xin)
+                            {
+                                dyss10 = ren;
+                                dyss20 = gui;
+                                dyss30 = jia;
+                                dyss40 = yii;
+                                dyss50 = bing;
+                                dyss60 = ding;
+                                dyss70 = wuu;
+                                dyss80 = jii;
+                                dyss90 = geng;
+                                dyss100 = xin;
+                                dyss110 = ren;
+                                dyss120 = gui;
+                            }
+                            if (ytg == ren)
+                            {
+                                dyss10 = gui;
+                                dyss20 = jia;
+                                dyss30 = yii;
+                                dyss40 = bing;
+                                dyss50 = ding;
+                                dyss60 = wuu;
+                                dyss70 = jii;
+                                dyss80 = geng;
+                                dyss90 = xin;
+                                dyss100 = ren;
+                                dyss110 = gui;
+                                dyss120 = jia;
+                            }
+                            if (ytg == gui)
+                            {
+                                dyss10 = jia;
+                                dyss20 = yii;
+                                dyss30 = bing;
+                                dyss40 = ding;
+                                dyss50 = wuu;
+                                dyss60 = jii;
+                                dyss70 = geng;
+                                dyss80 = xin;
+                                dyss90 = ren;
+                                dyss100 = gui;
+                                dyss110 = jia;
+                                dyss120 = yii;
+                            }
+
+
                             if (ydz == yin)
                             {
                                 dy10 = mao;
@@ -1379,6 +1532,158 @@ namespace BaZiFuZuGongJu
                         }
                         if (ntg == yii || ntg == jii || ntg == gui || ntg == ding || ntg == xin)
                         {
+                            if (ytg == jia)
+                            {
+                                dyss10 = gui;
+                                dyss20 = ren;
+                                dyss30 = xin;
+                                dyss40 = geng;
+                                dyss50 = jii;
+                                dyss60 = wuu;
+                                dyss70 = ding;
+                                dyss80 = bing;
+                                dyss90 = yii;
+                                dyss100 = jia;
+                                dyss110 = gui;
+                                dyss120 = ren;
+                            }
+                            if (ytg == gui)
+                            {
+                                dyss10 = ren;
+                                dyss20 = xin;
+                                dyss30 = geng;
+                                dyss40 = jii;
+                                dyss50 = wuu;
+                                dyss60 = ding;
+                                dyss70 = bing;
+                                dyss80 = yii;
+                                dyss90 = jia;
+                                dyss100 = gui;
+                                dyss110 = ren;
+                                dyss120 = xin;
+                            }
+                            if (ytg == ren)
+                            {
+                                dyss10 = xin;
+                                dyss20 = geng;
+                                dyss30 = jii;
+                                dyss40 = wuu;
+                                dyss50 = ding;
+                                dyss60 = bing;
+                                dyss70 = yii;
+                                dyss80 = jia;
+                                dyss90 = gui;
+                                dyss100 = ren;
+                                dyss110 = xin;
+                                dyss120 = geng;
+                            }
+                            if (ytg == xin)
+                            {
+                                dyss10 = geng;
+                                dyss20 = jii;
+                                dyss30 = wuu;
+                                dyss40 = ding;
+                                dyss50 = bing;
+                                dyss60 = yii;
+                                dyss70 = jia;
+                                dyss80 = gui;
+                                dyss90 = ren;
+                                dyss100 = xin;
+                                dyss110 = geng;
+                                dyss120 = jii;
+                            }
+                            if (ytg == geng)
+                            {
+                                dyss10 = jii;
+                                dyss20 = wuu;
+                                dyss30 = ding;
+                                dyss40 = bing;
+                                dyss50 = yii;
+                                dyss60 = jia;
+                                dyss70 = gui;
+                                dyss80 = ren;
+                                dyss90 = xin;
+                                dyss100 = geng;
+                                dyss110 = jii;
+                                dyss120 = wuu;
+                            }
+                            if (ytg == jii)
+                            {
+                                dyss10 = wuu;
+                                dyss20 = ding;
+                                dyss30 = bing;
+                                dyss40 = yii;
+                                dyss50 = jia;
+                                dyss60 = gui;
+                                dyss70 = ren;
+                                dyss80 = xin;
+                                dyss90 = geng;
+                                dyss100 = jii;
+                                dyss110 = wuu;
+                                dyss120 = ding;
+                            }
+                            if (ytg == wuu)
+                            {
+                                dyss10 = ding;
+                                dyss20 = bing;
+                                dyss30 = yii;
+                                dyss40 = jia;
+                                dyss50 = gui;
+                                dyss60 = ren;
+                                dyss70 = xin;
+                                dyss80 = geng;
+                                dyss90 = jii;
+                                dyss100 = wuu;
+                                dyss110 = ding;
+                                dyss120 = bing;
+                            }
+                            if (ytg == ding)
+                            {
+                                dyss10 = bing;
+                                dyss20 = yii;
+                                dyss30 = jia;
+                                dyss40 = gui;
+                                dyss50 = ren;
+                                dyss60 = xin;
+                                dyss70 = geng;
+                                dyss80 = jii;
+                                dyss90 = wuu;
+                                dyss100 = ding;
+                                dyss110 = bing;
+                                dyss120 = jii;
+                            }
+                            if (ytg == bing)
+                            {
+                                dyss10 = yii;
+                                dyss20 = jia;
+                                dyss30 = gui;
+                                dyss40 = ren;
+                                dyss50 = xin;
+                                dyss60 = geng;
+                                dyss70 = jii;
+                                dyss80 = wuu;
+                                dyss90 = ding;
+                                dyss100 = bing;
+                                dyss110 = jii;
+                                dyss120 = wuu;
+                            }
+                            if (ytg == yii)
+                            {
+                                dyss10 = jia;
+                                dyss20 = gui;
+                                dyss30 = ren;
+                                dyss40 = xin;
+                                dyss50 = geng;
+                                dyss60 = jii;
+                                dyss70 = wuu;
+                                dyss80 = ding;
+                                dyss90 = bing;
+                                dyss100 = jii;
+                                dyss110 = wuu;
+                                dyss120 = ding;
+                            }
+
+
                             if (ydz == yin)
                             {
                                 dy10 = chou;
@@ -1578,6 +1883,158 @@ namespace BaZiFuZuGongJu
                     {
                         if (ntg == yii || ntg == jii || ntg == gui || ntg == ding || ntg == xin)
                         {
+                            if (ytg == jia)
+                            {
+                                dyss10 = yii;
+                                dyss20 = bing;
+                                dyss30 = ding;
+                                dyss40 = wuu;
+                                dyss50 = jii;
+                                dyss60 = geng;
+                                dyss70 = xin;
+                                dyss80 = ren;
+                                dyss90 = gui;
+                                dyss100 = jia;
+                                dyss110 = yii;
+                                dyss120 = bing;
+                            }
+                            if (ytg == yii)
+                            {
+                                dyss10 = bing;
+                                dyss20 = ding;
+                                dyss30 = wuu;
+                                dyss40 = jii;
+                                dyss50 = geng;
+                                dyss60 = xin;
+                                dyss70 = ren;
+                                dyss80 = gui;
+                                dyss90 = jia;
+                                dyss100 = yii;
+                                dyss110 = bing;
+                                dyss120 = ding;
+                            }
+                            if (ytg == bing)
+                            {
+                                dyss10 = ding;
+                                dyss20 = wuu;
+                                dyss30 = jii;
+                                dyss40 = geng;
+                                dyss50 = xin;
+                                dyss60 = ren;
+                                dyss70 = gui;
+                                dyss80 = jia;
+                                dyss90 = yii;
+                                dyss100 = bing;
+                                dyss110 = ding;
+                                dyss120 = wuu;
+                            }
+                            if (ytg == ding)
+                            {
+                                dyss10 = wuu;
+                                dyss20 = jii;
+                                dyss30 = geng;
+                                dyss40 = xin;
+                                dyss50 = ren;
+                                dyss60 = gui;
+                                dyss70 = jia;
+                                dyss80 = yii;
+                                dyss90 = bing;
+                                dyss100 = ding;
+                                dyss110 = wuu;
+                                dyss120 = jii;
+                            }
+                            if (ytg == wuu)
+                            {
+                                dyss10 = jii;
+                                dyss20 = geng;
+                                dyss30 = xin;
+                                dyss40 = ren;
+                                dyss50 = gui;
+                                dyss60 = jia;
+                                dyss70 = yii;
+                                dyss80 = bing;
+                                dyss90 = ding;
+                                dyss100 = wuu;
+                                dyss110 = jii;
+                                dyss120 = geng;
+                            }
+                            if (ytg == jii)
+                            {
+                                dyss10 = geng;
+                                dyss20 = xin;
+                                dyss30 = ren;
+                                dyss40 = gui;
+                                dyss50 = jia;
+                                dyss60 = yii;
+                                dyss70 = bing;
+                                dyss80 = ding;
+                                dyss90 = wuu;
+                                dyss100 = jii;
+                                dyss110 = geng;
+                                dyss120 = xin;
+                            }
+                            if (ytg == geng)
+                            {
+                                dyss10 = xin;
+                                dyss20 = ren;
+                                dyss30 = gui;
+                                dyss40 = jia;
+                                dyss50 = yii;
+                                dyss60 = bing;
+                                dyss70 = ding;
+                                dyss80 = wuu;
+                                dyss90 = jii;
+                                dyss100 = geng;
+                                dyss110 = xin;
+                                dyss120 = ren;
+                            }
+                            if (ytg == xin)
+                            {
+                                dyss10 = ren;
+                                dyss20 = gui;
+                                dyss30 = jia;
+                                dyss40 = yii;
+                                dyss50 = bing;
+                                dyss60 = ding;
+                                dyss70 = wuu;
+                                dyss80 = jii;
+                                dyss90 = geng;
+                                dyss100 = xin;
+                                dyss110 = ren;
+                                dyss120 = gui;
+                            }
+                            if (ytg == ren)
+                            {
+                                dyss10 = gui;
+                                dyss20 = jia;
+                                dyss30 = yii;
+                                dyss40 = bing;
+                                dyss50 = ding;
+                                dyss60 = wuu;
+                                dyss70 = jii;
+                                dyss80 = geng;
+                                dyss90 = xin;
+                                dyss100 = ren;
+                                dyss110 = gui;
+                                dyss120 = jia;
+                            }
+                            if (ytg == gui)
+                            {
+                                dyss10 = jia;
+                                dyss20 = yii;
+                                dyss30 = bing;
+                                dyss40 = ding;
+                                dyss50 = wuu;
+                                dyss60 = jii;
+                                dyss70 = geng;
+                                dyss80 = xin;
+                                dyss90 = ren;
+                                dyss100 = gui;
+                                dyss110 = jia;
+                                dyss120 = yii;
+                            }
+
+
                             if (ydz == yin)
                             {
                                 dy10 = mao;
@@ -1774,6 +2231,158 @@ namespace BaZiFuZuGongJu
                         }
                         if (ntg == jia || ntg == wuu || ntg == ren || ntg == bing || ntg == geng)
                         {
+                            if (ytg == jia)
+                            {
+                                dyss10 = gui;
+                                dyss20 = ren;
+                                dyss30 = xin;
+                                dyss40 = geng;
+                                dyss50 = jii;
+                                dyss60 = wuu;
+                                dyss70 = ding;
+                                dyss80 = bing;
+                                dyss90 = yii;
+                                dyss100 = jia;
+                                dyss110 = gui;
+                                dyss120 = ren;
+                            }
+                            if (ytg == gui)
+                            {
+                                dyss10 = ren;
+                                dyss20 = xin;
+                                dyss30 = geng;
+                                dyss40 = jii;
+                                dyss50 = wuu;
+                                dyss60 = ding;
+                                dyss70 = bing;
+                                dyss80 = yii;
+                                dyss90 = jia;
+                                dyss100 = gui;
+                                dyss110 = ren;
+                                dyss120 = xin;
+                            }
+                            if (ytg == ren)
+                            {
+                                dyss10 = xin;
+                                dyss20 = geng;
+                                dyss30 = jii;
+                                dyss40 = wuu;
+                                dyss50 = ding;
+                                dyss60 = bing;
+                                dyss70 = yii;
+                                dyss80 = jia;
+                                dyss90 = gui;
+                                dyss100 = ren;
+                                dyss110 = xin;
+                                dyss120 = geng;
+                            }
+                            if (ytg == xin)
+                            {
+                                dyss10 = geng;
+                                dyss20 = jii;
+                                dyss30 = wuu;
+                                dyss40 = ding;
+                                dyss50 = bing;
+                                dyss60 = yii;
+                                dyss70 = jia;
+                                dyss80 = gui;
+                                dyss90 = ren;
+                                dyss100 = xin;
+                                dyss110 = geng;
+                                dyss120 = jii;
+                            }
+                            if (ytg == geng)
+                            {
+                                dyss10 = jii;
+                                dyss20 = wuu;
+                                dyss30 = ding;
+                                dyss40 = bing;
+                                dyss50 = yii;
+                                dyss60 = jia;
+                                dyss70 = gui;
+                                dyss80 = ren;
+                                dyss90 = xin;
+                                dyss100 = geng;
+                                dyss110 = jii;
+                                dyss120 = wuu;
+                            }
+                            if (ytg == jii)
+                            {
+                                dyss10 = wuu;
+                                dyss20 = ding;
+                                dyss30 = bing;
+                                dyss40 = yii;
+                                dyss50 = jia;
+                                dyss60 = gui;
+                                dyss70 = ren;
+                                dyss80 = xin;
+                                dyss90 = geng;
+                                dyss100 = jii;
+                                dyss110 = wuu;
+                                dyss120 = ding;
+                            }
+                            if (ytg == wuu)
+                            {
+                                dyss10 = ding;
+                                dyss20 = bing;
+                                dyss30 = yii;
+                                dyss40 = jia;
+                                dyss50 = gui;
+                                dyss60 = ren;
+                                dyss70 = xin;
+                                dyss80 = geng;
+                                dyss90 = jii;
+                                dyss100 = wuu;
+                                dyss110 = ding;
+                                dyss120 = bing;
+                            }
+                            if (ytg == ding)
+                            {
+                                dyss10 = bing;
+                                dyss20 = yii;
+                                dyss30 = jia;
+                                dyss40 = gui;
+                                dyss50 = ren;
+                                dyss60 = xin;
+                                dyss70 = geng;
+                                dyss80 = jii;
+                                dyss90 = wuu;
+                                dyss100 = ding;
+                                dyss110 = bing;
+                                dyss120 = jii;
+                            }
+                            if (ytg == bing)
+                            {
+                                dyss10 = yii;
+                                dyss20 = jia;
+                                dyss30 = gui;
+                                dyss40 = ren;
+                                dyss50 = xin;
+                                dyss60 = geng;
+                                dyss70 = jii;
+                                dyss80 = wuu;
+                                dyss90 = ding;
+                                dyss100 = bing;
+                                dyss110 = jii;
+                                dyss120 = wuu;
+                            }
+                            if (ytg == yii)
+                            {
+                                dyss10 = jia;
+                                dyss20 = gui;
+                                dyss30 = ren;
+                                dyss40 = xin;
+                                dyss50 = geng;
+                                dyss60 = jii;
+                                dyss70 = wuu;
+                                dyss80 = ding;
+                                dyss90 = bing;
+                                dyss100 = jii;
+                                dyss110 = wuu;
+                                dyss120 = ding;
+                            }
+
+
                             if (ydz == yin)
                             {
                                 dy10 = chou;
@@ -1969,6 +2578,5231 @@ namespace BaZiFuZuGongJu
 
                         }
                     }
+
+                    buttoncstg1.Text = dyss10;
+                    buttoncstg2.Text = dyss20;
+                    buttoncstg3.Text = dyss30;
+                    buttoncstg4.Text = dyss40;
+                    buttoncstg5.Text = dyss50;
+                    buttoncstg6.Text = dyss60;
+                    buttoncstg7.Text = dyss70;
+                    buttoncstg8.Text = dyss80;
+                    buttoncstg9.Text = dyss90;
+                    buttoncstg10.Text = dyss100;
+                    buttoncstg11.Text = dyss110;
+                    buttoncstg12.Text = dyss120;
+
+                    buttoncsdz1.Text = dy10;
+                    buttoncsdz2.Text = dy20;
+                    buttoncsdz3.Text = dy30;
+                    buttoncsdz4.Text = dy40;
+                    buttoncsdz5.Text = dy50;
+                    buttoncsdz6.Text = dy60;
+                    buttoncsdz7.Text = dy70;
+                    buttoncsdz8.Text = dy80;
+                    buttoncsdz9.Text = dy90;
+                    buttoncsdz10.Text = dy100;
+                    buttoncsdz11.Text = dy110;
+                    buttoncsdz12.Text = dy120;
+
+
+                    if (rtg == jia)
+                    {
+                        if (dyss10 == jia)
+                        {
+                            buttoncsss1.Text = bijian;
+                        }
+                        if (dyss10 == yii)
+                        {
+                            buttoncsss1.Text = jiecai;
+                        }
+                        if (dyss10 == bing)
+                        {
+                            buttoncsss1.Text = shishen;
+                        }
+                        if (dyss10 == ding)
+                        {
+                            buttoncsss1.Text = shangguan;
+                        }
+                        if (dyss10 == wuu)
+                        {
+                            buttoncsss1.Text = piancai;
+                        }
+                        if (dyss10 == jii)
+                        {
+                            buttoncsss1.Text = zhengcai;
+                        }
+                        if (dyss10 == geng)
+                        {
+                            buttoncsss1.Text = qisha;
+                        }
+                        if (dyss10 == xin)
+                        {
+                            buttoncsss1.Text = zhengguan;
+                        }
+                        if (dyss10 == ren)
+                        {
+                            buttoncsss1.Text = xiaoshen;
+                        }
+                        if (dyss10 == gui)
+                        {
+                            buttoncsss1.Text = zhengyin;
+                        }
+                    }
+                    if (rtg == yii)
+                    {
+                        if (dyss10 == jia)
+                        {
+                            buttoncsss1.Text = jiecai;
+                        }
+                        if (dyss10 == yii)
+                        {
+                            buttoncsss1.Text = bijian;
+                        }
+                        if (dyss10 == bing)
+                        {
+                            buttoncsss1.Text = shangguan;
+                        }
+                        if (dyss10 == ding)
+                        {
+                            buttoncsss1.Text = shishen;
+                        }
+                        if (dyss10 == wuu)
+                        {
+                            buttoncsss1.Text = zhengcai;
+                        }
+                        if (dyss10 == jii)
+                        {
+                            buttoncsss1.Text = piancai;
+                        }
+                        if (dyss10 == geng)
+                        {
+                            buttoncsss1.Text = zhengguan;
+                        }
+                        if (dyss10 == xin)
+                        {
+                            buttoncsss1.Text = qisha;
+                        }
+                        if (dyss10 == ren)
+                        {
+                            buttoncsss1.Text = zhengyin;
+                        }
+                        if (dyss10 == gui)
+                        {
+                            buttoncsss1.Text = xiaoshen;
+                        }
+
+                    }
+                    if (rtg == bing)
+                    {
+                        if (dyss10 == jia)
+                        {
+                            buttoncsss1.Text = xiaoshen;
+                        }
+                        if (dyss10 == yii)
+                        {
+                            buttoncsss1.Text = zhengyin;
+                        }
+                        if (dyss10 == bing)
+                        {
+                            buttoncsss1.Text = bijian;
+                        }
+                        if (dyss10 == ding)
+                        {
+                            buttoncsss1.Text = jiecai;
+                        }
+                        if (dyss10 == wuu)
+                        {
+                            buttoncsss1.Text = shishen;
+                        }
+                        if (dyss10 == jii)
+                        {
+                            buttoncsss1.Text = shangguan;
+                        }
+                        if (dyss10 == geng)
+                        {
+                            buttoncsss1.Text = piancai;
+                        }
+                        if (dyss10 == xin)
+                        {
+                            buttoncsss1.Text = zhengcai;
+                        }
+                        if (dyss10 == ren)
+                        {
+                            buttoncsss1.Text = qisha;
+                        }
+                        if (dyss10 == gui)
+                        {
+                            buttoncsss1.Text = zhengguan;
+                        }
+                    }
+                    if (rtg == ding)
+                    {
+                        if (dyss10 == jia)
+                        {
+                            buttoncsss1.Text = zhengyin;
+                        }
+                        if (dyss10 == yii)
+                        {
+                            buttoncsss1.Text = xiaoshen;
+                        }
+                        if (dyss10 == bing)
+                        {
+                            buttoncsss1.Text = jiecai;
+                        }
+                        if (dyss10 == ding)
+                        {
+                            buttoncsss1.Text = bijian;
+                        }
+                        if (dyss10 == wuu)
+                        {
+                            buttoncsss1.Text = shangguan;
+                        }
+                        if (dyss10 == jii)
+                        {
+                            buttoncsss1.Text = shishen;
+                        }
+                        if (dyss10 == geng)
+                        {
+                            buttoncsss1.Text = zhengcai;
+                        }
+                        if (dyss10 == xin)
+                        {
+                            buttoncsss1.Text = piancai;
+                        }
+                        if (dyss10 == ren)
+                        {
+                            buttoncsss1.Text = zhengguan;
+                        }
+                        if (dyss10 == gui)
+                        {
+                            buttoncsss1.Text = qisha;
+                        }
+                    }
+                    if (rtg == wuu)
+                    {
+                        if (dyss10 == jia)
+                        {
+                            buttoncsss1.Text = qisha;
+                        }
+                        if (dyss10 == yii)
+                        {
+                            buttoncsss1.Text = zhengguan;
+                        }
+                        if (dyss10 == bing)
+                        {
+                            buttoncsss1.Text = xiaoshen;
+                        }
+                        if (dyss10 == ding)
+                        {
+                            buttoncsss1.Text = zhengyin;
+                        }
+                        if (dyss10 == wuu)
+                        {
+                            buttoncsss1.Text = bijian;
+                        }
+                        if (dyss10 == jii)
+                        {
+                            buttoncsss1.Text = jiecai;
+                        }
+                        if (dyss10 == geng)
+                        {
+                            buttoncsss1.Text = shishen;
+                        }
+                        if (dyss10 == xin)
+                        {
+                            buttoncsss1.Text = shangguan;
+                        }
+                        if (dyss10 == ren)
+                        {
+                            buttoncsss1.Text = piancai;
+                        }
+                        if (dyss10 == gui)
+                        {
+                            buttoncsss1.Text = zhengcai;
+                        }
+                    }
+                    if (rtg == jii)
+                    {
+                        if (dyss10 == jia)
+                        {
+                            buttoncsss1.Text = zhengguan;
+                        }
+                        if (dyss10 == yii)
+                        {
+                            buttoncsss1.Text = qisha;
+                        }
+                        if (dyss10 == bing)
+                        {
+                            buttoncsss1.Text = zhengyin;
+                        }
+                        if (dyss10 == ding)
+                        {
+                            buttoncsss1.Text = xiaoshen;
+                        }
+                        if (dyss10 == wuu)
+                        {
+                            buttoncsss1.Text = jiecai;
+                        }
+                        if (dyss10 == jii)
+                        {
+                            buttoncsss1.Text = bijian;
+                        }
+                        if (dyss10 == geng)
+                        {
+                            buttoncsss1.Text = shangguan;
+                        }
+                        if (dyss10 == xin)
+                        {
+                            buttoncsss1.Text = shishen;
+                        }
+                        if (dyss10 == ren)
+                        {
+                            buttoncsss1.Text = zhengcai;
+                        }
+                        if (dyss10 == gui)
+                        {
+                            buttoncsss1.Text = piancai;
+                        }
+                    }
+                    if (rtg == geng)
+                    {
+                        if (dyss10 == jia)
+                        {
+                            buttoncsss1.Text = piancai;
+                        }
+                        if (dyss10 == yii)
+                        {
+                            buttoncsss1.Text = zhengcai;
+                        }
+                        if (dyss10 == bing)
+                        {
+                            buttoncsss1.Text = qisha;
+                        }
+                        if (dyss10 == ding)
+                        {
+                            buttoncsss1.Text = zhengguan;
+                        }
+                        if (dyss10 == wuu)
+                        {
+                            buttoncsss1.Text = xiaoshen;
+                        }
+                        if (dyss10 == jii)
+                        {
+                            buttoncsss1.Text = zhengyin;
+                        }
+                        if (dyss10 == geng)
+                        {
+                            buttoncsss1.Text = bijian;
+                        }
+                        if (dyss10 == xin)
+                        {
+                            buttoncsss1.Text = jiecai;
+                        }
+                        if (dyss10 == ren)
+                        {
+                            buttoncsss1.Text = shishen;
+                        }
+                        if (dyss10 == gui)
+                        {
+                            buttoncsss1.Text = shangguan;
+                        }
+                    }
+                    if (rtg == xin)
+                    {
+                        if (dyss10 == jia)
+                        {
+                            buttoncsss1.Text = zhengcai;
+                        }
+                        if (dyss10 == yii)
+                        {
+                            buttoncsss1.Text = piancai;
+                        }
+                        if (dyss10 == bing)
+                        {
+                            buttoncsss1.Text = zhengguan;
+                        }
+                        if (dyss10 == ding)
+                        {
+                            buttoncsss1.Text = qisha;
+                        }
+                        if (dyss10 == wuu)
+                        {
+                            buttoncsss1.Text = zhengyin;
+                        }
+                        if (dyss10 == jii)
+                        {
+                            buttoncsss1.Text = xiaoshen;
+                        }
+                        if (dyss10 == geng)
+                        {
+                            buttoncsss1.Text = jiecai;
+                        }
+                        if (dyss10 == xin)
+                        {
+                            buttoncsss1.Text = bijian;
+                        }
+                        if (dyss10 == ren)
+                        {
+                            buttoncsss1.Text = shangguan;
+                        }
+                        if (dyss10 == gui)
+                        {
+                            buttoncsss1.Text = shishen;
+                        }
+                    }
+                    if (rtg == ren)
+                    {
+                        if (dyss10 == jia)
+                        {
+                            buttoncsss1.Text = shishen;
+                        }
+                        if (dyss10 == yii)
+                        {
+                            buttoncsss1.Text = shangguan;
+                        }
+                        if (dyss10 == bing)
+                        {
+                            buttoncsss1.Text = piancai;
+                        }
+                        if (dyss10 == ding)
+                        {
+                            buttoncsss1.Text = zhengcai;
+                        }
+                        if (dyss10 == wuu)
+                        {
+                            buttoncsss1.Text = qisha;
+                        }
+                        if (dyss10 == jii)
+                        {
+                            buttoncsss1.Text = zhengguan;
+                        }
+                        if (dyss10 == geng)
+                        {
+                            buttoncsss1.Text = xiaoshen;
+                        }
+                        if (dyss10 == xin)
+                        {
+                            buttoncsss1.Text = zhengyin;
+                        }
+                        if (dyss10 == ren)
+                        {
+                            buttoncsss1.Text = bijian;
+                        }
+                        if (dyss10 == gui)
+                        {
+                            buttoncsss1.Text = jiecai;
+                        }
+                    }
+                    if (rtg == gui)
+                    {
+                        if (dyss10 == jia)
+                        {
+                            buttoncsss1.Text = shangguan;
+                        }
+                        if (dyss10 == yii)
+                        {
+                            buttoncsss1.Text = shishen;
+                        }
+                        if (dyss10 == bing)
+                        {
+                            buttoncsss1.Text = zhengcai;
+                        }
+                        if (dyss10 == ding)
+                        {
+                            buttoncsss1.Text = piancai;
+                        }
+                        if (dyss10 == wuu)
+                        {
+                            buttoncsss1.Text = zhengguan;
+                        }
+                        if (dyss10 == jii)
+                        {
+                            buttoncsss1.Text = qisha;
+                        }
+                        if (dyss10 == geng)
+                        {
+                            buttoncsss1.Text = zhengyin;
+                        }
+                        if (dyss10 == xin)
+                        {
+                            buttoncsss1.Text = xiaoshen;
+                        }
+                        if (dyss10 == ren)
+                        {
+                            buttoncsss1.Text = jiecai;
+                        }
+                        if (dyss10 == gui)
+                        {
+                            buttoncsss1.Text = bijian;
+                        }
+                    }
+
+                    if (rtg == jia)
+                    {
+                        if (dyss20 == jia)
+                        {
+                            buttoncsss2.Text = bijian;
+                        }
+                        if (dyss20 == yii)
+                        {
+                            buttoncsss2.Text = jiecai;
+                        }
+                        if (dyss20 == bing)
+                        {
+                            buttoncsss2.Text = shishen;
+                        }
+                        if (dyss20 == ding)
+                        {
+                            buttoncsss2.Text = shangguan;
+                        }
+                        if (dyss20 == wuu)
+                        {
+                            buttoncsss2.Text = piancai;
+                        }
+                        if (dyss20 == jii)
+                        {
+                            buttoncsss2.Text = zhengcai;
+                        }
+                        if (dyss20 == geng)
+                        {
+                            buttoncsss2.Text = qisha;
+                        }
+                        if (dyss20 == xin)
+                        {
+                            buttoncsss2.Text = zhengguan;
+                        }
+                        if (dyss20 == ren)
+                        {
+                            buttoncsss2.Text = xiaoshen;
+                        }
+                        if (dyss20 == gui)
+                        {
+                            buttoncsss2.Text = zhengyin;
+                        }
+                    }
+                    if (rtg == yii)
+                    {
+                        if (dyss20 == jia)
+                        {
+                            buttoncsss2.Text = jiecai;
+                        }
+                        if (dyss20 == yii)
+                        {
+                            buttoncsss2.Text = bijian;
+                        }
+                        if (dyss20 == bing)
+                        {
+                            buttoncsss2.Text = shangguan;
+                        }
+                        if (dyss20 == ding)
+                        {
+                            buttoncsss2.Text = shishen;
+                        }
+                        if (dyss20 == wuu)
+                        {
+                            buttoncsss2.Text = zhengcai;
+                        }
+                        if (dyss20 == jii)
+                        {
+                            buttoncsss2.Text = piancai;
+                        }
+                        if (dyss20 == geng)
+                        {
+                            buttoncsss2.Text = zhengguan;
+                        }
+                        if (dyss20 == xin)
+                        {
+                            buttoncsss2.Text = qisha;
+                        }
+                        if (dyss20 == ren)
+                        {
+                            buttoncsss2.Text = zhengyin;
+                        }
+                        if (dyss20 == gui)
+                        {
+                            buttoncsss2.Text = xiaoshen;
+                        }
+
+                    }
+                    if (rtg == bing)
+                    {
+                        if (dyss20 == jia)
+                        {
+                            buttoncsss2.Text = xiaoshen;
+                        }
+                        if (dyss20 == yii)
+                        {
+                            buttoncsss2.Text = zhengyin;
+                        }
+                        if (dyss20 == bing)
+                        {
+                            buttoncsss2.Text = bijian;
+                        }
+                        if (dyss20 == ding)
+                        {
+                            buttoncsss2.Text = jiecai;
+                        }
+                        if (dyss20 == wuu)
+                        {
+                            buttoncsss2.Text = shishen;
+                        }
+                        if (dyss20 == jii)
+                        {
+                            buttoncsss2.Text = shangguan;
+                        }
+                        if (dyss20 == geng)
+                        {
+                            buttoncsss2.Text = piancai;
+                        }
+                        if (dyss20 == xin)
+                        {
+                            buttoncsss2.Text = zhengcai;
+                        }
+                        if (dyss20 == ren)
+                        {
+                            buttoncsss2.Text = qisha;
+                        }
+                        if (dyss20 == gui)
+                        {
+                            buttoncsss2.Text = zhengguan;
+                        }
+                    }
+                    if (rtg == ding)
+                    {
+                        if (dyss20 == jia)
+                        {
+                            buttoncsss2.Text = zhengyin;
+                        }
+                        if (dyss20 == yii)
+                        {
+                            buttoncsss2.Text = xiaoshen;
+                        }
+                        if (dyss20 == bing)
+                        {
+                            buttoncsss2.Text = jiecai;
+                        }
+                        if (dyss20 == ding)
+                        {
+                            buttoncsss2.Text = bijian;
+                        }
+                        if (dyss20 == wuu)
+                        {
+                            buttoncsss2.Text = shangguan;
+                        }
+                        if (dyss20 == jii)
+                        {
+                            buttoncsss2.Text = shishen;
+                        }
+                        if (dyss20 == geng)
+                        {
+                            buttoncsss2.Text = zhengcai;
+                        }
+                        if (dyss20 == xin)
+                        {
+                            buttoncsss2.Text = piancai;
+                        }
+                        if (dyss20 == ren)
+                        {
+                            buttoncsss2.Text = zhengguan;
+                        }
+                        if (dyss20 == gui)
+                        {
+                            buttoncsss2.Text = qisha;
+                        }
+                    }
+                    if (rtg == wuu)
+                    {
+                        if (dyss20 == jia)
+                        {
+                            buttoncsss2.Text = qisha;
+                        }
+                        if (dyss20 == yii)
+                        {
+                            buttoncsss2.Text = zhengguan;
+                        }
+                        if (dyss20 == bing)
+                        {
+                            buttoncsss2.Text = xiaoshen;
+                        }
+                        if (dyss20 == ding)
+                        {
+                            buttoncsss2.Text = zhengyin;
+                        }
+                        if (dyss20 == wuu)
+                        {
+                            buttoncsss2.Text = bijian;
+                        }
+                        if (dyss20 == jii)
+                        {
+                            buttoncsss2.Text = jiecai;
+                        }
+                        if (dyss20 == geng)
+                        {
+                            buttoncsss2.Text = shishen;
+                        }
+                        if (dyss20 == xin)
+                        {
+                            buttoncsss2.Text = shangguan;
+                        }
+                        if (dyss20 == ren)
+                        {
+                            buttoncsss2.Text = piancai;
+                        }
+                        if (dyss20 == gui)
+                        {
+                            buttoncsss2.Text = zhengcai;
+                        }
+                    }
+                    if (rtg == jii)
+                    {
+                        if (dyss20 == jia)
+                        {
+                            buttoncsss2.Text = zhengguan;
+                        }
+                        if (dyss20 == yii)
+                        {
+                            buttoncsss2.Text = qisha;
+                        }
+                        if (dyss20 == bing)
+                        {
+                            buttoncsss2.Text = zhengyin;
+                        }
+                        if (dyss20 == ding)
+                        {
+                            buttoncsss2.Text = xiaoshen;
+                        }
+                        if (dyss20 == wuu)
+                        {
+                            buttoncsss2.Text = jiecai;
+                        }
+                        if (dyss20 == jii)
+                        {
+                            buttoncsss2.Text = bijian;
+                        }
+                        if (dyss20 == geng)
+                        {
+                            buttoncsss2.Text = shangguan;
+                        }
+                        if (dyss20 == xin)
+                        {
+                            buttoncsss2.Text = shishen;
+                        }
+                        if (dyss20 == ren)
+                        {
+                            buttoncsss2.Text = zhengcai;
+                        }
+                        if (dyss20 == gui)
+                        {
+                            buttoncsss2.Text = piancai;
+                        }
+                    }
+                    if (rtg == geng)
+                    {
+                        if (dyss20 == jia)
+                        {
+                            buttoncsss2.Text = piancai;
+                        }
+                        if (dyss20 == yii)
+                        {
+                            buttoncsss2.Text = zhengcai;
+                        }
+                        if (dyss20 == bing)
+                        {
+                            buttoncsss2.Text = qisha;
+                        }
+                        if (dyss20 == ding)
+                        {
+                            buttoncsss2.Text = zhengguan;
+                        }
+                        if (dyss20 == wuu)
+                        {
+                            buttoncsss2.Text = xiaoshen;
+                        }
+                        if (dyss20 == jii)
+                        {
+                            buttoncsss2.Text = zhengyin;
+                        }
+                        if (dyss20 == geng)
+                        {
+                            buttoncsss2.Text = bijian;
+                        }
+                        if (dyss20 == xin)
+                        {
+                            buttoncsss2.Text = jiecai;
+                        }
+                        if (dyss20 == ren)
+                        {
+                            buttoncsss2.Text = shishen;
+                        }
+                        if (dyss20 == gui)
+                        {
+                            buttoncsss2.Text = shangguan;
+                        }
+                    }
+                    if (rtg == xin)
+                    {
+                        if (dyss20 == jia)
+                        {
+                            buttoncsss2.Text = zhengcai;
+                        }
+                        if (dyss20 == yii)
+                        {
+                            buttoncsss2.Text = piancai;
+                        }
+                        if (dyss20 == bing)
+                        {
+                            buttoncsss2.Text = zhengguan;
+                        }
+                        if (dyss20 == ding)
+                        {
+                            buttoncsss2.Text = qisha;
+                        }
+                        if (dyss20 == wuu)
+                        {
+                            buttoncsss2.Text = zhengyin;
+                        }
+                        if (dyss20 == jii)
+                        {
+                            buttoncsss2.Text = xiaoshen;
+                        }
+                        if (dyss20 == geng)
+                        {
+                            buttoncsss2.Text = jiecai;
+                        }
+                        if (dyss20 == xin)
+                        {
+                            buttoncsss2.Text = bijian;
+                        }
+                        if (dyss20 == ren)
+                        {
+                            buttoncsss2.Text = shangguan;
+                        }
+                        if (dyss20 == gui)
+                        {
+                            buttoncsss2.Text = shishen;
+                        }
+                    }
+                    if (rtg == ren)
+                    {
+                        if (dyss20 == jia)
+                        {
+                            buttoncsss2.Text = shishen;
+                        }
+                        if (dyss20 == yii)
+                        {
+                            buttoncsss2.Text = shangguan;
+                        }
+                        if (dyss20 == bing)
+                        {
+                            buttoncsss2.Text = piancai;
+                        }
+                        if (dyss20 == ding)
+                        {
+                            buttoncsss2.Text = zhengcai;
+                        }
+                        if (dyss20 == wuu)
+                        {
+                            buttoncsss2.Text = qisha;
+                        }
+                        if (dyss20 == jii)
+                        {
+                            buttoncsss2.Text = zhengguan;
+                        }
+                        if (dyss20 == geng)
+                        {
+                            buttoncsss2.Text = xiaoshen;
+                        }
+                        if (dyss20 == xin)
+                        {
+                            buttoncsss2.Text = zhengyin;
+                        }
+                        if (dyss20 == ren)
+                        {
+                            buttoncsss2.Text = bijian;
+                        }
+                        if (dyss20 == gui)
+                        {
+                            buttoncsss2.Text = jiecai;
+                        }
+                    }
+
+                    if (rtg == gui)
+                    {
+                        if (dyss20 == jia)
+                        {
+                            buttoncsss2.Text = shangguan;
+                        }
+                        if (dyss20 == yii)
+                        {
+                            buttoncsss2.Text = shishen;
+                        }
+                        if (dyss20 == bing)
+                        {
+                            buttoncsss2.Text = zhengcai;
+                        }
+                        if (dyss20 == ding)
+                        {
+                            buttoncsss2.Text = piancai;
+                        }
+                        if (dyss20 == wuu)
+                        {
+                            buttoncsss2.Text = zhengguan;
+                        }
+                        if (dyss20 == jii)
+                        {
+                            buttoncsss2.Text = qisha;
+                        }
+                        if (dyss20 == geng)
+                        {
+                            buttoncsss2.Text = zhengyin;
+                        }
+                        if (dyss20 == xin)
+                        {
+                            buttoncsss2.Text = xiaoshen;
+                        }
+                        if (dyss20 == ren)
+                        {
+                            buttoncsss2.Text = jiecai;
+                        }
+                        if (dyss20 == gui)
+                        {
+                            buttoncsss2.Text = bijian;
+                        }
+                    }
+
+                    if (rtg == jia)
+                    {
+                        if (dyss30 == jia)
+                        {
+                            buttoncsss3.Text = bijian;
+                        }
+                        if (dyss30 == yii)
+                        {
+                            buttoncsss3.Text = jiecai;
+                        }
+                        if (dyss30 == bing)
+                        {
+                            buttoncsss3.Text = shishen;
+                        }
+                        if (dyss30 == ding)
+                        {
+                            buttoncsss3.Text = shangguan;
+                        }
+                        if (dyss30 == wuu)
+                        {
+                            buttoncsss3.Text = piancai;
+                        }
+                        if (dyss30 == jii)
+                        {
+                            buttoncsss3.Text = zhengcai;
+                        }
+                        if (dyss30 == geng)
+                        {
+                            buttoncsss3.Text = qisha;
+                        }
+                        if (dyss30 == xin)
+                        {
+                            buttoncsss3.Text = zhengguan;
+                        }
+                        if (dyss30 == ren)
+                        {
+                            buttoncsss3.Text = xiaoshen;
+                        }
+                        if (dyss30 == gui)
+                        {
+                            buttoncsss3.Text = zhengyin;
+                        }
+                    }
+                    if (rtg == yii)
+                    {
+                        if (dyss30 == jia)
+                        {
+                            buttoncsss3.Text = jiecai;
+                        }
+                        if (dyss30 == yii)
+                        {
+                            buttoncsss3.Text = bijian;
+                        }
+                        if (dyss30 == bing)
+                        {
+                            buttoncsss3.Text = shangguan;
+                        }
+                        if (dyss30 == ding)
+                        {
+                            buttoncsss3.Text = shishen;
+                        }
+                        if (dyss30 == wuu)
+                        {
+                            buttoncsss3.Text = zhengcai;
+                        }
+                        if (dyss30 == jii)
+                        {
+                            buttoncsss3.Text = piancai;
+                        }
+                        if (dyss30 == geng)
+                        {
+                            buttoncsss3.Text = zhengguan;
+                        }
+                        if (dyss30 == xin)
+                        {
+                            buttoncsss3.Text = qisha;
+                        }
+                        if (dyss30 == ren)
+                        {
+                            buttoncsss3.Text = zhengyin;
+                        }
+                        if (dyss30 == gui)
+                        {
+                            buttoncsss3.Text = xiaoshen;
+                        }
+
+                    }
+                    if (rtg == bing)
+                    {
+                        if (dyss30 == jia)
+                        {
+                            buttoncsss3.Text = xiaoshen;
+                        }
+                        if (dyss30 == yii)
+                        {
+                            buttoncsss3.Text = zhengyin;
+                        }
+                        if (dyss30 == bing)
+                        {
+                            buttoncsss3.Text = bijian;
+                        }
+                        if (dyss30 == ding)
+                        {
+                            buttoncsss3.Text = jiecai;
+                        }
+                        if (dyss30 == wuu)
+                        {
+                            buttoncsss3.Text = shishen;
+                        }
+                        if (dyss30 == jii)
+                        {
+                            buttoncsss3.Text = shangguan;
+                        }
+                        if (dyss30 == geng)
+                        {
+                            buttoncsss3.Text = piancai;
+                        }
+                        if (dyss30 == xin)
+                        {
+                            buttoncsss3.Text = zhengcai;
+                        }
+                        if (dyss30 == ren)
+                        {
+                            buttoncsss3.Text = qisha;
+                        }
+                        if (dyss30 == gui)
+                        {
+                            buttoncsss3.Text = zhengguan;
+                        }
+                    }
+                    if (rtg == ding)
+                    {
+                        if (dyss30 == jia)
+                        {
+                            buttoncsss3.Text = zhengyin;
+                        }
+                        if (dyss30 == yii)
+                        {
+                            buttoncsss3.Text = xiaoshen;
+                        }
+                        if (dyss30 == bing)
+                        {
+                            buttoncsss3.Text = jiecai;
+                        }
+                        if (dyss30 == ding)
+                        {
+                            buttoncsss3.Text = bijian;
+                        }
+                        if (dyss30 == wuu)
+                        {
+                            buttoncsss3.Text = shangguan;
+                        }
+                        if (dyss30 == jii)
+                        {
+                            buttoncsss3.Text = shishen;
+                        }
+                        if (dyss30 == geng)
+                        {
+                            buttoncsss3.Text = zhengcai;
+                        }
+                        if (dyss30 == xin)
+                        {
+                            buttoncsss3.Text = piancai;
+                        }
+                        if (dyss30 == ren)
+                        {
+                            buttoncsss3.Text = zhengguan;
+                        }
+                        if (dyss30 == gui)
+                        {
+                            buttoncsss3.Text = qisha;
+                        }
+                    }
+                    if (rtg == wuu)
+                    {
+                        if (dyss30 == jia)
+                        {
+                            buttoncsss3.Text = qisha;
+                        }
+                        if (dyss30 == yii)
+                        {
+                            buttoncsss3.Text = zhengguan;
+                        }
+                        if (dyss30 == bing)
+                        {
+                            buttoncsss3.Text = xiaoshen;
+                        }
+                        if (dyss30 == ding)
+                        {
+                            buttoncsss3.Text = zhengyin;
+                        }
+                        if (dyss30 == wuu)
+                        {
+                            buttoncsss3.Text = bijian;
+                        }
+                        if (dyss30 == jii)
+                        {
+                            buttoncsss3.Text = jiecai;
+                        }
+                        if (dyss30 == geng)
+                        {
+                            buttoncsss3.Text = shishen;
+                        }
+                        if (dyss30 == xin)
+                        {
+                            buttoncsss3.Text = shangguan;
+                        }
+                        if (dyss30 == ren)
+                        {
+                            buttoncsss3.Text = piancai;
+                        }
+                        if (dyss30 == gui)
+                        {
+                            buttoncsss3.Text = zhengcai;
+                        }
+                    }
+                    if (rtg == jii)
+                    {
+                        if (dyss30 == jia)
+                        {
+                            buttoncsss3.Text = zhengguan;
+                        }
+                        if (dyss30 == yii)
+                        {
+                            buttoncsss3.Text = qisha;
+                        }
+                        if (dyss30 == bing)
+                        {
+                            buttoncsss3.Text = zhengyin;
+                        }
+                        if (dyss30 == ding)
+                        {
+                            buttoncsss3.Text = xiaoshen;
+                        }
+                        if (dyss30 == wuu)
+                        {
+                            buttoncsss3.Text = jiecai;
+                        }
+                        if (dyss30 == jii)
+                        {
+                            buttoncsss3.Text = bijian;
+                        }
+                        if (dyss30 == geng)
+                        {
+                            buttoncsss3.Text = shangguan;
+                        }
+                        if (dyss30 == xin)
+                        {
+                            buttoncsss3.Text = shishen;
+                        }
+                        if (dyss30 == ren)
+                        {
+                            buttoncsss3.Text = zhengcai;
+                        }
+                        if (dyss30 == gui)
+                        {
+                            buttoncsss3.Text = piancai;
+                        }
+                    }
+                    if (rtg == geng)
+                    {
+                        if (dyss30 == jia)
+                        {
+                            buttoncsss3.Text = piancai;
+                        }
+                        if (dyss30 == yii)
+                        {
+                            buttoncsss3.Text = zhengcai;
+                        }
+                        if (dyss30 == bing)
+                        {
+                            buttoncsss3.Text = qisha;
+                        }
+                        if (dyss30 == ding)
+                        {
+                            buttoncsss3.Text = zhengguan;
+                        }
+                        if (dyss30 == wuu)
+                        {
+                            buttoncsss3.Text = xiaoshen;
+                        }
+                        if (dyss30 == jii)
+                        {
+                            buttoncsss3.Text = zhengyin;
+                        }
+                        if (dyss30 == geng)
+                        {
+                            buttoncsss3.Text = bijian;
+                        }
+                        if (dyss30 == xin)
+                        {
+                            buttoncsss3.Text = jiecai;
+                        }
+                        if (dyss30 == ren)
+                        {
+                            buttoncsss3.Text = shishen;
+                        }
+                        if (dyss30 == gui)
+                        {
+                            buttoncsss3.Text = shangguan;
+                        }
+                    }
+                    if (rtg == xin)
+                    {
+                        if (dyss30 == jia)
+                        {
+                            buttoncsss3.Text = zhengcai;
+                        }
+                        if (dyss30 == yii)
+                        {
+                            buttoncsss3.Text = piancai;
+                        }
+                        if (dyss30 == bing)
+                        {
+                            buttoncsss3.Text = zhengguan;
+                        }
+                        if (dyss30 == ding)
+                        {
+                            buttoncsss3.Text = qisha;
+                        }
+                        if (dyss30 == wuu)
+                        {
+                            buttoncsss3.Text = zhengyin;
+                        }
+                        if (dyss30 == jii)
+                        {
+                            buttoncsss3.Text = xiaoshen;
+                        }
+                        if (dyss30 == geng)
+                        {
+                            buttoncsss3.Text = jiecai;
+                        }
+                        if (dyss30 == xin)
+                        {
+                            buttoncsss3.Text = bijian;
+                        }
+                        if (dyss30 == ren)
+                        {
+                            buttoncsss3.Text = shangguan;
+                        }
+                        if (dyss30 == gui)
+                        {
+                            buttoncsss3.Text = shishen;
+                        }
+                    }
+                    if (rtg == ren)
+                    {
+                        if (dyss30 == jia)
+                        {
+                            buttoncsss3.Text = shishen;
+                        }
+                        if (dyss30 == yii)
+                        {
+                            buttoncsss3.Text = shangguan;
+                        }
+                        if (dyss30 == bing)
+                        {
+                            buttoncsss3.Text = piancai;
+                        }
+                        if (dyss30 == ding)
+                        {
+                            buttoncsss3.Text = zhengcai;
+                        }
+                        if (dyss30 == wuu)
+                        {
+                            buttoncsss3.Text = qisha;
+                        }
+                        if (dyss30 == jii)
+                        {
+                            buttoncsss3.Text = zhengguan;
+                        }
+                        if (dyss30 == geng)
+                        {
+                            buttoncsss3.Text = xiaoshen;
+                        }
+                        if (dyss30 == xin)
+                        {
+                            buttoncsss3.Text = zhengyin;
+                        }
+                        if (dyss30 == ren)
+                        {
+                            buttoncsss3.Text = bijian;
+                        }
+                        if (dyss30 == gui)
+                        {
+                            buttoncsss3.Text = jiecai;
+                        }
+                    }
+
+                    if (rtg == gui)
+                    {
+                        if (dyss30 == jia)
+                        {
+                            buttoncsss3.Text = shangguan;
+                        }
+                        if (dyss30 == yii)
+                        {
+                            buttoncsss3.Text = shishen;
+                        }
+                        if (dyss30 == bing)
+                        {
+                            buttoncsss3.Text = zhengcai;
+                        }
+                        if (dyss30 == ding)
+                        {
+                            buttoncsss3.Text = piancai;
+                        }
+                        if (dyss30 == wuu)
+                        {
+                            buttoncsss3.Text = zhengguan;
+                        }
+                        if (dyss30 == jii)
+                        {
+                            buttoncsss3.Text = qisha;
+                        }
+                        if (dyss30 == geng)
+                        {
+                            buttoncsss3.Text = zhengyin;
+                        }
+                        if (dyss30 == xin)
+                        {
+                            buttoncsss3.Text = xiaoshen;
+                        }
+                        if (dyss30 == ren)
+                        {
+                            buttoncsss3.Text = jiecai;
+                        }
+                        if (dyss30 == gui)
+                        {
+                            buttoncsss3.Text = bijian;
+                        }
+                    }
+
+                    if (rtg == jia)
+                    {
+                        if (dyss40 == jia)
+                        {
+                            buttoncsss4.Text = bijian;
+                        }
+                        if (dyss40 == yii)
+                        {
+                            buttoncsss4.Text = jiecai;
+                        }
+                        if (dyss40 == bing)
+                        {
+                            buttoncsss4.Text = shishen;
+                        }
+                        if (dyss40 == ding)
+                        {
+                            buttoncsss4.Text = shangguan;
+                        }
+                        if (dyss40 == wuu)
+                        {
+                            buttoncsss4.Text = piancai;
+                        }
+                        if (dyss40 == jii)
+                        {
+                            buttoncsss4.Text = zhengcai;
+                        }
+                        if (dyss40 == geng)
+                        {
+                            buttoncsss4.Text = qisha;
+                        }
+                        if (dyss40 == xin)
+                        {
+                            buttoncsss4.Text = zhengguan;
+                        }
+                        if (dyss40 == ren)
+                        {
+                            buttoncsss4.Text = xiaoshen;
+                        }
+                        if (dyss40 == gui)
+                        {
+                            buttoncsss4.Text = zhengyin;
+                        }
+                    }
+                    if (rtg == yii)
+                    {
+                        if (dyss40 == jia)
+                        {
+                            buttoncsss4.Text = jiecai;
+                        }
+                        if (dyss40 == yii)
+                        {
+                            buttoncsss4.Text = bijian;
+                        }
+                        if (dyss40 == bing)
+                        {
+                            buttoncsss4.Text = shangguan;
+                        }
+                        if (dyss40 == ding)
+                        {
+                            buttoncsss4.Text = shishen;
+                        }
+                        if (dyss40 == wuu)
+                        {
+                            buttoncsss4.Text = zhengcai;
+                        }
+                        if (dyss40 == jii)
+                        {
+                            buttoncsss4.Text = piancai;
+                        }
+                        if (dyss40 == geng)
+                        {
+                            buttoncsss4.Text = zhengguan;
+                        }
+                        if (dyss40 == xin)
+                        {
+                            buttoncsss4.Text = qisha;
+                        }
+                        if (dyss40 == ren)
+                        {
+                            buttoncsss4.Text = zhengyin;
+                        }
+                        if (dyss40 == gui)
+                        {
+                            buttoncsss4.Text = xiaoshen;
+                        }
+
+                    }
+                    if (rtg == bing)
+                    {
+                        if (dyss40 == jia)
+                        {
+                            buttoncsss4.Text = xiaoshen;
+                        }
+                        if (dyss40 == yii)
+                        {
+                            buttoncsss4.Text = zhengyin;
+                        }
+                        if (dyss40 == bing)
+                        {
+                            buttoncsss4.Text = bijian;
+                        }
+                        if (dyss40 == ding)
+                        {
+                            buttoncsss4.Text = jiecai;
+                        }
+                        if (dyss40 == wuu)
+                        {
+                            buttoncsss4.Text = shishen;
+                        }
+                        if (dyss40 == jii)
+                        {
+                            buttoncsss4.Text = shangguan;
+                        }
+                        if (dyss40 == geng)
+                        {
+                            buttoncsss4.Text = piancai;
+                        }
+                        if (dyss40 == xin)
+                        {
+                            buttoncsss4.Text = zhengcai;
+                        }
+                        if (dyss40 == ren)
+                        {
+                            buttoncsss4.Text = qisha;
+                        }
+                        if (dyss40 == gui)
+                        {
+                            buttoncsss4.Text = zhengguan;
+                        }
+                    }
+                    if (rtg == ding)
+                    {
+                        if (dyss40 == jia)
+                        {
+                            buttoncsss4.Text = zhengyin;
+                        }
+                        if (dyss40 == yii)
+                        {
+                            buttoncsss4.Text = xiaoshen;
+                        }
+                        if (dyss40 == bing)
+                        {
+                            buttoncsss4.Text = jiecai;
+                        }
+                        if (dyss40 == ding)
+                        {
+                            buttoncsss4.Text = bijian;
+                        }
+                        if (dyss40 == wuu)
+                        {
+                            buttoncsss4.Text = shangguan;
+                        }
+                        if (dyss40 == jii)
+                        {
+                            buttoncsss4.Text = shishen;
+                        }
+                        if (dyss40 == geng)
+                        {
+                            buttoncsss4.Text = zhengcai;
+                        }
+                        if (dyss40 == xin)
+                        {
+                            buttoncsss4.Text = piancai;
+                        }
+                        if (dyss40 == ren)
+                        {
+                            buttoncsss4.Text = zhengguan;
+                        }
+                        if (dyss40 == gui)
+                        {
+                            buttoncsss4.Text = qisha;
+                        }
+                    }
+                    if (rtg == wuu)
+                    {
+                        if (dyss40 == jia)
+                        {
+                            buttoncsss4.Text = qisha;
+                        }
+                        if (dyss40 == yii)
+                        {
+                            buttoncsss4.Text = zhengguan;
+                        }
+                        if (dyss40 == bing)
+                        {
+                            buttoncsss4.Text = xiaoshen;
+                        }
+                        if (dyss40 == ding)
+                        {
+                            buttoncsss4.Text = zhengyin;
+                        }
+                        if (dyss40 == wuu)
+                        {
+                            buttoncsss4.Text = bijian;
+                        }
+                        if (dyss40 == jii)
+                        {
+                            buttoncsss4.Text = jiecai;
+                        }
+                        if (dyss40 == geng)
+                        {
+                            buttoncsss4.Text = shishen;
+                        }
+                        if (dyss40 == xin)
+                        {
+                            buttoncsss4.Text = shangguan;
+                        }
+                        if (dyss40 == ren)
+                        {
+                            buttoncsss4.Text = piancai;
+                        }
+                        if (dyss40 == gui)
+                        {
+                            buttoncsss4.Text = zhengcai;
+                        }
+                    }
+                    if (rtg == jii)
+                    {
+                        if (dyss40 == jia)
+                        {
+                            buttoncsss4.Text = zhengguan;
+                        }
+                        if (dyss40 == yii)
+                        {
+                            buttoncsss4.Text = qisha;
+                        }
+                        if (dyss40 == bing)
+                        {
+                            buttoncsss4.Text = zhengyin;
+                        }
+                        if (dyss40 == ding)
+                        {
+                            buttoncsss4.Text = xiaoshen;
+                        }
+                        if (dyss40 == wuu)
+                        {
+                            buttoncsss4.Text = jiecai;
+                        }
+                        if (dyss40 == jii)
+                        {
+                            buttoncsss4.Text = bijian;
+                        }
+                        if (dyss40 == geng)
+                        {
+                            buttoncsss4.Text = shangguan;
+                        }
+                        if (dyss40 == xin)
+                        {
+                            buttoncsss4.Text = shishen;
+                        }
+                        if (dyss40 == ren)
+                        {
+                            buttoncsss4.Text = zhengcai;
+                        }
+                        if (dyss40 == gui)
+                        {
+                            buttoncsss4.Text = piancai;
+                        }
+                    }
+                    if (rtg == geng)
+                    {
+                        if (dyss40 == jia)
+                        {
+                            buttoncsss4.Text = piancai;
+                        }
+                        if (dyss40 == yii)
+                        {
+                            buttoncsss4.Text = zhengcai;
+                        }
+                        if (dyss40 == bing)
+                        {
+                            buttoncsss4.Text = qisha;
+                        }
+                        if (dyss40 == ding)
+                        {
+                            buttoncsss4.Text = zhengguan;
+                        }
+                        if (dyss40 == wuu)
+                        {
+                            buttoncsss4.Text = xiaoshen;
+                        }
+                        if (dyss40 == jii)
+                        {
+                            buttoncsss4.Text = zhengyin;
+                        }
+                        if (dyss40 == geng)
+                        {
+                            buttoncsss4.Text = bijian;
+                        }
+                        if (dyss40 == xin)
+                        {
+                            buttoncsss4.Text = jiecai;
+                        }
+                        if (dyss40 == ren)
+                        {
+                            buttoncsss4.Text = shishen;
+                        }
+                        if (dyss40 == gui)
+                        {
+                            buttoncsss4.Text = shangguan;
+                        }
+                    }
+                    if (rtg == xin)
+                    {
+                        if (dyss40 == jia)
+                        {
+                            buttoncsss4.Text = zhengcai;
+                        }
+                        if (dyss40 == yii)
+                        {
+                            buttoncsss4.Text = piancai;
+                        }
+                        if (dyss40 == bing)
+                        {
+                            buttoncsss4.Text = zhengguan;
+                        }
+                        if (dyss40 == ding)
+                        {
+                            buttoncsss4.Text = qisha;
+                        }
+                        if (dyss40 == wuu)
+                        {
+                            buttoncsss4.Text = zhengyin;
+                        }
+                        if (dyss40 == jii)
+                        {
+                            buttoncsss4.Text = xiaoshen;
+                        }
+                        if (dyss40 == geng)
+                        {
+                            buttoncsss4.Text = jiecai;
+                        }
+                        if (dyss40 == xin)
+                        {
+                            buttoncsss4.Text = bijian;
+                        }
+                        if (dyss40 == ren)
+                        {
+                            buttoncsss4.Text = shangguan;
+                        }
+                        if (dyss40 == gui)
+                        {
+                            buttoncsss4.Text = shishen;
+                        }
+                    }
+                    if (rtg == ren)
+                    {
+                        if (dyss40 == jia)
+                        {
+                            buttoncsss4.Text = shishen;
+                        }
+                        if (dyss40 == yii)
+                        {
+                            buttoncsss4.Text = shangguan;
+                        }
+                        if (dyss40 == bing)
+                        {
+                            buttoncsss4.Text = piancai;
+                        }
+                        if (dyss40 == ding)
+                        {
+                            buttoncsss4.Text = zhengcai;
+                        }
+                        if (dyss40 == wuu)
+                        {
+                            buttoncsss4.Text = qisha;
+                        }
+                        if (dyss40 == jii)
+                        {
+                            buttoncsss4.Text = zhengguan;
+                        }
+                        if (dyss40 == geng)
+                        {
+                            buttoncsss4.Text = xiaoshen;
+                        }
+                        if (dyss40 == xin)
+                        {
+                            buttoncsss4.Text = zhengyin;
+                        }
+                        if (dyss40 == ren)
+                        {
+                            buttoncsss4.Text = bijian;
+                        }
+                        if (dyss40 == gui)
+                        {
+                            buttoncsss4.Text = jiecai;
+                        }
+                    }
+
+                    if (rtg == gui)
+                    {
+                        if (dyss40 == jia)
+                        {
+                            buttoncsss4.Text = shangguan;
+                        }
+                        if (dyss40 == yii)
+                        {
+                            buttoncsss4.Text = shishen;
+                        }
+                        if (dyss40 == bing)
+                        {
+                            buttoncsss4.Text = zhengcai;
+                        }
+                        if (dyss40 == ding)
+                        {
+                            buttoncsss4.Text = piancai;
+                        }
+                        if (dyss40 == wuu)
+                        {
+                            buttoncsss4.Text = zhengguan;
+                        }
+                        if (dyss40 == jii)
+                        {
+                            buttoncsss4.Text = qisha;
+                        }
+                        if (dyss40 == geng)
+                        {
+                            buttoncsss4.Text = zhengyin;
+                        }
+                        if (dyss40 == xin)
+                        {
+                            buttoncsss4.Text = xiaoshen;
+                        }
+                        if (dyss40 == ren)
+                        {
+                            buttoncsss4.Text = jiecai;
+                        }
+                        if (dyss40 == gui)
+                        {
+                            buttoncsss4.Text = bijian;
+                        }
+                    }
+
+                    if (rtg == jia)
+                    {
+                        if (dyss50 == jia)
+                        {
+                            buttoncsss5.Text = bijian;
+                        }
+                        if (dyss50 == yii)
+                        {
+                            buttoncsss5.Text = jiecai;
+                        }
+                        if (dyss50 == bing)
+                        {
+                            buttoncsss5.Text = shishen;
+                        }
+                        if (dyss50 == ding)
+                        {
+                            buttoncsss5.Text = shangguan;
+                        }
+                        if (dyss50 == wuu)
+                        {
+                            buttoncsss5.Text = piancai;
+                        }
+                        if (dyss50 == jii)
+                        {
+                            buttoncsss5.Text = zhengcai;
+                        }
+                        if (dyss50 == geng)
+                        {
+                            buttoncsss5.Text = qisha;
+                        }
+                        if (dyss50 == xin)
+                        {
+                            buttoncsss5.Text = zhengguan;
+                        }
+                        if (dyss50 == ren)
+                        {
+                            buttoncsss5.Text = xiaoshen;
+                        }
+                        if (dyss50 == gui)
+                        {
+                            buttoncsss5.Text = zhengyin;
+                        }
+                    }
+                    if (rtg == yii)
+                    {
+                        if (dyss50 == jia)
+                        {
+                            buttoncsss5.Text = jiecai;
+                        }
+                        if (dyss50 == yii)
+                        {
+                            buttoncsss5.Text = bijian;
+                        }
+                        if (dyss50 == bing)
+                        {
+                            buttoncsss5.Text = shangguan;
+                        }
+                        if (dyss50 == ding)
+                        {
+                            buttoncsss5.Text = shishen;
+                        }
+                        if (dyss50 == wuu)
+                        {
+                            buttoncsss5.Text = zhengcai;
+                        }
+                        if (dyss50 == jii)
+                        {
+                            buttoncsss5.Text = piancai;
+                        }
+                        if (dyss50 == geng)
+                        {
+                            buttoncsss5.Text = zhengguan;
+                        }
+                        if (dyss50 == xin)
+                        {
+                            buttoncsss5.Text = qisha;
+                        }
+                        if (dyss50 == ren)
+                        {
+                            buttoncsss5.Text = zhengyin;
+                        }
+                        if (dyss50 == gui)
+                        {
+                            buttoncsss5.Text = xiaoshen;
+                        }
+
+                    }
+                    if (rtg == bing)
+                    {
+                        if (dyss50 == jia)
+                        {
+                            buttoncsss5.Text = xiaoshen;
+                        }
+                        if (dyss50 == yii)
+                        {
+                            buttoncsss5.Text = zhengyin;
+                        }
+                        if (dyss50 == bing)
+                        {
+                            buttoncsss5.Text = bijian;
+                        }
+                        if (dyss50 == ding)
+                        {
+                            buttoncsss5.Text = jiecai;
+                        }
+                        if (dyss50 == wuu)
+                        {
+                            buttoncsss5.Text = shishen;
+                        }
+                        if (dyss50 == jii)
+                        {
+                            buttoncsss5.Text = shangguan;
+                        }
+                        if (dyss50 == geng)
+                        {
+                            buttoncsss5.Text = piancai;
+                        }
+                        if (dyss50 == xin)
+                        {
+                            buttoncsss5.Text = zhengcai;
+                        }
+                        if (dyss50 == ren)
+                        {
+                            buttoncsss5.Text = qisha;
+                        }
+                        if (dyss50 == gui)
+                        {
+                            buttoncsss5.Text = zhengguan;
+                        }
+                    }
+                    if (rtg == ding)
+                    {
+                        if (dyss50 == jia)
+                        {
+                            buttoncsss5.Text = zhengyin;
+                        }
+                        if (dyss50 == yii)
+                        {
+                            buttoncsss5.Text = xiaoshen;
+                        }
+                        if (dyss50 == bing)
+                        {
+                            buttoncsss5.Text = jiecai;
+                        }
+                        if (dyss50 == ding)
+                        {
+                            buttoncsss5.Text = bijian;
+                        }
+                        if (dyss50 == wuu)
+                        {
+                            buttoncsss5.Text = shangguan;
+                        }
+                        if (dyss50 == jii)
+                        {
+                            buttoncsss5.Text = shishen;
+                        }
+                        if (dyss50 == geng)
+                        {
+                            buttoncsss5.Text = zhengcai;
+                        }
+                        if (dyss50 == xin)
+                        {
+                            buttoncsss5.Text = piancai;
+                        }
+                        if (dyss50 == ren)
+                        {
+                            buttoncsss5.Text = zhengguan;
+                        }
+                        if (dyss50 == gui)
+                        {
+                            buttoncsss5.Text = qisha;
+                        }
+                    }
+                    if (rtg == wuu)
+                    {
+                        if (dyss50 == jia)
+                        {
+                            buttoncsss5.Text = qisha;
+                        }
+                        if (dyss50 == yii)
+                        {
+                            buttoncsss5.Text = zhengguan;
+                        }
+                        if (dyss50 == bing)
+                        {
+                            buttoncsss5.Text = xiaoshen;
+                        }
+                        if (dyss50 == ding)
+                        {
+                            buttoncsss5.Text = zhengyin;
+                        }
+                        if (dyss50 == wuu)
+                        {
+                            buttoncsss5.Text = bijian;
+                        }
+                        if (dyss50 == jii)
+                        {
+                            buttoncsss5.Text = jiecai;
+                        }
+                        if (dyss50 == geng)
+                        {
+                            buttoncsss5.Text = shishen;
+                        }
+                        if (dyss50 == xin)
+                        {
+                            buttoncsss5.Text = shangguan;
+                        }
+                        if (dyss50 == ren)
+                        {
+                            buttoncsss5.Text = piancai;
+                        }
+                        if (dyss50 == gui)
+                        {
+                            buttoncsss5.Text = zhengcai;
+                        }
+                    }
+                    if (rtg == jii)
+                    {
+                        if (dyss50 == jia)
+                        {
+                            buttoncsss5.Text = zhengguan;
+                        }
+                        if (dyss50 == yii)
+                        {
+                            buttoncsss5.Text = qisha;
+                        }
+                        if (dyss50 == bing)
+                        {
+                            buttoncsss5.Text = zhengyin;
+                        }
+                        if (dyss50 == ding)
+                        {
+                            buttoncsss5.Text = xiaoshen;
+                        }
+                        if (dyss50 == wuu)
+                        {
+                            buttoncsss5.Text = jiecai;
+                        }
+                        if (dyss50 == jii)
+                        {
+                            buttoncsss5.Text = bijian;
+                        }
+                        if (dyss50 == geng)
+                        {
+                            buttoncsss5.Text = shangguan;
+                        }
+                        if (dyss50 == xin)
+                        {
+                            buttoncsss5.Text = shishen;
+                        }
+                        if (dyss50 == ren)
+                        {
+                            buttoncsss5.Text = zhengcai;
+                        }
+                        if (dyss50 == gui)
+                        {
+                            buttoncsss5.Text = piancai;
+                        }
+                    }
+                    if (rtg == geng)
+                    {
+                        if (dyss50 == jia)
+                        {
+                            buttoncsss5.Text = piancai;
+                        }
+                        if (dyss50 == yii)
+                        {
+                            buttoncsss5.Text = zhengcai;
+                        }
+                        if (dyss50 == bing)
+                        {
+                            buttoncsss5.Text = qisha;
+                        }
+                        if (dyss50 == ding)
+                        {
+                            buttoncsss5.Text = zhengguan;
+                        }
+                        if (dyss50 == wuu)
+                        {
+                            buttoncsss5.Text = xiaoshen;
+                        }
+                        if (dyss50 == jii)
+                        {
+                            buttoncsss5.Text = zhengyin;
+                        }
+                        if (dyss50 == geng)
+                        {
+                            buttoncsss5.Text = bijian;
+                        }
+                        if (dyss50 == xin)
+                        {
+                            buttoncsss5.Text = jiecai;
+                        }
+                        if (dyss50 == ren)
+                        {
+                            buttoncsss5.Text = shishen;
+                        }
+                        if (dyss50 == gui)
+                        {
+                            buttoncsss5.Text = shangguan;
+                        }
+                    }
+                    if (rtg == xin)
+                    {
+                        if (dyss50 == jia)
+                        {
+                            buttoncsss5.Text = zhengcai;
+                        }
+                        if (dyss50 == yii)
+                        {
+                            buttoncsss5.Text = piancai;
+                        }
+                        if (dyss50 == bing)
+                        {
+                            buttoncsss5.Text = zhengguan;
+                        }
+                        if (dyss50 == ding)
+                        {
+                            buttoncsss5.Text = qisha;
+                        }
+                        if (dyss50 == wuu)
+                        {
+                            buttoncsss5.Text = zhengyin;
+                        }
+                        if (dyss50 == jii)
+                        {
+                            buttoncsss5.Text = xiaoshen;
+                        }
+                        if (dyss50 == geng)
+                        {
+                            buttoncsss5.Text = jiecai;
+                        }
+                        if (dyss50 == xin)
+                        {
+                            buttoncsss5.Text = bijian;
+                        }
+                        if (dyss50 == ren)
+                        {
+                            buttoncsss5.Text = shangguan;
+                        }
+                        if (dyss50 == gui)
+                        {
+                            buttoncsss5.Text = shishen;
+                        }
+                    }
+                    if (rtg == ren)
+                    {
+                        if (dyss50 == jia)
+                        {
+                            buttoncsss5.Text = shishen;
+                        }
+                        if (dyss50 == yii)
+                        {
+                            buttoncsss5.Text = shangguan;
+                        }
+                        if (dyss50 == bing)
+                        {
+                            buttoncsss5.Text = piancai;
+                        }
+                        if (dyss50 == ding)
+                        {
+                            buttoncsss5.Text = zhengcai;
+                        }
+                        if (dyss50 == wuu)
+                        {
+                            buttoncsss5.Text = qisha;
+                        }
+                        if (dyss50 == jii)
+                        {
+                            buttoncsss5.Text = zhengguan;
+                        }
+                        if (dyss50 == geng)
+                        {
+                            buttoncsss5.Text = xiaoshen;
+                        }
+                        if (dyss50 == xin)
+                        {
+                            buttoncsss5.Text = zhengyin;
+                        }
+                        if (dyss50 == ren)
+                        {
+                            buttoncsss5.Text = bijian;
+                        }
+                        if (dyss50 == gui)
+                        {
+                            buttoncsss5.Text = jiecai;
+                        }
+                    }
+
+                    if (rtg == gui)
+                    {
+                        if (dyss50 == jia)
+                        {
+                            buttoncsss5.Text = shangguan;
+                        }
+                        if (dyss50 == yii)
+                        {
+                            buttoncsss5.Text = shishen;
+                        }
+                        if (dyss50 == bing)
+                        {
+                            buttoncsss5.Text = zhengcai;
+                        }
+                        if (dyss50 == ding)
+                        {
+                            buttoncsss5.Text = piancai;
+                        }
+                        if (dyss50 == wuu)
+                        {
+                            buttoncsss5.Text = zhengguan;
+                        }
+                        if (dyss50 == jii)
+                        {
+                            buttoncsss5.Text = qisha;
+                        }
+                        if (dyss50 == geng)
+                        {
+                            buttoncsss5.Text = zhengyin;
+                        }
+                        if (dyss50 == xin)
+                        {
+                            buttoncsss5.Text = xiaoshen;
+                        }
+                        if (dyss50 == ren)
+                        {
+                            buttoncsss5.Text = jiecai;
+                        }
+                        if (dyss50 == gui)
+                        {
+                            buttoncsss5.Text = bijian;
+                        }
+                    }
+
+                    if (rtg == jia)
+                    {
+                        if (dyss60 == jia)
+                        {
+                            buttoncsss6.Text = bijian;
+                        }
+                        if (dyss60 == yii)
+                        {
+                            buttoncsss6.Text = jiecai;
+                        }
+                        if (dyss60 == bing)
+                        {
+                            buttoncsss6.Text = shishen;
+                        }
+                        if (dyss60 == ding)
+                        {
+                            buttoncsss6.Text = shangguan;
+                        }
+                        if (dyss60 == wuu)
+                        {
+                            buttoncsss6.Text = piancai;
+                        }
+                        if (dyss60 == jii)
+                        {
+                            buttoncsss6.Text = zhengcai;
+                        }
+                        if (dyss60 == geng)
+                        {
+                            buttoncsss6.Text = qisha;
+                        }
+                        if (dyss60 == xin)
+                        {
+                            buttoncsss6.Text = zhengguan;
+                        }
+                        if (dyss60 == ren)
+                        {
+                            buttoncsss6.Text = xiaoshen;
+                        }
+                        if (dyss60 == gui)
+                        {
+                            buttoncsss6.Text = zhengyin;
+                        }
+                    }
+                    if (rtg == yii)
+                    {
+                        if (dyss60 == jia)
+                        {
+                            buttoncsss6.Text = jiecai;
+                        }
+                        if (dyss60 == yii)
+                        {
+                            buttoncsss6.Text = bijian;
+                        }
+                        if (dyss60 == bing)
+                        {
+                            buttoncsss6.Text = shangguan;
+                        }
+                        if (dyss60 == ding)
+                        {
+                            buttoncsss6.Text = shishen;
+                        }
+                        if (dyss60 == wuu)
+                        {
+                            buttoncsss6.Text = zhengcai;
+                        }
+                        if (dyss60 == jii)
+                        {
+                            buttoncsss6.Text = piancai;
+                        }
+                        if (dyss60 == geng)
+                        {
+                            buttoncsss6.Text = zhengguan;
+                        }
+                        if (dyss60 == xin)
+                        {
+                            buttoncsss6.Text = qisha;
+                        }
+                        if (dyss60 == ren)
+                        {
+                            buttoncsss6.Text = zhengyin;
+                        }
+                        if (dyss60 == gui)
+                        {
+                            buttoncsss6.Text = xiaoshen;
+                        }
+
+                    }
+                    if (rtg == bing)
+                    {
+                        if (dyss60 == jia)
+                        {
+                            buttoncsss6.Text = xiaoshen;
+                        }
+                        if (dyss60 == yii)
+                        {
+                            buttoncsss6.Text = zhengyin;
+                        }
+                        if (dyss60 == bing)
+                        {
+                            buttoncsss6.Text = bijian;
+                        }
+                        if (dyss60 == ding)
+                        {
+                            buttoncsss6.Text = jiecai;
+                        }
+                        if (dyss60 == wuu)
+                        {
+                            buttoncsss6.Text = shishen;
+                        }
+                        if (dyss60 == jii)
+                        {
+                            buttoncsss6.Text = shangguan;
+                        }
+                        if (dyss60 == geng)
+                        {
+                            buttoncsss6.Text = piancai;
+                        }
+                        if (dyss60 == xin)
+                        {
+                            buttoncsss6.Text = zhengcai;
+                        }
+                        if (dyss60 == ren)
+                        {
+                            buttoncsss6.Text = qisha;
+                        }
+                        if (dyss60 == gui)
+                        {
+                            buttoncsss6.Text = zhengguan;
+                        }
+                    }
+                    if (rtg == ding)
+                    {
+                        if (dyss60 == jia)
+                        {
+                            buttoncsss6.Text = zhengyin;
+                        }
+                        if (dyss60 == yii)
+                        {
+                            buttoncsss6.Text = xiaoshen;
+                        }
+                        if (dyss60 == bing)
+                        {
+                            buttoncsss6.Text = jiecai;
+                        }
+                        if (dyss60 == ding)
+                        {
+                            buttoncsss6.Text = bijian;
+                        }
+                        if (dyss60 == wuu)
+                        {
+                            buttoncsss6.Text = shangguan;
+                        }
+                        if (dyss60 == jii)
+                        {
+                            buttoncsss6.Text = shishen;
+                        }
+                        if (dyss60 == geng)
+                        {
+                            buttoncsss6.Text = zhengcai;
+                        }
+                        if (dyss60 == xin)
+                        {
+                            buttoncsss6.Text = piancai;
+                        }
+                        if (dyss60 == ren)
+                        {
+                            buttoncsss6.Text = zhengguan;
+                        }
+                        if (dyss60 == gui)
+                        {
+                            buttoncsss6.Text = qisha;
+                        }
+                    }
+                    if (rtg == wuu)
+                    {
+                        if (dyss60 == jia)
+                        {
+                            buttoncsss6.Text = qisha;
+                        }
+                        if (dyss60 == yii)
+                        {
+                            buttoncsss6.Text = zhengguan;
+                        }
+                        if (dyss60 == bing)
+                        {
+                            buttoncsss6.Text = xiaoshen;
+                        }
+                        if (dyss60 == ding)
+                        {
+                            buttoncsss6.Text = zhengyin;
+                        }
+                        if (dyss60 == wuu)
+                        {
+                            buttoncsss6.Text = bijian;
+                        }
+                        if (dyss60 == jii)
+                        {
+                            buttoncsss6.Text = jiecai;
+                        }
+                        if (dyss60 == geng)
+                        {
+                            buttoncsss6.Text = shishen;
+                        }
+                        if (dyss60 == xin)
+                        {
+                            buttoncsss6.Text = shangguan;
+                        }
+                        if (dyss60 == ren)
+                        {
+                            buttoncsss6.Text = piancai;
+                        }
+                        if (dyss60 == gui)
+                        {
+                            buttoncsss6.Text = zhengcai;
+                        }
+                    }
+                    if (rtg == jii)
+                    {
+                        if (dyss60 == jia)
+                        {
+                            buttoncsss6.Text = zhengguan;
+                        }
+                        if (dyss60 == yii)
+                        {
+                            buttoncsss6.Text = qisha;
+                        }
+                        if (dyss60 == bing)
+                        {
+                            buttoncsss6.Text = zhengyin;
+                        }
+                        if (dyss60 == ding)
+                        {
+                            buttoncsss6.Text = xiaoshen;
+                        }
+                        if (dyss60 == wuu)
+                        {
+                            buttoncsss6.Text = jiecai;
+                        }
+                        if (dyss60 == jii)
+                        {
+                            buttoncsss6.Text = bijian;
+                        }
+                        if (dyss60 == geng)
+                        {
+                            buttoncsss6.Text = shangguan;
+                        }
+                        if (dyss60 == xin)
+                        {
+                            buttoncsss6.Text = shishen;
+                        }
+                        if (dyss60 == ren)
+                        {
+                            buttoncsss6.Text = zhengcai;
+                        }
+                        if (dyss60 == gui)
+                        {
+                            buttoncsss6.Text = piancai;
+                        }
+                    }
+                    if (rtg == geng)
+                    {
+                        if (dyss60 == jia)
+                        {
+                            buttoncsss6.Text = piancai;
+                        }
+                        if (dyss60 == yii)
+                        {
+                            buttoncsss6.Text = zhengcai;
+                        }
+                        if (dyss60 == bing)
+                        {
+                            buttoncsss6.Text = qisha;
+                        }
+                        if (dyss60 == ding)
+                        {
+                            buttoncsss6.Text = zhengguan;
+                        }
+                        if (dyss60 == wuu)
+                        {
+                            buttoncsss6.Text = xiaoshen;
+                        }
+                        if (dyss60 == jii)
+                        {
+                            buttoncsss6.Text = zhengyin;
+                        }
+                        if (dyss60 == geng)
+                        {
+                            buttoncsss6.Text = bijian;
+                        }
+                        if (dyss60 == xin)
+                        {
+                            buttoncsss6.Text = jiecai;
+                        }
+                        if (dyss60 == ren)
+                        {
+                            buttoncsss6.Text = shishen;
+                        }
+                        if (dyss60 == gui)
+                        {
+                            buttoncsss6.Text = shangguan;
+                        }
+                    }
+                    if (rtg == xin)
+                    {
+                        if (dyss60 == jia)
+                        {
+                            buttoncsss6.Text = zhengcai;
+                        }
+                        if (dyss60 == yii)
+                        {
+                            buttoncsss6.Text = piancai;
+                        }
+                        if (dyss60 == bing)
+                        {
+                            buttoncsss6.Text = zhengguan;
+                        }
+                        if (dyss60 == ding)
+                        {
+                            buttoncsss6.Text = qisha;
+                        }
+                        if (dyss60 == wuu)
+                        {
+                            buttoncsss6.Text = zhengyin;
+                        }
+                        if (dyss60 == jii)
+                        {
+                            buttoncsss6.Text = xiaoshen;
+                        }
+                        if (dyss60 == geng)
+                        {
+                            buttoncsss6.Text = jiecai;
+                        }
+                        if (dyss60 == xin)
+                        {
+                            buttoncsss6.Text = bijian;
+                        }
+                        if (dyss60 == ren)
+                        {
+                            buttoncsss6.Text = shangguan;
+                        }
+                        if (dyss60 == gui)
+                        {
+                            buttoncsss6.Text = shishen;
+                        }
+                    }
+                    if (rtg == ren)
+                    {
+                        if (dyss60 == jia)
+                        {
+                            buttoncsss6.Text = shishen;
+                        }
+                        if (dyss60 == yii)
+                        {
+                            buttoncsss6.Text = shangguan;
+                        }
+                        if (dyss60 == bing)
+                        {
+                            buttoncsss6.Text = piancai;
+                        }
+                        if (dyss60 == ding)
+                        {
+                            buttoncsss6.Text = zhengcai;
+                        }
+                        if (dyss60 == wuu)
+                        {
+                            buttoncsss6.Text = qisha;
+                        }
+                        if (dyss60 == jii)
+                        {
+                            buttoncsss6.Text = zhengguan;
+                        }
+                        if (dyss60 == geng)
+                        {
+                            buttoncsss6.Text = xiaoshen;
+                        }
+                        if (dyss60 == xin)
+                        {
+                            buttoncsss6.Text = zhengyin;
+                        }
+                        if (dyss60 == ren)
+                        {
+                            buttoncsss6.Text = bijian;
+                        }
+                        if (dyss60 == gui)
+                        {
+                            buttoncsss6.Text = jiecai;
+                        }
+                    }
+
+                    if (rtg == gui)
+                    {
+                        if (dyss60 == jia)
+                        {
+                            buttoncsss6.Text = shangguan;
+                        }
+                        if (dyss60 == yii)
+                        {
+                            buttoncsss6.Text = shishen;
+                        }
+                        if (dyss60 == bing)
+                        {
+                            buttoncsss6.Text = zhengcai;
+                        }
+                        if (dyss60 == ding)
+                        {
+                            buttoncsss6.Text = piancai;
+                        }
+                        if (dyss60 == wuu)
+                        {
+                            buttoncsss6.Text = zhengguan;
+                        }
+                        if (dyss60 == jii)
+                        {
+                            buttoncsss6.Text = qisha;
+                        }
+                        if (dyss60 == geng)
+                        {
+                            buttoncsss6.Text = zhengyin;
+                        }
+                        if (dyss60 == xin)
+                        {
+                            buttoncsss6.Text = xiaoshen;
+                        }
+                        if (dyss60 == ren)
+                        {
+                            buttoncsss6.Text = jiecai;
+                        }
+                        if (dyss60 == gui)
+                        {
+                            buttoncsss6.Text = bijian;
+                        }
+                    }
+
+                    if (rtg == jia)
+                    {
+                        if (dyss70 == jia)
+                        {
+                            buttoncsss7.Text = bijian;
+                        }
+                        if (dyss70 == yii)
+                        {
+                            buttoncsss7.Text = jiecai;
+                        }
+                        if (dyss70 == bing)
+                        {
+                            buttoncsss7.Text = shishen;
+                        }
+                        if (dyss70 == ding)
+                        {
+                            buttoncsss7.Text = shangguan;
+                        }
+                        if (dyss70 == wuu)
+                        {
+                            buttoncsss7.Text = piancai;
+                        }
+                        if (dyss70 == jii)
+                        {
+                            buttoncsss7.Text = zhengcai;
+                        }
+                        if (dyss70 == geng)
+                        {
+                            buttoncsss7.Text = qisha;
+                        }
+                        if (dyss70 == xin)
+                        {
+                            buttoncsss7.Text = zhengguan;
+                        }
+                        if (dyss70 == ren)
+                        {
+                            buttoncsss7.Text = xiaoshen;
+                        }
+                        if (dyss70 == gui)
+                        {
+                            buttoncsss7.Text = zhengyin;
+                        }
+                    }
+                    if (rtg == yii)
+                    {
+                        if (dyss70 == jia)
+                        {
+                            buttoncsss7.Text = jiecai;
+                        }
+                        if (dyss70 == yii)
+                        {
+                            buttoncsss7.Text = bijian;
+                        }
+                        if (dyss70 == bing)
+                        {
+                            buttoncsss7.Text = shangguan;
+                        }
+                        if (dyss70 == ding)
+                        {
+                            buttoncsss7.Text = shishen;
+                        }
+                        if (dyss70 == wuu)
+                        {
+                            buttoncsss7.Text = zhengcai;
+                        }
+                        if (dyss70 == jii)
+                        {
+                            buttoncsss7.Text = piancai;
+                        }
+                        if (dyss70 == geng)
+                        {
+                            buttoncsss7.Text = zhengguan;
+                        }
+                        if (dyss70 == xin)
+                        {
+                            buttoncsss7.Text = qisha;
+                        }
+                        if (dyss70 == ren)
+                        {
+                            buttoncsss7.Text = zhengyin;
+                        }
+                        if (dyss70 == gui)
+                        {
+                            buttoncsss7.Text = xiaoshen;
+                        }
+
+                    }
+                    if (rtg == bing)
+                    {
+                        if (dyss70 == jia)
+                        {
+                            buttoncsss7.Text = xiaoshen;
+                        }
+                        if (dyss70 == yii)
+                        {
+                            buttoncsss7.Text = zhengyin;
+                        }
+                        if (dyss70 == bing)
+                        {
+                            buttoncsss7.Text = bijian;
+                        }
+                        if (dyss70 == ding)
+                        {
+                            buttoncsss7.Text = jiecai;
+                        }
+                        if (dyss70 == wuu)
+                        {
+                            buttoncsss7.Text = shishen;
+                        }
+                        if (dyss70 == jii)
+                        {
+                            buttoncsss7.Text = shangguan;
+                        }
+                        if (dyss70 == geng)
+                        {
+                            buttoncsss7.Text = piancai;
+                        }
+                        if (dyss70 == xin)
+                        {
+                            buttoncsss7.Text = zhengcai;
+                        }
+                        if (dyss70 == ren)
+                        {
+                            buttoncsss7.Text = qisha;
+                        }
+                        if (dyss70 == gui)
+                        {
+                            buttoncsss7.Text = zhengguan;
+                        }
+                    }
+                    if (rtg == ding)
+                    {
+                        if (dyss70 == jia)
+                        {
+                            buttoncsss7.Text = zhengyin;
+                        }
+                        if (dyss70 == yii)
+                        {
+                            buttoncsss7.Text = xiaoshen;
+                        }
+                        if (dyss70 == bing)
+                        {
+                            buttoncsss7.Text = jiecai;
+                        }
+                        if (dyss70 == ding)
+                        {
+                            buttoncsss7.Text = bijian;
+                        }
+                        if (dyss70 == wuu)
+                        {
+                            buttoncsss7.Text = shangguan;
+                        }
+                        if (dyss70 == jii)
+                        {
+                            buttoncsss7.Text = shishen;
+                        }
+                        if (dyss70 == geng)
+                        {
+                            buttoncsss7.Text = zhengcai;
+                        }
+                        if (dyss70 == xin)
+                        {
+                            buttoncsss7.Text = piancai;
+                        }
+                        if (dyss70 == ren)
+                        {
+                            buttoncsss7.Text = zhengguan;
+                        }
+                        if (dyss70 == gui)
+                        {
+                            buttoncsss7.Text = qisha;
+                        }
+                    }
+                    if (rtg == wuu)
+                    {
+                        if (dyss70 == jia)
+                        {
+                            buttoncsss7.Text = qisha;
+                        }
+                        if (dyss70 == yii)
+                        {
+                            buttoncsss7.Text = zhengguan;
+                        }
+                        if (dyss70 == bing)
+                        {
+                            buttoncsss7.Text = xiaoshen;
+                        }
+                        if (dyss70 == ding)
+                        {
+                            buttoncsss7.Text = zhengyin;
+                        }
+                        if (dyss70 == wuu)
+                        {
+                            buttoncsss7.Text = bijian;
+                        }
+                        if (dyss70 == jii)
+                        {
+                            buttoncsss7.Text = jiecai;
+                        }
+                        if (dyss70 == geng)
+                        {
+                            buttoncsss7.Text = shishen;
+                        }
+                        if (dyss70 == xin)
+                        {
+                            buttoncsss7.Text = shangguan;
+                        }
+                        if (dyss70 == ren)
+                        {
+                            buttoncsss7.Text = piancai;
+                        }
+                        if (dyss70 == gui)
+                        {
+                            buttoncsss7.Text = zhengcai;
+                        }
+                    }
+                    if (rtg == jii)
+                    {
+                        if (dyss70 == jia)
+                        {
+                            buttoncsss7.Text = zhengguan;
+                        }
+                        if (dyss70 == yii)
+                        {
+                            buttoncsss7.Text = qisha;
+                        }
+                        if (dyss70 == bing)
+                        {
+                            buttoncsss7.Text = zhengyin;
+                        }
+                        if (dyss70 == ding)
+                        {
+                            buttoncsss7.Text = xiaoshen;
+                        }
+                        if (dyss70 == wuu)
+                        {
+                            buttoncsss7.Text = jiecai;
+                        }
+                        if (dyss70 == jii)
+                        {
+                            buttoncsss7.Text = bijian;
+                        }
+                        if (dyss70 == geng)
+                        {
+                            buttoncsss7.Text = shangguan;
+                        }
+                        if (dyss70 == xin)
+                        {
+                            buttoncsss7.Text = shishen;
+                        }
+                        if (dyss70 == ren)
+                        {
+                            buttoncsss7.Text = zhengcai;
+                        }
+                        if (dyss70 == gui)
+                        {
+                            buttoncsss7.Text = piancai;
+                        }
+                    }
+                    if (rtg == geng)
+                    {
+                        if (dyss70 == jia)
+                        {
+                            buttoncsss7.Text = piancai;
+                        }
+                        if (dyss70 == yii)
+                        {
+                            buttoncsss7.Text = zhengcai;
+                        }
+                        if (dyss70 == bing)
+                        {
+                            buttoncsss7.Text = qisha;
+                        }
+                        if (dyss70 == ding)
+                        {
+                            buttoncsss7.Text = zhengguan;
+                        }
+                        if (dyss70 == wuu)
+                        {
+                            buttoncsss7.Text = xiaoshen;
+                        }
+                        if (dyss70 == jii)
+                        {
+                            buttoncsss7.Text = zhengyin;
+                        }
+                        if (dyss70 == geng)
+                        {
+                            buttoncsss7.Text = bijian;
+                        }
+                        if (dyss70 == xin)
+                        {
+                            buttoncsss7.Text = jiecai;
+                        }
+                        if (dyss70 == ren)
+                        {
+                            buttoncsss7.Text = shishen;
+                        }
+                        if (dyss70 == gui)
+                        {
+                            buttoncsss7.Text = shangguan;
+                        }
+                    }
+                    if (rtg == xin)
+                    {
+                        if (dyss70 == jia)
+                        {
+                            buttoncsss7.Text = zhengcai;
+                        }
+                        if (dyss70 == yii)
+                        {
+                            buttoncsss7.Text = piancai;
+                        }
+                        if (dyss70 == bing)
+                        {
+                            buttoncsss7.Text = zhengguan;
+                        }
+                        if (dyss70 == ding)
+                        {
+                            buttoncsss7.Text = qisha;
+                        }
+                        if (dyss70 == wuu)
+                        {
+                            buttoncsss7.Text = zhengyin;
+                        }
+                        if (dyss70 == jii)
+                        {
+                            buttoncsss7.Text = xiaoshen;
+                        }
+                        if (dyss70 == geng)
+                        {
+                            buttoncsss7.Text = jiecai;
+                        }
+                        if (dyss70 == xin)
+                        {
+                            buttoncsss7.Text = bijian;
+                        }
+                        if (dyss70 == ren)
+                        {
+                            buttoncsss7.Text = shangguan;
+                        }
+                        if (dyss70 == gui)
+                        {
+                            buttoncsss7.Text = shishen;
+                        }
+                    }
+                    if (rtg == ren)
+                    {
+                        if (dyss70 == jia)
+                        {
+                            buttoncsss7.Text = shishen;
+                        }
+                        if (dyss70 == yii)
+                        {
+                            buttoncsss7.Text = shangguan;
+                        }
+                        if (dyss70 == bing)
+                        {
+                            buttoncsss7.Text = piancai;
+                        }
+                        if (dyss70 == ding)
+                        {
+                            buttoncsss7.Text = zhengcai;
+                        }
+                        if (dyss70 == wuu)
+                        {
+                            buttoncsss7.Text = qisha;
+                        }
+                        if (dyss70 == jii)
+                        {
+                            buttoncsss7.Text = zhengguan;
+                        }
+                        if (dyss70 == geng)
+                        {
+                            buttoncsss7.Text = xiaoshen;
+                        }
+                        if (dyss70 == xin)
+                        {
+                            buttoncsss7.Text = zhengyin;
+                        }
+                        if (dyss70 == ren)
+                        {
+                            buttoncsss7.Text = bijian;
+                        }
+                        if (dyss70 == gui)
+                        {
+                            buttoncsss7.Text = jiecai;
+                        }
+                    }
+
+                    if (rtg == gui)
+                    {
+                        if (dyss70 == jia)
+                        {
+                            buttoncsss7.Text = shangguan;
+                        }
+                        if (dyss70 == yii)
+                        {
+                            buttoncsss7.Text = shishen;
+                        }
+                        if (dyss70 == bing)
+                        {
+                            buttoncsss7.Text = zhengcai;
+                        }
+                        if (dyss70 == ding)
+                        {
+                            buttoncsss7.Text = piancai;
+                        }
+                        if (dyss70 == wuu)
+                        {
+                            buttoncsss7.Text = zhengguan;
+                        }
+                        if (dyss70 == jii)
+                        {
+                            buttoncsss7.Text = qisha;
+                        }
+                        if (dyss70 == geng)
+                        {
+                            buttoncsss7.Text = zhengyin;
+                        }
+                        if (dyss70 == xin)
+                        {
+                            buttoncsss7.Text = xiaoshen;
+                        }
+                        if (dyss70 == ren)
+                        {
+                            buttoncsss7.Text = jiecai;
+                        }
+                        if (dyss70 == gui)
+                        {
+                            buttoncsss7.Text = bijian;
+                        }
+                    }
+
+                    if (rtg == jia)
+                    {
+                        if (dyss80 == jia)
+                        {
+                            buttoncsss8.Text = bijian;
+                        }
+                        if (dyss80 == yii)
+                        {
+                            buttoncsss8.Text = jiecai;
+                        }
+                        if (dyss80 == bing)
+                        {
+                            buttoncsss8.Text = shishen;
+                        }
+                        if (dyss80 == ding)
+                        {
+                            buttoncsss8.Text = shangguan;
+                        }
+                        if (dyss80 == wuu)
+                        {
+                            buttoncsss8.Text = piancai;
+                        }
+                        if (dyss80 == jii)
+                        {
+                            buttoncsss8.Text = zhengcai;
+                        }
+                        if (dyss80 == geng)
+                        {
+                            buttoncsss8.Text = qisha;
+                        }
+                        if (dyss80 == xin)
+                        {
+                            buttoncsss8.Text = zhengguan;
+                        }
+                        if (dyss80 == ren)
+                        {
+                            buttoncsss8.Text = xiaoshen;
+                        }
+                        if (dyss80 == gui)
+                        {
+                            buttoncsss8.Text = zhengyin;
+                        }
+                    }
+                    if (rtg == yii)
+                    {
+                        if (dyss80 == jia)
+                        {
+                            buttoncsss8.Text = jiecai;
+                        }
+                        if (dyss80 == yii)
+                        {
+                            buttoncsss8.Text = bijian;
+                        }
+                        if (dyss80 == bing)
+                        {
+                            buttoncsss8.Text = shangguan;
+                        }
+                        if (dyss80 == ding)
+                        {
+                            buttoncsss8.Text = shishen;
+                        }
+                        if (dyss80 == wuu)
+                        {
+                            buttoncsss8.Text = zhengcai;
+                        }
+                        if (dyss80 == jii)
+                        {
+                            buttoncsss8.Text = piancai;
+                        }
+                        if (dyss80 == geng)
+                        {
+                            buttoncsss8.Text = zhengguan;
+                        }
+                        if (dyss80 == xin)
+                        {
+                            buttoncsss8.Text = qisha;
+                        }
+                        if (dyss80 == ren)
+                        {
+                            buttoncsss8.Text = zhengyin;
+                        }
+                        if (dyss80 == gui)
+                        {
+                            buttoncsss8.Text = xiaoshen;
+                        }
+
+                    }
+                    if (rtg == bing)
+                    {
+                        if (dyss80 == jia)
+                        {
+                            buttoncsss8.Text = xiaoshen;
+                        }
+                        if (dyss80 == yii)
+                        {
+                            buttoncsss8.Text = zhengyin;
+                        }
+                        if (dyss80 == bing)
+                        {
+                            buttoncsss8.Text = bijian;
+                        }
+                        if (dyss80 == ding)
+                        {
+                            buttoncsss8.Text = jiecai;
+                        }
+                        if (dyss80 == wuu)
+                        {
+                            buttoncsss8.Text = shishen;
+                        }
+                        if (dyss80 == jii)
+                        {
+                            buttoncsss8.Text = shangguan;
+                        }
+                        if (dyss80 == geng)
+                        {
+                            buttoncsss8.Text = piancai;
+                        }
+                        if (dyss80 == xin)
+                        {
+                            buttoncsss8.Text = zhengcai;
+                        }
+                        if (dyss80 == ren)
+                        {
+                            buttoncsss8.Text = qisha;
+                        }
+                        if (dyss80 == gui)
+                        {
+                            buttoncsss8.Text = zhengguan;
+                        }
+                    }
+                    if (rtg == ding)
+                    {
+                        if (dyss80 == jia)
+                        {
+                            buttoncsss8.Text = zhengyin;
+                        }
+                        if (dyss80 == yii)
+                        {
+                            buttoncsss8.Text = xiaoshen;
+                        }
+                        if (dyss80 == bing)
+                        {
+                            buttoncsss8.Text = jiecai;
+                        }
+                        if (dyss80 == ding)
+                        {
+                            buttoncsss8.Text = bijian;
+                        }
+                        if (dyss80 == wuu)
+                        {
+                            buttoncsss8.Text = shangguan;
+                        }
+                        if (dyss80 == jii)
+                        {
+                            buttoncsss8.Text = shishen;
+                        }
+                        if (dyss80 == geng)
+                        {
+                            buttoncsss8.Text = zhengcai;
+                        }
+                        if (dyss80 == xin)
+                        {
+                            buttoncsss8.Text = piancai;
+                        }
+                        if (dyss80 == ren)
+                        {
+                            buttoncsss8.Text = zhengguan;
+                        }
+                        if (dyss80 == gui)
+                        {
+                            buttoncsss8.Text = qisha;
+                        }
+                    }
+                    if (rtg == wuu)
+                    {
+                        if (dyss80 == jia)
+                        {
+                            buttoncsss8.Text = qisha;
+                        }
+                        if (dyss80 == yii)
+                        {
+                            buttoncsss8.Text = zhengguan;
+                        }
+                        if (dyss80 == bing)
+                        {
+                            buttoncsss8.Text = xiaoshen;
+                        }
+                        if (dyss80 == ding)
+                        {
+                            buttoncsss8.Text = zhengyin;
+                        }
+                        if (dyss80 == wuu)
+                        {
+                            buttoncsss8.Text = bijian;
+                        }
+                        if (dyss80 == jii)
+                        {
+                            buttoncsss8.Text = jiecai;
+                        }
+                        if (dyss80 == geng)
+                        {
+                            buttoncsss8.Text = shishen;
+                        }
+                        if (dyss80 == xin)
+                        {
+                            buttoncsss8.Text = shangguan;
+                        }
+                        if (dyss80 == ren)
+                        {
+                            buttoncsss8.Text = piancai;
+                        }
+                        if (dyss80 == gui)
+                        {
+                            buttoncsss8.Text = zhengcai;
+                        }
+                    }
+                    if (rtg == jii)
+                    {
+                        if (dyss80 == jia)
+                        {
+                            buttoncsss8.Text = zhengguan;
+                        }
+                        if (dyss80 == yii)
+                        {
+                            buttoncsss8.Text = qisha;
+                        }
+                        if (dyss80 == bing)
+                        {
+                            buttoncsss8.Text = zhengyin;
+                        }
+                        if (dyss80 == ding)
+                        {
+                            buttoncsss8.Text = xiaoshen;
+                        }
+                        if (dyss80 == wuu)
+                        {
+                            buttoncsss8.Text = jiecai;
+                        }
+                        if (dyss80 == jii)
+                        {
+                            buttoncsss8.Text = bijian;
+                        }
+                        if (dyss80 == geng)
+                        {
+                            buttoncsss8.Text = shangguan;
+                        }
+                        if (dyss80 == xin)
+                        {
+                            buttoncsss8.Text = shishen;
+                        }
+                        if (dyss80 == ren)
+                        {
+                            buttoncsss8.Text = zhengcai;
+                        }
+                        if (dyss80 == gui)
+                        {
+                            buttoncsss8.Text = piancai;
+                        }
+                    }
+                    if (rtg == geng)
+                    {
+                        if (dyss80 == jia)
+                        {
+                            buttoncsss8.Text = piancai;
+                        }
+                        if (dyss80 == yii)
+                        {
+                            buttoncsss8.Text = zhengcai;
+                        }
+                        if (dyss80 == bing)
+                        {
+                            buttoncsss8.Text = qisha;
+                        }
+                        if (dyss80 == ding)
+                        {
+                            buttoncsss8.Text = zhengguan;
+                        }
+                        if (dyss80 == wuu)
+                        {
+                            buttoncsss8.Text = xiaoshen;
+                        }
+                        if (dyss80 == jii)
+                        {
+                            buttoncsss8.Text = zhengyin;
+                        }
+                        if (dyss80 == geng)
+                        {
+                            buttoncsss8.Text = bijian;
+                        }
+                        if (dyss80 == xin)
+                        {
+                            buttoncsss8.Text = jiecai;
+                        }
+                        if (dyss80 == ren)
+                        {
+                            buttoncsss8.Text = shishen;
+                        }
+                        if (dyss80 == gui)
+                        {
+                            buttoncsss8.Text = shangguan;
+                        }
+                    }
+                    if (rtg == xin)
+                    {
+                        if (dyss80 == jia)
+                        {
+                            buttoncsss8.Text = zhengcai;
+                        }
+                        if (dyss80 == yii)
+                        {
+                            buttoncsss8.Text = piancai;
+                        }
+                        if (dyss80 == bing)
+                        {
+                            buttoncsss8.Text = zhengguan;
+                        }
+                        if (dyss80 == ding)
+                        {
+                            buttoncsss8.Text = qisha;
+                        }
+                        if (dyss80 == wuu)
+                        {
+                            buttoncsss8.Text = zhengyin;
+                        }
+                        if (dyss80 == jii)
+                        {
+                            buttoncsss8.Text = xiaoshen;
+                        }
+                        if (dyss80 == geng)
+                        {
+                            buttoncsss8.Text = jiecai;
+                        }
+                        if (dyss80 == xin)
+                        {
+                            buttoncsss8.Text = bijian;
+                        }
+                        if (dyss80 == ren)
+                        {
+                            buttoncsss8.Text = shangguan;
+                        }
+                        if (dyss80 == gui)
+                        {
+                            buttoncsss8.Text = shishen;
+                        }
+                    }
+                    if (rtg == ren)
+                    {
+                        if (dyss80 == jia)
+                        {
+                            buttoncsss8.Text = shishen;
+                        }
+                        if (dyss80 == yii)
+                        {
+                            buttoncsss8.Text = shangguan;
+                        }
+                        if (dyss80 == bing)
+                        {
+                            buttoncsss8.Text = piancai;
+                        }
+                        if (dyss80 == ding)
+                        {
+                            buttoncsss8.Text = zhengcai;
+                        }
+                        if (dyss80 == wuu)
+                        {
+                            buttoncsss8.Text = qisha;
+                        }
+                        if (dyss80 == jii)
+                        {
+                            buttoncsss8.Text = zhengguan;
+                        }
+                        if (dyss80 == geng)
+                        {
+                            buttoncsss8.Text = xiaoshen;
+                        }
+                        if (dyss80 == xin)
+                        {
+                            buttoncsss8.Text = zhengyin;
+                        }
+                        if (dyss80 == ren)
+                        {
+                            buttoncsss8.Text = bijian;
+                        }
+                        if (dyss80 == gui)
+                        {
+                            buttoncsss8.Text = jiecai;
+                        }
+                    }
+
+                    if (rtg == gui)
+                    {
+                        if (dyss80 == jia)
+                        {
+                            buttoncsss8.Text = shangguan;
+                        }
+                        if (dyss80 == yii)
+                        {
+                            buttoncsss8.Text = shishen;
+                        }
+                        if (dyss80 == bing)
+                        {
+                            buttoncsss8.Text = zhengcai;
+                        }
+                        if (dyss80 == ding)
+                        {
+                            buttoncsss8.Text = piancai;
+                        }
+                        if (dyss80 == wuu)
+                        {
+                            buttoncsss8.Text = zhengguan;
+                        }
+                        if (dyss80 == jii)
+                        {
+                            buttoncsss8.Text = qisha;
+                        }
+                        if (dyss80 == geng)
+                        {
+                            buttoncsss8.Text = zhengyin;
+                        }
+                        if (dyss80 == xin)
+                        {
+                            buttoncsss8.Text = xiaoshen;
+                        }
+                        if (dyss80 == ren)
+                        {
+                            buttoncsss8.Text = jiecai;
+                        }
+                        if (dyss80 == gui)
+                        {
+                            buttoncsss8.Text = bijian;
+                        }
+                    }
+
+                    if (rtg == jia)
+                    {
+                        if (dyss90 == jia)
+                        {
+                            buttoncsss9.Text = bijian;
+                        }
+                        if (dyss90 == yii)
+                        {
+                            buttoncsss9.Text = jiecai;
+                        }
+                        if (dyss90 == bing)
+                        {
+                            buttoncsss9.Text = shishen;
+                        }
+                        if (dyss90 == ding)
+                        {
+                            buttoncsss9.Text = shangguan;
+                        }
+                        if (dyss90 == wuu)
+                        {
+                            buttoncsss9.Text = piancai;
+                        }
+                        if (dyss90 == jii)
+                        {
+                            buttoncsss9.Text = zhengcai;
+                        }
+                        if (dyss90 == geng)
+                        {
+                            buttoncsss9.Text = qisha;
+                        }
+                        if (dyss90 == xin)
+                        {
+                            buttoncsss9.Text = zhengguan;
+                        }
+                        if (dyss90 == ren)
+                        {
+                            buttoncsss9.Text = xiaoshen;
+                        }
+                        if (dyss90 == gui)
+                        {
+                            buttoncsss9.Text = zhengyin;
+                        }
+                    }
+                    if (rtg == yii)
+                    {
+                        if (dyss90 == jia)
+                        {
+                            buttoncsss9.Text = jiecai;
+                        }
+                        if (dyss90 == yii)
+                        {
+                            buttoncsss9.Text = bijian;
+                        }
+                        if (dyss90 == bing)
+                        {
+                            buttoncsss9.Text = shangguan;
+                        }
+                        if (dyss90 == ding)
+                        {
+                            buttoncsss9.Text = shishen;
+                        }
+                        if (dyss90 == wuu)
+                        {
+                            buttoncsss9.Text = zhengcai;
+                        }
+                        if (dyss90 == jii)
+                        {
+                            buttoncsss9.Text = piancai;
+                        }
+                        if (dyss90 == geng)
+                        {
+                            buttoncsss9.Text = zhengguan;
+                        }
+                        if (dyss90 == xin)
+                        {
+                            buttoncsss9.Text = qisha;
+                        }
+                        if (dyss90 == ren)
+                        {
+                            buttoncsss9.Text = zhengyin;
+                        }
+                        if (dyss90 == gui)
+                        {
+                            buttoncsss9.Text = xiaoshen;
+                        }
+
+                    }
+                    if (rtg == bing)
+                    {
+                        if (dyss90 == jia)
+                        {
+                            buttoncsss9.Text = xiaoshen;
+                        }
+                        if (dyss90 == yii)
+                        {
+                            buttoncsss9.Text = zhengyin;
+                        }
+                        if (dyss90 == bing)
+                        {
+                            buttoncsss9.Text = bijian;
+                        }
+                        if (dyss90 == ding)
+                        {
+                            buttoncsss9.Text = jiecai;
+                        }
+                        if (dyss90 == wuu)
+                        {
+                            buttoncsss9.Text = shishen;
+                        }
+                        if (dyss90 == jii)
+                        {
+                            buttoncsss9.Text = shangguan;
+                        }
+                        if (dyss90 == geng)
+                        {
+                            buttoncsss9.Text = piancai;
+                        }
+                        if (dyss90 == xin)
+                        {
+                            buttoncsss9.Text = zhengcai;
+                        }
+                        if (dyss90 == ren)
+                        {
+                            buttoncsss9.Text = qisha;
+                        }
+                        if (dyss90 == gui)
+                        {
+                            buttoncsss9.Text = zhengguan;
+                        }
+                    }
+                    if (rtg == ding)
+                    {
+                        if (dyss90 == jia)
+                        {
+                            buttoncsss9.Text = zhengyin;
+                        }
+                        if (dyss90 == yii)
+                        {
+                            buttoncsss9.Text = xiaoshen;
+                        }
+                        if (dyss90 == bing)
+                        {
+                            buttoncsss9.Text = jiecai;
+                        }
+                        if (dyss90 == ding)
+                        {
+                            buttoncsss9.Text = bijian;
+                        }
+                        if (dyss90 == wuu)
+                        {
+                            buttoncsss9.Text = shangguan;
+                        }
+                        if (dyss90 == jii)
+                        {
+                            buttoncsss9.Text = shishen;
+                        }
+                        if (dyss90 == geng)
+                        {
+                            buttoncsss9.Text = zhengcai;
+                        }
+                        if (dyss90 == xin)
+                        {
+                            buttoncsss9.Text = piancai;
+                        }
+                        if (dyss90 == ren)
+                        {
+                            buttoncsss9.Text = zhengguan;
+                        }
+                        if (dyss90 == gui)
+                        {
+                            buttoncsss9.Text = qisha;
+                        }
+                    }
+                    if (rtg == wuu)
+                    {
+                        if (dyss90 == jia)
+                        {
+                            buttoncsss9.Text = qisha;
+                        }
+                        if (dyss90 == yii)
+                        {
+                            buttoncsss9.Text = zhengguan;
+                        }
+                        if (dyss90 == bing)
+                        {
+                            buttoncsss9.Text = xiaoshen;
+                        }
+                        if (dyss90 == ding)
+                        {
+                            buttoncsss9.Text = zhengyin;
+                        }
+                        if (dyss90 == wuu)
+                        {
+                            buttoncsss9.Text = bijian;
+                        }
+                        if (dyss90 == jii)
+                        {
+                            buttoncsss9.Text = jiecai;
+                        }
+                        if (dyss90 == geng)
+                        {
+                            buttoncsss9.Text = shishen;
+                        }
+                        if (dyss90 == xin)
+                        {
+                            buttoncsss9.Text = shangguan;
+                        }
+                        if (dyss90 == ren)
+                        {
+                            buttoncsss9.Text = piancai;
+                        }
+                        if (dyss90 == gui)
+                        {
+                            buttoncsss9.Text = zhengcai;
+                        }
+                    }
+                    if (rtg == jii)
+                    {
+                        if (dyss90 == jia)
+                        {
+                            buttoncsss9.Text = zhengguan;
+                        }
+                        if (dyss90 == yii)
+                        {
+                            buttoncsss9.Text = qisha;
+                        }
+                        if (dyss90 == bing)
+                        {
+                            buttoncsss9.Text = zhengyin;
+                        }
+                        if (dyss90 == ding)
+                        {
+                            buttoncsss9.Text = xiaoshen;
+                        }
+                        if (dyss90 == wuu)
+                        {
+                            buttoncsss9.Text = jiecai;
+                        }
+                        if (dyss90 == jii)
+                        {
+                            buttoncsss9.Text = bijian;
+                        }
+                        if (dyss90 == geng)
+                        {
+                            buttoncsss9.Text = shangguan;
+                        }
+                        if (dyss90 == xin)
+                        {
+                            buttoncsss9.Text = shishen;
+                        }
+                        if (dyss90 == ren)
+                        {
+                            buttoncsss9.Text = zhengcai;
+                        }
+                        if (dyss90 == gui)
+                        {
+                            buttoncsss9.Text = piancai;
+                        }
+                    }
+                    if (rtg == geng)
+                    {
+                        if (dyss90 == jia)
+                        {
+                            buttoncsss9.Text = piancai;
+                        }
+                        if (dyss90 == yii)
+                        {
+                            buttoncsss9.Text = zhengcai;
+                        }
+                        if (dyss90 == bing)
+                        {
+                            buttoncsss9.Text = qisha;
+                        }
+                        if (dyss90 == ding)
+                        {
+                            buttoncsss9.Text = zhengguan;
+                        }
+                        if (dyss90 == wuu)
+                        {
+                            buttoncsss9.Text = xiaoshen;
+                        }
+                        if (dyss90 == jii)
+                        {
+                            buttoncsss9.Text = zhengyin;
+                        }
+                        if (dyss90 == geng)
+                        {
+                            buttoncsss9.Text = bijian;
+                        }
+                        if (dyss90 == xin)
+                        {
+                            buttoncsss9.Text = jiecai;
+                        }
+                        if (dyss90 == ren)
+                        {
+                            buttoncsss9.Text = shishen;
+                        }
+                        if (dyss90 == gui)
+                        {
+                            buttoncsss9.Text = shangguan;
+                        }
+                    }
+                    if (rtg == xin)
+                    {
+                        if (dyss90 == jia)
+                        {
+                            buttoncsss9.Text = zhengcai;
+                        }
+                        if (dyss90 == yii)
+                        {
+                            buttoncsss9.Text = piancai;
+                        }
+                        if (dyss90 == bing)
+                        {
+                            buttoncsss9.Text = zhengguan;
+                        }
+                        if (dyss90 == ding)
+                        {
+                            buttoncsss9.Text = qisha;
+                        }
+                        if (dyss90 == wuu)
+                        {
+                            buttoncsss9.Text = zhengyin;
+                        }
+                        if (dyss90 == jii)
+                        {
+                            buttoncsss9.Text = xiaoshen;
+                        }
+                        if (dyss90 == geng)
+                        {
+                            buttoncsss9.Text = jiecai;
+                        }
+                        if (dyss90 == xin)
+                        {
+                            buttoncsss9.Text = bijian;
+                        }
+                        if (dyss90 == ren)
+                        {
+                            buttoncsss9.Text = shangguan;
+                        }
+                        if (dyss90 == gui)
+                        {
+                            buttoncsss9.Text = shishen;
+                        }
+                    }
+                    if (rtg == ren)
+                    {
+                        if (dyss90 == jia)
+                        {
+                            buttoncsss9.Text = shishen;
+                        }
+                        if (dyss90 == yii)
+                        {
+                            buttoncsss9.Text = shangguan;
+                        }
+                        if (dyss90 == bing)
+                        {
+                            buttoncsss9.Text = piancai;
+                        }
+                        if (dyss90 == ding)
+                        {
+                            buttoncsss9.Text = zhengcai;
+                        }
+                        if (dyss90 == wuu)
+                        {
+                            buttoncsss9.Text = qisha;
+                        }
+                        if (dyss90 == jii)
+                        {
+                            buttoncsss9.Text = zhengguan;
+                        }
+                        if (dyss90 == geng)
+                        {
+                            buttoncsss9.Text = xiaoshen;
+                        }
+                        if (dyss90 == xin)
+                        {
+                            buttoncsss9.Text = zhengyin;
+                        }
+                        if (dyss90 == ren)
+                        {
+                            buttoncsss9.Text = bijian;
+                        }
+                        if (dyss90 == gui)
+                        {
+                            buttoncsss9.Text = jiecai;
+                        }
+                    }
+
+                    if (rtg == gui)
+                    {
+                        if (dyss90 == jia)
+                        {
+                            buttoncsss9.Text = shangguan;
+                        }
+                        if (dyss90 == yii)
+                        {
+                            buttoncsss9.Text = shishen;
+                        }
+                        if (dyss90 == bing)
+                        {
+                            buttoncsss9.Text = zhengcai;
+                        }
+                        if (dyss90 == ding)
+                        {
+                            buttoncsss9.Text = piancai;
+                        }
+                        if (dyss90 == wuu)
+                        {
+                            buttoncsss9.Text = zhengguan;
+                        }
+                        if (dyss90 == jii)
+                        {
+                            buttoncsss9.Text = qisha;
+                        }
+                        if (dyss90 == geng)
+                        {
+                            buttoncsss9.Text = zhengyin;
+                        }
+                        if (dyss90 == xin)
+                        {
+                            buttoncsss9.Text = xiaoshen;
+                        }
+                        if (dyss90 == ren)
+                        {
+                            buttoncsss9.Text = jiecai;
+                        }
+                        if (dyss90 == gui)
+                        {
+                            buttoncsss9.Text = bijian;
+                        }
+                    }
+
+                    if (rtg == jia)
+                    {
+                        if (dyss100 == jia)
+                        {
+                            buttoncsss10.Text = bijian;
+                        }
+                        if (dyss100 == yii)
+                        {
+                            buttoncsss10.Text = jiecai;
+                        }
+                        if (dyss100 == bing)
+                        {
+                            buttoncsss10.Text = shishen;
+                        }
+                        if (dyss100 == ding)
+                        {
+                            buttoncsss10.Text = shangguan;
+                        }
+                        if (dyss100 == wuu)
+                        {
+                            buttoncsss10.Text = piancai;
+                        }
+                        if (dyss100 == jii)
+                        {
+                            buttoncsss10.Text = zhengcai;
+                        }
+                        if (dyss100 == geng)
+                        {
+                            buttoncsss10.Text = qisha;
+                        }
+                        if (dyss100 == xin)
+                        {
+                            buttoncsss10.Text = zhengguan;
+                        }
+                        if (dyss100 == ren)
+                        {
+                            buttoncsss10.Text = xiaoshen;
+                        }
+                        if (dyss100 == gui)
+                        {
+                            buttoncsss10.Text = zhengyin;
+                        }
+                    }
+                    if (rtg == yii)
+                    {
+                        if (dyss100 == jia)
+                        {
+                            buttoncsss10.Text = jiecai;
+                        }
+                        if (dyss100 == yii)
+                        {
+                            buttoncsss10.Text = bijian;
+                        }
+                        if (dyss100 == bing)
+                        {
+                            buttoncsss10.Text = shangguan;
+                        }
+                        if (dyss100 == ding)
+                        {
+                            buttoncsss10.Text = shishen;
+                        }
+                        if (dyss100 == wuu)
+                        {
+                            buttoncsss10.Text = zhengcai;
+                        }
+                        if (dyss100 == jii)
+                        {
+                            buttoncsss10.Text = piancai;
+                        }
+                        if (dyss100 == geng)
+                        {
+                            buttoncsss10.Text = zhengguan;
+                        }
+                        if (dyss100 == xin)
+                        {
+                            buttoncsss10.Text = qisha;
+                        }
+                        if (dyss100 == ren)
+                        {
+                            buttoncsss10.Text = zhengyin;
+                        }
+                        if (dyss100 == gui)
+                        {
+                            buttoncsss10.Text = xiaoshen;
+                        }
+
+                    }
+                    if (rtg == bing)
+                    {
+                        if (dyss100 == jia)
+                        {
+                            buttoncsss10.Text = xiaoshen;
+                        }
+                        if (dyss100 == yii)
+                        {
+                            buttoncsss10.Text = zhengyin;
+                        }
+                        if (dyss100 == bing)
+                        {
+                            buttoncsss10.Text = bijian;
+                        }
+                        if (dyss100 == ding)
+                        {
+                            buttoncsss10.Text = jiecai;
+                        }
+                        if (dyss100 == wuu)
+                        {
+                            buttoncsss10.Text = shishen;
+                        }
+                        if (dyss100 == jii)
+                        {
+                            buttoncsss10.Text = shangguan;
+                        }
+                        if (dyss100 == geng)
+                        {
+                            buttoncsss10.Text = piancai;
+                        }
+                        if (dyss100 == xin)
+                        {
+                            buttoncsss10.Text = zhengcai;
+                        }
+                        if (dyss100 == ren)
+                        {
+                            buttoncsss10.Text = qisha;
+                        }
+                        if (dyss100 == gui)
+                        {
+                            buttoncsss10.Text = zhengguan;
+                        }
+                    }
+                    if (rtg == ding)
+                    {
+                        if (dyss100 == jia)
+                        {
+                            buttoncsss10.Text = zhengyin;
+                        }
+                        if (dyss100 == yii)
+                        {
+                            buttoncsss10.Text = xiaoshen;
+                        }
+                        if (dyss100 == bing)
+                        {
+                            buttoncsss10.Text = jiecai;
+                        }
+                        if (dyss100 == ding)
+                        {
+                            buttoncsss10.Text = bijian;
+                        }
+                        if (dyss100 == wuu)
+                        {
+                            buttoncsss10.Text = shangguan;
+                        }
+                        if (dyss100 == jii)
+                        {
+                            buttoncsss10.Text = shishen;
+                        }
+                        if (dyss100 == geng)
+                        {
+                            buttoncsss10.Text = zhengcai;
+                        }
+                        if (dyss100 == xin)
+                        {
+                            buttoncsss10.Text = piancai;
+                        }
+                        if (dyss100 == ren)
+                        {
+                            buttoncsss10.Text = zhengguan;
+                        }
+                        if (dyss100 == gui)
+                        {
+                            buttoncsss10.Text = qisha;
+                        }
+                    }
+                    if (rtg == wuu)
+                    {
+                        if (dyss100 == jia)
+                        {
+                            buttoncsss10.Text = qisha;
+                        }
+                        if (dyss100 == yii)
+                        {
+                            buttoncsss10.Text = zhengguan;
+                        }
+                        if (dyss100 == bing)
+                        {
+                            buttoncsss10.Text = xiaoshen;
+                        }
+                        if (dyss100 == ding)
+                        {
+                            buttoncsss10.Text = zhengyin;
+                        }
+                        if (dyss100 == wuu)
+                        {
+                            buttoncsss10.Text = bijian;
+                        }
+                        if (dyss100 == jii)
+                        {
+                            buttoncsss10.Text = jiecai;
+                        }
+                        if (dyss100 == geng)
+                        {
+                            buttoncsss10.Text = shishen;
+                        }
+                        if (dyss100 == xin)
+                        {
+                            buttoncsss10.Text = shangguan;
+                        }
+                        if (dyss100 == ren)
+                        {
+                            buttoncsss10.Text = piancai;
+                        }
+                        if (dyss100 == gui)
+                        {
+                            buttoncsss10.Text = zhengcai;
+                        }
+                    }
+                    if (rtg == jii)
+                    {
+                        if (dyss100 == jia)
+                        {
+                            buttoncsss10.Text = zhengguan;
+                        }
+                        if (dyss100 == yii)
+                        {
+                            buttoncsss10.Text = qisha;
+                        }
+                        if (dyss100 == bing)
+                        {
+                            buttoncsss10.Text = zhengyin;
+                        }
+                        if (dyss100 == ding)
+                        {
+                            buttoncsss10.Text = xiaoshen;
+                        }
+                        if (dyss100 == wuu)
+                        {
+                            buttoncsss10.Text = jiecai;
+                        }
+                        if (dyss100 == jii)
+                        {
+                            buttoncsss10.Text = bijian;
+                        }
+                        if (dyss100 == geng)
+                        {
+                            buttoncsss10.Text = shangguan;
+                        }
+                        if (dyss100 == xin)
+                        {
+                            buttoncsss10.Text = shishen;
+                        }
+                        if (dyss100 == ren)
+                        {
+                            buttoncsss10.Text = zhengcai;
+                        }
+                        if (dyss100 == gui)
+                        {
+                            buttoncsss10.Text = piancai;
+                        }
+                    }
+                    if (rtg == geng)
+                    {
+                        if (dyss100 == jia)
+                        {
+                            buttoncsss10.Text = piancai;
+                        }
+                        if (dyss100 == yii)
+                        {
+                            buttoncsss10.Text = zhengcai;
+                        }
+                        if (dyss100 == bing)
+                        {
+                            buttoncsss10.Text = qisha;
+                        }
+                        if (dyss100 == ding)
+                        {
+                            buttoncsss10.Text = zhengguan;
+                        }
+                        if (dyss100 == wuu)
+                        {
+                            buttoncsss10.Text = xiaoshen;
+                        }
+                        if (dyss100 == jii)
+                        {
+                            buttoncsss10.Text = zhengyin;
+                        }
+                        if (dyss100 == geng)
+                        {
+                            buttoncsss10.Text = bijian;
+                        }
+                        if (dyss100 == xin)
+                        {
+                            buttoncsss10.Text = jiecai;
+                        }
+                        if (dyss100 == ren)
+                        {
+                            buttoncsss10.Text = shishen;
+                        }
+                        if (dyss100 == gui)
+                        {
+                            buttoncsss10.Text = shangguan;
+                        }
+                    }
+                    if (rtg == xin)
+                    {
+                        if (dyss100 == jia)
+                        {
+                            buttoncsss10.Text = zhengcai;
+                        }
+                        if (dyss100 == yii)
+                        {
+                            buttoncsss10.Text = piancai;
+                        }
+                        if (dyss100 == bing)
+                        {
+                            buttoncsss10.Text = zhengguan;
+                        }
+                        if (dyss100 == ding)
+                        {
+                            buttoncsss10.Text = qisha;
+                        }
+                        if (dyss100 == wuu)
+                        {
+                            buttoncsss10.Text = zhengyin;
+                        }
+                        if (dyss100 == jii)
+                        {
+                            buttoncsss10.Text = xiaoshen;
+                        }
+                        if (dyss100 == geng)
+                        {
+                            buttoncsss10.Text = jiecai;
+                        }
+                        if (dyss100 == xin)
+                        {
+                            buttoncsss10.Text = bijian;
+                        }
+                        if (dyss100 == ren)
+                        {
+                            buttoncsss10.Text = shangguan;
+                        }
+                        if (dyss100 == gui)
+                        {
+                            buttoncsss10.Text = shishen;
+                        }
+                    }
+                    if (rtg == ren)
+                    {
+                        if (dyss100 == jia)
+                        {
+                            buttoncsss10.Text = shishen;
+                        }
+                        if (dyss100 == yii)
+                        {
+                            buttoncsss10.Text = shangguan;
+                        }
+                        if (dyss100 == bing)
+                        {
+                            buttoncsss10.Text = piancai;
+                        }
+                        if (dyss100 == ding)
+                        {
+                            buttoncsss10.Text = zhengcai;
+                        }
+                        if (dyss100 == wuu)
+                        {
+                            buttoncsss10.Text = qisha;
+                        }
+                        if (dyss100 == jii)
+                        {
+                            buttoncsss10.Text = zhengguan;
+                        }
+                        if (dyss100 == geng)
+                        {
+                            buttoncsss10.Text = xiaoshen;
+                        }
+                        if (dyss100 == xin)
+                        {
+                            buttoncsss10.Text = zhengyin;
+                        }
+                        if (dyss100 == ren)
+                        {
+                            buttoncsss10.Text = bijian;
+                        }
+                        if (dyss100 == gui)
+                        {
+                            buttoncsss10.Text = jiecai;
+                        }
+                    }
+
+                    if (rtg == gui)
+                    {
+                        if (dyss100 == jia)
+                        {
+                            buttoncsss10.Text = shangguan;
+                        }
+                        if (dyss100 == yii)
+                        {
+                            buttoncsss10.Text = shishen;
+                        }
+                        if (dyss100 == bing)
+                        {
+                            buttoncsss10.Text = zhengcai;
+                        }
+                        if (dyss100 == ding)
+                        {
+                            buttoncsss10.Text = piancai;
+                        }
+                        if (dyss100 == wuu)
+                        {
+                            buttoncsss10.Text = zhengguan;
+                        }
+                        if (dyss100 == jii)
+                        {
+                            buttoncsss10.Text = qisha;
+                        }
+                        if (dyss100 == geng)
+                        {
+                            buttoncsss10.Text = zhengyin;
+                        }
+                        if (dyss100 == xin)
+                        {
+                            buttoncsss10.Text = xiaoshen;
+                        }
+                        if (dyss100 == ren)
+                        {
+                            buttoncsss10.Text = jiecai;
+                        }
+                        if (dyss100 == gui)
+                        {
+                            buttoncsss10.Text = bijian;
+                        }
+                    }
+
+                    if (rtg == jia)
+                    {
+                        if (dyss110 == jia)
+                        {
+                            buttoncsss11.Text = bijian;
+                        }
+                        if (dyss110 == yii)
+                        {
+                            buttoncsss11.Text = jiecai;
+                        }
+                        if (dyss110 == bing)
+                        {
+                            buttoncsss11.Text = shishen;
+                        }
+                        if (dyss110 == ding)
+                        {
+                            buttoncsss11.Text = shangguan;
+                        }
+                        if (dyss110 == wuu)
+                        {
+                            buttoncsss11.Text = piancai;
+                        }
+                        if (dyss110 == jii)
+                        {
+                            buttoncsss11.Text = zhengcai;
+                        }
+                        if (dyss110 == geng)
+                        {
+                            buttoncsss11.Text = qisha;
+                        }
+                        if (dyss110 == xin)
+                        {
+                            buttoncsss11.Text = zhengguan;
+                        }
+                        if (dyss110 == ren)
+                        {
+                            buttoncsss11.Text = xiaoshen;
+                        }
+                        if (dyss110 == gui)
+                        {
+                            buttoncsss11.Text = zhengyin;
+                        }
+                    }
+                    if (rtg == yii)
+                    {
+                        if (dyss110 == jia)
+                        {
+                            buttoncsss11.Text = jiecai;
+                        }
+                        if (dyss110 == yii)
+                        {
+                            buttoncsss11.Text = bijian;
+                        }
+                        if (dyss110 == bing)
+                        {
+                            buttoncsss11.Text = shangguan;
+                        }
+                        if (dyss110 == ding)
+                        {
+                            buttoncsss11.Text = shishen;
+                        }
+                        if (dyss110 == wuu)
+                        {
+                            buttoncsss11.Text = zhengcai;
+                        }
+                        if (dyss110 == jii)
+                        {
+                            buttoncsss11.Text = piancai;
+                        }
+                        if (dyss110 == geng)
+                        {
+                            buttoncsss11.Text = zhengguan;
+                        }
+                        if (dyss110 == xin)
+                        {
+                            buttoncsss11.Text = qisha;
+                        }
+                        if (dyss110 == ren)
+                        {
+                            buttoncsss11.Text = zhengyin;
+                        }
+                        if (dyss110 == gui)
+                        {
+                            buttoncsss11.Text = xiaoshen;
+                        }
+
+                    }
+                    if (rtg == bing)
+                    {
+                        if (dyss110 == jia)
+                        {
+                            buttoncsss11.Text = xiaoshen;
+                        }
+                        if (dyss110 == yii)
+                        {
+                            buttoncsss11.Text = zhengyin;
+                        }
+                        if (dyss110 == bing)
+                        {
+                            buttoncsss11.Text = bijian;
+                        }
+                        if (dyss110 == ding)
+                        {
+                            buttoncsss11.Text = jiecai;
+                        }
+                        if (dyss110 == wuu)
+                        {
+                            buttoncsss11.Text = shishen;
+                        }
+                        if (dyss110 == jii)
+                        {
+                            buttoncsss11.Text = shangguan;
+                        }
+                        if (dyss110 == geng)
+                        {
+                            buttoncsss11.Text = piancai;
+                        }
+                        if (dyss110 == xin)
+                        {
+                            buttoncsss11.Text = zhengcai;
+                        }
+                        if (dyss110 == ren)
+                        {
+                            buttoncsss11.Text = qisha;
+                        }
+                        if (dyss110 == gui)
+                        {
+                            buttoncsss11.Text = zhengguan;
+                        }
+                    }
+                    if (rtg == ding)
+                    {
+                        if (dyss110 == jia)
+                        {
+                            buttoncsss11.Text = zhengyin;
+                        }
+                        if (dyss110 == yii)
+                        {
+                            buttoncsss11.Text = xiaoshen;
+                        }
+                        if (dyss110 == bing)
+                        {
+                            buttoncsss11.Text = jiecai;
+                        }
+                        if (dyss110 == ding)
+                        {
+                            buttoncsss11.Text = bijian;
+                        }
+                        if (dyss110 == wuu)
+                        {
+                            buttoncsss11.Text = shangguan;
+                        }
+                        if (dyss110 == jii)
+                        {
+                            buttoncsss11.Text = shishen;
+                        }
+                        if (dyss110 == geng)
+                        {
+                            buttoncsss11.Text = zhengcai;
+                        }
+                        if (dyss110 == xin)
+                        {
+                            buttoncsss11.Text = piancai;
+                        }
+                        if (dyss110 == ren)
+                        {
+                            buttoncsss11.Text = zhengguan;
+                        }
+                        if (dyss110 == gui)
+                        {
+                            buttoncsss11.Text = qisha;
+                        }
+                    }
+                    if (rtg == wuu)
+                    {
+                        if (dyss110 == jia)
+                        {
+                            buttoncsss11.Text = qisha;
+                        }
+                        if (dyss110 == yii)
+                        {
+                            buttoncsss11.Text = zhengguan;
+                        }
+                        if (dyss110 == bing)
+                        {
+                            buttoncsss11.Text = xiaoshen;
+                        }
+                        if (dyss110 == ding)
+                        {
+                            buttoncsss11.Text = zhengyin;
+                        }
+                        if (dyss110 == wuu)
+                        {
+                            buttoncsss11.Text = bijian;
+                        }
+                        if (dyss110 == jii)
+                        {
+                            buttoncsss11.Text = jiecai;
+                        }
+                        if (dyss110 == geng)
+                        {
+                            buttoncsss11.Text = shishen;
+                        }
+                        if (dyss110 == xin)
+                        {
+                            buttoncsss11.Text = shangguan;
+                        }
+                        if (dyss110 == ren)
+                        {
+                            buttoncsss11.Text = piancai;
+                        }
+                        if (dyss110 == gui)
+                        {
+                            buttoncsss11.Text = zhengcai;
+                        }
+                    }
+                    if (rtg == jii)
+                    {
+                        if (dyss110 == jia)
+                        {
+                            buttoncsss11.Text = zhengguan;
+                        }
+                        if (dyss110 == yii)
+                        {
+                            buttoncsss11.Text = qisha;
+                        }
+                        if (dyss110 == bing)
+                        {
+                            buttoncsss11.Text = zhengyin;
+                        }
+                        if (dyss110 == ding)
+                        {
+                            buttoncsss11.Text = xiaoshen;
+                        }
+                        if (dyss110 == wuu)
+                        {
+                            buttoncsss11.Text = jiecai;
+                        }
+                        if (dyss110 == jii)
+                        {
+                            buttoncsss11.Text = bijian;
+                        }
+                        if (dyss110 == geng)
+                        {
+                            buttoncsss11.Text = shangguan;
+                        }
+                        if (dyss110 == xin)
+                        {
+                            buttoncsss11.Text = shishen;
+                        }
+                        if (dyss110 == ren)
+                        {
+                            buttoncsss11.Text = zhengcai;
+                        }
+                        if (dyss110 == gui)
+                        {
+                            buttoncsss11.Text = piancai;
+                        }
+                    }
+                    if (rtg == geng)
+                    {
+                        if (dyss110 == jia)
+                        {
+                            buttoncsss11.Text = piancai;
+                        }
+                        if (dyss110 == yii)
+                        {
+                            buttoncsss11.Text = zhengcai;
+                        }
+                        if (dyss110 == bing)
+                        {
+                            buttoncsss11.Text = qisha;
+                        }
+                        if (dyss110 == ding)
+                        {
+                            buttoncsss11.Text = zhengguan;
+                        }
+                        if (dyss110 == wuu)
+                        {
+                            buttoncsss11.Text = xiaoshen;
+                        }
+                        if (dyss110 == jii)
+                        {
+                            buttoncsss11.Text = zhengyin;
+                        }
+                        if (dyss110 == geng)
+                        {
+                            buttoncsss11.Text = bijian;
+                        }
+                        if (dyss110 == xin)
+                        {
+                            buttoncsss11.Text = jiecai;
+                        }
+                        if (dyss110 == ren)
+                        {
+                            buttoncsss11.Text = shishen;
+                        }
+                        if (dyss110 == gui)
+                        {
+                            buttoncsss11.Text = shangguan;
+                        }
+                    }
+                    if (rtg == xin)
+                    {
+                        if (dyss110 == jia)
+                        {
+                            buttoncsss11.Text = zhengcai;
+                        }
+                        if (dyss110 == yii)
+                        {
+                            buttoncsss11.Text = piancai;
+                        }
+                        if (dyss110 == bing)
+                        {
+                            buttoncsss11.Text = zhengguan;
+                        }
+                        if (dyss110 == ding)
+                        {
+                            buttoncsss11.Text = qisha;
+                        }
+                        if (dyss110 == wuu)
+                        {
+                            buttoncsss11.Text = zhengyin;
+                        }
+                        if (dyss110 == jii)
+                        {
+                            buttoncsss11.Text = xiaoshen;
+                        }
+                        if (dyss110 == geng)
+                        {
+                            buttoncsss11.Text = jiecai;
+                        }
+                        if (dyss110 == xin)
+                        {
+                            buttoncsss11.Text = bijian;
+                        }
+                        if (dyss110 == ren)
+                        {
+                            buttoncsss11.Text = shangguan;
+                        }
+                        if (dyss110 == gui)
+                        {
+                            buttoncsss11.Text = shishen;
+                        }
+                    }
+                    if (rtg == ren)
+                    {
+                        if (dyss110 == jia)
+                        {
+                            buttoncsss11.Text = shishen;
+                        }
+                        if (dyss110 == yii)
+                        {
+                            buttoncsss11.Text = shangguan;
+                        }
+                        if (dyss110 == bing)
+                        {
+                            buttoncsss11.Text = piancai;
+                        }
+                        if (dyss110 == ding)
+                        {
+                            buttoncsss11.Text = zhengcai;
+                        }
+                        if (dyss110 == wuu)
+                        {
+                            buttoncsss11.Text = qisha;
+                        }
+                        if (dyss110 == jii)
+                        {
+                            buttoncsss11.Text = zhengguan;
+                        }
+                        if (dyss110 == geng)
+                        {
+                            buttoncsss11.Text = xiaoshen;
+                        }
+                        if (dyss110 == xin)
+                        {
+                            buttoncsss11.Text = zhengyin;
+                        }
+                        if (dyss110 == ren)
+                        {
+                            buttoncsss11.Text = bijian;
+                        }
+                        if (dyss110 == gui)
+                        {
+                            buttoncsss11.Text = jiecai;
+                        }
+                    }
+
+                    if (rtg == gui)
+                    {
+                        if (dyss110 == jia)
+                        {
+                            buttoncsss11.Text = shangguan;
+                        }
+                        if (dyss110 == yii)
+                        {
+                            buttoncsss11.Text = shishen;
+                        }
+                        if (dyss110 == bing)
+                        {
+                            buttoncsss11.Text = zhengcai;
+                        }
+                        if (dyss110 == ding)
+                        {
+                            buttoncsss11.Text = piancai;
+                        }
+                        if (dyss110 == wuu)
+                        {
+                            buttoncsss11.Text = zhengguan;
+                        }
+                        if (dyss110 == jii)
+                        {
+                            buttoncsss11.Text = qisha;
+                        }
+                        if (dyss110 == geng)
+                        {
+                            buttoncsss11.Text = zhengyin;
+                        }
+                        if (dyss110 == xin)
+                        {
+                            buttoncsss11.Text = xiaoshen;
+                        }
+                        if (dyss110 == ren)
+                        {
+                            buttoncsss11.Text = jiecai;
+                        }
+                        if (dyss110 == gui)
+                        {
+                            buttoncsss11.Text = bijian;
+                        }
+                    }
+
+                    if (rtg == jia)
+                    {
+                        if (dyss120 == jia)
+                        {
+                            buttoncsss12.Text = bijian;
+                        }
+                        if (dyss120 == yii)
+                        {
+                            buttoncsss12.Text = jiecai;
+                        }
+                        if (dyss120 == bing)
+                        {
+                            buttoncsss12.Text = shishen;
+                        }
+                        if (dyss120 == ding)
+                        {
+                            buttoncsss12.Text = shangguan;
+                        }
+                        if (dyss120 == wuu)
+                        {
+                            buttoncsss12.Text = piancai;
+                        }
+                        if (dyss120 == jii)
+                        {
+                            buttoncsss12.Text = zhengcai;
+                        }
+                        if (dyss120 == geng)
+                        {
+                            buttoncsss12.Text = qisha;
+                        }
+                        if (dyss120 == xin)
+                        {
+                            buttoncsss12.Text = zhengguan;
+                        }
+                        if (dyss120 == ren)
+                        {
+                            buttoncsss12.Text = xiaoshen;
+                        }
+                        if (dyss120 == gui)
+                        {
+                            buttoncsss12.Text = zhengyin;
+                        }
+                    }
+                    if (rtg == yii)
+                    {
+                        if (dyss120 == jia)
+                        {
+                            buttoncsss12.Text = jiecai;
+                        }
+                        if (dyss120 == yii)
+                        {
+                            buttoncsss12.Text = bijian;
+                        }
+                        if (dyss120 == bing)
+                        {
+                            buttoncsss12.Text = shangguan;
+                        }
+                        if (dyss120 == ding)
+                        {
+                            buttoncsss12.Text = shishen;
+                        }
+                        if (dyss120 == wuu)
+                        {
+                            buttoncsss12.Text = zhengcai;
+                        }
+                        if (dyss120 == jii)
+                        {
+                            buttoncsss12.Text = piancai;
+                        }
+                        if (dyss120 == geng)
+                        {
+                            buttoncsss12.Text = zhengguan;
+                        }
+                        if (dyss120 == xin)
+                        {
+                            buttoncsss12.Text = qisha;
+                        }
+                        if (dyss120 == ren)
+                        {
+                            buttoncsss12.Text = zhengyin;
+                        }
+                        if (dyss120 == gui)
+                        {
+                            buttoncsss12.Text = xiaoshen;
+                        }
+
+                    }
+                    if (rtg == bing)
+                    {
+                        if (dyss120 == jia)
+                        {
+                            buttoncsss12.Text = xiaoshen;
+                        }
+                        if (dyss120 == yii)
+                        {
+                            buttoncsss12.Text = zhengyin;
+                        }
+                        if (dyss120 == bing)
+                        {
+                            buttoncsss12.Text = bijian;
+                        }
+                        if (dyss120 == ding)
+                        {
+                            buttoncsss12.Text = jiecai;
+                        }
+                        if (dyss120 == wuu)
+                        {
+                            buttoncsss12.Text = shishen;
+                        }
+                        if (dyss120 == jii)
+                        {
+                            buttoncsss12.Text = shangguan;
+                        }
+                        if (dyss120 == geng)
+                        {
+                            buttoncsss12.Text = piancai;
+                        }
+                        if (dyss120 == xin)
+                        {
+                            buttoncsss12.Text = zhengcai;
+                        }
+                        if (dyss120 == ren)
+                        {
+                            buttoncsss12.Text = qisha;
+                        }
+                        if (dyss120 == gui)
+                        {
+                            buttoncsss12.Text = zhengguan;
+                        }
+                    }
+                    if (rtg == ding)
+                    {
+                        if (dyss120 == jia)
+                        {
+                            buttoncsss12.Text = zhengyin;
+                        }
+                        if (dyss120 == yii)
+                        {
+                            buttoncsss12.Text = xiaoshen;
+                        }
+                        if (dyss120 == bing)
+                        {
+                            buttoncsss12.Text = jiecai;
+                        }
+                        if (dyss120 == ding)
+                        {
+                            buttoncsss12.Text = bijian;
+                        }
+                        if (dyss120 == wuu)
+                        {
+                            buttoncsss12.Text = shangguan;
+                        }
+                        if (dyss120 == jii)
+                        {
+                            buttoncsss12.Text = shishen;
+                        }
+                        if (dyss120 == geng)
+                        {
+                            buttoncsss12.Text = zhengcai;
+                        }
+                        if (dyss120 == xin)
+                        {
+                            buttoncsss12.Text = piancai;
+                        }
+                        if (dyss120 == ren)
+                        {
+                            buttoncsss12.Text = zhengguan;
+                        }
+                        if (dyss120 == gui)
+                        {
+                            buttoncsss12.Text = qisha;
+                        }
+                    }
+                    if (rtg == wuu)
+                    {
+                        if (dyss120 == jia)
+                        {
+                            buttoncsss12.Text = qisha;
+                        }
+                        if (dyss120 == yii)
+                        {
+                            buttoncsss12.Text = zhengguan;
+                        }
+                        if (dyss120 == bing)
+                        {
+                            buttoncsss12.Text = xiaoshen;
+                        }
+                        if (dyss120 == ding)
+                        {
+                            buttoncsss12.Text = zhengyin;
+                        }
+                        if (dyss120 == wuu)
+                        {
+                            buttoncsss12.Text = bijian;
+                        }
+                        if (dyss120 == jii)
+                        {
+                            buttoncsss12.Text = jiecai;
+                        }
+                        if (dyss120 == geng)
+                        {
+                            buttoncsss12.Text = shishen;
+                        }
+                        if (dyss120 == xin)
+                        {
+                            buttoncsss12.Text = shangguan;
+                        }
+                        if (dyss120 == ren)
+                        {
+                            buttoncsss12.Text = piancai;
+                        }
+                        if (dyss120 == gui)
+                        {
+                            buttoncsss12.Text = zhengcai;
+                        }
+                    }
+                    if (rtg == jii)
+                    {
+                        if (dyss120 == jia)
+                        {
+                            buttoncsss12.Text = zhengguan;
+                        }
+                        if (dyss120 == yii)
+                        {
+                            buttoncsss12.Text = qisha;
+                        }
+                        if (dyss120 == bing)
+                        {
+                            buttoncsss12.Text = zhengyin;
+                        }
+                        if (dyss120 == ding)
+                        {
+                            buttoncsss12.Text = xiaoshen;
+                        }
+                        if (dyss120 == wuu)
+                        {
+                            buttoncsss12.Text = jiecai;
+                        }
+                        if (dyss120 == jii)
+                        {
+                            buttoncsss12.Text = bijian;
+                        }
+                        if (dyss120 == geng)
+                        {
+                            buttoncsss12.Text = shangguan;
+                        }
+                        if (dyss120 == xin)
+                        {
+                            buttoncsss12.Text = shishen;
+                        }
+                        if (dyss120 == ren)
+                        {
+                            buttoncsss12.Text = zhengcai;
+                        }
+                        if (dyss120 == gui)
+                        {
+                            buttoncsss12.Text = piancai;
+                        }
+                    }
+                    if (rtg == geng)
+                    {
+                        if (dyss120 == jia)
+                        {
+                            buttoncsss12.Text = piancai;
+                        }
+                        if (dyss120 == yii)
+                        {
+                            buttoncsss12.Text = zhengcai;
+                        }
+                        if (dyss120 == bing)
+                        {
+                            buttoncsss12.Text = qisha;
+                        }
+                        if (dyss120 == ding)
+                        {
+                            buttoncsss12.Text = zhengguan;
+                        }
+                        if (dyss120 == wuu)
+                        {
+                            buttoncsss12.Text = xiaoshen;
+                        }
+                        if (dyss120 == jii)
+                        {
+                            buttoncsss12.Text = zhengyin;
+                        }
+                        if (dyss120 == geng)
+                        {
+                            buttoncsss12.Text = bijian;
+                        }
+                        if (dyss120 == xin)
+                        {
+                            buttoncsss12.Text = jiecai;
+                        }
+                        if (dyss120 == ren)
+                        {
+                            buttoncsss12.Text = shishen;
+                        }
+                        if (dyss120 == gui)
+                        {
+                            buttoncsss12.Text = shangguan;
+                        }
+                    }
+                    if (rtg == xin)
+                    {
+                        if (dyss120 == jia)
+                        {
+                            buttoncsss12.Text = zhengcai;
+                        }
+                        if (dyss120 == yii)
+                        {
+                            buttoncsss12.Text = piancai;
+                        }
+                        if (dyss120 == bing)
+                        {
+                            buttoncsss12.Text = zhengguan;
+                        }
+                        if (dyss120 == ding)
+                        {
+                            buttoncsss12.Text = qisha;
+                        }
+                        if (dyss120 == wuu)
+                        {
+                            buttoncsss12.Text = zhengyin;
+                        }
+                        if (dyss120 == jii)
+                        {
+                            buttoncsss12.Text = xiaoshen;
+                        }
+                        if (dyss120 == geng)
+                        {
+                            buttoncsss12.Text = jiecai;
+                        }
+                        if (dyss120 == xin)
+                        {
+                            buttoncsss12.Text = bijian;
+                        }
+                        if (dyss120 == ren)
+                        {
+                            buttoncsss12.Text = shangguan;
+                        }
+                        if (dyss120 == gui)
+                        {
+                            buttoncsss12.Text = shishen;
+                        }
+                    }
+                    if (rtg == ren)
+                    {
+                        if (dyss120 == jia)
+                        {
+                            buttoncsss12.Text = shishen;
+                        }
+                        if (dyss120 == yii)
+                        {
+                            buttoncsss12.Text = shangguan;
+                        }
+                        if (dyss120 == bing)
+                        {
+                            buttoncsss12.Text = piancai;
+                        }
+                        if (dyss120 == ding)
+                        {
+                            buttoncsss12.Text = zhengcai;
+                        }
+                        if (dyss120 == wuu)
+                        {
+                            buttoncsss12.Text = qisha;
+                        }
+                        if (dyss120 == jii)
+                        {
+                            buttoncsss12.Text = zhengguan;
+                        }
+                        if (dyss120 == geng)
+                        {
+                            buttoncsss12.Text = xiaoshen;
+                        }
+                        if (dyss120 == xin)
+                        {
+                            buttoncsss12.Text = zhengyin;
+                        }
+                        if (dyss120 == ren)
+                        {
+                            buttoncsss12.Text = bijian;
+                        }
+                        if (dyss120 == gui)
+                        {
+                            buttoncsss12.Text = jiecai;
+                        }
+                    }
+
+                    if (rtg == gui)
+                    {
+                        if (dyss120 == jia)
+                        {
+                            buttoncsss12.Text = shangguan;
+                        }
+                        if (dyss120 == yii)
+                        {
+                            buttoncsss12.Text = shishen;
+                        }
+                        if (dyss120 == bing)
+                        {
+                            buttoncsss12.Text = zhengcai;
+                        }
+                        if (dyss120 == ding)
+                        {
+                            buttoncsss12.Text = piancai;
+                        }
+                        if (dyss120 == wuu)
+                        {
+                            buttoncsss12.Text = zhengguan;
+                        }
+                        if (dyss120 == jii)
+                        {
+                            buttoncsss12.Text = qisha;
+                        }
+                        if (dyss120 == geng)
+                        {
+                            buttoncsss12.Text = zhengyin;
+                        }
+                        if (dyss120 == xin)
+                        {
+                            buttoncsss12.Text = xiaoshen;
+                        }
+                        if (dyss120 == ren)
+                        {
+                            buttoncsss12.Text = jiecai;
+                        }
+                        if (dyss120 == gui)
+                        {
+                            buttoncsss12.Text = bijian;
+                        }
+                    }
+
+
+
                     if (jia == jia)
                     {
 
@@ -8215,7 +14049,7 @@ namespace BaZiFuZuGongJu
                     }
                     if (jia == jia)
                     {
-                        if(buttoncs1.Text == diwang)
+                        if (buttoncs1.Text == diwang)
                         {
                             buttoncs1.ForeColor = Color.Red;
                         }
@@ -8794,8 +14628,8 @@ namespace BaZiFuZuGongJu
 
                     }
 
-
                 }
+
                 //十神判断
                 if (jia == jia)
                 {
@@ -60811,7 +66645,7 @@ namespace BaZiFuZuGongJu
                 button56.Focus(); button56_Click(this, new EventArgs());
                 wenben = 0;
                 richTextBox1.Location = new Point(0, 36); richTextBox1.Text = "";
-                richTextBox1.Height = 151; richTextBox1.Width = 1545;
+                richTextBox1.Height = 190; richTextBox1.Width = 558;
                 buttongj.Text = "关于软件";
 
             }
@@ -63882,6 +69716,15 @@ namespace BaZiFuZuGongJu
             buttoncs1.Visible = false; buttoncs2.Visible = false; buttoncs3.Visible = false; buttoncs4.Visible = false;
             buttoncs5.Visible = false; buttoncs6.Visible = false; buttoncs7.Visible = false; buttoncs8.Visible = false;
             buttoncs9.Visible = false; buttoncs10.Visible = false; buttoncs11.Visible = false; buttoncs12.Visible = false;
+            buttoncsss1.Visible = false; buttoncsss2.Visible = false; buttoncsss3.Visible = false; buttoncsss4.Visible = false;
+            buttoncsss5.Visible = false; buttoncsss6.Visible = false; buttoncsss7.Visible = false; buttoncsss8.Visible = false;
+            buttoncsss9.Visible = false; buttoncsss10.Visible = false; buttoncsss11.Visible = false; buttoncsss12.Visible = false;
+            buttoncstg1.Visible = false; buttoncstg2.Visible = false; buttoncstg3.Visible = false; buttoncstg4.Visible = false;
+            buttoncstg5.Visible = false; buttoncstg6.Visible = false; buttoncstg7.Visible = false; buttoncstg8.Visible = false;
+            buttoncstg9.Visible = false; buttoncstg10.Visible = false; buttoncstg11.Visible = false; buttoncstg12.Visible = false;
+            buttoncsdz1.Visible = false; buttoncsdz2.Visible = false; buttoncsdz3.Visible = false; buttoncsdz4.Visible = false;
+            buttoncsdz5.Visible = false; buttoncsdz6.Visible = false; buttoncsdz7.Visible = false; buttoncsdz8.Visible = false;
+            buttoncsdz9.Visible = false; buttoncsdz10.Visible = false; buttoncsdz11.Visible = false; buttoncsdz12.Visible = false;
         }
 
         private void button56_Click(object sender, EventArgs e)
@@ -63904,6 +69747,15 @@ namespace BaZiFuZuGongJu
             buttoncs1.Visible = true; buttoncs2.Visible = true; buttoncs3.Visible = true; buttoncs4.Visible = true;
             buttoncs5.Visible = true; buttoncs6.Visible = true; buttoncs7.Visible = true; buttoncs8.Visible = true;
             buttoncs9.Visible = true; buttoncs10.Visible = true; buttoncs11.Visible = true; buttoncs12.Visible = true;
+            buttoncsss1.Visible = true; buttoncsss2.Visible = true; buttoncsss3.Visible = true; buttoncsss4.Visible = true;
+            buttoncsss5.Visible = true; buttoncsss6.Visible = true; buttoncsss7.Visible = true; buttoncsss8.Visible = true;
+            buttoncsss9.Visible = true; buttoncsss10.Visible = true; buttoncsss11.Visible = true; buttoncsss12.Visible = true;
+            buttoncstg1.Visible = true; buttoncstg2.Visible = true; buttoncstg3.Visible = true; buttoncstg4.Visible = true;
+            buttoncstg5.Visible = true; buttoncstg6.Visible = true; buttoncstg7.Visible = true; buttoncstg8.Visible = true;
+            buttoncstg9.Visible = true; buttoncstg10.Visible = true; buttoncstg11.Visible = true; buttoncstg12.Visible = true;
+            buttoncsdz1.Visible = true; buttoncsdz2.Visible = true; buttoncsdz3.Visible = true; buttoncsdz4.Visible = true;
+            buttoncsdz5.Visible = true; buttoncsdz6.Visible = true; buttoncsdz7.Visible = true; buttoncsdz8.Visible = true;
+            buttoncsdz9.Visible = true; buttoncsdz10.Visible = true; buttoncsdz11.Visible = true; buttoncsdz12.Visible = true;
         }
 
         private void linkLabelxy_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)

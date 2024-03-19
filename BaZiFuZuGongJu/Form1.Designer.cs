@@ -217,6 +217,42 @@
             buttoncs12 = new Button();
             buttoncs11 = new Button();
             buttoncs9 = new Button();
+            buttoncsss10 = new Button();
+            buttoncsss12 = new Button();
+            buttoncsss11 = new Button();
+            buttoncsss9 = new Button();
+            buttoncsss6 = new Button();
+            buttoncsss8 = new Button();
+            buttoncsss7 = new Button();
+            buttoncsss5 = new Button();
+            buttoncsss2 = new Button();
+            buttoncsss4 = new Button();
+            buttoncsss3 = new Button();
+            buttoncsss1 = new Button();
+            buttoncstg10 = new Button();
+            buttoncstg12 = new Button();
+            buttoncstg11 = new Button();
+            buttoncstg9 = new Button();
+            buttoncstg6 = new Button();
+            buttoncstg8 = new Button();
+            buttoncstg7 = new Button();
+            buttoncstg5 = new Button();
+            buttoncstg2 = new Button();
+            buttoncstg4 = new Button();
+            buttoncstg3 = new Button();
+            buttoncstg1 = new Button();
+            buttoncsdz10 = new Button();
+            buttoncsdz12 = new Button();
+            buttoncsdz11 = new Button();
+            buttoncsdz9 = new Button();
+            buttoncsdz6 = new Button();
+            buttoncsdz8 = new Button();
+            buttoncsdz7 = new Button();
+            buttoncsdz5 = new Button();
+            buttoncsdz2 = new Button();
+            buttoncsdz4 = new Button();
+            buttoncsdz3 = new Button();
+            buttoncsdz1 = new Button();
             ((System.ComponentModel.ISupportInitialize)numericUpDownyear).BeginInit();
             ((System.ComponentModel.ISupportInitialize)numericUpDownmonth).BeginInit();
             ((System.ComponentModel.ISupportInitialize)numericUpDownday).BeginInit();
@@ -1479,7 +1515,7 @@
             richTextBox1.ForeColor = Color.GreenYellow;
             richTextBox1.Location = new Point(3, 39);
             richTextBox1.Name = "richTextBox1";
-            richTextBox1.Size = new Size(1545, 151);
+            richTextBox1.Size = new Size(558, 190);
             richTextBox1.TabIndex = 122;
             richTextBox1.Text = "";
             // 
@@ -2384,7 +2420,7 @@
             // buttoncs2
             // 
             buttoncs2.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncs2.Location = new Point(365, 196);
+            buttoncs2.Location = new Point(651, 193);
             buttoncs2.Name = "buttoncs2";
             buttoncs2.Size = new Size(75, 36);
             buttoncs2.TabIndex = 243;
@@ -2395,7 +2431,7 @@
             // buttoncs4
             // 
             buttoncs4.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncs4.Location = new Point(527, 196);
+            buttoncs4.Location = new Point(813, 193);
             buttoncs4.Name = "buttoncs4";
             buttoncs4.Size = new Size(75, 36);
             buttoncs4.TabIndex = 242;
@@ -2406,7 +2442,7 @@
             // buttoncs3
             // 
             buttoncs3.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncs3.Location = new Point(446, 196);
+            buttoncs3.Location = new Point(732, 193);
             buttoncs3.Name = "buttoncs3";
             buttoncs3.Size = new Size(75, 36);
             buttoncs3.TabIndex = 241;
@@ -2417,7 +2453,7 @@
             // buttoncs1
             // 
             buttoncs1.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncs1.Location = new Point(284, 196);
+            buttoncs1.Location = new Point(570, 193);
             buttoncs1.Name = "buttoncs1";
             buttoncs1.Size = new Size(75, 36);
             buttoncs1.TabIndex = 240;
@@ -2428,7 +2464,7 @@
             // buttoncs6
             // 
             buttoncs6.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncs6.Location = new Point(689, 196);
+            buttoncs6.Location = new Point(975, 193);
             buttoncs6.Name = "buttoncs6";
             buttoncs6.Size = new Size(75, 36);
             buttoncs6.TabIndex = 247;
@@ -2439,7 +2475,7 @@
             // buttoncs8
             // 
             buttoncs8.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncs8.Location = new Point(851, 196);
+            buttoncs8.Location = new Point(1137, 193);
             buttoncs8.Name = "buttoncs8";
             buttoncs8.Size = new Size(75, 36);
             buttoncs8.TabIndex = 246;
@@ -2450,7 +2486,7 @@
             // buttoncs7
             // 
             buttoncs7.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncs7.Location = new Point(770, 196);
+            buttoncs7.Location = new Point(1056, 193);
             buttoncs7.Name = "buttoncs7";
             buttoncs7.Size = new Size(75, 36);
             buttoncs7.TabIndex = 245;
@@ -2461,7 +2497,7 @@
             // buttoncs5
             // 
             buttoncs5.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncs5.Location = new Point(608, 196);
+            buttoncs5.Location = new Point(894, 193);
             buttoncs5.Name = "buttoncs5";
             buttoncs5.Size = new Size(75, 36);
             buttoncs5.TabIndex = 244;
@@ -2472,7 +2508,7 @@
             // buttoncs10
             // 
             buttoncs10.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncs10.Location = new Point(1013, 196);
+            buttoncs10.Location = new Point(1299, 193);
             buttoncs10.Name = "buttoncs10";
             buttoncs10.Size = new Size(75, 36);
             buttoncs10.TabIndex = 251;
@@ -2483,7 +2519,7 @@
             // buttoncs12
             // 
             buttoncs12.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncs12.Location = new Point(1175, 196);
+            buttoncs12.Location = new Point(1461, 193);
             buttoncs12.Name = "buttoncs12";
             buttoncs12.Size = new Size(75, 36);
             buttoncs12.TabIndex = 250;
@@ -2494,7 +2530,7 @@
             // buttoncs11
             // 
             buttoncs11.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncs11.Location = new Point(1094, 196);
+            buttoncs11.Location = new Point(1380, 193);
             buttoncs11.Name = "buttoncs11";
             buttoncs11.Size = new Size(75, 36);
             buttoncs11.TabIndex = 249;
@@ -2505,7 +2541,7 @@
             // buttoncs9
             // 
             buttoncs9.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
-            buttoncs9.Location = new Point(932, 196);
+            buttoncs9.Location = new Point(1218, 193);
             buttoncs9.Name = "buttoncs9";
             buttoncs9.Size = new Size(75, 36);
             buttoncs9.TabIndex = 248;
@@ -2513,11 +2549,407 @@
             buttoncs9.UseVisualStyleBackColor = true;
             buttoncs9.Click += buttoncs9_Click;
             // 
+            // buttoncsss10
+            // 
+            buttoncsss10.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncsss10.Location = new Point(1299, 67);
+            buttoncsss10.Name = "buttoncsss10";
+            buttoncsss10.Size = new Size(75, 36);
+            buttoncsss10.TabIndex = 263;
+            buttoncsss10.Text = "十神";
+            buttoncsss10.UseVisualStyleBackColor = true;
+            // 
+            // buttoncsss12
+            // 
+            buttoncsss12.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncsss12.Location = new Point(1461, 67);
+            buttoncsss12.Name = "buttoncsss12";
+            buttoncsss12.Size = new Size(75, 36);
+            buttoncsss12.TabIndex = 262;
+            buttoncsss12.Text = "十神";
+            buttoncsss12.UseVisualStyleBackColor = true;
+            // 
+            // buttoncsss11
+            // 
+            buttoncsss11.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncsss11.Location = new Point(1380, 67);
+            buttoncsss11.Name = "buttoncsss11";
+            buttoncsss11.Size = new Size(75, 36);
+            buttoncsss11.TabIndex = 261;
+            buttoncsss11.Text = "十神";
+            buttoncsss11.UseVisualStyleBackColor = true;
+            // 
+            // buttoncsss9
+            // 
+            buttoncsss9.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncsss9.Location = new Point(1218, 67);
+            buttoncsss9.Name = "buttoncsss9";
+            buttoncsss9.Size = new Size(75, 36);
+            buttoncsss9.TabIndex = 260;
+            buttoncsss9.Text = "十神";
+            buttoncsss9.UseVisualStyleBackColor = true;
+            // 
+            // buttoncsss6
+            // 
+            buttoncsss6.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncsss6.Location = new Point(975, 67);
+            buttoncsss6.Name = "buttoncsss6";
+            buttoncsss6.Size = new Size(75, 36);
+            buttoncsss6.TabIndex = 259;
+            buttoncsss6.Text = "十神";
+            buttoncsss6.UseVisualStyleBackColor = true;
+            // 
+            // buttoncsss8
+            // 
+            buttoncsss8.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncsss8.Location = new Point(1137, 67);
+            buttoncsss8.Name = "buttoncsss8";
+            buttoncsss8.Size = new Size(75, 36);
+            buttoncsss8.TabIndex = 258;
+            buttoncsss8.Text = "十神";
+            buttoncsss8.UseVisualStyleBackColor = true;
+            // 
+            // buttoncsss7
+            // 
+            buttoncsss7.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncsss7.Location = new Point(1056, 67);
+            buttoncsss7.Name = "buttoncsss7";
+            buttoncsss7.Size = new Size(75, 36);
+            buttoncsss7.TabIndex = 257;
+            buttoncsss7.Text = "十神";
+            buttoncsss7.UseVisualStyleBackColor = true;
+            // 
+            // buttoncsss5
+            // 
+            buttoncsss5.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncsss5.Location = new Point(894, 67);
+            buttoncsss5.Name = "buttoncsss5";
+            buttoncsss5.Size = new Size(75, 36);
+            buttoncsss5.TabIndex = 256;
+            buttoncsss5.Text = "十神";
+            buttoncsss5.UseVisualStyleBackColor = true;
+            // 
+            // buttoncsss2
+            // 
+            buttoncsss2.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncsss2.Location = new Point(651, 67);
+            buttoncsss2.Name = "buttoncsss2";
+            buttoncsss2.Size = new Size(75, 36);
+            buttoncsss2.TabIndex = 255;
+            buttoncsss2.Text = "十神";
+            buttoncsss2.UseVisualStyleBackColor = true;
+            // 
+            // buttoncsss4
+            // 
+            buttoncsss4.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncsss4.Location = new Point(813, 67);
+            buttoncsss4.Name = "buttoncsss4";
+            buttoncsss4.Size = new Size(75, 36);
+            buttoncsss4.TabIndex = 254;
+            buttoncsss4.Text = "十神";
+            buttoncsss4.UseVisualStyleBackColor = true;
+            // 
+            // buttoncsss3
+            // 
+            buttoncsss3.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncsss3.Location = new Point(732, 67);
+            buttoncsss3.Name = "buttoncsss3";
+            buttoncsss3.Size = new Size(75, 36);
+            buttoncsss3.TabIndex = 253;
+            buttoncsss3.Text = "十神";
+            buttoncsss3.UseVisualStyleBackColor = true;
+            // 
+            // buttoncsss1
+            // 
+            buttoncsss1.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncsss1.Location = new Point(570, 67);
+            buttoncsss1.Name = "buttoncsss1";
+            buttoncsss1.Size = new Size(75, 36);
+            buttoncsss1.TabIndex = 252;
+            buttoncsss1.Text = "十神";
+            buttoncsss1.UseVisualStyleBackColor = true;
+            // 
+            // buttoncstg10
+            // 
+            buttoncstg10.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncstg10.Location = new Point(1315, 109);
+            buttoncstg10.Name = "buttoncstg10";
+            buttoncstg10.Size = new Size(42, 36);
+            buttoncstg10.TabIndex = 275;
+            buttoncstg10.Text = "干";
+            buttoncstg10.UseVisualStyleBackColor = true;
+            // 
+            // buttoncstg12
+            // 
+            buttoncstg12.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncstg12.Location = new Point(1477, 109);
+            buttoncstg12.Name = "buttoncstg12";
+            buttoncstg12.Size = new Size(42, 36);
+            buttoncstg12.TabIndex = 274;
+            buttoncstg12.Text = "干";
+            buttoncstg12.UseVisualStyleBackColor = true;
+            // 
+            // buttoncstg11
+            // 
+            buttoncstg11.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncstg11.Location = new Point(1396, 109);
+            buttoncstg11.Name = "buttoncstg11";
+            buttoncstg11.Size = new Size(42, 36);
+            buttoncstg11.TabIndex = 273;
+            buttoncstg11.Text = "干";
+            buttoncstg11.UseVisualStyleBackColor = true;
+            // 
+            // buttoncstg9
+            // 
+            buttoncstg9.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncstg9.Location = new Point(1234, 109);
+            buttoncstg9.Name = "buttoncstg9";
+            buttoncstg9.Size = new Size(42, 36);
+            buttoncstg9.TabIndex = 272;
+            buttoncstg9.Text = "干";
+            buttoncstg9.UseVisualStyleBackColor = true;
+            // 
+            // buttoncstg6
+            // 
+            buttoncstg6.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncstg6.Location = new Point(991, 109);
+            buttoncstg6.Name = "buttoncstg6";
+            buttoncstg6.Size = new Size(42, 36);
+            buttoncstg6.TabIndex = 271;
+            buttoncstg6.Text = "干";
+            buttoncstg6.UseVisualStyleBackColor = true;
+            // 
+            // buttoncstg8
+            // 
+            buttoncstg8.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncstg8.Location = new Point(1153, 109);
+            buttoncstg8.Name = "buttoncstg8";
+            buttoncstg8.Size = new Size(42, 36);
+            buttoncstg8.TabIndex = 270;
+            buttoncstg8.Text = "干";
+            buttoncstg8.UseVisualStyleBackColor = true;
+            // 
+            // buttoncstg7
+            // 
+            buttoncstg7.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncstg7.Location = new Point(1072, 109);
+            buttoncstg7.Name = "buttoncstg7";
+            buttoncstg7.Size = new Size(42, 36);
+            buttoncstg7.TabIndex = 269;
+            buttoncstg7.Text = "干";
+            buttoncstg7.UseVisualStyleBackColor = true;
+            // 
+            // buttoncstg5
+            // 
+            buttoncstg5.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncstg5.Location = new Point(910, 109);
+            buttoncstg5.Name = "buttoncstg5";
+            buttoncstg5.Size = new Size(42, 36);
+            buttoncstg5.TabIndex = 268;
+            buttoncstg5.Text = "干";
+            buttoncstg5.UseVisualStyleBackColor = true;
+            // 
+            // buttoncstg2
+            // 
+            buttoncstg2.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncstg2.Location = new Point(667, 109);
+            buttoncstg2.Name = "buttoncstg2";
+            buttoncstg2.Size = new Size(42, 36);
+            buttoncstg2.TabIndex = 267;
+            buttoncstg2.Text = "干";
+            buttoncstg2.UseVisualStyleBackColor = true;
+            // 
+            // buttoncstg4
+            // 
+            buttoncstg4.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncstg4.Location = new Point(829, 109);
+            buttoncstg4.Name = "buttoncstg4";
+            buttoncstg4.Size = new Size(42, 36);
+            buttoncstg4.TabIndex = 266;
+            buttoncstg4.Text = "干";
+            buttoncstg4.UseVisualStyleBackColor = true;
+            // 
+            // buttoncstg3
+            // 
+            buttoncstg3.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncstg3.Location = new Point(748, 109);
+            buttoncstg3.Name = "buttoncstg3";
+            buttoncstg3.Size = new Size(42, 36);
+            buttoncstg3.TabIndex = 265;
+            buttoncstg3.Text = "干";
+            buttoncstg3.UseVisualStyleBackColor = true;
+            // 
+            // buttoncstg1
+            // 
+            buttoncstg1.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncstg1.Location = new Point(586, 109);
+            buttoncstg1.Name = "buttoncstg1";
+            buttoncstg1.Size = new Size(42, 36);
+            buttoncstg1.TabIndex = 264;
+            buttoncstg1.Text = "干";
+            buttoncstg1.UseVisualStyleBackColor = true;
+            // 
+            // buttoncsdz10
+            // 
+            buttoncsdz10.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncsdz10.Location = new Point(1315, 151);
+            buttoncsdz10.Name = "buttoncsdz10";
+            buttoncsdz10.Size = new Size(42, 36);
+            buttoncsdz10.TabIndex = 287;
+            buttoncsdz10.Text = "支";
+            buttoncsdz10.UseVisualStyleBackColor = true;
+            // 
+            // buttoncsdz12
+            // 
+            buttoncsdz12.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncsdz12.Location = new Point(1477, 151);
+            buttoncsdz12.Name = "buttoncsdz12";
+            buttoncsdz12.Size = new Size(42, 36);
+            buttoncsdz12.TabIndex = 286;
+            buttoncsdz12.Text = "支";
+            buttoncsdz12.UseVisualStyleBackColor = true;
+            // 
+            // buttoncsdz11
+            // 
+            buttoncsdz11.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncsdz11.Location = new Point(1396, 151);
+            buttoncsdz11.Name = "buttoncsdz11";
+            buttoncsdz11.Size = new Size(42, 36);
+            buttoncsdz11.TabIndex = 285;
+            buttoncsdz11.Text = "支";
+            buttoncsdz11.UseVisualStyleBackColor = true;
+            // 
+            // buttoncsdz9
+            // 
+            buttoncsdz9.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncsdz9.Location = new Point(1234, 151);
+            buttoncsdz9.Name = "buttoncsdz9";
+            buttoncsdz9.Size = new Size(42, 36);
+            buttoncsdz9.TabIndex = 284;
+            buttoncsdz9.Text = "支";
+            buttoncsdz9.UseVisualStyleBackColor = true;
+            // 
+            // buttoncsdz6
+            // 
+            buttoncsdz6.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncsdz6.Location = new Point(991, 151);
+            buttoncsdz6.Name = "buttoncsdz6";
+            buttoncsdz6.Size = new Size(42, 36);
+            buttoncsdz6.TabIndex = 283;
+            buttoncsdz6.Text = "支";
+            buttoncsdz6.UseVisualStyleBackColor = true;
+            // 
+            // buttoncsdz8
+            // 
+            buttoncsdz8.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncsdz8.Location = new Point(1153, 151);
+            buttoncsdz8.Name = "buttoncsdz8";
+            buttoncsdz8.Size = new Size(42, 36);
+            buttoncsdz8.TabIndex = 282;
+            buttoncsdz8.Text = "支";
+            buttoncsdz8.UseVisualStyleBackColor = true;
+            // 
+            // buttoncsdz7
+            // 
+            buttoncsdz7.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncsdz7.Location = new Point(1072, 151);
+            buttoncsdz7.Name = "buttoncsdz7";
+            buttoncsdz7.Size = new Size(42, 36);
+            buttoncsdz7.TabIndex = 281;
+            buttoncsdz7.Text = "支";
+            buttoncsdz7.UseVisualStyleBackColor = true;
+            // 
+            // buttoncsdz5
+            // 
+            buttoncsdz5.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncsdz5.Location = new Point(910, 151);
+            buttoncsdz5.Name = "buttoncsdz5";
+            buttoncsdz5.Size = new Size(42, 36);
+            buttoncsdz5.TabIndex = 280;
+            buttoncsdz5.Text = "支";
+            buttoncsdz5.UseVisualStyleBackColor = true;
+            // 
+            // buttoncsdz2
+            // 
+            buttoncsdz2.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncsdz2.Location = new Point(667, 151);
+            buttoncsdz2.Name = "buttoncsdz2";
+            buttoncsdz2.Size = new Size(42, 36);
+            buttoncsdz2.TabIndex = 279;
+            buttoncsdz2.Text = "支";
+            buttoncsdz2.UseVisualStyleBackColor = true;
+            // 
+            // buttoncsdz4
+            // 
+            buttoncsdz4.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncsdz4.Location = new Point(829, 151);
+            buttoncsdz4.Name = "buttoncsdz4";
+            buttoncsdz4.Size = new Size(42, 36);
+            buttoncsdz4.TabIndex = 278;
+            buttoncsdz4.Text = "支";
+            buttoncsdz4.UseVisualStyleBackColor = true;
+            // 
+            // buttoncsdz3
+            // 
+            buttoncsdz3.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncsdz3.Location = new Point(748, 151);
+            buttoncsdz3.Name = "buttoncsdz3";
+            buttoncsdz3.Size = new Size(42, 36);
+            buttoncsdz3.TabIndex = 277;
+            buttoncsdz3.Text = "支";
+            buttoncsdz3.UseVisualStyleBackColor = true;
+            // 
+            // buttoncsdz1
+            // 
+            buttoncsdz1.Font = new Font("微软雅黑", 18F, FontStyle.Bold);
+            buttoncsdz1.Location = new Point(586, 151);
+            buttoncsdz1.Name = "buttoncsdz1";
+            buttoncsdz1.Size = new Size(42, 36);
+            buttoncsdz1.TabIndex = 276;
+            buttoncsdz1.Text = "支";
+            buttoncsdz1.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             AutoScaleMode = AutoScaleMode.None;
             BackColor = Color.DimGray;
             ClientSize = new Size(1904, 1011);
+            Controls.Add(buttoncsdz10);
+            Controls.Add(buttoncsdz12);
+            Controls.Add(buttoncsdz11);
+            Controls.Add(buttoncsdz9);
+            Controls.Add(buttoncsdz6);
+            Controls.Add(buttoncsdz8);
+            Controls.Add(buttoncsdz7);
+            Controls.Add(buttoncsdz5);
+            Controls.Add(buttoncsdz2);
+            Controls.Add(buttoncsdz4);
+            Controls.Add(buttoncsdz3);
+            Controls.Add(buttoncsdz1);
+            Controls.Add(buttoncstg10);
+            Controls.Add(buttoncstg12);
+            Controls.Add(buttoncstg11);
+            Controls.Add(buttoncstg9);
+            Controls.Add(buttoncstg6);
+            Controls.Add(buttoncstg8);
+            Controls.Add(buttoncstg7);
+            Controls.Add(buttoncstg5);
+            Controls.Add(buttoncstg2);
+            Controls.Add(buttoncstg4);
+            Controls.Add(buttoncstg3);
+            Controls.Add(buttoncstg1);
+            Controls.Add(buttoncsss10);
+            Controls.Add(buttoncsss12);
+            Controls.Add(buttoncsss11);
+            Controls.Add(buttoncsss9);
+            Controls.Add(buttoncsss6);
+            Controls.Add(buttoncsss8);
+            Controls.Add(buttoncsss7);
+            Controls.Add(buttoncsss5);
+            Controls.Add(buttoncsss2);
+            Controls.Add(buttoncsss4);
+            Controls.Add(buttoncsss3);
+            Controls.Add(buttoncsss1);
             Controls.Add(buttoncs10);
             Controls.Add(buttoncs12);
             Controls.Add(buttoncs11);
@@ -2708,7 +3140,7 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "八字排盘工具v2024-03-18-杜净隆 作品";
+            Text = "八字排盘工具v2024-03-19-杜净隆 作品";
             WindowState = FormWindowState.Maximized;
             Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)numericUpDownyear).EndInit();
@@ -2908,5 +3340,41 @@
         private Button buttoncs12;
         private Button buttoncs11;
         private Button buttoncs9;
+        private Button buttoncsss10;
+        private Button buttoncsss12;
+        private Button buttoncsss11;
+        private Button buttoncsss9;
+        private Button buttoncsss6;
+        private Button buttoncsss8;
+        private Button buttoncsss7;
+        private Button buttoncsss5;
+        private Button buttoncsss2;
+        private Button buttoncsss4;
+        private Button buttoncsss3;
+        private Button buttoncsss1;
+        private Button buttoncstg10;
+        private Button buttoncstg12;
+        private Button buttoncstg11;
+        private Button buttoncstg9;
+        private Button buttoncstg6;
+        private Button buttoncstg8;
+        private Button buttoncstg7;
+        private Button buttoncstg5;
+        private Button buttoncstg2;
+        private Button buttoncstg4;
+        private Button buttoncstg3;
+        private Button buttoncstg1;
+        private Button buttoncsdz10;
+        private Button buttoncsdz12;
+        private Button buttoncsdz11;
+        private Button buttoncsdz9;
+        private Button buttoncsdz6;
+        private Button buttoncsdz8;
+        private Button buttoncsdz7;
+        private Button buttoncsdz5;
+        private Button buttoncsdz2;
+        private Button buttoncsdz4;
+        private Button buttoncsdz3;
+        private Button buttoncsdz1;
     }
 }

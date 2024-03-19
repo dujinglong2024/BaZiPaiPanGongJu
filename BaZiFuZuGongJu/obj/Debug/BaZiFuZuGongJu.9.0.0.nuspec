@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>BaZiFuZuGongJu</id>
+    <version>9.0.0</version>
+    <authors>$杜净隆</authors>
+    <icon>128X128.ico</icon>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows10.0.22621" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows10.0.22621">
+        <frameworkReference name="Microsoft.WindowsDesktop.App" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net8.0-windows10.0.22621/128X128.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="A:\Debug\net8.0-windows10.0.22621.0\BaZiFuZuGongJu.runtimeconfig.json" target="lib\net8.0-windows10.0.22621\BaZiFuZuGongJu.runtimeconfig.json" />
+    <file src="A:\Debug\net8.0-windows10.0.22621.0\BaZiFuZuGongJu.dll" target="lib\net8.0-windows10.0.22621\BaZiFuZuGongJu.dll" />
+    <file src="G:\File\BaZiFuZuGongJu\128X128.ico" target="content\128X128.ico" />
+    <file src="G:\File\BaZiFuZuGongJu\128X128.ico" target="contentFiles\any\net8.0-windows10.0.22621\128X128.ico" />
+    <file src="G:\File\BaZiFuZuGongJu\128X128.ico" target="\128X128.ico" />
+  </files>
+</package>
