@@ -4,8 +4,7 @@
 已知问题：只能在1920X1080分辨率下正常显示。
 
 
-![BaZiFuZuGongJu_LXe6UufT44](https://github.com/dujinglong2024/BaZiPaiPanGongJu/assets/156676561/692c3130-77ac-4e8a-ad3b-f10568e6d1f1)
-
+![BaZiFuZuGongJu_mkasLfq3Dh](https://github.com/dujinglong2024/BaZiPaiPanGongJu/assets/156676561/27e50e7d-f4eb-40d4-9ed5-258700298c87)
 
 
 
