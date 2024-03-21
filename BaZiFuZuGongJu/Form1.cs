@@ -14632,132 +14632,148 @@ namespace BaZiFuZuGongJu
                     {
                         if (buttoncsss1.Text == bijian || buttoncsss1.Text == jiecai || buttoncsss1.Text == zhengyin || buttoncsss1.Text == xiaoshen)
                         {
-                            buttoncsss1.ForeColor = Color.Black; bazipingfen -= 100;
+                            buttoncsss1.ForeColor = Color.Black; bazipingfen -= 100; richTextBox1.Text += "大运" + buttoncsss1.Text + "减-100，\r\n";
+
                         }
                         else
                         {
-                            buttoncsss1.ForeColor = Color.Red; bazipingfen += 100;
+                            buttoncsss1.ForeColor = Color.Red; bazipingfen += 100; richTextBox1.Text += "大运" + buttoncsss1.Text + "加+100，\r\n";
                         }
                     }
                     if (wangshuai < 50)
                     {
                         if (buttoncsss1.Text == bijian || buttoncsss1.Text == jiecai || buttoncsss1.Text == zhengyin || buttoncsss1.Text == xiaoshen)
                         {
-                            buttoncsss1.ForeColor = Color.Red; bazipingfen += 100;
+                            buttoncsss1.ForeColor = Color.Red; bazipingfen += 100; richTextBox1.Text += "大运" + buttoncsss1.Text + "加+100，\r\n";
                         }
                         else
                         {
-                            buttoncsss1.ForeColor = Color.Black; bazipingfen -= 100;
+                            buttoncsss1.ForeColor = Color.Black; bazipingfen -= 100; richTextBox1.Text += "大运" + buttoncsss1.Text + "减-100，\r\n";
+
                         }
                     }
                     if (wangshuai >= 50)
                     {
                         if (buttoncsss2.Text == bijian || buttoncsss2.Text == jiecai || buttoncsss2.Text == zhengyin || buttoncsss2.Text == xiaoshen)
                         {
-                            buttoncsss2.ForeColor = Color.Black; bazipingfen -= 100;
+                            buttoncsss2.ForeColor = Color.Black; bazipingfen -= 100; richTextBox1.Text += "大运" + buttoncsss2.Text + "减-100，\r\n";
+
                         }
                         else
                         {
-                            buttoncsss2.ForeColor = Color.Red; bazipingfen += 100;
+                            buttoncsss2.ForeColor = Color.Red; bazipingfen += 100; richTextBox1.Text += "大运" + buttoncsss2.Text + "加+100，\r\n";
+
                         }
                     }
                     if (wangshuai < 50)
                     {
                         if (buttoncsss2.Text == bijian || buttoncsss2.Text == jiecai || buttoncsss2.Text == zhengyin || buttoncsss2.Text == xiaoshen)
                         {
-                            buttoncsss2.ForeColor = Color.Red; bazipingfen += 100;
+                            buttoncsss2.ForeColor = Color.Red; bazipingfen += 100; richTextBox1.Text += "大运" + buttoncsss2.Text + "加+100，\r\n";
+
                         }
                         else
                         {
-                            buttoncsss2.ForeColor = Color.Black; bazipingfen -= 100;
+                            buttoncsss2.ForeColor = Color.Black; bazipingfen -= 100; richTextBox1.Text += "大运" + buttoncsss2.Text + "减-100，\r\n";
+
                         }
                     }
                     if (wangshuai >= 50)
                     {
                         if (buttoncsss3.Text == bijian || buttoncsss3.Text == jiecai || buttoncsss3.Text == zhengyin || buttoncsss3.Text == xiaoshen)
                         {
-                            buttoncsss3.ForeColor = Color.Black; bazipingfen -= 100;
+                            buttoncsss3.ForeColor = Color.Black; bazipingfen -= 100; richTextBox1.Text += "大运" + buttoncsss3.Text + "减-100，\r\n";
+
                         }
                         else
                         {
-                            buttoncsss3.ForeColor = Color.Red; bazipingfen += 100;
+                            buttoncsss3.ForeColor = Color.Red; bazipingfen += 100; richTextBox1.Text += "大运" + buttoncsss3.Text + "加+100，\r\n";
                         }
                     }
                     if (wangshuai < 50)
                     {
                         if (buttoncsss3.Text == bijian || buttoncsss3.Text == jiecai || buttoncsss3.Text == zhengyin || buttoncsss3.Text == xiaoshen)
                         {
-                            buttoncsss3.ForeColor = Color.Red; bazipingfen += 100;
+                            buttoncsss3.ForeColor = Color.Red; bazipingfen += 100; richTextBox1.Text += "大运" + buttoncsss3.Text + "加+100，\r\n";
                         }
                         else
                         {
-                            buttoncsss3.ForeColor = Color.Black; bazipingfen -= 100;
+                            buttoncsss3.ForeColor = Color.Black; bazipingfen -= 100; richTextBox1.Text += "大运" + buttoncsss3.Text + "减-100，\r\n";
+
                         }
                     }
                     if (wangshuai >= 50)
                     {
                         if (buttoncsss4.Text == bijian || buttoncsss4.Text == jiecai || buttoncsss4.Text == zhengyin || buttoncsss4.Text == xiaoshen)
                         {
-                            buttoncsss4.ForeColor = Color.Black; bazipingfen -= 100;
+                            buttoncsss4.ForeColor = Color.Black; bazipingfen -= 100; richTextBox1.Text += "大运" + buttoncsss4.Text + "减-100，\r\n";
+
                         }
                         else
                         {
-                            buttoncsss4.ForeColor = Color.Red; bazipingfen += 100;
+                            buttoncsss4.ForeColor = Color.Red; bazipingfen += 100; richTextBox1.Text += "大运" + buttoncsss4.Text + "加+100，\r\n";
                         }
                     }
                     if (wangshuai < 50)
                     {
                         if (buttoncsss4.Text == bijian || buttoncsss4.Text == jiecai || buttoncsss4.Text == zhengyin || buttoncsss4.Text == xiaoshen)
                         {
-                            buttoncsss4.ForeColor = Color.Red; bazipingfen += 100;
+                            buttoncsss4.ForeColor = Color.Red; bazipingfen += 100; richTextBox1.Text += "大运" + buttoncsss4.Text + "加+100，\r\n";
                         }
                         else
                         {
-                            buttoncsss4.ForeColor = Color.Black; bazipingfen -= 100;
+                            buttoncsss4.ForeColor = Color.Black; bazipingfen -= 100; richTextBox1.Text += "大运" + buttoncsss4.Text + "减-100，\r\n";
+
                         }
                     }
                     if (wangshuai >= 50)
                     {
                         if (buttoncsss5.Text == bijian || buttoncsss5.Text == jiecai || buttoncsss5.Text == zhengyin || buttoncsss5.Text == xiaoshen)
                         {
-                            buttoncsss5.ForeColor = Color.Black; bazipingfen -= 100;
+                            buttoncsss5.ForeColor = Color.Black; bazipingfen -= 100; richTextBox1.Text += "大运" + buttoncsss5.Text + "减-100，\r\n";
+
                         }
                         else
                         {
-                            buttoncsss5.ForeColor = Color.Red; bazipingfen += 100;
+                            buttoncsss5.ForeColor = Color.Red; bazipingfen += 100; richTextBox1.Text += "大运" + buttoncsss5.Text + "加+100，\r\n";
+
                         }
                     }
                     if (wangshuai < 50)
                     {
                         if (buttoncsss5.Text == bijian || buttoncsss5.Text == jiecai || buttoncsss5.Text == zhengyin || buttoncsss5.Text == xiaoshen)
                         {
-                            buttoncsss5.ForeColor = Color.Red; bazipingfen += 100;
+                            buttoncsss5.ForeColor = Color.Red; bazipingfen += 100; richTextBox1.Text += "大运" + buttoncsss5.Text + "加+100，\r\n";
+
                         }
                         else
                         {
-                            buttoncsss5.ForeColor = Color.Black; bazipingfen -= 100;
+                            buttoncsss5.ForeColor = Color.Black; bazipingfen -= 100; richTextBox1.Text += "大运" + buttoncsss5.Text + "减-100，\r\n";
+
                         }
                     }
                     if (wangshuai >= 50)
                     {
                         if (buttoncsss6.Text == bijian || buttoncsss6.Text == jiecai || buttoncsss6.Text == zhengyin || buttoncsss6.Text == xiaoshen)
                         {
-                            buttoncsss6.ForeColor = Color.Black; bazipingfen -= 100;
+                            buttoncsss6.ForeColor = Color.Black; bazipingfen -= 100; richTextBox1.Text += "大运" + buttoncsss6.Text + "减-100，\r\n";
+
                         }
                         else
                         {
-                            buttoncsss6.ForeColor = Color.Red; bazipingfen += 100;
+                            buttoncsss6.ForeColor = Color.Red; bazipingfen += 100; richTextBox1.Text += "大运" + buttoncsss6.Text + "加+100，\r\n";
                         }
                     }
                     if (wangshuai < 50)
                     {
                         if (buttoncsss6.Text == bijian || buttoncsss6.Text == jiecai || buttoncsss6.Text == zhengyin || buttoncsss6.Text == xiaoshen)
                         {
-                            buttoncsss6.ForeColor = Color.Red; bazipingfen += 100;
+                            buttoncsss6.ForeColor = Color.Red; bazipingfen += 100; richTextBox1.Text += "大运" + buttoncsss6.Text + "加+100，\r\n";
                         }
                         else
                         {
-                            buttoncsss6.ForeColor = Color.Black; bazipingfen -= 100;
+                            buttoncsss6.ForeColor = Color.Black; bazipingfen -= 100; richTextBox1.Text += "大运" + buttoncsss6.Text + "减-100，\r\n";
+
                         }
                     }
                     if (wangshuai >= 50)
@@ -53236,291 +53252,291 @@ namespace BaZiFuZuGongJu
                     {
                         if (buttoncs1.Text == diwang)
                         {
-                            bazipingfen += 300; richTextBox1.Text += diwang + "日干冲丙加+300，\r\n";
+                            bazipingfen += 300; richTextBox1.Text += diwang + "加+300，\r\n";
                         }
                         if (buttoncs1.Text == linguan)
                         {
-                            bazipingfen += 200; richTextBox1.Text += linguan + "日干冲丙加+200，\r\n";
+                            bazipingfen += 200; richTextBox1.Text += linguan + "加+200，\r\n";
                         }
                         if (buttoncs1.Text == guandai)
                         {
-                            bazipingfen += 150; richTextBox1.Text += guandai + "日干冲丙加+150，\r\n";
+                            bazipingfen += 150; richTextBox1.Text += guandai + "加+150，\r\n";
                         }
                         if (buttoncs1.Text == changsheng)
                         {
-                            bazipingfen += 100; richTextBox1.Text += changsheng + "日干冲丙加+100，\r\n";
+                            bazipingfen += 100; richTextBox1.Text += changsheng + "加+100，\r\n";
                         }
                         if (buttoncs1.Text == tai)
                         {
-                            bazipingfen += 90; richTextBox1.Text += tai + "日干冲丙加+90，\r\n";
+                            bazipingfen += 90; richTextBox1.Text += tai + "加+90，\r\n";
                         }
                         if (buttoncs1.Text == yang)
                         {
-                            bazipingfen += 90; richTextBox1.Text += yang + "日干冲丙加+90，\r\n";
+                            bazipingfen += 90; richTextBox1.Text += yang + "加+90，\r\n";
                         }
                         if (buttoncs1.Text == muyu)
                         {
-                            bazipingfen += 90; richTextBox1.Text += muyu + "日干冲丙加+90，\r\n";
+                            bazipingfen += 90; richTextBox1.Text += muyu + "加+90，\r\n";
                         }
                         if (buttoncs1.Text == shuai)
                         {
-                            bazipingfen -= 80; richTextBox1.Text += shuai + "日干冲丙减-80，\r\n";
+                            bazipingfen -= 80; richTextBox1.Text += shuai + "减-80，\r\n";
                         }
                         if (buttoncs1.Text == bingg)
                         {
-                            bazipingfen -= 100; richTextBox1.Text += bingg + "日干冲丙减-100，\r\n";
+                            bazipingfen -= 100; richTextBox1.Text += bingg + "减-100，\r\n";
                         }
                         if (buttoncs1.Text == ssii)
                         {
-                            bazipingfen -= 150; richTextBox1.Text += ssii + "日干冲丙减-150，\r\n";
+                            bazipingfen -= 150; richTextBox1.Text += ssii + "减-150，\r\n";
                         }
                         if (buttoncs1.Text == mmuu)
                         {
-                            bazipingfen -= 200; richTextBox1.Text += mmuu + "日干冲丙减-200，\r\n";
+                            bazipingfen -= 200; richTextBox1.Text += mmuu + "减-200，\r\n";
                         }
                         if (buttoncs1.Text == jue)
                         {
-                            bazipingfen -= 300; richTextBox1.Text += jue + "日干冲丙减-300，\r\n";
+                            bazipingfen -= 300; richTextBox1.Text += jue + "减-300，\r\n";
                         }
                         if (buttoncs2.Text == diwang)
                         {
-                            bazipingfen += 300; richTextBox1.Text += diwang + "日干冲丙加+300，\r\n";
+                            bazipingfen += 300; richTextBox1.Text += diwang + "加+300，\r\n";
                         }
                         if (buttoncs2.Text == linguan)
                         {
-                            bazipingfen += 200; richTextBox1.Text += linguan + "日干冲丙加+200，\r\n";
+                            bazipingfen += 200; richTextBox1.Text += linguan + "加+200，\r\n";
                         }
                         if (buttoncs2.Text == guandai)
                         {
-                            bazipingfen += 150; richTextBox1.Text += guandai + "日干冲丙加+150，\r\n";
+                            bazipingfen += 150; richTextBox1.Text += guandai + "加+150，\r\n";
                         }
                         if (buttoncs2.Text == changsheng)
                         {
-                            bazipingfen += 100; richTextBox1.Text += changsheng + "日干冲丙加+100，\r\n";
+                            bazipingfen += 100; richTextBox1.Text += changsheng + "加+100，\r\n";
                         }
                         if (buttoncs2.Text == tai)
                         {
-                            bazipingfen += 90; richTextBox1.Text += tai + "日干冲丙加+90，\r\n";
+                            bazipingfen += 90; richTextBox1.Text += tai + "加+90，\r\n";
                         }
                         if (buttoncs2.Text == yang)
                         {
-                            bazipingfen += 90; richTextBox1.Text += yang + "日干冲丙加+90，\r\n";
+                            bazipingfen += 90; richTextBox1.Text += yang + "加+90，\r\n";
                         }
                         if (buttoncs2.Text == muyu)
                         {
-                            bazipingfen += 90; richTextBox1.Text += muyu + "日干冲丙加+90，\r\n";
+                            bazipingfen += 90; richTextBox1.Text += muyu + "加+90，\r\n";
                         }
                         if (buttoncs2.Text == shuai)
                         {
-                            bazipingfen -= 80; richTextBox1.Text += shuai + "日干冲丙减-80，\r\n";
+                            bazipingfen -= 80; richTextBox1.Text += shuai + "减-80，\r\n";
                         }
                         if (buttoncs2.Text == bingg)
                         {
-                            bazipingfen -= 100; richTextBox1.Text += bingg + "日干冲丙减-100，\r\n";
+                            bazipingfen -= 100; richTextBox1.Text += bingg + "减-100，\r\n";
                         }
                         if (buttoncs2.Text == ssii)
                         {
-                            bazipingfen -= 150; richTextBox1.Text += ssii + "日干冲丙减-150，\r\n";
+                            bazipingfen -= 150; richTextBox1.Text += ssii + "减-150，\r\n";
                         }
                         if (buttoncs2.Text == mmuu)
                         {
-                            bazipingfen -= 200; richTextBox1.Text += mmuu + "日干冲丙减-200，\r\n";
+                            bazipingfen -= 200; richTextBox1.Text += mmuu + "减-200，\r\n";
                         }
                         if (buttoncs2.Text == jue)
                         {
-                            bazipingfen -= 300; richTextBox1.Text += jue + "日干冲丙减-300，\r\n";
+                            bazipingfen -= 300; richTextBox1.Text += jue + "减-300，\r\n";
                         }
                         if (buttoncs3.Text == diwang)
                         {
-                            bazipingfen += 300; richTextBox1.Text += diwang + "日干冲丙加+300，\r\n";
+                            bazipingfen += 300; richTextBox1.Text += diwang + "加+300，\r\n";
                         }
                         if (buttoncs3.Text == linguan)
                         {
-                            bazipingfen += 200; richTextBox1.Text += linguan + "日干冲丙加+200，\r\n";
+                            bazipingfen += 200; richTextBox1.Text += linguan + "加+200，\r\n";
                         }
                         if (buttoncs3.Text == guandai)
                         {
-                            bazipingfen += 150; richTextBox1.Text += guandai + "日干冲丙加+150，\r\n";
+                            bazipingfen += 150; richTextBox1.Text += guandai + "加+150，\r\n";
                         }
                         if (buttoncs3.Text == changsheng)
                         {
-                            bazipingfen += 100; richTextBox1.Text += changsheng + "日干冲丙加+100，\r\n";
+                            bazipingfen += 100; richTextBox1.Text += changsheng + "加+100，\r\n";
                         }
                         if (buttoncs3.Text == tai)
                         {
-                            bazipingfen += 90; richTextBox1.Text += tai + "日干冲丙加+90，\r\n";
+                            bazipingfen += 90; richTextBox1.Text += tai + "加+90，\r\n";
                         }
                         if (buttoncs3.Text == yang)
                         {
-                            bazipingfen += 90; richTextBox1.Text += yang + "日干冲丙加+90，\r\n";
+                            bazipingfen += 90; richTextBox1.Text += yang + "加+90，\r\n";
                         }
                         if (buttoncs3.Text == muyu)
                         {
-                            bazipingfen += 90; richTextBox1.Text += muyu + "日干冲丙加+90，\r\n";
+                            bazipingfen += 90; richTextBox1.Text += muyu + "加+90，\r\n";
                         }
                         if (buttoncs3.Text == shuai)
                         {
-                            bazipingfen -= 80; richTextBox1.Text += shuai + "日干冲丙减-80，\r\n";
+                            bazipingfen -= 80; richTextBox1.Text += shuai + "减-80，\r\n";
                         }
                         if (buttoncs3.Text == bingg)
                         {
-                            bazipingfen -= 100; richTextBox1.Text += bingg + "日干冲丙减-100，\r\n";
+                            bazipingfen -= 100; richTextBox1.Text += bingg + "减-100，\r\n";
                         }
                         if (buttoncs3.Text == ssii)
                         {
-                            bazipingfen -= 150; richTextBox1.Text += ssii + "日干冲丙减-150，\r\n";
+                            bazipingfen -= 150; richTextBox1.Text += ssii + "减-150，\r\n";
                         }
                         if (buttoncs3.Text == mmuu)
                         {
-                            bazipingfen -= 200; richTextBox1.Text += mmuu + "日干冲丙减-200，\r\n";
+                            bazipingfen -= 200; richTextBox1.Text += mmuu + "减-200，\r\n";
                         }
                         if (buttoncs3.Text == jue)
                         {
-                            bazipingfen -= 300; richTextBox1.Text += jue + "日干冲丙减-300，\r\n";
+                            bazipingfen -= 300; richTextBox1.Text += jue + "减-300，\r\n";
                         }
                         if (buttoncs4.Text == diwang)
                         {
-                            bazipingfen += 300; richTextBox1.Text += diwang + "日干冲丙加+300，\r\n";
+                            bazipingfen += 300; richTextBox1.Text += diwang + "加+300，\r\n";
                         }
                         if (buttoncs4.Text == linguan)
                         {
-                            bazipingfen += 200; richTextBox1.Text += linguan + "日干冲丙加+200，\r\n";
+                            bazipingfen += 200; richTextBox1.Text += linguan + "加+200，\r\n";
                         }
                         if (buttoncs4.Text == guandai)
                         {
-                            bazipingfen += 150; richTextBox1.Text += guandai + "日干冲丙加+150，\r\n";
+                            bazipingfen += 150; richTextBox1.Text += guandai + "加+150，\r\n";
                         }
                         if (buttoncs4.Text == changsheng)
                         {
-                            bazipingfen += 100; richTextBox1.Text += changsheng + "日干冲丙加+100，\r\n";
+                            bazipingfen += 100; richTextBox1.Text += changsheng + "加+100，\r\n";
                         }
                         if (buttoncs4.Text == tai)
                         {
-                            bazipingfen += 90; richTextBox1.Text += tai + "日干冲丙加+90，\r\n";
+                            bazipingfen += 90; richTextBox1.Text += tai + "加+90，\r\n";
                         }
                         if (buttoncs4.Text == yang)
                         {
-                            bazipingfen += 90; richTextBox1.Text += yang + "日干冲丙加+90，\r\n";
+                            bazipingfen += 90; richTextBox1.Text += yang + "加+90，\r\n";
                         }
                         if (buttoncs4.Text == muyu)
                         {
-                            bazipingfen += 90; richTextBox1.Text += muyu + "日干冲丙加+90，\r\n";
+                            bazipingfen += 90; richTextBox1.Text += muyu + "加+90，\r\n";
                         }
                         if (buttoncs4.Text == shuai)
                         {
-                            bazipingfen -= 80; richTextBox1.Text += shuai + "日干冲丙减-80，\r\n";
+                            bazipingfen -= 80; richTextBox1.Text += shuai + "减-80，\r\n";
                         }
                         if (buttoncs4.Text == bingg)
                         {
-                            bazipingfen -= 100; richTextBox1.Text += bingg + "日干冲丙减-100，\r\n";
+                            bazipingfen -= 100; richTextBox1.Text += bingg + "减-100，\r\n";
                         }
                         if (buttoncs4.Text == ssii)
                         {
-                            bazipingfen -= 150; richTextBox1.Text += ssii + "日干冲丙减-150，\r\n";
+                            bazipingfen -= 150; richTextBox1.Text += ssii + "减-150，\r\n";
                         }
                         if (buttoncs4.Text == mmuu)
                         {
-                            bazipingfen -= 200; richTextBox1.Text += mmuu + "日干冲丙减-200，\r\n";
+                            bazipingfen -= 200; richTextBox1.Text += mmuu + "减-200，\r\n";
                         }
                         if (buttoncs4.Text == jue)
                         {
-                            bazipingfen -= 300; richTextBox1.Text += jue + "日干冲丙减-300，\r\n";
+                            bazipingfen -= 300; richTextBox1.Text += jue + "减-300，\r\n";
                         }
                         if (buttoncs5.Text == diwang)
                         {
-                            bazipingfen += 300; richTextBox1.Text += diwang + "日干冲丙加+300，\r\n";
+                            bazipingfen += 300; richTextBox1.Text += diwang + "加+300，\r\n";
                         }
                         if (buttoncs5.Text == linguan)
                         {
-                            bazipingfen += 200; richTextBox1.Text += linguan + "日干冲丙加+200，\r\n";
+                            bazipingfen += 200; richTextBox1.Text += linguan + "加+200，\r\n";
                         }
                         if (buttoncs5.Text == guandai)
                         {
-                            bazipingfen += 150; richTextBox1.Text += guandai + "日干冲丙加+150，\r\n";
+                            bazipingfen += 150; richTextBox1.Text += guandai + "加+150，\r\n";
                         }
                         if (buttoncs5.Text == changsheng)
                         {
-                            bazipingfen += 100; richTextBox1.Text += changsheng + "日干冲丙加+100，\r\n";
+                            bazipingfen += 100; richTextBox1.Text += changsheng + "加+100，\r\n";
                         }
                         if (buttoncs5.Text == tai)
                         {
-                            bazipingfen += 90; richTextBox1.Text += tai + "日干冲丙加+90，\r\n";
+                            bazipingfen += 90; richTextBox1.Text += tai + "加+90，\r\n";
                         }
                         if (buttoncs5.Text == yang)
                         {
-                            bazipingfen += 90; richTextBox1.Text += yang + "日干冲丙加+90，\r\n";
+                            bazipingfen += 90; richTextBox1.Text += yang + "加+90，\r\n";
                         }
                         if (buttoncs5.Text == muyu)
                         {
-                            bazipingfen += 90; richTextBox1.Text += muyu + "日干冲丙加+90，\r\n";
+                            bazipingfen += 90; richTextBox1.Text += muyu + "加+90，\r\n";
                         }
                         if (buttoncs5.Text == shuai)
                         {
-                            bazipingfen -= 80; richTextBox1.Text += shuai + "日干冲丙减-80，\r\n";
+                            bazipingfen -= 80; richTextBox1.Text += shuai + "减-80，\r\n";
                         }
                         if (buttoncs5.Text == bingg)
                         {
-                            bazipingfen -= 100; richTextBox1.Text += bingg + "日干冲丙减-100，\r\n";
+                            bazipingfen -= 100; richTextBox1.Text += bingg + "减-100，\r\n";
                         }
                         if (buttoncs5.Text == ssii)
                         {
-                            bazipingfen -= 150; richTextBox1.Text += ssii + "日干冲丙减-150，\r\n";
+                            bazipingfen -= 150; richTextBox1.Text += ssii + "减-150，\r\n";
                         }
                         if (buttoncs5.Text == mmuu)
                         {
-                            bazipingfen -= 200; richTextBox1.Text += mmuu + "日干冲丙减-200，\r\n";
+                            bazipingfen -= 200; richTextBox1.Text += mmuu + "减-200，\r\n";
                         }
                         if (buttoncs5.Text == jue)
                         {
-                            bazipingfen -= 300; richTextBox1.Text += jue + "日干冲丙减-300，\r\n";
+                            bazipingfen -= 300; richTextBox1.Text += jue + "减-300，\r\n";
                         }
                         if (buttoncs6.Text == diwang)
                         {
-                            bazipingfen += 300; richTextBox1.Text += diwang + "日干冲丙加+300，\r\n";
+                            bazipingfen += 300; richTextBox1.Text += diwang + "加+300，\r\n";
                         }
                         if (buttoncs6.Text == linguan)
                         {
-                            bazipingfen += 200; richTextBox1.Text += linguan + "日干冲丙加+200，\r\n";
+                            bazipingfen += 200; richTextBox1.Text += linguan + "加+200，\r\n";
                         }
                         if (buttoncs6.Text == guandai)
                         {
-                            bazipingfen += 150; richTextBox1.Text += guandai + "日干冲丙加+150，\r\n";
+                            bazipingfen += 150; richTextBox1.Text += guandai + "加+150，\r\n";
                         }
                         if (buttoncs6.Text == changsheng)
                         {
-                            bazipingfen += 100; richTextBox1.Text += changsheng + "日干冲丙加+100，\r\n";
+                            bazipingfen += 100; richTextBox1.Text += changsheng + "加+100，\r\n";
                         }
                         if (buttoncs6.Text == tai)
                         {
-                            bazipingfen += 90; richTextBox1.Text += tai + "日干冲丙加+90，\r\n";
+                            bazipingfen += 90; richTextBox1.Text += tai + "加+90，\r\n";
                         }
                         if (buttoncs6.Text == yang)
                         {
-                            bazipingfen += 90; richTextBox1.Text += yang + "日干冲丙加+90，\r\n";
+                            bazipingfen += 90; richTextBox1.Text += yang + "加+90，\r\n";
                         }
                         if (buttoncs6.Text == muyu)
                         {
-                            bazipingfen += 90; richTextBox1.Text += muyu + "日干冲丙加+90，\r\n";
+                            bazipingfen += 90; richTextBox1.Text += muyu + "加+90，\r\n";
                         }
                         if (buttoncs6.Text == shuai)
                         {
-                            bazipingfen -= 80; richTextBox1.Text += shuai + "日干冲丙减-80，\r\n";
+                            bazipingfen -= 80; richTextBox1.Text += shuai + "减-80，\r\n";
                         }
                         if (buttoncs6.Text == bingg)
                         {
-                            bazipingfen -= 100; richTextBox1.Text += bingg + "日干冲丙减-100，\r\n";
+                            bazipingfen -= 100; richTextBox1.Text += bingg + "减-100，\r\n";
                         }
                         if (buttoncs6.Text == ssii)
                         {
-                            bazipingfen -= 150; richTextBox1.Text += ssii + "日干冲丙减-150，\r\n";
+                            bazipingfen -= 150; richTextBox1.Text += ssii + "减-150，\r\n";
                         }
                         if (buttoncs6.Text == mmuu)
                         {
-                            bazipingfen -= 200; richTextBox1.Text += mmuu + "日干冲丙减-200，\r\n";
+                            bazipingfen -= 200; richTextBox1.Text += mmuu + "减-200，\r\n";
                         }
                         if (buttoncs6.Text == jue)
                         {
-                            bazipingfen -= 300; richTextBox1.Text += jue + "日干冲丙减-300，\r\n";
+                            bazipingfen -= 300; richTextBox1.Text += jue + "减-300，\r\n";
                         }
 
                     }
