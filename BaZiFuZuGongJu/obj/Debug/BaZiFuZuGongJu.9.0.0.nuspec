@@ -22,8 +22,8 @@
   <files>
     <file src="A:\Debug\net8.0-windows10.0.22621.0\BaZiFuZuGongJu.runtimeconfig.json" target="lib\net8.0-windows10.0.22621\BaZiFuZuGongJu.runtimeconfig.json" />
     <file src="A:\Debug\net8.0-windows10.0.22621.0\BaZiFuZuGongJu.dll" target="lib\net8.0-windows10.0.22621\BaZiFuZuGongJu.dll" />
-    <file src="G:\File\BaZiFuZuGongJu\128X128.ico" target="content\128X128.ico" />
-    <file src="G:\File\BaZiFuZuGongJu\128X128.ico" target="contentFiles\any\net8.0-windows10.0.22621\128X128.ico" />
-    <file src="G:\File\BaZiFuZuGongJu\128X128.ico" target="\128X128.ico" />
+    <file src="H:\File\BaZiFuZuGongJu\128X128.ico" target="content\128X128.ico" />
+    <file src="H:\File\BaZiFuZuGongJu\128X128.ico" target="contentFiles\any\net8.0-windows10.0.22621\128X128.ico" />
+    <file src="H:\File\BaZiFuZuGongJu\128X128.ico" target="\128X128.ico" />
   </files>
 </package>

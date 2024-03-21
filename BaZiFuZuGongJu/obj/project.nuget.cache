@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R+bDoRXfJSk4B6plKqSru353deDImMKJTR+hKCqeO5yBxBD4tOfpUIvLsD53Mshzl/nr0KwcdJkmVD+srhZIew==",
+  "dgSpecHash": "ajs9+3ScF+TAgvH20VvtvPAcqz1buOztjF4xLGYEZZAV3FXr7B7SQm0d5CVQ/7JNEFFysu1va6pu1S+UMYpepw==",
   "success": true,
-  "projectFilePath": "G:\\File\\BaZiFuZuGongJu\\BaZiFuZuGongJu.csproj",
+  "projectFilePath": "H:\\File\\BaZiFuZuGongJu\\BaZiFuZuGongJu.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.31\\microsoft.windows.sdk.net.ref.10.0.22621.31.nupkg.sha512"
   ],

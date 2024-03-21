@@ -13,11 +13,11 @@
   "project": {
     "version": "9.0.0",
     "restore": {
-      "projectUniqueName": "G:\\File\\BaZiFuZuGongJu\\BaZiFuZuGongJu.csproj",
+      "projectUniqueName": "H:\\File\\BaZiFuZuGongJu\\BaZiFuZuGongJu.csproj",
       "projectName": "BaZiFuZuGongJu",
-      "projectPath": "G:\\File\\BaZiFuZuGongJu\\BaZiFuZuGongJu.csproj",
+      "projectPath": "H:\\File\\BaZiFuZuGongJu\\BaZiFuZuGongJu.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "G:\\File\\BaZiFuZuGongJu\\obj\\",
+      "outputPath": "H:\\File\\BaZiFuZuGongJu\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

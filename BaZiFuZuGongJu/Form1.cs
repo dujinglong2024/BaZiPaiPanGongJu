@@ -14628,6 +14628,295 @@ namespace BaZiFuZuGongJu
 
                     }
 
+                    if (wangshuai >= 50)
+                    {
+                        if (buttoncsss1.Text == bijian || buttoncsss1.Text == jiecai || buttoncsss1.Text == zhengyin || buttoncsss1.Text == xiaoshen)
+                        {
+                            buttoncsss1.ForeColor = Color.Black; bazipingfen -= 100;
+                        }
+                        else
+                        {
+                            buttoncsss1.ForeColor = Color.Red; bazipingfen += 100;
+                        }
+                    }
+                    if (wangshuai < 50)
+                    {
+                        if (buttoncsss1.Text == bijian || buttoncsss1.Text == jiecai || buttoncsss1.Text == zhengyin || buttoncsss1.Text == xiaoshen)
+                        {
+                            buttoncsss1.ForeColor = Color.Red; bazipingfen += 100;
+                        }
+                        else
+                        {
+                            buttoncsss1.ForeColor = Color.Black; bazipingfen -= 100;
+                        }
+                    }
+                    if (wangshuai >= 50)
+                    {
+                        if (buttoncsss2.Text == bijian || buttoncsss2.Text == jiecai || buttoncsss2.Text == zhengyin || buttoncsss2.Text == xiaoshen)
+                        {
+                            buttoncsss2.ForeColor = Color.Black; bazipingfen -= 100;
+                        }
+                        else
+                        {
+                            buttoncsss2.ForeColor = Color.Red; bazipingfen += 100;
+                        }
+                    }
+                    if (wangshuai < 50)
+                    {
+                        if (buttoncsss2.Text == bijian || buttoncsss2.Text == jiecai || buttoncsss2.Text == zhengyin || buttoncsss2.Text == xiaoshen)
+                        {
+                            buttoncsss2.ForeColor = Color.Red; bazipingfen += 100;
+                        }
+                        else
+                        {
+                            buttoncsss2.ForeColor = Color.Black; bazipingfen -= 100;
+                        }
+                    }
+                    if (wangshuai >= 50)
+                    {
+                        if (buttoncsss3.Text == bijian || buttoncsss3.Text == jiecai || buttoncsss3.Text == zhengyin || buttoncsss3.Text == xiaoshen)
+                        {
+                            buttoncsss3.ForeColor = Color.Black; bazipingfen -= 100;
+                        }
+                        else
+                        {
+                            buttoncsss3.ForeColor = Color.Red; bazipingfen += 100;
+                        }
+                    }
+                    if (wangshuai < 50)
+                    {
+                        if (buttoncsss3.Text == bijian || buttoncsss3.Text == jiecai || buttoncsss3.Text == zhengyin || buttoncsss3.Text == xiaoshen)
+                        {
+                            buttoncsss3.ForeColor = Color.Red; bazipingfen += 100;
+                        }
+                        else
+                        {
+                            buttoncsss3.ForeColor = Color.Black; bazipingfen -= 100;
+                        }
+                    }
+                    if (wangshuai >= 50)
+                    {
+                        if (buttoncsss4.Text == bijian || buttoncsss4.Text == jiecai || buttoncsss4.Text == zhengyin || buttoncsss4.Text == xiaoshen)
+                        {
+                            buttoncsss4.ForeColor = Color.Black; bazipingfen -= 100;
+                        }
+                        else
+                        {
+                            buttoncsss4.ForeColor = Color.Red; bazipingfen += 100;
+                        }
+                    }
+                    if (wangshuai < 50)
+                    {
+                        if (buttoncsss4.Text == bijian || buttoncsss4.Text == jiecai || buttoncsss4.Text == zhengyin || buttoncsss4.Text == xiaoshen)
+                        {
+                            buttoncsss4.ForeColor = Color.Red; bazipingfen += 100;
+                        }
+                        else
+                        {
+                            buttoncsss4.ForeColor = Color.Black; bazipingfen -= 100;
+                        }
+                    }
+                    if (wangshuai >= 50)
+                    {
+                        if (buttoncsss5.Text == bijian || buttoncsss5.Text == jiecai || buttoncsss5.Text == zhengyin || buttoncsss5.Text == xiaoshen)
+                        {
+                            buttoncsss5.ForeColor = Color.Black; bazipingfen -= 100;
+                        }
+                        else
+                        {
+                            buttoncsss5.ForeColor = Color.Red; bazipingfen += 100;
+                        }
+                    }
+                    if (wangshuai < 50)
+                    {
+                        if (buttoncsss5.Text == bijian || buttoncsss5.Text == jiecai || buttoncsss5.Text == zhengyin || buttoncsss5.Text == xiaoshen)
+                        {
+                            buttoncsss5.ForeColor = Color.Red; bazipingfen += 100;
+                        }
+                        else
+                        {
+                            buttoncsss5.ForeColor = Color.Black; bazipingfen -= 100;
+                        }
+                    }
+                    if (wangshuai >= 50)
+                    {
+                        if (buttoncsss6.Text == bijian || buttoncsss6.Text == jiecai || buttoncsss6.Text == zhengyin || buttoncsss6.Text == xiaoshen)
+                        {
+                            buttoncsss6.ForeColor = Color.Black; bazipingfen -= 100;
+                        }
+                        else
+                        {
+                            buttoncsss6.ForeColor = Color.Red; bazipingfen += 100;
+                        }
+                    }
+                    if (wangshuai < 50)
+                    {
+                        if (buttoncsss6.Text == bijian || buttoncsss6.Text == jiecai || buttoncsss6.Text == zhengyin || buttoncsss6.Text == xiaoshen)
+                        {
+                            buttoncsss6.ForeColor = Color.Red; bazipingfen += 100;
+                        }
+                        else
+                        {
+                            buttoncsss6.ForeColor = Color.Black; bazipingfen -= 100;
+                        }
+                    }
+                    if (wangshuai >= 50)
+                    {
+                        if (buttoncsss7.Text == bijian || buttoncsss7.Text == jiecai || buttoncsss7.Text == zhengyin || buttoncsss7.Text == xiaoshen)
+                        {
+                            buttoncsss7.ForeColor = Color.Black;
+                        }
+                        else
+                        {
+                            buttoncsss7.ForeColor = Color.Red;
+                        }
+                    }
+                    if (wangshuai < 50)
+                    {
+                        if (buttoncsss7.Text == bijian || buttoncsss7.Text == jiecai || buttoncsss7.Text == zhengyin || buttoncsss7.Text == xiaoshen)
+                        {
+                            buttoncsss7.ForeColor = Color.Red;
+                        }
+                        else
+                        {
+                            buttoncsss7.ForeColor = Color.Black;
+                        }
+                    }
+                    if (wangshuai >= 50)
+                    {
+                        if (buttoncsss8.Text == bijian || buttoncsss8.Text == jiecai || buttoncsss8.Text == zhengyin || buttoncsss8.Text == xiaoshen)
+                        {
+                            buttoncsss8.ForeColor = Color.Black;
+                        }
+                        else
+                        {
+                            buttoncsss8.ForeColor = Color.Red;
+                        }
+                    }
+                    if (wangshuai < 50)
+                    {
+                        if (buttoncsss8.Text == bijian || buttoncsss8.Text == jiecai || buttoncsss8.Text == zhengyin || buttoncsss8.Text == xiaoshen)
+                        {
+                            buttoncsss8.ForeColor = Color.Red;
+                        }
+                        else
+                        {
+                            buttoncsss8.ForeColor = Color.Black;
+                        }
+                    }
+                    if (wangshuai >= 50)
+                    {
+                        if (buttoncsss9.Text == bijian || buttoncsss9.Text == jiecai || buttoncsss9.Text == zhengyin || buttoncsss9.Text == xiaoshen)
+                        {
+                            buttoncsss9.ForeColor = Color.Black;
+                        }
+                        else
+                        {
+                            buttoncsss9.ForeColor = Color.Red;
+                        }
+                    }
+                    if (wangshuai < 50)
+                    {
+                        if (buttoncsss9.Text == bijian || buttoncsss9.Text == jiecai || buttoncsss9.Text == zhengyin || buttoncsss9.Text == xiaoshen)
+                        {
+                            buttoncsss9.ForeColor = Color.Red;
+                        }
+                        else
+                        {
+                            buttoncsss9.ForeColor = Color.Black;
+                        }
+                    }
+                    if (wangshuai >= 50)
+                    {
+                        if (buttoncsss10.Text == bijian || buttoncsss10.Text == jiecai || buttoncsss10.Text == zhengyin || buttoncsss10.Text == xiaoshen)
+                        {
+                            buttoncsss10.ForeColor = Color.Black;
+                        }
+                        else
+                        {
+                            buttoncsss10.ForeColor = Color.Red;
+                        }
+                    }
+                    if (wangshuai < 50)
+                    {
+                        if (buttoncsss10.Text == bijian || buttoncsss10.Text == jiecai || buttoncsss10.Text == zhengyin || buttoncsss10.Text == xiaoshen)
+                        {
+                            buttoncsss10.ForeColor = Color.Red;
+                        }
+                        else
+                        {
+                            buttoncsss10.ForeColor = Color.Black;
+                        }
+                    }
+                    if (wangshuai >= 50)
+                    {
+                        if (buttoncsss11.Text == bijian || buttoncsss11.Text == jiecai || buttoncsss11.Text == zhengyin || buttoncsss11.Text == xiaoshen)
+                        {
+                            buttoncsss11.ForeColor = Color.Black;
+                        }
+                        else
+                        {
+                            buttoncsss11.ForeColor = Color.Red;
+                        }
+                    }
+                    if (wangshuai < 50)
+                    {
+                        if (buttoncsss11.Text == bijian || buttoncsss11.Text == jiecai || buttoncsss11.Text == zhengyin || buttoncsss11.Text == xiaoshen)
+                        {
+                            buttoncsss11.ForeColor = Color.Red;
+                        }
+                        else
+                        {
+                            buttoncsss11.ForeColor = Color.Black;
+                        }
+                    }
+                    if (wangshuai >= 50)
+                    {
+                        if (buttoncsss12.Text == bijian || buttoncsss12.Text == jiecai || buttoncsss12.Text == zhengyin || buttoncsss12.Text == xiaoshen)
+                        {
+                            buttoncsss12.ForeColor = Color.Black;
+                        }
+                        else
+                        {
+                            buttoncsss12.ForeColor = Color.Red;
+                        }
+                    }
+                    if (wangshuai < 50)
+                    {
+                        if (buttoncsss12.Text == bijian || buttoncsss12.Text == jiecai || buttoncsss12.Text == zhengyin || buttoncsss12.Text == xiaoshen)
+                        {
+                            buttoncsss12.ForeColor = Color.Red;
+                        }
+                        else
+                        {
+                            buttoncsss12.ForeColor = Color.Black;
+                        }
+                    }
+                    buttoncstg1.ForeColor = buttoncsss1.ForeColor;
+                    buttoncstg2.ForeColor = buttoncsss2.ForeColor;
+                    buttoncstg3.ForeColor = buttoncsss3.ForeColor;
+                    buttoncstg4.ForeColor = buttoncsss4.ForeColor;
+                    buttoncstg5.ForeColor = buttoncsss5.ForeColor;
+                    buttoncstg6.ForeColor = buttoncsss6.ForeColor;
+                    buttoncstg7.ForeColor = buttoncsss7.ForeColor;
+                    buttoncstg8.ForeColor = buttoncsss8.ForeColor;
+                    buttoncstg9.ForeColor = buttoncsss9.ForeColor;
+                    buttoncstg10.ForeColor = buttoncsss10.ForeColor;
+                    buttoncstg11.ForeColor = buttoncsss11.ForeColor;
+                    buttoncstg12.ForeColor = buttoncsss12.ForeColor;
+                    buttoncsdz1.ForeColor = buttoncs1.ForeColor;
+                    buttoncsdz2.ForeColor = buttoncs2.ForeColor;
+                    buttoncsdz3.ForeColor = buttoncs3.ForeColor;
+                    buttoncsdz4.ForeColor = buttoncs4.ForeColor;
+                    buttoncsdz5.ForeColor = buttoncs5.ForeColor;
+                    buttoncsdz6.ForeColor = buttoncs6.ForeColor;
+                    buttoncsdz7.ForeColor = buttoncs7.ForeColor;
+                    buttoncsdz8.ForeColor = buttoncs8.ForeColor;
+                    buttoncsdz9.ForeColor = buttoncs9.ForeColor;
+                    buttoncsdz10.ForeColor = buttoncs10.ForeColor;
+                    buttoncsdz11.ForeColor = buttoncs11.ForeColor;
+                    buttoncsdz12.ForeColor = buttoncs12.ForeColor;
+
                 }
 
                 //十神判断
