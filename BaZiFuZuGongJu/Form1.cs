@@ -979,9 +979,13 @@ namespace BaZiFuZuGongJu
                         {
                             wangshuai += 40;
                         }
-                        if (ydz == zii || ydz == you)
+                        if (ydz == zii)
                         {
-                            wangshuai += 50;
+                            wangshuai += 80;
+                        }
+                        if (ydz == you)
+                        {
+                            wangshuai += 60;
                         }
                         if (rdz == hai || rdz == zii || rdz == shen || rdz == you)
                         {
@@ -1019,13 +1023,17 @@ namespace BaZiFuZuGongJu
                         {
                             wangshuai += 8;
                         }
-                        if (ydz == yin)
+                        if (ydz == yin || ydz == hai)
                         {
                             wangshuai += 40;
                         }
-                        if (ydz == mao || ydz == zii || ydz == hai)
+                        if (ydz == mao)
                         {
-                            wangshuai += 50;
+                            wangshuai += 80;
+                        }
+                        if (ydz == zii)
+                        {
+                            wangshuai += 60;
                         }
                         if (rdz == yin || rdz == mao || rdz == hai || rdz == zii)
                         {
@@ -1063,13 +1071,17 @@ namespace BaZiFuZuGongJu
                         {
                             wangshuai += 8;
                         }
-                        if (ydz == sii || ydz == wuma)
+                        if (ydz == sii || ydz == yin)
                         {
                             wangshuai += 40;
                         }
-                        if (ydz == mao || ydz == yin)
+                        if (ydz == wuma)
                         {
-                            wangshuai += 50;
+                            wangshuai += 80;
+                        }
+                        if (ydz == mao)
+                        {
+                            wangshuai += 60;
                         }
                         if (rdz == sii || rdz == wuma || rdz == yin || rdz == mao)
                         {
@@ -1113,7 +1125,7 @@ namespace BaZiFuZuGongJu
                         }
                         if (ydz == you)
                         {
-                            wangshuai += 50;
+                            wangshuai += 70;
                         }
                         if (rdz == shen || rdz == you || rdz == chen || rdz == wei || rdz == xuu || rdz == chou)
                         {
@@ -1157,7 +1169,7 @@ namespace BaZiFuZuGongJu
                         }
                         if (ydz == wuma)
                         {
-                            wangshuai += 50;
+                            wangshuai += 60;
                         }
                         if (rdz == chen || rdz == wei || rdz == xuu || rdz == chou || rdz == sii || rdz == wuma)
                         {
@@ -34434,7 +34446,7 @@ namespace BaZiFuZuGongJu
                     }
                     if (ydz == you)
                     {
-                        wxjin += 5;
+                        wxjin += 7;
                     }
                     if (ydz == sii)
                     {
@@ -34442,7 +34454,7 @@ namespace BaZiFuZuGongJu
                     }
                     if (ydz == wuma)
                     {
-                        wxhuo += 5; wxtu += 2.4;
+                        wxhuo += 6; wxtu += 2.4;
                     }
                     if (ydz == hai)
                     {
@@ -34450,11 +34462,11 @@ namespace BaZiFuZuGongJu
                     }
                     if (ydz == zii)
                     {
-                        wxshui += 5;
+                        wxshui += 8;
                     }
                     if (ydz == mao)
                     {
-                        wxmu += 5;
+                        wxmu += 7;
                     }
                     if (rdz == chen)
                     {
