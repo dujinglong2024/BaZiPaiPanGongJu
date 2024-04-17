@@ -11,7 +11,7 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("$杜净隆")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("$AAA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("9.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("9")]

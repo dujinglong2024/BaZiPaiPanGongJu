@@ -6,7 +6,7 @@
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
     <BaseOutputPath>A:\</BaseOutputPath>
-    <Authors>$杜净隆</Authors>
+    <Authors>$AAA</Authors>
     <PackageId></PackageId>
     <Version>$(VersionPrefix)9</Version>
     <PackageIcon>128X128.ico</PackageIcon>
